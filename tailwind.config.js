@@ -7,30 +7,33 @@ export default {
   theme: {
     extend: {
       fontFamily: {
+        sans: ['"Inter"', 'system-ui', '-apple-system', 'sans-serif'],
+        mono: ['"JetBrains Mono"', 'monospace'],
         pixel: ['"Silkscreen"', '"Press Start 2P"', 'monospace'],
-        sans: ['system-ui', '-apple-system', 'sans-serif'],
       },
       colors: {
-        ocean: {
-          900: '#07162c',
-          800: '#0d284f',
-          700: '#144177',
-          600: '#1e5da6',
-          500: '#2b7cd3',
-          400: '#4da0f0',
+        studio: {
+          darkest: '#0b0d10',
+          dark: '#12151a',
+          card: '#181c22',
+          border: '#2a313d',
+          muted: '#8b949e',
         },
-        haven: {
-          dark: '#181425',
-          panel: '#262b44',
-          border: '#3a4466',
-          gold: '#fbb954',
-          wood: '#63381a',
-          leaf: '#3e8948',
+        catch: {
+          yellow: '#facc15',
+          gold: '#eab308',
+          light: '#fef08a',
+          dark: '#ca8a04',
+        },
+        emerald: {
+          accent: '#10b981',
+          dark: '#047857',
         }
       },
       boxShadow: {
-        'pixel': '3px 3px 0px 0px rgba(0,0,0,0.8)',
-        'pixel-lg': '5px 5px 0px 0px rgba(0,0,0,0.85)',
+        'glow-yellow': '0 0 15px rgba(250, 204, 21, 0.35)',
+        'glow-cyan': '0 0 15px rgba(6, 182, 212, 0.35)',
+        'modal': '0 20px 40px -15px rgba(0, 0, 0, 0.7)',
       }
     },
   },
