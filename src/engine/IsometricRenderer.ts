@@ -232,7 +232,7 @@ export class IsometricRenderer {
     ctx.fillStyle = '#ca8a04';
     ctx.fill();
 
-    // Black Digital Signage "01 ARISEBOT" on Pillar (Image 3)
+    // Black Digital Signage "01 ARISECITY" on Pillar (Image 3)
     const signPos = IsometricEngine.worldToIso(x + w + 1, y + 6, 25);
     ctx.save();
     ctx.fillStyle = '#0f172a';
@@ -243,7 +243,7 @@ export class IsometricRenderer {
     ctx.fillText('01', signPos.x - 7, signPos.y - 2);
     ctx.font = '600 4px "JetBrains Mono", monospace';
     ctx.fillStyle = '#ffffff';
-    ctx.fillText('STUDIO', signPos.x - 8, signPos.y + 6);
+    ctx.fillText('CITY', signPos.x - 6, signPos.y + 6);
     ctx.restore();
   }
 
@@ -640,7 +640,7 @@ export class IsometricRenderer {
     ctx.fillText('#BOXSPACES', brandPos.x, brandPos.y);
     ctx.font = '600 6px "JetBrains Mono", monospace';
     ctx.fillStyle = '#ffffff';
-    ctx.fillText('ARISEBOT HQ // MODULAR TECH CLUSTER', brandPos.x, brandPos.y + 9);
+    ctx.fillText('ARISECITY HQ // MODULAR TECH CLUSTER', brandPos.x, brandPos.y + 9);
     ctx.restore();
 
     ctx.restore();

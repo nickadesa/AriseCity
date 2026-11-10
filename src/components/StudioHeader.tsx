@@ -56,7 +56,7 @@ export const StudioHeader: React.FC<StudioHeaderProps> = ({
         <div className="flex items-center space-x-2.5 px-3 py-1.5 rounded-lg bg-studio-dark/90 border border-studio-border backdrop-blur-md shadow-md">
           <div className="w-2.5 h-2.5 rounded-full bg-catch-yellow animate-pulse" />
           <h1 className="text-xs font-bold tracking-wider font-mono text-slate-100 flex items-center space-x-1.5">
-            <span>ARISEBOT HQ</span>
+            <span>ARISECITY HQ</span>
             <span className="text-[10px] text-catch-yellow font-normal px-1 py-0.2 rounded bg-catch-yellow/15">
               #BOXSPACES
             </span>

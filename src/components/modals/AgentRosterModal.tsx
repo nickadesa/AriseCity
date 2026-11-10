@@ -41,7 +41,7 @@ export const AgentRosterModal: React.FC<AgentRosterModalProps> = ({
             <div>
               <h3 className="font-semibold text-slate-100 text-base">Developer Team Roster</h3>
               <p className="text-xs text-studio-muted">
-                {agents.length} Autonomous Agents configured for AriseBot HQ
+                {agents.length} Autonomous Agents configured for AriseCity HQ
               </p>
             </div>
           </div>

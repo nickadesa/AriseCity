@@ -166,7 +166,7 @@ const INITIAL_NPCS: AmbientNPC[] = [
     dialogueLines: [
       'Special delivery! 5 iced matcha lattes and a box of mechanical keyboards for Nova!',
       'Fast drone delivery throughout the tech district. Signing off parcel #B701.',
-      'Always happy to deliver to AriseBot HQ. Best coffee on the mezzanine!'
+      'Always happy to deliver to AriseCity HQ. Best coffee on the mezzanine!'
     ],
     thought: 'Dropping off hardware parcels for the engineering cluster.',
     interactionCount: 0,
