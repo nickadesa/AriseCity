@@ -7,12 +7,10 @@ export class PixelCharacterRenderer {
     agent: Agent,
     screenX: number,
     screenY: number,
-    zoom: number,
     isNight: boolean
   ) {
     ctx.save();
     ctx.translate(screenX, screenY);
-    ctx.scale(zoom, zoom);
 
     const now = Date.now();
     const isMoving = !!agent.targetPosition;
@@ -74,12 +72,10 @@ export class PixelCharacterRenderer {
     npc: AmbientNPC,
     screenX: number,
     screenY: number,
-    zoom: number,
     isNight: boolean
   ) {
     ctx.save();
     ctx.translate(screenX, screenY);
-    ctx.scale(zoom, zoom);
 
     const now = Date.now();
     const isMoving = !!npc.targetPosition;

@@ -2,6 +2,7 @@ import React, { useRef, useEffect, useState, useCallback } from 'react';
 import { useAgentStore, updateStudioSimulation, LOCATIONS } from '../store/agentStore';
 import { IsometricRenderer } from '../engine/IsometricRenderer';
 import { IsometricEngine } from '../engine/IsometricEngine';
+import { Plus, Minus, Maximize2 } from 'lucide-react';
 
 interface StudioCanvasProps {
   onOpenDeskModal: (agentId: string) => void;
@@ -10,6 +11,13 @@ interface StudioCanvasProps {
   onOpenDiffReview: () => void;
   onOpenNpcModal: (npcId: string) => void;
 }
+
+const getInitialZoom = () => {
+  if (typeof window === 'undefined') return 1.0;
+  if (window.innerWidth < 640) return 0.7;
+  if (window.innerWidth < 1024) return 0.9;
+  return 1.15;
+};
 
 export const StudioCanvas: React.FC<StudioCanvasProps> = ({
   onOpenDeskModal,
@@ -22,27 +30,51 @@ export const StudioCanvas: React.FC<StudioCanvasProps> = ({
   const store = useAgentStore();
 
   // Camera State
+  const [zoom, setZoom] = useState(getInitialZoom);
   const [pan, setPan] = useState({ x: 0, y: 0 });
-  const [zoom, setZoom] = useState(1.2);
   const isDraggingRef = useRef(false);
   const dragStartRef = useRef({ x: 0, y: 0 });
   const lastTouchDistanceRef = useRef<number | null>(null);
 
+  // Recenter camera exactly onto the studio
+  const recenter = useCallback((targetZoom?: number) => {
+    const z = targetZoom ?? zoom;
+    const w = window.innerWidth;
+    const h = window.innerHeight;
+    const centerIso = IsometricEngine.worldToIso(145, 155, 20);
+    setPan({
+      x: w / 2 - centerIso.x * z,
+      y: h / 2 - centerIso.y * z,
+    });
+    if (targetZoom !== undefined) {
+      setZoom(targetZoom);
+    }
+  }, [zoom]);
+
   // Initialize camera centered on lower engineering cluster
   useEffect(() => {
-    const handleInitialCenter = () => {
-      const w = window.innerWidth;
-      const h = window.innerHeight;
-      // Center on around world (150, 150)
-      const centerIso = IsometricEngine.worldToIso(150, 150, 0);
+    const initZ = getInitialZoom();
+    setZoom(initZ);
+    const w = window.innerWidth;
+    const h = window.innerHeight;
+    const centerIso = IsometricEngine.worldToIso(145, 155, 20);
+    setPan({
+      x: w / 2 - centerIso.x * initZ,
+      y: h / 2 - centerIso.y * initZ,
+    });
+
+    const handleResize = () => {
+      // Keep view centered on resize
+      const curW = window.innerWidth;
+      const curH = window.innerHeight;
       setPan({
-        x: w / 2 - centerIso.x * 1.2,
-        y: h / 2 - centerIso.y * 1.2,
+        x: curW / 2 - centerIso.x * zoom,
+        y: curH / 2 - centerIso.y * zoom,
       });
     };
-    handleInitialCenter();
-    window.addEventListener('resize', handleInitialCenter);
-    return () => window.removeEventListener('resize', handleInitialCenter);
+
+    window.addEventListener('resize', handleResize);
+    return () => window.removeEventListener('resize', handleResize);
   }, []);
 
   // Main Render Loop
@@ -258,18 +290,45 @@ export const StudioCanvas: React.FC<StudioCanvasProps> = ({
   };
 
   return (
-    <canvas
-      ref={canvasRef}
-      className="w-full h-full cursor-grab active:cursor-grabbing block"
-      onClick={handleCanvasClick}
-      onMouseDown={handleMouseDown}
-      onMouseMove={handleMouseMove}
-      onMouseUp={handleMouseUp}
-      onMouseLeave={handleMouseUp}
-      onWheel={handleWheel}
-      onTouchStart={handleTouchStart}
-      onTouchMove={handleTouchMove}
-      onTouchEnd={handleTouchEnd}
-    />
+    <div className="relative w-full h-full select-none overflow-hidden">
+      <canvas
+        ref={canvasRef}
+        className="w-full h-full cursor-grab active:cursor-grabbing block touch-none"
+        onClick={handleCanvasClick}
+        onMouseDown={handleMouseDown}
+        onMouseMove={handleMouseMove}
+        onMouseUp={handleMouseUp}
+        onMouseLeave={handleMouseUp}
+        onWheel={handleWheel}
+        onTouchStart={handleTouchStart}
+        onTouchMove={handleTouchMove}
+        onTouchEnd={handleTouchEnd}
+      />
+
+      {/* Floating Camera Controls (Bottom Right) */}
+      <div className="absolute bottom-14 right-3 z-30 flex flex-col space-y-1.5 bg-studio-dark/90 backdrop-blur-md border border-studio-border rounded-xl p-1 shadow-xl">
+        <button
+          onClick={() => setZoom(z => Math.min(2.4, Number((z + 0.15).toFixed(2))))}
+          className="w-8 h-8 flex items-center justify-center rounded-lg hover:bg-studio-surface text-slate-300 hover:text-white transition-colors active:scale-95"
+          title="Zoom In"
+        >
+          <Plus className="w-4 h-4" />
+        </button>
+        <button
+          onClick={() => setZoom(z => Math.max(0.4, Number((z - 0.15).toFixed(2))))}
+          className="w-8 h-8 flex items-center justify-center rounded-lg hover:bg-studio-surface text-slate-300 hover:text-white transition-colors active:scale-95"
+          title="Zoom Out"
+        >
+          <Minus className="w-4 h-4" />
+        </button>
+        <button
+          onClick={() => recenter(getInitialZoom())}
+          className="w-8 h-8 flex items-center justify-center rounded-lg hover:bg-studio-surface text-catch-yellow hover:text-yellow-300 transition-colors active:scale-95"
+          title="Recenter Studio View"
+        >
+          <Maximize2 className="w-4 h-4" />
+        </button>
+      </div>
+    </div>
   );
 };

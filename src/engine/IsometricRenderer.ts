@@ -23,6 +23,7 @@ export class IsometricRenderer {
 
     ctx.save();
     ctx.translate(panX, panY);
+    ctx.scale(zoom, zoom);
 
     // Zoom transition:
     // If zoom < 0.85: blend into exterior modular container building (#BOXSPACES, Image 1 & 5)
@@ -31,13 +32,13 @@ export class IsometricRenderer {
     const interiorAlpha = 1.0 - exteriorAlpha * 0.85;
 
     // 2. Render Ground Plane & Concrete Plaza (Image 1)
-    this.renderGroundPlaza(ctx, zoom, timeState);
+    this.renderGroundPlaza(ctx, timeState);
 
     // 3. Render Architectural Structure (Interior Cutaway + Mezzanine)
     if (interiorAlpha > 0.05) {
       ctx.save();
       ctx.globalAlpha = interiorAlpha;
-      this.renderStudioInterior(ctx, zoom, timeState);
+      this.renderStudioInterior(ctx, timeState);
       ctx.restore();
     }
 
@@ -45,14 +46,13 @@ export class IsometricRenderer {
     if (exteriorAlpha > 0.05) {
       ctx.save();
       ctx.globalAlpha = exteriorAlpha;
-      this.renderExteriorContainerHQ(ctx, zoom, timeState);
+      this.renderExteriorContainerHQ(ctx, timeState);
       ctx.restore();
     }
 
     // 5. Render All Characters (Sorted by Isometric Depth Y + X for correct occlusion)
     this.renderDepthSortedEntities(
       ctx,
-      zoom,
       timeState,
       agents,
       npcs,
@@ -60,10 +60,15 @@ export class IsometricRenderer {
       selectedNpcId
     );
 
-    // 6. Render Dynamic Lighting, Emissive Glows & Time-of-Day Atmosphere
-    this.renderLightingAndAtmosphere(ctx, width, height, panX, panY, zoom, timeState);
+    // 6. World-space Night Radial Glows
+    if (timeState.isNight) {
+      this.renderWorldNightGlows(ctx);
+    }
 
     ctx.restore();
+
+    // 7. Fullscreen Atmospheric Color Overlay (in screen coordinates)
+    this.renderAtmosphericOverlay(ctx, width, height, timeState);
   }
 
   // -------------------------------------------------------------
@@ -99,12 +104,8 @@ export class IsometricRenderer {
 
   private static renderGroundPlaza(
     ctx: CanvasRenderingContext2D,
-    zoom: number,
     time: TimeState
   ) {
-    ctx.save();
-    ctx.scale(zoom, zoom);
-
     // Plaza Floor: Crisp modern textured grid
     const p1 = IsometricEngine.worldToIso(-40, -40, 0);
     const p2 = IsometricEngine.worldToIso(340, -40, 0);
@@ -132,8 +133,6 @@ export class IsometricRenderer {
       ctx.lineTo(b.x, b.y);
       ctx.stroke();
     }
-
-    ctx.restore();
   }
 
   // -------------------------------------------------------------
@@ -142,12 +141,8 @@ export class IsometricRenderer {
 
   private static renderStudioInterior(
     ctx: CanvasRenderingContext2D,
-    zoom: number,
     time: TimeState
   ) {
-    ctx.save();
-    ctx.scale(zoom, zoom);
-
     // 1. Lower Engineering Floor (White epoxy / terrazzo floor, Image 2 & 3)
     this.drawIsoPolygon(
       ctx,
@@ -187,8 +182,6 @@ export class IsometricRenderer {
 
     // 10. Office Props: Water Cooler, Photocopier, Kanban Board, Diff Station
     this.drawOfficeProps(ctx, time);
-
-    ctx.restore();
   }
 
   // -------------------------------------------------------------
@@ -612,12 +605,8 @@ export class IsometricRenderer {
 
   private static renderExteriorContainerHQ(
     ctx: CanvasRenderingContext2D,
-    zoom: number,
     time: TimeState
   ) {
-    ctx.save();
-    ctx.scale(zoom, zoom);
-
     // Modular Charcoal Shipping Containers with Corrugated Texture
     const containers = [
       { x: 30, y: 70, w: 90, d: 45, h: 42, color: '#181c24' },
@@ -641,8 +630,6 @@ export class IsometricRenderer {
     ctx.font = '600 6px "JetBrains Mono", monospace';
     ctx.fillStyle = '#ffffff';
     ctx.fillText('ARISECITY HQ // MODULAR TECH CLUSTER', brandPos.x, brandPos.y + 9);
-    ctx.restore();
-
     ctx.restore();
   }
 
@@ -679,7 +666,6 @@ export class IsometricRenderer {
 
   private static renderDepthSortedEntities(
     ctx: CanvasRenderingContext2D,
-    zoom: number,
     time: TimeState,
     agents: Agent[],
     npcs: AmbientNPC[],
@@ -724,17 +710,15 @@ export class IsometricRenderer {
         PixelCharacterRenderer.renderAgent(
           ctx,
           agent,
-          pos.x * zoom,
-          pos.y * zoom,
-          zoom,
+          pos.x,
+          pos.y,
           time.isNight
         );
 
         // Highlight ring if selected
         if (agent.id === selectedAgentId) {
           ctx.save();
-          ctx.translate(pos.x * zoom, pos.y * zoom);
-          ctx.scale(zoom, zoom);
+          ctx.translate(pos.x, pos.y);
           ctx.beginPath();
           ctx.ellipse(0, 0, 14, 7, 0, 0, Math.PI * 2);
           ctx.strokeStyle = '#facc15';
@@ -748,17 +732,15 @@ export class IsometricRenderer {
         PixelCharacterRenderer.renderNPC(
           ctx,
           npc,
-          pos.x * zoom,
-          pos.y * zoom,
-          zoom,
+          pos.x,
+          pos.y,
           time.isNight
         );
 
         // Highlight ring if selected
         if (npc.id === selectedNpcId) {
           ctx.save();
-          ctx.translate(pos.x * zoom, pos.y * zoom);
-          ctx.scale(zoom, zoom);
+          ctx.translate(pos.x, pos.y);
           ctx.beginPath();
           ctx.ellipse(0, 0, 14, 7, 0, 0, Math.PI * 2);
           ctx.strokeStyle = '#38bdf8';
@@ -774,59 +756,51 @@ export class IsometricRenderer {
   // DYNAMIC LIGHTING & ATMOSPHERE OVERLAY
   // -------------------------------------------------------------
 
-  private static renderLightingAndAtmosphere(
+  private static renderWorldNightGlows(ctx: CanvasRenderingContext2D) {
+    ctx.save();
+    ctx.globalCompositeOperation = 'screen';
+
+    // 1. Yellow Accent Pillar Glow
+    const yp = IsometricEngine.worldToIso(172, 80, 20);
+    const yellowGlow = ctx.createRadialGradient(
+      yp.x, yp.y, 2,
+      yp.x, yp.y, 90
+    );
+    yellowGlow.addColorStop(0, 'rgba(250, 204, 21, 0.45)');
+    yellowGlow.addColorStop(1, 'rgba(250, 204, 21, 0.0)');
+    ctx.fillStyle = yellowGlow;
+    ctx.beginPath();
+    ctx.arc(yp.x, yp.y, 90, 0, Math.PI * 2);
+    ctx.fill();
+
+    // 2. Mezzanine Warm Ceiling Spotlights
+    const mezLight = IsometricEngine.worldToIso(140, 45, 48);
+    const warmGlow = ctx.createRadialGradient(
+      mezLight.x, mezLight.y, 5,
+      mezLight.x, mezLight.y, 120
+    );
+    warmGlow.addColorStop(0, 'rgba(254, 240, 138, 0.35)');
+    warmGlow.addColorStop(1, 'rgba(254, 240, 138, 0.0)');
+    ctx.fillStyle = warmGlow;
+    ctx.beginPath();
+    ctx.arc(mezLight.x, mezLight.y, 120, 0, Math.PI * 2);
+    ctx.fill();
+
+    ctx.restore();
+  }
+
+  private static renderAtmosphericOverlay(
     ctx: CanvasRenderingContext2D,
     w: number,
     h: number,
-    _panX: number,
-    _panY: number,
-    zoom: number,
     time: TimeState
   ) {
-    const { isNight } = time;
-
-    // Apply color grading atmospheric overlay
     const overlay = IsometricEngine.getAtmosphericOverlay(time);
     ctx.save();
-    ctx.setTransform(1, 0, 0, 1, 0, 0); // screen space
     ctx.globalCompositeOperation = overlay.blendMode;
     ctx.fillStyle = overlay.color;
     ctx.fillRect(0, 0, w, h);
     ctx.restore();
-
-    // Night Lighting: Emissive Yellow Neon & Spotlight Cookies
-    if (isNight) {
-      ctx.save();
-      ctx.globalCompositeOperation = 'screen';
-
-      // 1. Yellow Accent Pillar Glow
-      const yp = IsometricEngine.worldToIso(172, 80, 20);
-      const yellowGlow = ctx.createRadialGradient(
-        yp.x * zoom, yp.y * zoom, 2,
-        yp.x * zoom, yp.y * zoom, 90 * zoom
-      );
-      yellowGlow.addColorStop(0, 'rgba(250, 204, 21, 0.45)');
-      yellowGlow.addColorStop(1, 'rgba(250, 204, 21, 0.0)');
-      ctx.fillStyle = yellowGlow;
-      ctx.beginPath();
-      ctx.arc(yp.x * zoom, yp.y * zoom, 90 * zoom, 0, Math.PI * 2);
-      ctx.fill();
-
-      // 2. Mezzanine Warm Ceiling Spotlights
-      const mezLight = IsometricEngine.worldToIso(140, 45, 48);
-      const warmGlow = ctx.createRadialGradient(
-        mezLight.x * zoom, mezLight.y * zoom, 5,
-        mezLight.x * zoom, mezLight.y * zoom, 120 * zoom
-      );
-      warmGlow.addColorStop(0, 'rgba(254, 240, 138, 0.35)');
-      warmGlow.addColorStop(1, 'rgba(254, 240, 138, 0.0)');
-      ctx.fillStyle = warmGlow;
-      ctx.beginPath();
-      ctx.arc(mezLight.x * zoom, mezLight.y * zoom, 120 * zoom, 0, Math.PI * 2);
-      ctx.fill();
-
-      ctx.restore();
-    }
   }
 
   // -------------------------------------------------------------
