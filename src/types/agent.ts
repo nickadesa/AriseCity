@@ -1,4 +1,4 @@
-export type AgentRole = 'lead' | 'frontend' | 'backend' | 'devops' | 'qa';
+export type AgentRole = 'copilot' | 'lead' | 'frontend' | 'backend' | 'devops' | 'qa';
 
 export type AgentStatus = 
   | 'idle' 

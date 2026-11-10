@@ -288,7 +288,19 @@ export class PixelCharacterRenderer {
     }
 
     // Special Accessories
-    if (roleOrType === 'courier') {
+    if (roleOrType === 'copilot') {
+      // Floating glowing Antigravity halo ring
+      const haloBob = Math.sin(Date.now() / 250) * 2;
+      ctx.strokeStyle = '#38bdf8';
+      ctx.lineWidth = 1.5;
+      ctx.beginPath();
+      ctx.ellipse(0, -32 + haloBob, 6, 2, 0, 0, Math.PI * 2);
+      ctx.stroke();
+
+      // Glowing cyan cyber visor
+      ctx.fillStyle = '#06b6d4';
+      ctx.fillRect(-3, -22, 6, 2);
+    } else if (roleOrType === 'courier') {
       // Delivery cap & parcel bag
       ctx.fillStyle = '#ca8a04';
       ctx.fillRect(-6, -29, 12, 3);

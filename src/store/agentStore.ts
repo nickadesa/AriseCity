@@ -29,6 +29,32 @@ export const LOCATIONS = {
 
 const INITIAL_AGENTS: Agent[] = [
   {
+    id: 'antigravity',
+    name: 'Antigravity (AI)',
+    role: 'copilot',
+    status: 'typing',
+    deskId: 0,
+    avatarColor: '#38bdf8',
+    outfitColor: '#0f172a',
+    hairColor: '#e0f2fe',
+    terminalLogs: [
+      '[Antigravity Core] Google DeepMind Advanced Agentic AI Online.',
+      '[Pair Programming] Standing by as your direct AI Partner & Chief Orchestrator.',
+      '[Architecture] 2.5D Isometric Engine running at 60 FPS.',
+      '[Ready] Enter any feature prompt or click to chat with me directly!'
+    ],
+    cpuUsage: 25,
+    tokenUsage: 78500,
+    gitBranch: 'ai/antigravity-copilot',
+    position: { x: 42, y: 32, z: 48 }, // Standing in Executive Suite beside the Boss desk!
+    facing: 'se',
+    thought: 'Synthesizing studio objectives and orchestrating developer clusters.',
+    speechBubble: { text: 'Ready to build!', icon: 'sparkles', expiresAt: Date.now() + 12000 },
+    modelTier: 'pro',
+    nightOwl: true,
+    walkSpeed: 1.5,
+  },
+  {
     id: 'orion',
     name: 'Orion',
     role: 'lead',
@@ -477,13 +503,23 @@ export function useAgentStore() {
       if (!promptText.trim()) return;
       globalState.activeGoalPrompt = promptText;
       
+      // Antigravity AI Orchestration
+      const antigravity = globalState.agents.find(a => a.id === 'antigravity');
+      if (antigravity) {
+        antigravity.status = 'typing';
+        antigravity.cpuUsage = 88;
+        antigravity.speechBubble = { text: 'Goal Dispatched!', icon: 'zap', expiresAt: Date.now() + 5000 };
+        antigravity.terminalLogs.push(`[Goal Received] "${promptText}"`);
+        antigravity.terminalLogs.push('[Antigravity] Synthesizing architectural plan and dispatching team...');
+      }
+
       // Dispatch Orion to lead
       const orion = globalState.agents.find(a => a.id === 'orion');
       if (orion) {
         orion.status = 'typing';
         orion.cpuUsage = 92;
-        orion.speechBubble = { text: 'Decomposing Goal...', icon: 'brain', expiresAt: Date.now() + 5000 };
-        orion.terminalLogs.push(`[Goal Received] "${promptText}"`);
+        orion.speechBubble = { text: 'Executing Tasks...', icon: 'code', expiresAt: Date.now() + 5000 };
+        orion.terminalLogs.push(`[Orion] Received blueprint from Antigravity: "${promptText}"`);
         orion.terminalLogs.push('[Orion] Generating sub-tasks across Frontend, Backend, and DevOps...');
       }
 
