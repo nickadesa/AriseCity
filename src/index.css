@@ -1,0 +1,51 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  * {
+    -webkit-tap-highlight-color: transparent;
+  }
+  
+  canvas {
+    image-rendering: -moz-crisp-edges;
+    image-rendering: -webkit-crisp-edges;
+    image-rendering: pixelated;
+    image-rendering: crisp-edges;
+  }
+}
+
+.pixel-corners {
+  clip-path: polygon(
+    0 4px, 4px 4px, 4px 0,
+    calc(100% - 4px) 0, calc(100% - 4px) 4px, 100% 4px,
+    100% calc(100% - 4px), calc(100% - 4px) calc(100% - 4px), calc(100% - 4px) 100%,
+    4px 100%, 4px calc(100% - 4px), 0 calc(100% - 4px)
+  );
+}
+
+.pixel-border {
+  border: 3px solid #181425;
+  box-shadow: inset 2px 2px 0px rgba(255,255,255,0.2), inset -2px -2px 0px rgba(0,0,0,0.4);
+}
+
+.pixel-btn {
+  border: 2px solid #181425;
+  box-shadow: 0 4px 0 #181425;
+  transition: all 0.05s ease-in-out;
+}
+
+.pixel-btn:active {
+  transform: translateY(3px);
+  box-shadow: 0 1px 0 #181425;
+}
+
+@keyframes waterShimmer {
+  0% { transform: translateY(0px); opacity: 0.8; }
+  50% { transform: translateY(-2px); opacity: 1; }
+  100% { transform: translateY(0px); opacity: 0.8; }
+}
+
+.animate-shimmer {
+  animation: waterShimmer 3s ease-in-out infinite;
+}
