@@ -384,21 +384,53 @@ interface StudioState {
   totalSpend: number;
 }
 
-const PERSISTENCE_KEY = 'arisecity_saved_state_v1';
+const PERSISTENCE_KEY = 'arisecity_saved_state_v2';
+
+const DEFAULT_STUDIO_STATE: StudioState = {
+  agents: INITIAL_AGENTS,
+  npcs: INITIAL_NPCS,
+  tasks: INITIAL_TASKS,
+  decision: INITIAL_DECISION,
+  timeState: {
+    gameHours: 10.5, // 10:30 AM (crisp morning)
+    dayCount: 1,
+    timeScale: 1, // normal speed
+    phase: 'day',
+    isNight: false,
+    sunAngle: 45,
+  },
+  selectedAgentId: null,
+  selectedNpcId: null,
+  isTaskBoardOpen: false,
+  isDiffReviewOpen: false,
+  isRosterOpen: false,
+  activeGoalPrompt: '',
+  totalTokens: 151200,
+  totalSpend: 0.45,
+};
 
 function loadPersistedState(): StudioState {
   try {
+    // Clear out old v1 storage if present
+    localStorage.removeItem('arisecity_saved_state_v1');
+
     const raw = localStorage.getItem(PERSISTENCE_KEY);
     if (raw) {
       const parsed = JSON.parse(raw);
-      if (parsed.agents && parsed.tasks && parsed.timeState) {
+      if (Array.isArray(parsed.agents) && Array.isArray(parsed.tasks) && parsed.timeState) {
         return {
+          ...DEFAULT_STUDIO_STATE,
           ...parsed,
+          agents: parsed.agents,
+          npcs: Array.isArray(parsed.npcs) && parsed.npcs.length > 0 ? parsed.npcs : INITIAL_NPCS,
+          tasks: parsed.tasks,
+          timeState: parsed.timeState,
           selectedAgentId: null,
           selectedNpcId: null,
           isTaskBoardOpen: false,
           isDiffReviewOpen: false,
           isRosterOpen: false,
+          activeGoalPrompt: parsed.activeGoalPrompt || '',
         };
       }
     }
@@ -406,28 +438,7 @@ function loadPersistedState(): StudioState {
     console.warn('Failed to load persisted state', e);
   }
 
-  return {
-    agents: INITIAL_AGENTS,
-    npcs: INITIAL_NPCS,
-    tasks: INITIAL_TASKS,
-    decision: INITIAL_DECISION,
-    timeState: {
-      gameHours: 10.5, // 10:30 AM (crisp morning)
-      dayCount: 1,
-      timeScale: 1, // normal speed
-      phase: 'day',
-      isNight: false,
-      sunAngle: 45,
-    },
-    selectedAgentId: null,
-    selectedNpcId: null,
-    isTaskBoardOpen: false,
-    isDiffReviewOpen: false,
-    isRosterOpen: false,
-    activeGoalPrompt: '',
-    totalTokens: 151200,
-    totalSpend: 0.45,
-  };
+  return DEFAULT_STUDIO_STATE;
 }
 
 let globalState: StudioState = loadPersistedState();
@@ -440,9 +451,11 @@ function saveStateDebounced() {
     try {
       localStorage.setItem(PERSISTENCE_KEY, JSON.stringify({
         agents: globalState.agents,
+        npcs: globalState.npcs,
         tasks: globalState.tasks,
         decision: globalState.decision,
         timeState: globalState.timeState,
+        activeGoalPrompt: globalState.activeGoalPrompt,
         totalTokens: globalState.totalTokens,
         totalSpend: globalState.totalSpend,
       }));
@@ -723,17 +736,17 @@ export function updateStudioSimulation(deltaTimeMs: number) {
     }
   };
 
-  globalState.agents.forEach(moveEntity);
-  globalState.npcs.forEach(moveEntity);
+  (globalState.agents || []).forEach(moveEntity);
+  (globalState.npcs || []).forEach(moveEntity);
 
   // Expire speech bubbles
   const now = Date.now();
-  globalState.agents.forEach(a => {
+  (globalState.agents || []).forEach(a => {
     if (a.speechBubble && a.speechBubble.expiresAt < now) {
       a.speechBubble = undefined;
     }
   });
-  globalState.npcs.forEach(n => {
+  (globalState.npcs || []).forEach(n => {
     if (n.speechBubble && n.speechBubble.expiresAt < now) {
       n.speechBubble = undefined;
     }
