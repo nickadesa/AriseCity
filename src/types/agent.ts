@@ -107,6 +107,26 @@ export interface TimeState {
   phase: DayNightPhase;
   isNight: boolean;
   sunAngle: number;
+  formattedTime?: string;
+  timeZoneName?: string;
+}
+
+export type ActivityType = 'chat' | 'standup' | 'task' | 'diff' | 'git' | 'decision';
+
+export interface ActivityItem {
+  id: string;
+  timestamp: number;
+  type: ActivityType;
+  actorId: string;
+  actorName: string;
+  actorRole?: AgentRole;
+  actorColor?: string;
+  targetId?: string;
+  targetName?: string;
+  content: string;
+  details?: string;
+  diffSnippet?: string;
+  badge?: string;
 }
 
 export type ClickableTarget = 

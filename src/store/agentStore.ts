@@ -5,8 +5,10 @@ import {
   AmbientNPC, 
   Task, 
   Decision, 
-  TimeState 
+  TimeState,
+  ActivityItem
 } from '../types/agent';
+export type { ActivityItem };
 import { dispatchStudioAI } from '../engine/AIBrain';
 
 export const LOCATIONS = {
@@ -367,6 +369,9 @@ const INITIAL_DECISION: Decision = {
   ]
 };
 
+import { TimeSyncEngine } from '../engine/TimeSyncEngine';
+import { AutonomousAgentEngine } from '../engine/AutonomousAgentEngine';
+
 // Global Store State
 interface StudioState {
   agents: Agent[];
@@ -374,11 +379,13 @@ interface StudioState {
   tasks: Task[];
   decision: Decision | null;
   timeState: TimeState;
+  activityFeed: ActivityItem[];
   selectedAgentId: string | null;
   selectedNpcId: string | null;
   isTaskBoardOpen: boolean;
   isDiffReviewOpen: boolean;
   isRosterOpen: boolean;
+  isFeedOpen: boolean;
   activeGoalPrompt: string;
   totalTokens: number;
   totalSpend: number;
@@ -391,19 +398,38 @@ const DEFAULT_STUDIO_STATE: StudioState = {
   npcs: INITIAL_NPCS,
   tasks: INITIAL_TASKS,
   decision: INITIAL_DECISION,
-  timeState: {
-    gameHours: 10.5, // 10:30 AM (crisp morning)
-    dayCount: 1,
-    timeScale: 1, // normal speed
-    phase: 'day',
-    isNight: false,
-    sunAngle: 45,
-  },
+  timeState: TimeSyncEngine.getNewYorkTimeState(),
+  activityFeed: [
+    {
+      id: 'act_init_1',
+      timestamp: Date.now() - 120000,
+      type: 'git',
+      actorId: 'orion',
+      actorName: 'Orion',
+      actorRole: 'lead',
+      actorColor: '#6366f1',
+      content: 'Synchronized with origin/main @ nickadesa/AriseCity',
+      details: 'Architecture verified. Dual-engine AI brain active (Gemini 3.5 & Cloudflare).',
+      badge: 'GIT SYNC',
+    },
+    {
+      id: 'act_init_2',
+      timestamp: Date.now() - 60000,
+      type: 'standup',
+      actorId: 'copilot',
+      actorName: 'Antigravity',
+      actorRole: 'copilot',
+      actorColor: '#38bdf8',
+      content: 'Chief AI Co-Pilot active in Executive Suite. NYC time locked.',
+      badge: 'EXECUTIVE',
+    }
+  ],
   selectedAgentId: null,
   selectedNpcId: null,
   isTaskBoardOpen: false,
   isDiffReviewOpen: false,
   isRosterOpen: false,
+  isFeedOpen: false,
   activeGoalPrompt: '',
   totalTokens: 151200,
   totalSpend: 0.45,
@@ -417,19 +443,21 @@ function loadPersistedState(): StudioState {
     const raw = localStorage.getItem(PERSISTENCE_KEY);
     if (raw) {
       const parsed = JSON.parse(raw);
-      if (Array.isArray(parsed.agents) && Array.isArray(parsed.tasks) && parsed.timeState) {
+      if (Array.isArray(parsed.agents) && Array.isArray(parsed.tasks)) {
         return {
           ...DEFAULT_STUDIO_STATE,
           ...parsed,
           agents: parsed.agents,
           npcs: Array.isArray(parsed.npcs) && parsed.npcs.length > 0 ? parsed.npcs : INITIAL_NPCS,
           tasks: parsed.tasks,
-          timeState: parsed.timeState,
+          timeState: TimeSyncEngine.getNewYorkTimeState(),
+          activityFeed: Array.isArray(parsed.activityFeed) ? parsed.activityFeed : DEFAULT_STUDIO_STATE.activityFeed,
           selectedAgentId: null,
           selectedNpcId: null,
           isTaskBoardOpen: false,
           isDiffReviewOpen: false,
           isRosterOpen: false,
+          isFeedOpen: false,
           activeGoalPrompt: parsed.activeGoalPrompt || '',
         };
       }
@@ -505,6 +533,45 @@ export function useAgentStore() {
     setRosterOpen: (open: boolean) => {
       globalState.isRosterOpen = open;
       notify();
+    },
+    setFeedOpen: (open: boolean) => {
+      globalState.isFeedOpen = open;
+      notify();
+    },
+    addActivity: (item: ActivityItem) => {
+      globalState.activityFeed = [item, ...globalState.activityFeed.slice(0, 49)];
+      notify();
+    },
+    setAgentSpeech: (agentId: string, text: string, icon: string = 'message-circle') => {
+      const agent = globalState.agents.find(a => a.id === agentId);
+      if (agent) {
+        agent.speechBubble = { text, icon, expiresAt: Date.now() + 5000 };
+        notify();
+      }
+    },
+    triggerStandup: () => {
+      AutonomousAgentEngine.runDailyStandup(
+        globalState.agents,
+        globalState.activeGoalPrompt,
+        (activity) => {
+          globalState.activityFeed = [activity, ...globalState.activityFeed.slice(0, 49)];
+          notify();
+        },
+        (agentId, text, icon) => {
+          const agent = globalState.agents.find(a => a.id === agentId);
+          if (agent) {
+            agent.speechBubble = { text, icon, expiresAt: Date.now() + 5000 };
+            notify();
+          }
+        },
+        (agentId, log) => {
+          const agent = globalState.agents.find(a => a.id === agentId);
+          if (agent) {
+            agent.terminalLogs.push(log);
+            notify();
+          }
+        }
+      );
     },
     setTimeScale: (scale: number) => {
       globalState.timeState.timeScale = scale;
@@ -665,39 +732,33 @@ export function useAgentStore() {
 
 // Global simulation ticker (runs in background for realistic autonomous living world)
 export function updateStudioSimulation(deltaTimeMs: number) {
-  const ts = globalState.timeState;
-  if (ts.timeScale === 0) return; // paused
+  // 1. Live Real-World Time Synchronization (UTC -4 New York)
+  const nyTime = TimeSyncEngine.getNewYorkTimeState();
+  globalState.timeState = nyTime;
 
-  // Asymmetric Day/Night Progression per user specification:
-  // Daytime (06:00 to 20:00) moves at normal pace
-  // Nighttime (20:00 to 06:00) moves 2.5x faster!
-  const isNightTime = ts.gameHours >= 20 || ts.gameHours < 6;
-  const speedMultiplier = isNightTime ? 2.5 : 1.0;
-  
-  // Advance in-game hours (1 second real time ≈ 0.05 game hours at 1x)
-  const hourStep = (deltaTimeMs / 1000) * 0.06 * ts.timeScale * speedMultiplier;
-  ts.gameHours = (ts.gameHours + hourStep) % 24;
-  if (ts.gameHours < hourStep) {
-    ts.dayCount++;
-  }
-
-  // Calculate phase
-  if (ts.gameHours >= 5 && ts.gameHours < 8) {
-    ts.phase = 'dawn';
-    ts.isNight = false;
-  } else if (ts.gameHours >= 8 && ts.gameHours < 17) {
-    ts.phase = 'day';
-    ts.isNight = false;
-  } else if (ts.gameHours >= 17 && ts.gameHours < 20) {
-    ts.phase = 'dusk';
-    ts.isNight = false;
-  } else {
-    ts.phase = 'night';
-    ts.isNight = true;
-  }
-
-  // Sun angle calculation (for cast shadows)
-  ts.sunAngle = ((ts.gameHours - 6) / 14) * Math.PI; // 0 at dawn, PI/2 at noon, PI at dusk
+  // 2. Check Autonomous AI Heartbeat (Daily Standup & Inter-Agent collaboration)
+  AutonomousAgentEngine.checkHeartbeat(
+    globalState.agents,
+    globalState.activeGoalPrompt,
+    (activity) => {
+      globalState.activityFeed = [activity, ...globalState.activityFeed.slice(0, 49)];
+      notify();
+    },
+    (agentId, text, icon) => {
+      const agent = globalState.agents.find(a => a.id === agentId);
+      if (agent) {
+        agent.speechBubble = { text, icon, expiresAt: Date.now() + 5000 };
+        notify();
+      }
+    },
+    (agentId, log) => {
+      const agent = globalState.agents.find(a => a.id === agentId);
+      if (agent) {
+        agent.terminalLogs.push(log);
+        notify();
+      }
+    }
+  );
 
   // Agent Token and CPU activity
   globalState.agents.forEach(agent => {
@@ -757,7 +818,7 @@ export function updateStudioSimulation(deltaTimeMs: number) {
     const idleAgents = globalState.agents.filter(a => a.status === 'idle');
     if (idleAgents.length > 0) {
       const agent = idleAgents[Math.floor(Math.random() * idleAgents.length)];
-      if (ts.isNight && !agent.nightOwl) {
+      if (globalState.timeState.isNight && !agent.nightOwl) {
         // Sleep on upper lounge sofa
         agent.targetPosition = LOCATIONS.UPPER_LOUNGE_SOFA;
         agent.speechBubble = { text: 'zzz', icon: 'moon', expiresAt: now + 6000 };

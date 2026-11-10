@@ -8,6 +8,7 @@ import { DecisionModal } from './components/modals/DecisionModal';
 import { DiffReviewModal } from './components/modals/DiffReviewModal';
 import { AgentRosterModal } from './components/modals/AgentRosterModal';
 import { NPCDialogueModal } from './components/modals/NPCDialogueModal';
+import { LiveStudioFeed } from './components/LiveStudioFeed';
 import { Zap, HelpCircle } from 'lucide-react';
 
 export const App: React.FC = () => {
@@ -33,6 +34,7 @@ export const App: React.FC = () => {
         onOpenTaskBoard={() => setIsTaskBoardOpen(true)}
         onOpenRoster={() => setIsRosterModalOpen(true)}
         onOpenDecision={() => setIsDecisionModalOpen(true)}
+        onOpenFeed={() => store.setFeedOpen(true)}
       />
 
       {/* Main 2.5D Isometric Canvas */}
@@ -126,6 +128,13 @@ export const App: React.FC = () => {
           onTalk={(npcId) => store.interactNpc(npcId)}
         />
       )}
+
+      {/* Live Studio Activity Feed Slide-out Drawer */}
+      <LiveStudioFeed
+        isOpen={store.isFeedOpen}
+        onClose={() => store.setFeedOpen(false)}
+        onFocusAgent={(agentId) => setActiveDeskAgentId(agentId)}
+      />
     </div>
   );
 };

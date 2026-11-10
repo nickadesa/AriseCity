@@ -53,7 +53,7 @@ export class PixelCharacterRenderer {
 
     // 4. Draw Speech Bubble / Emote if active
     if (agent.speechBubble) {
-      this.drawSpeechBubble(ctx, agent.speechBubble.text, agent.speechBubble.icon, -36 + bob);
+      this.drawSpeechBubble(ctx, agent.speechBubble.text, agent.speechBubble.icon, -36 + bob, undefined, agent.avatarColor);
     } else if (agent.status === 'waiting_decision') {
       // Urgent exclamation mark bouncing above head!
       const alertBob = Math.sin(now / 150) * 3;
@@ -466,49 +466,56 @@ export class PixelCharacterRenderer {
   // Draw floating speech bubble or emote
   private static drawSpeechBubble(
     ctx: CanvasRenderingContext2D,
-    text: string,
+    rawText: string,
     _icon?: string,
     yPos: number = -34,
-    badgeColor?: string
+    badgeColor?: string,
+    roleBorderColor?: string
   ) {
     ctx.save();
-    ctx.font = '500 10px "Inter", sans-serif';
+    ctx.font = '600 10px "Inter", sans-serif';
+
+    // Truncate to maximum 34 chars with ellipsis so long AI messages don't overwhelm canvas
+    const text = rawText.length > 34 ? rawText.slice(0, 32) + '…' : rawText;
     const textWidth = ctx.measureText(text).width;
-    const paddingX = 7;
-    const bubbleWidth = Math.max(20, textWidth + paddingX * 2);
-    const bubbleHeight = 18;
+    const paddingX = 8;
+    const bubbleWidth = Math.max(22, textWidth + paddingX * 2);
+    const bubbleHeight = 19;
     const bubbleX = -bubbleWidth / 2;
     const bubbleY = yPos - bubbleHeight;
 
-    // Shadow
-    ctx.fillStyle = 'rgba(0, 0, 0, 0.35)';
+    // Soft drop shadow
+    ctx.fillStyle = 'rgba(0, 0, 0, 0.45)';
     this.roundRect(ctx, bubbleX + 1, bubbleY + 2, bubbleWidth, bubbleHeight, 6);
     ctx.fill();
 
-    // Bubble Body
-    ctx.fillStyle = badgeColor || '#1e293b';
+    // Bubble Background (Deep matte slate)
+    ctx.fillStyle = badgeColor || '#0f172a';
     this.roundRect(ctx, bubbleX, bubbleY, bubbleWidth, bubbleHeight, 6);
     ctx.fill();
 
-    // Border
-    ctx.strokeStyle = badgeColor ? '#ffffff' : '#334155';
+    // Vibrant Role Accent Border
+    ctx.strokeStyle = badgeColor || roleBorderColor || '#38bdf8';
+    ctx.lineWidth = 1.5;
+    ctx.stroke();
+
+    // Speech bubble tail
+    ctx.beginPath();
+    ctx.moveTo(-3, bubbleY + bubbleHeight);
+    ctx.lineTo(0, bubbleY + bubbleHeight + 4);
+    ctx.lineTo(3, bubbleY + bubbleHeight);
+    ctx.closePath();
+    ctx.fillStyle = badgeColor || '#0f172a';
+    ctx.fill();
+    ctx.strokeStyle = badgeColor || roleBorderColor || '#38bdf8';
     ctx.lineWidth = 1;
     ctx.stroke();
 
-    // Downward arrow pointer
-    ctx.beginPath();
-    ctx.moveTo(-3, bubbleY + bubbleHeight);
-    ctx.lineTo(0, bubbleY + bubbleHeight + 3);
-    ctx.lineTo(3, bubbleY + bubbleHeight);
-    ctx.closePath();
-    ctx.fillStyle = badgeColor || '#1e293b';
-    ctx.fill();
-
-    // Text / Icon
-    ctx.fillStyle = '#ffffff';
+    // Text Content
+    ctx.fillStyle = '#f8fafc';
     ctx.textAlign = 'center';
     ctx.textBaseline = 'middle';
-    ctx.fillText(text, 0, bubbleY + bubbleHeight / 2);
+    ctx.fillText(text, 0, bubbleY + bubbleHeight / 2 + 0.5);
 
     ctx.restore();
   }
