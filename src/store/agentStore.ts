@@ -6,10 +6,12 @@ import {
   Task, 
   Decision, 
   TimeState,
-  ActivityItem
+  ActivityItem,
+  DistrictId
 } from '../types/agent';
 export type { ActivityItem };
 import { dispatchStudioAI } from '../engine/AIBrain';
+import { EXTRA_COASTAL_CITIZENS } from '../engine/CityData';
 
 export const LOCATIONS = {
   DESK_1: { x: 80, y: 120, z: 0 },
@@ -185,6 +187,7 @@ const INITIAL_AGENTS: Agent[] = [
 ];
 
 const INITIAL_NPCS: AmbientNPC[] = [
+  ...EXTRA_COASTAL_CITIZENS,
   {
     id: 'bolt',
     name: 'Bolt (Courier Bot)',
@@ -389,9 +392,10 @@ interface StudioState {
   activeGoalPrompt: string;
   totalTokens: number;
   totalSpend: number;
+  activeDistrictId: DistrictId;
 }
 
-const PERSISTENCE_KEY = 'arisecity_saved_state_v2';
+const PERSISTENCE_KEY = 'arisecity_saved_state_v3';
 
 const DEFAULT_STUDIO_STATE: StudioState = {
   agents: INITIAL_AGENTS,
@@ -433,12 +437,14 @@ const DEFAULT_STUDIO_STATE: StudioState = {
   activeGoalPrompt: '',
   totalTokens: 151200,
   totalSpend: 0.45,
+  activeDistrictId: 'downtown_waterfront',
 };
 
 function loadPersistedState(): StudioState {
   try {
-    // Clear out old v1 storage if present
+    // Clear out old v1 and v2 storage if present
     localStorage.removeItem('arisecity_saved_state_v1');
+    localStorage.removeItem('arisecity_saved_state_v2');
 
     const raw = localStorage.getItem(PERSISTENCE_KEY);
     if (raw) {
@@ -536,6 +542,10 @@ export function useAgentStore() {
     },
     setFeedOpen: (open: boolean) => {
       globalState.isFeedOpen = open;
+      notify();
+    },
+    setActiveDistrictId: (districtId: DistrictId) => {
+      globalState.activeDistrictId = districtId;
       notify();
     },
     addActivity: (item: ActivityItem) => {

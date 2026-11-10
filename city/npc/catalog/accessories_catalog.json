@@ -1,0 +1,1581 @@
+{
+  "category": "accessories",
+  "total_count": 105,
+  "items": [
+    {
+      "id": "ACC_HAT_001",
+      "name": "Baseball Cap Arise 1",
+      "subcategory": "headwear",
+      "layer_z": 11,
+      "anchor_offset": {
+        "x": 24,
+        "y": 10
+      },
+      "tags": [
+        "accessory",
+        "hat",
+        "baseball_cap_arise"
+      ]
+    },
+    {
+      "id": "ACC_HAT_002",
+      "name": "Beanie Coastal Fisherman 1",
+      "subcategory": "headwear",
+      "layer_z": 11,
+      "anchor_offset": {
+        "x": 24,
+        "y": 10
+      },
+      "tags": [
+        "accessory",
+        "hat",
+        "beanie_coastal_fisherman"
+      ]
+    },
+    {
+      "id": "ACC_HAT_003",
+      "name": "Bucket Hat Summer 1",
+      "subcategory": "headwear",
+      "layer_z": 11,
+      "anchor_offset": {
+        "x": 24,
+        "y": 10
+      },
+      "tags": [
+        "accessory",
+        "hat",
+        "bucket_hat_summer"
+      ]
+    },
+    {
+      "id": "ACC_HAT_004",
+      "name": "Panama Straw Fedora 1",
+      "subcategory": "headwear",
+      "layer_z": 11,
+      "anchor_offset": {
+        "x": 24,
+        "y": 10
+      },
+      "tags": [
+        "accessory",
+        "hat",
+        "panama_straw_fedora"
+      ]
+    },
+    {
+      "id": "ACC_HAT_005",
+      "name": "Hard Hat Construction 1",
+      "subcategory": "headwear",
+      "layer_z": 11,
+      "anchor_offset": {
+        "x": 24,
+        "y": 10
+      },
+      "tags": [
+        "accessory",
+        "hat",
+        "hard_hat_construction"
+      ]
+    },
+    {
+      "id": "ACC_HAT_006",
+      "name": "Beret Artisan 1",
+      "subcategory": "headwear",
+      "layer_z": 11,
+      "anchor_offset": {
+        "x": 24,
+        "y": 10
+      },
+      "tags": [
+        "accessory",
+        "hat",
+        "beret_artisan"
+      ]
+    },
+    {
+      "id": "ACC_HAT_007",
+      "name": "Cycling Helmet Aero 1",
+      "subcategory": "headwear",
+      "layer_z": 11,
+      "anchor_offset": {
+        "x": 24,
+        "y": 10
+      },
+      "tags": [
+        "accessory",
+        "hat",
+        "cycling_helmet_aero"
+      ]
+    },
+    {
+      "id": "ACC_HAT_008",
+      "name": "Baseball Cap Arise 2",
+      "subcategory": "headwear",
+      "layer_z": 11,
+      "anchor_offset": {
+        "x": 24,
+        "y": 10
+      },
+      "tags": [
+        "accessory",
+        "hat",
+        "baseball_cap_arise"
+      ]
+    },
+    {
+      "id": "ACC_HAT_009",
+      "name": "Beanie Coastal Fisherman 2",
+      "subcategory": "headwear",
+      "layer_z": 11,
+      "anchor_offset": {
+        "x": 24,
+        "y": 10
+      },
+      "tags": [
+        "accessory",
+        "hat",
+        "beanie_coastal_fisherman"
+      ]
+    },
+    {
+      "id": "ACC_HAT_010",
+      "name": "Bucket Hat Summer 2",
+      "subcategory": "headwear",
+      "layer_z": 11,
+      "anchor_offset": {
+        "x": 24,
+        "y": 10
+      },
+      "tags": [
+        "accessory",
+        "hat",
+        "bucket_hat_summer"
+      ]
+    },
+    {
+      "id": "ACC_HAT_011",
+      "name": "Panama Straw Fedora 2",
+      "subcategory": "headwear",
+      "layer_z": 11,
+      "anchor_offset": {
+        "x": 24,
+        "y": 10
+      },
+      "tags": [
+        "accessory",
+        "hat",
+        "panama_straw_fedora"
+      ]
+    },
+    {
+      "id": "ACC_HAT_012",
+      "name": "Hard Hat Construction 2",
+      "subcategory": "headwear",
+      "layer_z": 11,
+      "anchor_offset": {
+        "x": 24,
+        "y": 10
+      },
+      "tags": [
+        "accessory",
+        "hat",
+        "hard_hat_construction"
+      ]
+    },
+    {
+      "id": "ACC_HAT_013",
+      "name": "Beret Artisan 2",
+      "subcategory": "headwear",
+      "layer_z": 11,
+      "anchor_offset": {
+        "x": 24,
+        "y": 10
+      },
+      "tags": [
+        "accessory",
+        "hat",
+        "beret_artisan"
+      ]
+    },
+    {
+      "id": "ACC_HAT_014",
+      "name": "Cycling Helmet Aero 2",
+      "subcategory": "headwear",
+      "layer_z": 11,
+      "anchor_offset": {
+        "x": 24,
+        "y": 10
+      },
+      "tags": [
+        "accessory",
+        "hat",
+        "cycling_helmet_aero"
+      ]
+    },
+    {
+      "id": "ACC_HAT_015",
+      "name": "Baseball Cap Arise 3",
+      "subcategory": "headwear",
+      "layer_z": 11,
+      "anchor_offset": {
+        "x": 24,
+        "y": 10
+      },
+      "tags": [
+        "accessory",
+        "hat",
+        "baseball_cap_arise"
+      ]
+    },
+    {
+      "id": "ACC_HAT_016",
+      "name": "Beanie Coastal Fisherman 3",
+      "subcategory": "headwear",
+      "layer_z": 11,
+      "anchor_offset": {
+        "x": 24,
+        "y": 10
+      },
+      "tags": [
+        "accessory",
+        "hat",
+        "beanie_coastal_fisherman"
+      ]
+    },
+    {
+      "id": "ACC_HAT_017",
+      "name": "Bucket Hat Summer 3",
+      "subcategory": "headwear",
+      "layer_z": 11,
+      "anchor_offset": {
+        "x": 24,
+        "y": 10
+      },
+      "tags": [
+        "accessory",
+        "hat",
+        "bucket_hat_summer"
+      ]
+    },
+    {
+      "id": "ACC_HAT_018",
+      "name": "Panama Straw Fedora 3",
+      "subcategory": "headwear",
+      "layer_z": 11,
+      "anchor_offset": {
+        "x": 24,
+        "y": 10
+      },
+      "tags": [
+        "accessory",
+        "hat",
+        "panama_straw_fedora"
+      ]
+    },
+    {
+      "id": "ACC_HAT_019",
+      "name": "Hard Hat Construction 3",
+      "subcategory": "headwear",
+      "layer_z": 11,
+      "anchor_offset": {
+        "x": 24,
+        "y": 10
+      },
+      "tags": [
+        "accessory",
+        "hat",
+        "hard_hat_construction"
+      ]
+    },
+    {
+      "id": "ACC_HAT_020",
+      "name": "Beret Artisan 3",
+      "subcategory": "headwear",
+      "layer_z": 11,
+      "anchor_offset": {
+        "x": 24,
+        "y": 10
+      },
+      "tags": [
+        "accessory",
+        "hat",
+        "beret_artisan"
+      ]
+    },
+    {
+      "id": "ACC_HAT_021",
+      "name": "Cycling Helmet Aero 3",
+      "subcategory": "headwear",
+      "layer_z": 11,
+      "anchor_offset": {
+        "x": 24,
+        "y": 10
+      },
+      "tags": [
+        "accessory",
+        "hat",
+        "cycling_helmet_aero"
+      ]
+    },
+    {
+      "id": "ACC_HAT_022",
+      "name": "Baseball Cap Arise 4",
+      "subcategory": "headwear",
+      "layer_z": 11,
+      "anchor_offset": {
+        "x": 24,
+        "y": 10
+      },
+      "tags": [
+        "accessory",
+        "hat",
+        "baseball_cap_arise"
+      ]
+    },
+    {
+      "id": "ACC_HAT_023",
+      "name": "Beanie Coastal Fisherman 4",
+      "subcategory": "headwear",
+      "layer_z": 11,
+      "anchor_offset": {
+        "x": 24,
+        "y": 10
+      },
+      "tags": [
+        "accessory",
+        "hat",
+        "beanie_coastal_fisherman"
+      ]
+    },
+    {
+      "id": "ACC_HAT_024",
+      "name": "Bucket Hat Summer 4",
+      "subcategory": "headwear",
+      "layer_z": 11,
+      "anchor_offset": {
+        "x": 24,
+        "y": 10
+      },
+      "tags": [
+        "accessory",
+        "hat",
+        "bucket_hat_summer"
+      ]
+    },
+    {
+      "id": "ACC_HAT_025",
+      "name": "Panama Straw Fedora 4",
+      "subcategory": "headwear",
+      "layer_z": 11,
+      "anchor_offset": {
+        "x": 24,
+        "y": 10
+      },
+      "tags": [
+        "accessory",
+        "hat",
+        "panama_straw_fedora"
+      ]
+    },
+    {
+      "id": "ACC_HAT_026",
+      "name": "Hard Hat Construction 4",
+      "subcategory": "headwear",
+      "layer_z": 11,
+      "anchor_offset": {
+        "x": 24,
+        "y": 10
+      },
+      "tags": [
+        "accessory",
+        "hat",
+        "hard_hat_construction"
+      ]
+    },
+    {
+      "id": "ACC_HAT_027",
+      "name": "Beret Artisan 4",
+      "subcategory": "headwear",
+      "layer_z": 11,
+      "anchor_offset": {
+        "x": 24,
+        "y": 10
+      },
+      "tags": [
+        "accessory",
+        "hat",
+        "beret_artisan"
+      ]
+    },
+    {
+      "id": "ACC_HAT_028",
+      "name": "Cycling Helmet Aero 4",
+      "subcategory": "headwear",
+      "layer_z": 11,
+      "anchor_offset": {
+        "x": 24,
+        "y": 10
+      },
+      "tags": [
+        "accessory",
+        "hat",
+        "cycling_helmet_aero"
+      ]
+    },
+    {
+      "id": "ACC_HAT_029",
+      "name": "Baseball Cap Arise 5",
+      "subcategory": "headwear",
+      "layer_z": 11,
+      "anchor_offset": {
+        "x": 24,
+        "y": 10
+      },
+      "tags": [
+        "accessory",
+        "hat",
+        "baseball_cap_arise"
+      ]
+    },
+    {
+      "id": "ACC_HAT_030",
+      "name": "Beanie Coastal Fisherman 5",
+      "subcategory": "headwear",
+      "layer_z": 11,
+      "anchor_offset": {
+        "x": 24,
+        "y": 10
+      },
+      "tags": [
+        "accessory",
+        "hat",
+        "beanie_coastal_fisherman"
+      ]
+    },
+    {
+      "id": "ACC_HAT_031",
+      "name": "Bucket Hat Summer 5",
+      "subcategory": "headwear",
+      "layer_z": 11,
+      "anchor_offset": {
+        "x": 24,
+        "y": 10
+      },
+      "tags": [
+        "accessory",
+        "hat",
+        "bucket_hat_summer"
+      ]
+    },
+    {
+      "id": "ACC_HAT_032",
+      "name": "Panama Straw Fedora 5",
+      "subcategory": "headwear",
+      "layer_z": 11,
+      "anchor_offset": {
+        "x": 24,
+        "y": 10
+      },
+      "tags": [
+        "accessory",
+        "hat",
+        "panama_straw_fedora"
+      ]
+    },
+    {
+      "id": "ACC_HAT_033",
+      "name": "Hard Hat Construction 5",
+      "subcategory": "headwear",
+      "layer_z": 11,
+      "anchor_offset": {
+        "x": 24,
+        "y": 10
+      },
+      "tags": [
+        "accessory",
+        "hat",
+        "hard_hat_construction"
+      ]
+    },
+    {
+      "id": "ACC_HAT_034",
+      "name": "Beret Artisan 5",
+      "subcategory": "headwear",
+      "layer_z": 11,
+      "anchor_offset": {
+        "x": 24,
+        "y": 10
+      },
+      "tags": [
+        "accessory",
+        "hat",
+        "beret_artisan"
+      ]
+    },
+    {
+      "id": "ACC_HAT_035",
+      "name": "Cycling Helmet Aero 5",
+      "subcategory": "headwear",
+      "layer_z": 11,
+      "anchor_offset": {
+        "x": 24,
+        "y": 10
+      },
+      "tags": [
+        "accessory",
+        "hat",
+        "cycling_helmet_aero"
+      ]
+    },
+    {
+      "id": "ACC_GLASS_001",
+      "name": "Classic Wayfarer Sunglasses 1",
+      "subcategory": "eyewear",
+      "layer_z": 9,
+      "anchor_offset": {
+        "x": 24,
+        "y": 16
+      },
+      "tags": [
+        "accessory",
+        "glasses",
+        "classic_wayfarer_sunglasses"
+      ]
+    },
+    {
+      "id": "ACC_GLASS_002",
+      "name": "Round Wireframe Spectacles 1",
+      "subcategory": "eyewear",
+      "layer_z": 9,
+      "anchor_offset": {
+        "x": 24,
+        "y": 16
+      },
+      "tags": [
+        "accessory",
+        "glasses",
+        "round_wireframe_spectacles"
+      ]
+    },
+    {
+      "id": "ACC_GLASS_003",
+      "name": "Thick Tortoiseshell Reading 1",
+      "subcategory": "eyewear",
+      "layer_z": 9,
+      "anchor_offset": {
+        "x": 24,
+        "y": 16
+      },
+      "tags": [
+        "accessory",
+        "glasses",
+        "thick_tortoiseshell_reading"
+      ]
+    },
+    {
+      "id": "ACC_GLASS_004",
+      "name": "Sport Cycling Shades 1",
+      "subcategory": "eyewear",
+      "layer_z": 9,
+      "anchor_offset": {
+        "x": 24,
+        "y": 16
+      },
+      "tags": [
+        "accessory",
+        "glasses",
+        "sport_cycling_shades"
+      ]
+    },
+    {
+      "id": "ACC_GLASS_005",
+      "name": "Protective Lab Goggles 1",
+      "subcategory": "eyewear",
+      "layer_z": 9,
+      "anchor_offset": {
+        "x": 24,
+        "y": 16
+      },
+      "tags": [
+        "accessory",
+        "glasses",
+        "protective_lab_goggles"
+      ]
+    },
+    {
+      "id": "ACC_GLASS_006",
+      "name": "Monocle Vintage 1",
+      "subcategory": "eyewear",
+      "layer_z": 9,
+      "anchor_offset": {
+        "x": 24,
+        "y": 16
+      },
+      "tags": [
+        "accessory",
+        "glasses",
+        "monocle_vintage"
+      ]
+    },
+    {
+      "id": "ACC_GLASS_007",
+      "name": "Futuristic Ar Visor 1",
+      "subcategory": "eyewear",
+      "layer_z": 9,
+      "anchor_offset": {
+        "x": 24,
+        "y": 16
+      },
+      "tags": [
+        "accessory",
+        "glasses",
+        "futuristic_ar_visor"
+      ]
+    },
+    {
+      "id": "ACC_GLASS_008",
+      "name": "Classic Wayfarer Sunglasses 2",
+      "subcategory": "eyewear",
+      "layer_z": 9,
+      "anchor_offset": {
+        "x": 24,
+        "y": 16
+      },
+      "tags": [
+        "accessory",
+        "glasses",
+        "classic_wayfarer_sunglasses"
+      ]
+    },
+    {
+      "id": "ACC_GLASS_009",
+      "name": "Round Wireframe Spectacles 2",
+      "subcategory": "eyewear",
+      "layer_z": 9,
+      "anchor_offset": {
+        "x": 24,
+        "y": 16
+      },
+      "tags": [
+        "accessory",
+        "glasses",
+        "round_wireframe_spectacles"
+      ]
+    },
+    {
+      "id": "ACC_GLASS_010",
+      "name": "Thick Tortoiseshell Reading 2",
+      "subcategory": "eyewear",
+      "layer_z": 9,
+      "anchor_offset": {
+        "x": 24,
+        "y": 16
+      },
+      "tags": [
+        "accessory",
+        "glasses",
+        "thick_tortoiseshell_reading"
+      ]
+    },
+    {
+      "id": "ACC_GLASS_011",
+      "name": "Sport Cycling Shades 2",
+      "subcategory": "eyewear",
+      "layer_z": 9,
+      "anchor_offset": {
+        "x": 24,
+        "y": 16
+      },
+      "tags": [
+        "accessory",
+        "glasses",
+        "sport_cycling_shades"
+      ]
+    },
+    {
+      "id": "ACC_GLASS_012",
+      "name": "Protective Lab Goggles 2",
+      "subcategory": "eyewear",
+      "layer_z": 9,
+      "anchor_offset": {
+        "x": 24,
+        "y": 16
+      },
+      "tags": [
+        "accessory",
+        "glasses",
+        "protective_lab_goggles"
+      ]
+    },
+    {
+      "id": "ACC_GLASS_013",
+      "name": "Monocle Vintage 2",
+      "subcategory": "eyewear",
+      "layer_z": 9,
+      "anchor_offset": {
+        "x": 24,
+        "y": 16
+      },
+      "tags": [
+        "accessory",
+        "glasses",
+        "monocle_vintage"
+      ]
+    },
+    {
+      "id": "ACC_GLASS_014",
+      "name": "Futuristic Ar Visor 2",
+      "subcategory": "eyewear",
+      "layer_z": 9,
+      "anchor_offset": {
+        "x": 24,
+        "y": 16
+      },
+      "tags": [
+        "accessory",
+        "glasses",
+        "futuristic_ar_visor"
+      ]
+    },
+    {
+      "id": "ACC_GLASS_015",
+      "name": "Classic Wayfarer Sunglasses 3",
+      "subcategory": "eyewear",
+      "layer_z": 9,
+      "anchor_offset": {
+        "x": 24,
+        "y": 16
+      },
+      "tags": [
+        "accessory",
+        "glasses",
+        "classic_wayfarer_sunglasses"
+      ]
+    },
+    {
+      "id": "ACC_GLASS_016",
+      "name": "Round Wireframe Spectacles 3",
+      "subcategory": "eyewear",
+      "layer_z": 9,
+      "anchor_offset": {
+        "x": 24,
+        "y": 16
+      },
+      "tags": [
+        "accessory",
+        "glasses",
+        "round_wireframe_spectacles"
+      ]
+    },
+    {
+      "id": "ACC_GLASS_017",
+      "name": "Thick Tortoiseshell Reading 3",
+      "subcategory": "eyewear",
+      "layer_z": 9,
+      "anchor_offset": {
+        "x": 24,
+        "y": 16
+      },
+      "tags": [
+        "accessory",
+        "glasses",
+        "thick_tortoiseshell_reading"
+      ]
+    },
+    {
+      "id": "ACC_GLASS_018",
+      "name": "Sport Cycling Shades 3",
+      "subcategory": "eyewear",
+      "layer_z": 9,
+      "anchor_offset": {
+        "x": 24,
+        "y": 16
+      },
+      "tags": [
+        "accessory",
+        "glasses",
+        "sport_cycling_shades"
+      ]
+    },
+    {
+      "id": "ACC_GLASS_019",
+      "name": "Protective Lab Goggles 3",
+      "subcategory": "eyewear",
+      "layer_z": 9,
+      "anchor_offset": {
+        "x": 24,
+        "y": 16
+      },
+      "tags": [
+        "accessory",
+        "glasses",
+        "protective_lab_goggles"
+      ]
+    },
+    {
+      "id": "ACC_GLASS_020",
+      "name": "Monocle Vintage 3",
+      "subcategory": "eyewear",
+      "layer_z": 9,
+      "anchor_offset": {
+        "x": 24,
+        "y": 16
+      },
+      "tags": [
+        "accessory",
+        "glasses",
+        "monocle_vintage"
+      ]
+    },
+    {
+      "id": "ACC_GLASS_021",
+      "name": "Futuristic Ar Visor 3",
+      "subcategory": "eyewear",
+      "layer_z": 9,
+      "anchor_offset": {
+        "x": 24,
+        "y": 16
+      },
+      "tags": [
+        "accessory",
+        "glasses",
+        "futuristic_ar_visor"
+      ]
+    },
+    {
+      "id": "ACC_GLASS_022",
+      "name": "Classic Wayfarer Sunglasses 4",
+      "subcategory": "eyewear",
+      "layer_z": 9,
+      "anchor_offset": {
+        "x": 24,
+        "y": 16
+      },
+      "tags": [
+        "accessory",
+        "glasses",
+        "classic_wayfarer_sunglasses"
+      ]
+    },
+    {
+      "id": "ACC_GLASS_023",
+      "name": "Round Wireframe Spectacles 4",
+      "subcategory": "eyewear",
+      "layer_z": 9,
+      "anchor_offset": {
+        "x": 24,
+        "y": 16
+      },
+      "tags": [
+        "accessory",
+        "glasses",
+        "round_wireframe_spectacles"
+      ]
+    },
+    {
+      "id": "ACC_GLASS_024",
+      "name": "Thick Tortoiseshell Reading 4",
+      "subcategory": "eyewear",
+      "layer_z": 9,
+      "anchor_offset": {
+        "x": 24,
+        "y": 16
+      },
+      "tags": [
+        "accessory",
+        "glasses",
+        "thick_tortoiseshell_reading"
+      ]
+    },
+    {
+      "id": "ACC_GLASS_025",
+      "name": "Sport Cycling Shades 4",
+      "subcategory": "eyewear",
+      "layer_z": 9,
+      "anchor_offset": {
+        "x": 24,
+        "y": 16
+      },
+      "tags": [
+        "accessory",
+        "glasses",
+        "sport_cycling_shades"
+      ]
+    },
+    {
+      "id": "ACC_GLASS_026",
+      "name": "Protective Lab Goggles 4",
+      "subcategory": "eyewear",
+      "layer_z": 9,
+      "anchor_offset": {
+        "x": 24,
+        "y": 16
+      },
+      "tags": [
+        "accessory",
+        "glasses",
+        "protective_lab_goggles"
+      ]
+    },
+    {
+      "id": "ACC_GLASS_027",
+      "name": "Monocle Vintage 4",
+      "subcategory": "eyewear",
+      "layer_z": 9,
+      "anchor_offset": {
+        "x": 24,
+        "y": 16
+      },
+      "tags": [
+        "accessory",
+        "glasses",
+        "monocle_vintage"
+      ]
+    },
+    {
+      "id": "ACC_GLASS_028",
+      "name": "Futuristic Ar Visor 4",
+      "subcategory": "eyewear",
+      "layer_z": 9,
+      "anchor_offset": {
+        "x": 24,
+        "y": 16
+      },
+      "tags": [
+        "accessory",
+        "glasses",
+        "futuristic_ar_visor"
+      ]
+    },
+    {
+      "id": "ACC_GLASS_029",
+      "name": "Classic Wayfarer Sunglasses 5",
+      "subcategory": "eyewear",
+      "layer_z": 9,
+      "anchor_offset": {
+        "x": 24,
+        "y": 16
+      },
+      "tags": [
+        "accessory",
+        "glasses",
+        "classic_wayfarer_sunglasses"
+      ]
+    },
+    {
+      "id": "ACC_GLASS_030",
+      "name": "Round Wireframe Spectacles 5",
+      "subcategory": "eyewear",
+      "layer_z": 9,
+      "anchor_offset": {
+        "x": 24,
+        "y": 16
+      },
+      "tags": [
+        "accessory",
+        "glasses",
+        "round_wireframe_spectacles"
+      ]
+    },
+    {
+      "id": "ACC_GLASS_031",
+      "name": "Thick Tortoiseshell Reading 5",
+      "subcategory": "eyewear",
+      "layer_z": 9,
+      "anchor_offset": {
+        "x": 24,
+        "y": 16
+      },
+      "tags": [
+        "accessory",
+        "glasses",
+        "thick_tortoiseshell_reading"
+      ]
+    },
+    {
+      "id": "ACC_GLASS_032",
+      "name": "Sport Cycling Shades 5",
+      "subcategory": "eyewear",
+      "layer_z": 9,
+      "anchor_offset": {
+        "x": 24,
+        "y": 16
+      },
+      "tags": [
+        "accessory",
+        "glasses",
+        "sport_cycling_shades"
+      ]
+    },
+    {
+      "id": "ACC_GLASS_033",
+      "name": "Protective Lab Goggles 5",
+      "subcategory": "eyewear",
+      "layer_z": 9,
+      "anchor_offset": {
+        "x": 24,
+        "y": 16
+      },
+      "tags": [
+        "accessory",
+        "glasses",
+        "protective_lab_goggles"
+      ]
+    },
+    {
+      "id": "ACC_GLASS_034",
+      "name": "Monocle Vintage 5",
+      "subcategory": "eyewear",
+      "layer_z": 9,
+      "anchor_offset": {
+        "x": 24,
+        "y": 16
+      },
+      "tags": [
+        "accessory",
+        "glasses",
+        "monocle_vintage"
+      ]
+    },
+    {
+      "id": "ACC_GLASS_035",
+      "name": "Futuristic Ar Visor 5",
+      "subcategory": "eyewear",
+      "layer_z": 9,
+      "anchor_offset": {
+        "x": 24,
+        "y": 16
+      },
+      "tags": [
+        "accessory",
+        "glasses",
+        "futuristic_ar_visor"
+      ]
+    },
+    {
+      "id": "ACC_HELD_001",
+      "name": "Thermal Coffee Tumbler 1",
+      "subcategory": "handheld",
+      "layer_z": 12,
+      "anchor_offset": {
+        "x": 32,
+        "y": 34
+      },
+      "tags": [
+        "accessory",
+        "held",
+        "thermal_coffee_tumbler"
+      ]
+    },
+    {
+      "id": "ACC_HELD_002",
+      "name": "Laptop Sleeve Canvas 1",
+      "subcategory": "handheld",
+      "layer_z": 12,
+      "anchor_offset": {
+        "x": 32,
+        "y": 34
+      },
+      "tags": [
+        "accessory",
+        "held",
+        "laptop_sleeve_canvas"
+      ]
+    },
+    {
+      "id": "ACC_HELD_003",
+      "name": "Canvas Tote Bag 1",
+      "subcategory": "handheld",
+      "layer_z": 12,
+      "anchor_offset": {
+        "x": 32,
+        "y": 34
+      },
+      "tags": [
+        "accessory",
+        "held",
+        "canvas_tote_bag"
+      ]
+    },
+    {
+      "id": "ACC_HELD_004",
+      "name": "Umbrella Compact 1",
+      "subcategory": "handheld",
+      "layer_z": 12,
+      "anchor_offset": {
+        "x": 32,
+        "y": 34
+      },
+      "tags": [
+        "accessory",
+        "held",
+        "umbrella_compact"
+      ]
+    },
+    {
+      "id": "ACC_HELD_005",
+      "name": "Fishing Rod Telescopic 1",
+      "subcategory": "handheld",
+      "layer_z": 12,
+      "anchor_offset": {
+        "x": 32,
+        "y": 34
+      },
+      "tags": [
+        "accessory",
+        "held",
+        "fishing_rod_telescopic"
+      ]
+    },
+    {
+      "id": "ACC_HELD_006",
+      "name": "Padel Tennis Racket 1",
+      "subcategory": "handheld",
+      "layer_z": 12,
+      "anchor_offset": {
+        "x": 32,
+        "y": 34
+      },
+      "tags": [
+        "accessory",
+        "held",
+        "padel_tennis_racket"
+      ]
+    },
+    {
+      "id": "ACC_HELD_007",
+      "name": "Tablet Stylus Device 1",
+      "subcategory": "handheld",
+      "layer_z": 12,
+      "anchor_offset": {
+        "x": 32,
+        "y": 34
+      },
+      "tags": [
+        "accessory",
+        "held",
+        "tablet_stylus_device"
+      ]
+    },
+    {
+      "id": "ACC_HELD_008",
+      "name": "Thermal Coffee Tumbler 2",
+      "subcategory": "handheld",
+      "layer_z": 12,
+      "anchor_offset": {
+        "x": 32,
+        "y": 34
+      },
+      "tags": [
+        "accessory",
+        "held",
+        "thermal_coffee_tumbler"
+      ]
+    },
+    {
+      "id": "ACC_HELD_009",
+      "name": "Laptop Sleeve Canvas 2",
+      "subcategory": "handheld",
+      "layer_z": 12,
+      "anchor_offset": {
+        "x": 32,
+        "y": 34
+      },
+      "tags": [
+        "accessory",
+        "held",
+        "laptop_sleeve_canvas"
+      ]
+    },
+    {
+      "id": "ACC_HELD_010",
+      "name": "Canvas Tote Bag 2",
+      "subcategory": "handheld",
+      "layer_z": 12,
+      "anchor_offset": {
+        "x": 32,
+        "y": 34
+      },
+      "tags": [
+        "accessory",
+        "held",
+        "canvas_tote_bag"
+      ]
+    },
+    {
+      "id": "ACC_HELD_011",
+      "name": "Umbrella Compact 2",
+      "subcategory": "handheld",
+      "layer_z": 12,
+      "anchor_offset": {
+        "x": 32,
+        "y": 34
+      },
+      "tags": [
+        "accessory",
+        "held",
+        "umbrella_compact"
+      ]
+    },
+    {
+      "id": "ACC_HELD_012",
+      "name": "Fishing Rod Telescopic 2",
+      "subcategory": "handheld",
+      "layer_z": 12,
+      "anchor_offset": {
+        "x": 32,
+        "y": 34
+      },
+      "tags": [
+        "accessory",
+        "held",
+        "fishing_rod_telescopic"
+      ]
+    },
+    {
+      "id": "ACC_HELD_013",
+      "name": "Padel Tennis Racket 2",
+      "subcategory": "handheld",
+      "layer_z": 12,
+      "anchor_offset": {
+        "x": 32,
+        "y": 34
+      },
+      "tags": [
+        "accessory",
+        "held",
+        "padel_tennis_racket"
+      ]
+    },
+    {
+      "id": "ACC_HELD_014",
+      "name": "Tablet Stylus Device 2",
+      "subcategory": "handheld",
+      "layer_z": 12,
+      "anchor_offset": {
+        "x": 32,
+        "y": 34
+      },
+      "tags": [
+        "accessory",
+        "held",
+        "tablet_stylus_device"
+      ]
+    },
+    {
+      "id": "ACC_HELD_015",
+      "name": "Thermal Coffee Tumbler 3",
+      "subcategory": "handheld",
+      "layer_z": 12,
+      "anchor_offset": {
+        "x": 32,
+        "y": 34
+      },
+      "tags": [
+        "accessory",
+        "held",
+        "thermal_coffee_tumbler"
+      ]
+    },
+    {
+      "id": "ACC_HELD_016",
+      "name": "Laptop Sleeve Canvas 3",
+      "subcategory": "handheld",
+      "layer_z": 12,
+      "anchor_offset": {
+        "x": 32,
+        "y": 34
+      },
+      "tags": [
+        "accessory",
+        "held",
+        "laptop_sleeve_canvas"
+      ]
+    },
+    {
+      "id": "ACC_HELD_017",
+      "name": "Canvas Tote Bag 3",
+      "subcategory": "handheld",
+      "layer_z": 12,
+      "anchor_offset": {
+        "x": 32,
+        "y": 34
+      },
+      "tags": [
+        "accessory",
+        "held",
+        "canvas_tote_bag"
+      ]
+    },
+    {
+      "id": "ACC_HELD_018",
+      "name": "Umbrella Compact 3",
+      "subcategory": "handheld",
+      "layer_z": 12,
+      "anchor_offset": {
+        "x": 32,
+        "y": 34
+      },
+      "tags": [
+        "accessory",
+        "held",
+        "umbrella_compact"
+      ]
+    },
+    {
+      "id": "ACC_HELD_019",
+      "name": "Fishing Rod Telescopic 3",
+      "subcategory": "handheld",
+      "layer_z": 12,
+      "anchor_offset": {
+        "x": 32,
+        "y": 34
+      },
+      "tags": [
+        "accessory",
+        "held",
+        "fishing_rod_telescopic"
+      ]
+    },
+    {
+      "id": "ACC_HELD_020",
+      "name": "Padel Tennis Racket 3",
+      "subcategory": "handheld",
+      "layer_z": 12,
+      "anchor_offset": {
+        "x": 32,
+        "y": 34
+      },
+      "tags": [
+        "accessory",
+        "held",
+        "padel_tennis_racket"
+      ]
+    },
+    {
+      "id": "ACC_HELD_021",
+      "name": "Tablet Stylus Device 3",
+      "subcategory": "handheld",
+      "layer_z": 12,
+      "anchor_offset": {
+        "x": 32,
+        "y": 34
+      },
+      "tags": [
+        "accessory",
+        "held",
+        "tablet_stylus_device"
+      ]
+    },
+    {
+      "id": "ACC_HELD_022",
+      "name": "Thermal Coffee Tumbler 4",
+      "subcategory": "handheld",
+      "layer_z": 12,
+      "anchor_offset": {
+        "x": 32,
+        "y": 34
+      },
+      "tags": [
+        "accessory",
+        "held",
+        "thermal_coffee_tumbler"
+      ]
+    },
+    {
+      "id": "ACC_HELD_023",
+      "name": "Laptop Sleeve Canvas 4",
+      "subcategory": "handheld",
+      "layer_z": 12,
+      "anchor_offset": {
+        "x": 32,
+        "y": 34
+      },
+      "tags": [
+        "accessory",
+        "held",
+        "laptop_sleeve_canvas"
+      ]
+    },
+    {
+      "id": "ACC_HELD_024",
+      "name": "Canvas Tote Bag 4",
+      "subcategory": "handheld",
+      "layer_z": 12,
+      "anchor_offset": {
+        "x": 32,
+        "y": 34
+      },
+      "tags": [
+        "accessory",
+        "held",
+        "canvas_tote_bag"
+      ]
+    },
+    {
+      "id": "ACC_HELD_025",
+      "name": "Umbrella Compact 4",
+      "subcategory": "handheld",
+      "layer_z": 12,
+      "anchor_offset": {
+        "x": 32,
+        "y": 34
+      },
+      "tags": [
+        "accessory",
+        "held",
+        "umbrella_compact"
+      ]
+    },
+    {
+      "id": "ACC_HELD_026",
+      "name": "Fishing Rod Telescopic 4",
+      "subcategory": "handheld",
+      "layer_z": 12,
+      "anchor_offset": {
+        "x": 32,
+        "y": 34
+      },
+      "tags": [
+        "accessory",
+        "held",
+        "fishing_rod_telescopic"
+      ]
+    },
+    {
+      "id": "ACC_HELD_027",
+      "name": "Padel Tennis Racket 4",
+      "subcategory": "handheld",
+      "layer_z": 12,
+      "anchor_offset": {
+        "x": 32,
+        "y": 34
+      },
+      "tags": [
+        "accessory",
+        "held",
+        "padel_tennis_racket"
+      ]
+    },
+    {
+      "id": "ACC_HELD_028",
+      "name": "Tablet Stylus Device 4",
+      "subcategory": "handheld",
+      "layer_z": 12,
+      "anchor_offset": {
+        "x": 32,
+        "y": 34
+      },
+      "tags": [
+        "accessory",
+        "held",
+        "tablet_stylus_device"
+      ]
+    },
+    {
+      "id": "ACC_HELD_029",
+      "name": "Thermal Coffee Tumbler 5",
+      "subcategory": "handheld",
+      "layer_z": 12,
+      "anchor_offset": {
+        "x": 32,
+        "y": 34
+      },
+      "tags": [
+        "accessory",
+        "held",
+        "thermal_coffee_tumbler"
+      ]
+    },
+    {
+      "id": "ACC_HELD_030",
+      "name": "Laptop Sleeve Canvas 5",
+      "subcategory": "handheld",
+      "layer_z": 12,
+      "anchor_offset": {
+        "x": 32,
+        "y": 34
+      },
+      "tags": [
+        "accessory",
+        "held",
+        "laptop_sleeve_canvas"
+      ]
+    },
+    {
+      "id": "ACC_HELD_031",
+      "name": "Canvas Tote Bag 5",
+      "subcategory": "handheld",
+      "layer_z": 12,
+      "anchor_offset": {
+        "x": 32,
+        "y": 34
+      },
+      "tags": [
+        "accessory",
+        "held",
+        "canvas_tote_bag"
+      ]
+    },
+    {
+      "id": "ACC_HELD_032",
+      "name": "Umbrella Compact 5",
+      "subcategory": "handheld",
+      "layer_z": 12,
+      "anchor_offset": {
+        "x": 32,
+        "y": 34
+      },
+      "tags": [
+        "accessory",
+        "held",
+        "umbrella_compact"
+      ]
+    },
+    {
+      "id": "ACC_HELD_033",
+      "name": "Fishing Rod Telescopic 5",
+      "subcategory": "handheld",
+      "layer_z": 12,
+      "anchor_offset": {
+        "x": 32,
+        "y": 34
+      },
+      "tags": [
+        "accessory",
+        "held",
+        "fishing_rod_telescopic"
+      ]
+    },
+    {
+      "id": "ACC_HELD_034",
+      "name": "Padel Tennis Racket 5",
+      "subcategory": "handheld",
+      "layer_z": 12,
+      "anchor_offset": {
+        "x": 32,
+        "y": 34
+      },
+      "tags": [
+        "accessory",
+        "held",
+        "padel_tennis_racket"
+      ]
+    },
+    {
+      "id": "ACC_HELD_035",
+      "name": "Tablet Stylus Device 5",
+      "subcategory": "handheld",
+      "layer_z": 12,
+      "anchor_offset": {
+        "x": 32,
+        "y": 34
+      },
+      "tags": [
+        "accessory",
+        "held",
+        "tablet_stylus_device"
+      ]
+    }
+  ]
+}

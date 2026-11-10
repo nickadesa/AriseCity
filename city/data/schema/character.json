@@ -1,0 +1,89 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "AriseCity Visual Character (Paper-Doll) Schema",
+  "description": "Defines composite layered sprite assembly, anchor offsets, and color palettes for pixel art characters.",
+  "type": "object",
+  "required": [
+    "id",
+    "age_group",
+    "height_tier",
+    "body_type",
+    "layers",
+    "palettes"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^CHR_[A-Z0-9_]+$",
+      "description": "Unique visual character sheet identifier"
+    },
+    "age_group": {
+      "type": "string",
+      "enum": ["child", "teen", "adult", "elder"],
+      "default": "adult"
+    },
+    "height_tier": {
+      "type": "string",
+      "enum": ["short", "medium", "tall"],
+      "default": "medium"
+    },
+    "body_type": {
+      "type": "string",
+      "enum": ["slim", "average", "athletic", "heavy"],
+      "default": "average"
+    },
+    "layers": {
+      "type": "object",
+      "required": ["hair_id", "face_id", "top_id", "bottom_id", "shoes_id"],
+      "properties": {
+        "body_id": { "type": "string", "default": "BODY_STD_01" },
+        "hair_id": { "type": "string", "description": "Catalog item reference HAIR_xxx (100+ options)" },
+        "face_id": { "type": "string", "description": "Catalog item reference FACE_xxx (100+ options)" },
+        "top_id": { "type": "string", "description": "Catalog item reference TOP_xxx (100+ options)" },
+        "bottom_id": { "type": "string", "description": "Catalog item reference BOT_xxx (100+ options)" },
+        "shoes_id": { "type": "string", "description": "Catalog item reference SHOE_xxx (100+ options)" },
+        "facial_hair_id": { "type": "string" },
+        "glasses_id": { "type": "string" },
+        "headwear_id": { "type": "string" },
+        "held_item_id": { "type": "string" }
+      }
+    },
+    "palettes": {
+      "type": "object",
+      "required": ["skin_ramp", "hair_ramp", "top_ramp", "bottom_ramp"],
+      "properties": {
+        "skin_ramp": {
+          "type": "array",
+          "items": { "type": "string" },
+          "minItems": 4,
+          "maxItems": 4
+        },
+        "hair_ramp": {
+          "type": "array",
+          "items": { "type": "string" },
+          "minItems": 4,
+          "maxItems": 4
+        },
+        "eye_color_hex": { "type": "string" },
+        "top_ramp": {
+          "type": "array",
+          "items": { "type": "string" },
+          "minItems": 4,
+          "maxItems": 4
+        },
+        "bottom_ramp": {
+          "type": "array",
+          "items": { "type": "string" },
+          "minItems": 4,
+          "maxItems": 4
+        },
+        "shoes_color_hex": { "type": "string" }
+      }
+    },
+    "animation_profile": {
+      "type": "string",
+      "enum": ["standard_walk", "brisk_commute", "elder_stroll", "tech_slouch", "athletic_jog"],
+      "default": "standard_walk"
+    }
+  }
+}

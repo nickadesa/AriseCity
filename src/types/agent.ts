@@ -137,4 +137,40 @@ export type ClickableTarget =
   | { type: 'water_cooler' }
   | { type: 'coffee_bar' }
   | { type: 'npc'; npcId: string }
-  | { type: 'agent'; agentId: string };
+  | { type: 'agent'; agentId: string }
+  | { type: 'landmark'; landmarkId: string }
+  | { type: 'district'; districtId: DistrictId };
+
+export type DistrictId = 
+  | 'downtown_waterfront' 
+  | 'civic_promenade' 
+  | 'port_maritime' 
+  | 'sports_wellness' 
+  | 'terrace_residential';
+
+export type ZoomTier = 'Z0_CITY' | 'Z1_DISTRICT' | 'Z2_STREET' | 'Z3_CUTAWAY' | 'Z4_INTERIOR';
+
+export interface CityLandmark {
+  id: string;
+  name: string;
+  nameThai: string;
+  type: string;
+  districtId: DistrictId;
+  worldPos: { x: number; y: number; z: number };
+  icon: string;
+  description: string;
+  walkMinutesFromHQ?: number;
+}
+
+export interface CityDistrict {
+  id: DistrictId;
+  name: string;
+  nameThai: string;
+  colorHex: string;
+  accentHex: string;
+  description: string;
+  centerPos: { x: number; y: number; z: number };
+  icon: string;
+  landmarks: CityLandmark[];
+}
+

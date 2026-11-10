@@ -1,0 +1,1766 @@
+{
+  "category": "shoes",
+  "total_count": 110,
+  "items": [
+    {
+      "id": "SHOE_001",
+      "name": "Lowtop Canvas Sneaker Model 1",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "lowtop_canvas_sneaker"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_002",
+      "name": "Retro Running Trainer Model 1",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "retro_running_trainer"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_003",
+      "name": "Leather Chelsea Boot Model 1",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "leather_chelsea_boot"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_004",
+      "name": "Oxford Brogue Dress Model 1",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "oxford_brogue_dress"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_005",
+      "name": "Deck Shoes Boat Model 1",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "deck_shoes_boat"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_006",
+      "name": "Slipon Sandals Cork Model 1",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "slipon_sandals_cork"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_007",
+      "name": "Combat Laceup Boot Model 1",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "combat_laceup_boot"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_008",
+      "name": "Chunky Platform Loafer Model 1",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "chunky_platform_loafer"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_009",
+      "name": "Athletic Padel Court Shoe Model 1",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "athletic_padel_court_shoe"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_010",
+      "name": "Minimalist Leather Mule Model 1",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "minimalist_leather_mule"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_011",
+      "name": "Rubber Waterproof Rainboot Model 1",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "rubber_waterproof_rainboot"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_012",
+      "name": "Hiking Trail Shoe Model 1",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "hiking_trail_shoe"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_013",
+      "name": "Lowtop Canvas Sneaker Model 2",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "lowtop_canvas_sneaker"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_014",
+      "name": "Retro Running Trainer Model 2",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "retro_running_trainer"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_015",
+      "name": "Leather Chelsea Boot Model 2",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "leather_chelsea_boot"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_016",
+      "name": "Oxford Brogue Dress Model 2",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "oxford_brogue_dress"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_017",
+      "name": "Deck Shoes Boat Model 2",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "deck_shoes_boat"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_018",
+      "name": "Slipon Sandals Cork Model 2",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "slipon_sandals_cork"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_019",
+      "name": "Combat Laceup Boot Model 2",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "combat_laceup_boot"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_020",
+      "name": "Chunky Platform Loafer Model 2",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "chunky_platform_loafer"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_021",
+      "name": "Athletic Padel Court Shoe Model 2",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "athletic_padel_court_shoe"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_022",
+      "name": "Minimalist Leather Mule Model 2",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "minimalist_leather_mule"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_023",
+      "name": "Rubber Waterproof Rainboot Model 2",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "rubber_waterproof_rainboot"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_024",
+      "name": "Hiking Trail Shoe Model 2",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "hiking_trail_shoe"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_025",
+      "name": "Lowtop Canvas Sneaker Model 3",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "lowtop_canvas_sneaker"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_026",
+      "name": "Retro Running Trainer Model 3",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "retro_running_trainer"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_027",
+      "name": "Leather Chelsea Boot Model 3",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "leather_chelsea_boot"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_028",
+      "name": "Oxford Brogue Dress Model 3",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "oxford_brogue_dress"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_029",
+      "name": "Deck Shoes Boat Model 3",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "deck_shoes_boat"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_030",
+      "name": "Slipon Sandals Cork Model 3",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "slipon_sandals_cork"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_031",
+      "name": "Combat Laceup Boot Model 3",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "combat_laceup_boot"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_032",
+      "name": "Chunky Platform Loafer Model 3",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "chunky_platform_loafer"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_033",
+      "name": "Athletic Padel Court Shoe Model 3",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "athletic_padel_court_shoe"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_034",
+      "name": "Minimalist Leather Mule Model 3",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "minimalist_leather_mule"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_035",
+      "name": "Rubber Waterproof Rainboot Model 3",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "rubber_waterproof_rainboot"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_036",
+      "name": "Hiking Trail Shoe Model 3",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "hiking_trail_shoe"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_037",
+      "name": "Lowtop Canvas Sneaker Model 4",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "lowtop_canvas_sneaker"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_038",
+      "name": "Retro Running Trainer Model 4",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "retro_running_trainer"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_039",
+      "name": "Leather Chelsea Boot Model 4",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "leather_chelsea_boot"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_040",
+      "name": "Oxford Brogue Dress Model 4",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "oxford_brogue_dress"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_041",
+      "name": "Deck Shoes Boat Model 4",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "deck_shoes_boat"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_042",
+      "name": "Slipon Sandals Cork Model 4",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "slipon_sandals_cork"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_043",
+      "name": "Combat Laceup Boot Model 4",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "combat_laceup_boot"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_044",
+      "name": "Chunky Platform Loafer Model 4",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "chunky_platform_loafer"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_045",
+      "name": "Athletic Padel Court Shoe Model 4",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "athletic_padel_court_shoe"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_046",
+      "name": "Minimalist Leather Mule Model 4",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "minimalist_leather_mule"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_047",
+      "name": "Rubber Waterproof Rainboot Model 4",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "rubber_waterproof_rainboot"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_048",
+      "name": "Hiking Trail Shoe Model 4",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "hiking_trail_shoe"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_049",
+      "name": "Lowtop Canvas Sneaker Model 5",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "lowtop_canvas_sneaker"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_050",
+      "name": "Retro Running Trainer Model 5",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "retro_running_trainer"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_051",
+      "name": "Leather Chelsea Boot Model 5",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "leather_chelsea_boot"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_052",
+      "name": "Oxford Brogue Dress Model 5",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "oxford_brogue_dress"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_053",
+      "name": "Deck Shoes Boat Model 5",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "deck_shoes_boat"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_054",
+      "name": "Slipon Sandals Cork Model 5",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "slipon_sandals_cork"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_055",
+      "name": "Combat Laceup Boot Model 5",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "combat_laceup_boot"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_056",
+      "name": "Chunky Platform Loafer Model 5",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "chunky_platform_loafer"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_057",
+      "name": "Athletic Padel Court Shoe Model 5",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "athletic_padel_court_shoe"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_058",
+      "name": "Minimalist Leather Mule Model 5",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "minimalist_leather_mule"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_059",
+      "name": "Rubber Waterproof Rainboot Model 5",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "rubber_waterproof_rainboot"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_060",
+      "name": "Hiking Trail Shoe Model 5",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "hiking_trail_shoe"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_061",
+      "name": "Lowtop Canvas Sneaker Model 6",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "lowtop_canvas_sneaker"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_062",
+      "name": "Retro Running Trainer Model 6",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "retro_running_trainer"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_063",
+      "name": "Leather Chelsea Boot Model 6",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "leather_chelsea_boot"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_064",
+      "name": "Oxford Brogue Dress Model 6",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "oxford_brogue_dress"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_065",
+      "name": "Deck Shoes Boat Model 6",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "deck_shoes_boat"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_066",
+      "name": "Slipon Sandals Cork Model 6",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "slipon_sandals_cork"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_067",
+      "name": "Combat Laceup Boot Model 6",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "combat_laceup_boot"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_068",
+      "name": "Chunky Platform Loafer Model 6",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "chunky_platform_loafer"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_069",
+      "name": "Athletic Padel Court Shoe Model 6",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "athletic_padel_court_shoe"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_070",
+      "name": "Minimalist Leather Mule Model 6",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "minimalist_leather_mule"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_071",
+      "name": "Rubber Waterproof Rainboot Model 6",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "rubber_waterproof_rainboot"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_072",
+      "name": "Hiking Trail Shoe Model 6",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "hiking_trail_shoe"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_073",
+      "name": "Lowtop Canvas Sneaker Model 7",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "lowtop_canvas_sneaker"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_074",
+      "name": "Retro Running Trainer Model 7",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "retro_running_trainer"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_075",
+      "name": "Leather Chelsea Boot Model 7",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "leather_chelsea_boot"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_076",
+      "name": "Oxford Brogue Dress Model 7",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "oxford_brogue_dress"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_077",
+      "name": "Deck Shoes Boat Model 7",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "deck_shoes_boat"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_078",
+      "name": "Slipon Sandals Cork Model 7",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "slipon_sandals_cork"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_079",
+      "name": "Combat Laceup Boot Model 7",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "combat_laceup_boot"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_080",
+      "name": "Chunky Platform Loafer Model 7",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "chunky_platform_loafer"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_081",
+      "name": "Athletic Padel Court Shoe Model 7",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "athletic_padel_court_shoe"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_082",
+      "name": "Minimalist Leather Mule Model 7",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "minimalist_leather_mule"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_083",
+      "name": "Rubber Waterproof Rainboot Model 7",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "rubber_waterproof_rainboot"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_084",
+      "name": "Hiking Trail Shoe Model 7",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "hiking_trail_shoe"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_085",
+      "name": "Lowtop Canvas Sneaker Model 8",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "lowtop_canvas_sneaker"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_086",
+      "name": "Retro Running Trainer Model 8",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "retro_running_trainer"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_087",
+      "name": "Leather Chelsea Boot Model 8",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "leather_chelsea_boot"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_088",
+      "name": "Oxford Brogue Dress Model 8",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "oxford_brogue_dress"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_089",
+      "name": "Deck Shoes Boat Model 8",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "deck_shoes_boat"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_090",
+      "name": "Slipon Sandals Cork Model 8",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "slipon_sandals_cork"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_091",
+      "name": "Combat Laceup Boot Model 8",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "combat_laceup_boot"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_092",
+      "name": "Chunky Platform Loafer Model 8",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "chunky_platform_loafer"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_093",
+      "name": "Athletic Padel Court Shoe Model 8",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "athletic_padel_court_shoe"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_094",
+      "name": "Minimalist Leather Mule Model 8",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "minimalist_leather_mule"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_095",
+      "name": "Rubber Waterproof Rainboot Model 8",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "rubber_waterproof_rainboot"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_096",
+      "name": "Hiking Trail Shoe Model 8",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "hiking_trail_shoe"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_097",
+      "name": "Lowtop Canvas Sneaker Model 9",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "lowtop_canvas_sneaker"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_098",
+      "name": "Retro Running Trainer Model 9",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "retro_running_trainer"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_099",
+      "name": "Leather Chelsea Boot Model 9",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "leather_chelsea_boot"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_100",
+      "name": "Oxford Brogue Dress Model 9",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "oxford_brogue_dress"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_101",
+      "name": "Deck Shoes Boat Model 9",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "deck_shoes_boat"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_102",
+      "name": "Slipon Sandals Cork Model 9",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "slipon_sandals_cork"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_103",
+      "name": "Combat Laceup Boot Model 9",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "combat_laceup_boot"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_104",
+      "name": "Chunky Platform Loafer Model 9",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "chunky_platform_loafer"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_105",
+      "name": "Athletic Padel Court Shoe Model 9",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "athletic_padel_court_shoe"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_106",
+      "name": "Minimalist Leather Mule Model 9",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "minimalist_leather_mule"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_107",
+      "name": "Rubber Waterproof Rainboot Model 9",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "rubber_waterproof_rainboot"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_108",
+      "name": "Hiking Trail Shoe Model 9",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "hiking_trail_shoe"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_109",
+      "name": "Lowtop Canvas Sneaker Model 10",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "lowtop_canvas_sneaker"
+      ],
+      "palette_slot": "shoes_color_hex"
+    },
+    {
+      "id": "SHOE_110",
+      "name": "Retro Running Trainer Model 10",
+      "subcategory": "shoes",
+      "layer_z": 6,
+      "anchor_offset": {
+        "x": 24,
+        "y": 44
+      },
+      "tags": [
+        "clothing",
+        "footwear",
+        "retro_running_trainer"
+      ],
+      "palette_slot": "shoes_color_hex"
+    }
+  ]
+}

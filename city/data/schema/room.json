@@ -1,0 +1,85 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "AriseCity Room Schema",
+  "description": "Defines room geometry, functional zone, furniture layout slots, and occupant capacity.",
+  "type": "object",
+  "required": [
+    "id",
+    "floor_id",
+    "name",
+    "purpose",
+    "boundary",
+    "furniture_slots"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^ROM_[A-Z0-9_]+$",
+      "description": "Unique room identifier"
+    },
+    "floor_id": {
+      "type": "string",
+      "description": "Parent floor ID"
+    },
+    "name": {
+      "type": "string",
+      "description": "Room title, e.g. 'Catch Coworking Reception' or 'Main Engineering Studio'"
+    },
+    "purpose": {
+      "type": "string",
+      "enum": [
+        "office_open_plan",
+        "meeting_boardroom",
+        "coworking_hotdesk",
+        "bleacher_townhall",
+        "lounge_cafe",
+        "server_room",
+        "restroom",
+        "fitness_padel",
+        "residential_living",
+        "residential_bedroom",
+        "residential_kitchen",
+        "retail_shop",
+        "storage"
+      ]
+    },
+    "boundary": {
+      "type": "object",
+      "required": ["x", "y", "width", "depth"],
+      "properties": {
+        "x": { "type": "number" },
+        "y": { "type": "number" },
+        "width": { "type": "number" },
+        "depth": { "type": "number" }
+      }
+    },
+    "capacity_npcs": {
+      "type": "integer",
+      "minimum": 1,
+      "default": 10
+    },
+    "furniture_slots": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["slot_id", "item_catalog_id", "position"],
+        "properties": {
+          "slot_id": { "type": "string" },
+          "item_catalog_id": { "type": "string" },
+          "position": {
+            "type": "object",
+            "required": ["x", "y"],
+            "properties": {
+              "x": { "type": "number" },
+              "y": { "type": "number" },
+              "rotation_deg": { "type": "integer", "enum": [0, 90, 180, 270], "default": 0 }
+            }
+          },
+          "color_variant": { "type": "string" },
+          "interactive": { "type": "boolean", "default": false },
+          "assigned_npc_id": { "type": "string" }
+        }
+      }
+    }
+  }
+}

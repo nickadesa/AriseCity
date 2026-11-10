@@ -1,0 +1,36 @@
+{
+  "schedules": [
+    {
+      "schedule_id": "SCHED_TECH_DEV_24H",
+      "title": "AI Agent & Tech Developer Circadian Cycle",
+      "time_zone": "America/New_York (UTC-4)",
+      "timeline": [
+        { "start": "07:30", "end": "08:30", "activity": "morning_jog_greenway", "location_type": "promenade_park" },
+        { "start": "08:30", "end": "09:00", "activity": "grab_espresso_catch_cafe", "location_type": "cafe" },
+        { "start": "09:00", "end": "09:30", "activity": "daily_standup_sync", "location_type": "office_studio_hq" },
+        { "start": "09:30", "end": "12:30", "activity": "deep_work_coding", "location_type": "office_workstation" },
+        { "start": "12:30", "end": "13:30", "activity": "lunch_fish_market", "location_type": "market_hall" },
+        { "start": "13:30", "end": "17:00", "activity": "pair_programming_review", "location_type": "office_bleachers" },
+        { "start": "17:00", "end": "18:30", "activity": "padel_match_session", "location_type": "sports_club" },
+        { "start": "18:30", "end": "20:00", "activity": "waterfront_dinner_bistro", "location_type": "restaurant" },
+        { "start": "20:00", "end": "23:00", "activity": "evening_reading_social", "location_type": "home_residential" },
+        { "start": "23:00", "end": "07:30", "activity": "sleep_recharge", "location_type": "home_bedroom" }
+      ]
+    },
+    {
+      "schedule_id": "SCHED_HARBOR_EARLY_24H",
+      "title": "Harbor Master & Maritime Operator Cycle",
+      "time_zone": "America/New_York (UTC-4)",
+      "timeline": [
+        { "start": "05:00", "end": "05:30", "activity": "dawn_weather_inspection", "location_type": "breakwater_tower" },
+        { "start": "05:30", "end": "09:00", "activity": "docking_morning_trawlers", "location_type": "ferry_pier" },
+        { "start": "09:00", "end": "10:00", "activity": "hearty_breakfast_wharf", "location_type": "cafe" },
+        { "start": "10:00", "end": "13:00", "activity": "logistics_cargo_clearance", "location_type": "port_office" },
+        { "start": "13:00", "end": "14:30", "activity": "afternoon_nap", "location_type": "home_residential" },
+        { "start": "14:30", "end": "18:00", "activity": "ferry_coordination_dock", "location_type": "ferry_pier" },
+        { "start": "18:00", "end": "21:00", "activity": "sunset_wharf_relax", "location_type": "seafood_tavern" },
+        { "start": "21:00", "end": "05:00", "activity": "sleep_recharge", "location_type": "home_bedroom" }
+      ]
+    }
+  ]
+}

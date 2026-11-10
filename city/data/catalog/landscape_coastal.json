@@ -1,0 +1,8272 @@
+{
+  "category": "landscape_coastal",
+  "total_count": 218,
+  "items": [
+    {
+      "id": "CL_TREE_001",
+      "name": "Coastal Pine Tree Type 1",
+      "subcategory": "trees",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 2,
+        "height_tiles": 4.0
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 56
+      },
+      "cutaway_layer": "exterior_foliage",
+      "tags": [
+        "nature",
+        "foliage",
+        "tree",
+        "coastal_pine"
+      ],
+      "variants": [
+        {
+          "name": "Spring Canary Green",
+          "color_hex": "#88A759",
+          "material": "foliage_lush"
+        },
+        {
+          "name": "Autumn Golden Amber",
+          "color_hex": "#D97706",
+          "material": "foliage_fall"
+        },
+        {
+          "name": "Coastal Sage Mist",
+          "color_hex": "#607264",
+          "material": "foliage_saline"
+        }
+      ]
+    },
+    {
+      "id": "CL_TREE_002",
+      "name": "Fan Palm Tree Type 1",
+      "subcategory": "trees",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 2,
+        "height_tiles": 4.0
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 56
+      },
+      "cutaway_layer": "exterior_foliage",
+      "tags": [
+        "nature",
+        "foliage",
+        "tree",
+        "fan_palm"
+      ],
+      "variants": [
+        {
+          "name": "Spring Canary Green",
+          "color_hex": "#88A759",
+          "material": "foliage_lush"
+        },
+        {
+          "name": "Autumn Golden Amber",
+          "color_hex": "#D97706",
+          "material": "foliage_fall"
+        },
+        {
+          "name": "Coastal Sage Mist",
+          "color_hex": "#607264",
+          "material": "foliage_saline"
+        }
+      ]
+    },
+    {
+      "id": "CL_TREE_003",
+      "name": "Date Palm Tree Type 1",
+      "subcategory": "trees",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 2,
+        "height_tiles": 4.0
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 56
+      },
+      "cutaway_layer": "exterior_foliage",
+      "tags": [
+        "nature",
+        "foliage",
+        "tree",
+        "date_palm"
+      ],
+      "variants": [
+        {
+          "name": "Spring Canary Green",
+          "color_hex": "#88A759",
+          "material": "foliage_lush"
+        },
+        {
+          "name": "Autumn Golden Amber",
+          "color_hex": "#D97706",
+          "material": "foliage_fall"
+        },
+        {
+          "name": "Coastal Sage Mist",
+          "color_hex": "#607264",
+          "material": "foliage_saline"
+        }
+      ]
+    },
+    {
+      "id": "CL_TREE_004",
+      "name": "Weeping Willow Tree Type 1",
+      "subcategory": "trees",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 2,
+        "height_tiles": 4.0
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 56
+      },
+      "cutaway_layer": "exterior_foliage",
+      "tags": [
+        "nature",
+        "foliage",
+        "tree",
+        "weeping_willow"
+      ],
+      "variants": [
+        {
+          "name": "Spring Canary Green",
+          "color_hex": "#88A759",
+          "material": "foliage_lush"
+        },
+        {
+          "name": "Autumn Golden Amber",
+          "color_hex": "#D97706",
+          "material": "foliage_fall"
+        },
+        {
+          "name": "Coastal Sage Mist",
+          "color_hex": "#607264",
+          "material": "foliage_saline"
+        }
+      ]
+    },
+    {
+      "id": "CL_TREE_005",
+      "name": "Silver Birch Tree Type 1",
+      "subcategory": "trees",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 2,
+        "height_tiles": 4.0
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 56
+      },
+      "cutaway_layer": "exterior_foliage",
+      "tags": [
+        "nature",
+        "foliage",
+        "tree",
+        "silver_birch"
+      ],
+      "variants": [
+        {
+          "name": "Spring Canary Green",
+          "color_hex": "#88A759",
+          "material": "foliage_lush"
+        },
+        {
+          "name": "Autumn Golden Amber",
+          "color_hex": "#D97706",
+          "material": "foliage_fall"
+        },
+        {
+          "name": "Coastal Sage Mist",
+          "color_hex": "#607264",
+          "material": "foliage_saline"
+        }
+      ]
+    },
+    {
+      "id": "CL_TREE_006",
+      "name": "Japanese Maple Tree Type 1",
+      "subcategory": "trees",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 2,
+        "height_tiles": 4.0
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 56
+      },
+      "cutaway_layer": "exterior_foliage",
+      "tags": [
+        "nature",
+        "foliage",
+        "tree",
+        "japanese_maple"
+      ],
+      "variants": [
+        {
+          "name": "Spring Canary Green",
+          "color_hex": "#88A759",
+          "material": "foliage_lush"
+        },
+        {
+          "name": "Autumn Golden Amber",
+          "color_hex": "#D97706",
+          "material": "foliage_fall"
+        },
+        {
+          "name": "Coastal Sage Mist",
+          "color_hex": "#607264",
+          "material": "foliage_saline"
+        }
+      ]
+    },
+    {
+      "id": "CL_TREE_007",
+      "name": "Ginkgo Biloba Tree Type 1",
+      "subcategory": "trees",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 2,
+        "height_tiles": 4.0
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 56
+      },
+      "cutaway_layer": "exterior_foliage",
+      "tags": [
+        "nature",
+        "foliage",
+        "tree",
+        "ginkgo_biloba"
+      ],
+      "variants": [
+        {
+          "name": "Spring Canary Green",
+          "color_hex": "#88A759",
+          "material": "foliage_lush"
+        },
+        {
+          "name": "Autumn Golden Amber",
+          "color_hex": "#D97706",
+          "material": "foliage_fall"
+        },
+        {
+          "name": "Coastal Sage Mist",
+          "color_hex": "#607264",
+          "material": "foliage_saline"
+        }
+      ]
+    },
+    {
+      "id": "CL_TREE_008",
+      "name": "Cypress Columnar Tree Type 1",
+      "subcategory": "trees",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 2,
+        "height_tiles": 4.0
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 56
+      },
+      "cutaway_layer": "exterior_foliage",
+      "tags": [
+        "nature",
+        "foliage",
+        "tree",
+        "cypress_columnar"
+      ],
+      "variants": [
+        {
+          "name": "Spring Canary Green",
+          "color_hex": "#88A759",
+          "material": "foliage_lush"
+        },
+        {
+          "name": "Autumn Golden Amber",
+          "color_hex": "#D97706",
+          "material": "foliage_fall"
+        },
+        {
+          "name": "Coastal Sage Mist",
+          "color_hex": "#607264",
+          "material": "foliage_saline"
+        }
+      ]
+    },
+    {
+      "id": "CL_TREE_009",
+      "name": "Magnolia Tree Type 1",
+      "subcategory": "trees",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 2,
+        "height_tiles": 4.0
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 56
+      },
+      "cutaway_layer": "exterior_foliage",
+      "tags": [
+        "nature",
+        "foliage",
+        "tree",
+        "magnolia"
+      ],
+      "variants": [
+        {
+          "name": "Spring Canary Green",
+          "color_hex": "#88A759",
+          "material": "foliage_lush"
+        },
+        {
+          "name": "Autumn Golden Amber",
+          "color_hex": "#D97706",
+          "material": "foliage_fall"
+        },
+        {
+          "name": "Coastal Sage Mist",
+          "color_hex": "#607264",
+          "material": "foliage_saline"
+        }
+      ]
+    },
+    {
+      "id": "CL_TREE_010",
+      "name": "Coastal Pine Tree Type 2",
+      "subcategory": "trees",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 2,
+        "height_tiles": 4.0
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 56
+      },
+      "cutaway_layer": "exterior_foliage",
+      "tags": [
+        "nature",
+        "foliage",
+        "tree",
+        "coastal_pine"
+      ],
+      "variants": [
+        {
+          "name": "Spring Canary Green",
+          "color_hex": "#88A759",
+          "material": "foliage_lush"
+        },
+        {
+          "name": "Autumn Golden Amber",
+          "color_hex": "#D97706",
+          "material": "foliage_fall"
+        },
+        {
+          "name": "Coastal Sage Mist",
+          "color_hex": "#607264",
+          "material": "foliage_saline"
+        }
+      ]
+    },
+    {
+      "id": "CL_TREE_011",
+      "name": "Fan Palm Tree Type 2",
+      "subcategory": "trees",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 2,
+        "height_tiles": 4.0
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 56
+      },
+      "cutaway_layer": "exterior_foliage",
+      "tags": [
+        "nature",
+        "foliage",
+        "tree",
+        "fan_palm"
+      ],
+      "variants": [
+        {
+          "name": "Spring Canary Green",
+          "color_hex": "#88A759",
+          "material": "foliage_lush"
+        },
+        {
+          "name": "Autumn Golden Amber",
+          "color_hex": "#D97706",
+          "material": "foliage_fall"
+        },
+        {
+          "name": "Coastal Sage Mist",
+          "color_hex": "#607264",
+          "material": "foliage_saline"
+        }
+      ]
+    },
+    {
+      "id": "CL_TREE_012",
+      "name": "Date Palm Tree Type 2",
+      "subcategory": "trees",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 2,
+        "height_tiles": 4.0
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 56
+      },
+      "cutaway_layer": "exterior_foliage",
+      "tags": [
+        "nature",
+        "foliage",
+        "tree",
+        "date_palm"
+      ],
+      "variants": [
+        {
+          "name": "Spring Canary Green",
+          "color_hex": "#88A759",
+          "material": "foliage_lush"
+        },
+        {
+          "name": "Autumn Golden Amber",
+          "color_hex": "#D97706",
+          "material": "foliage_fall"
+        },
+        {
+          "name": "Coastal Sage Mist",
+          "color_hex": "#607264",
+          "material": "foliage_saline"
+        }
+      ]
+    },
+    {
+      "id": "CL_TREE_013",
+      "name": "Weeping Willow Tree Type 2",
+      "subcategory": "trees",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 2,
+        "height_tiles": 4.0
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 56
+      },
+      "cutaway_layer": "exterior_foliage",
+      "tags": [
+        "nature",
+        "foliage",
+        "tree",
+        "weeping_willow"
+      ],
+      "variants": [
+        {
+          "name": "Spring Canary Green",
+          "color_hex": "#88A759",
+          "material": "foliage_lush"
+        },
+        {
+          "name": "Autumn Golden Amber",
+          "color_hex": "#D97706",
+          "material": "foliage_fall"
+        },
+        {
+          "name": "Coastal Sage Mist",
+          "color_hex": "#607264",
+          "material": "foliage_saline"
+        }
+      ]
+    },
+    {
+      "id": "CL_TREE_014",
+      "name": "Silver Birch Tree Type 2",
+      "subcategory": "trees",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 2,
+        "height_tiles": 4.0
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 56
+      },
+      "cutaway_layer": "exterior_foliage",
+      "tags": [
+        "nature",
+        "foliage",
+        "tree",
+        "silver_birch"
+      ],
+      "variants": [
+        {
+          "name": "Spring Canary Green",
+          "color_hex": "#88A759",
+          "material": "foliage_lush"
+        },
+        {
+          "name": "Autumn Golden Amber",
+          "color_hex": "#D97706",
+          "material": "foliage_fall"
+        },
+        {
+          "name": "Coastal Sage Mist",
+          "color_hex": "#607264",
+          "material": "foliage_saline"
+        }
+      ]
+    },
+    {
+      "id": "CL_TREE_015",
+      "name": "Japanese Maple Tree Type 2",
+      "subcategory": "trees",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 2,
+        "height_tiles": 4.0
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 56
+      },
+      "cutaway_layer": "exterior_foliage",
+      "tags": [
+        "nature",
+        "foliage",
+        "tree",
+        "japanese_maple"
+      ],
+      "variants": [
+        {
+          "name": "Spring Canary Green",
+          "color_hex": "#88A759",
+          "material": "foliage_lush"
+        },
+        {
+          "name": "Autumn Golden Amber",
+          "color_hex": "#D97706",
+          "material": "foliage_fall"
+        },
+        {
+          "name": "Coastal Sage Mist",
+          "color_hex": "#607264",
+          "material": "foliage_saline"
+        }
+      ]
+    },
+    {
+      "id": "CL_TREE_016",
+      "name": "Ginkgo Biloba Tree Type 2",
+      "subcategory": "trees",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 2,
+        "height_tiles": 4.0
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 56
+      },
+      "cutaway_layer": "exterior_foliage",
+      "tags": [
+        "nature",
+        "foliage",
+        "tree",
+        "ginkgo_biloba"
+      ],
+      "variants": [
+        {
+          "name": "Spring Canary Green",
+          "color_hex": "#88A759",
+          "material": "foliage_lush"
+        },
+        {
+          "name": "Autumn Golden Amber",
+          "color_hex": "#D97706",
+          "material": "foliage_fall"
+        },
+        {
+          "name": "Coastal Sage Mist",
+          "color_hex": "#607264",
+          "material": "foliage_saline"
+        }
+      ]
+    },
+    {
+      "id": "CL_TREE_017",
+      "name": "Cypress Columnar Tree Type 2",
+      "subcategory": "trees",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 2,
+        "height_tiles": 4.0
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 56
+      },
+      "cutaway_layer": "exterior_foliage",
+      "tags": [
+        "nature",
+        "foliage",
+        "tree",
+        "cypress_columnar"
+      ],
+      "variants": [
+        {
+          "name": "Spring Canary Green",
+          "color_hex": "#88A759",
+          "material": "foliage_lush"
+        },
+        {
+          "name": "Autumn Golden Amber",
+          "color_hex": "#D97706",
+          "material": "foliage_fall"
+        },
+        {
+          "name": "Coastal Sage Mist",
+          "color_hex": "#607264",
+          "material": "foliage_saline"
+        }
+      ]
+    },
+    {
+      "id": "CL_TREE_018",
+      "name": "Magnolia Tree Type 2",
+      "subcategory": "trees",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 2,
+        "height_tiles": 4.0
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 56
+      },
+      "cutaway_layer": "exterior_foliage",
+      "tags": [
+        "nature",
+        "foliage",
+        "tree",
+        "magnolia"
+      ],
+      "variants": [
+        {
+          "name": "Spring Canary Green",
+          "color_hex": "#88A759",
+          "material": "foliage_lush"
+        },
+        {
+          "name": "Autumn Golden Amber",
+          "color_hex": "#D97706",
+          "material": "foliage_fall"
+        },
+        {
+          "name": "Coastal Sage Mist",
+          "color_hex": "#607264",
+          "material": "foliage_saline"
+        }
+      ]
+    },
+    {
+      "id": "CL_TREE_019",
+      "name": "Coastal Pine Tree Type 3",
+      "subcategory": "trees",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 2,
+        "height_tiles": 4.0
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 56
+      },
+      "cutaway_layer": "exterior_foliage",
+      "tags": [
+        "nature",
+        "foliage",
+        "tree",
+        "coastal_pine"
+      ],
+      "variants": [
+        {
+          "name": "Spring Canary Green",
+          "color_hex": "#88A759",
+          "material": "foliage_lush"
+        },
+        {
+          "name": "Autumn Golden Amber",
+          "color_hex": "#D97706",
+          "material": "foliage_fall"
+        },
+        {
+          "name": "Coastal Sage Mist",
+          "color_hex": "#607264",
+          "material": "foliage_saline"
+        }
+      ]
+    },
+    {
+      "id": "CL_TREE_020",
+      "name": "Fan Palm Tree Type 3",
+      "subcategory": "trees",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 2,
+        "height_tiles": 4.0
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 56
+      },
+      "cutaway_layer": "exterior_foliage",
+      "tags": [
+        "nature",
+        "foliage",
+        "tree",
+        "fan_palm"
+      ],
+      "variants": [
+        {
+          "name": "Spring Canary Green",
+          "color_hex": "#88A759",
+          "material": "foliage_lush"
+        },
+        {
+          "name": "Autumn Golden Amber",
+          "color_hex": "#D97706",
+          "material": "foliage_fall"
+        },
+        {
+          "name": "Coastal Sage Mist",
+          "color_hex": "#607264",
+          "material": "foliage_saline"
+        }
+      ]
+    },
+    {
+      "id": "CL_TREE_021",
+      "name": "Date Palm Tree Type 3",
+      "subcategory": "trees",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 2,
+        "height_tiles": 4.0
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 56
+      },
+      "cutaway_layer": "exterior_foliage",
+      "tags": [
+        "nature",
+        "foliage",
+        "tree",
+        "date_palm"
+      ],
+      "variants": [
+        {
+          "name": "Spring Canary Green",
+          "color_hex": "#88A759",
+          "material": "foliage_lush"
+        },
+        {
+          "name": "Autumn Golden Amber",
+          "color_hex": "#D97706",
+          "material": "foliage_fall"
+        },
+        {
+          "name": "Coastal Sage Mist",
+          "color_hex": "#607264",
+          "material": "foliage_saline"
+        }
+      ]
+    },
+    {
+      "id": "CL_TREE_022",
+      "name": "Weeping Willow Tree Type 3",
+      "subcategory": "trees",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 2,
+        "height_tiles": 4.0
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 56
+      },
+      "cutaway_layer": "exterior_foliage",
+      "tags": [
+        "nature",
+        "foliage",
+        "tree",
+        "weeping_willow"
+      ],
+      "variants": [
+        {
+          "name": "Spring Canary Green",
+          "color_hex": "#88A759",
+          "material": "foliage_lush"
+        },
+        {
+          "name": "Autumn Golden Amber",
+          "color_hex": "#D97706",
+          "material": "foliage_fall"
+        },
+        {
+          "name": "Coastal Sage Mist",
+          "color_hex": "#607264",
+          "material": "foliage_saline"
+        }
+      ]
+    },
+    {
+      "id": "CL_TREE_023",
+      "name": "Silver Birch Tree Type 3",
+      "subcategory": "trees",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 2,
+        "height_tiles": 4.0
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 56
+      },
+      "cutaway_layer": "exterior_foliage",
+      "tags": [
+        "nature",
+        "foliage",
+        "tree",
+        "silver_birch"
+      ],
+      "variants": [
+        {
+          "name": "Spring Canary Green",
+          "color_hex": "#88A759",
+          "material": "foliage_lush"
+        },
+        {
+          "name": "Autumn Golden Amber",
+          "color_hex": "#D97706",
+          "material": "foliage_fall"
+        },
+        {
+          "name": "Coastal Sage Mist",
+          "color_hex": "#607264",
+          "material": "foliage_saline"
+        }
+      ]
+    },
+    {
+      "id": "CL_TREE_024",
+      "name": "Japanese Maple Tree Type 3",
+      "subcategory": "trees",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 2,
+        "height_tiles": 4.0
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 56
+      },
+      "cutaway_layer": "exterior_foliage",
+      "tags": [
+        "nature",
+        "foliage",
+        "tree",
+        "japanese_maple"
+      ],
+      "variants": [
+        {
+          "name": "Spring Canary Green",
+          "color_hex": "#88A759",
+          "material": "foliage_lush"
+        },
+        {
+          "name": "Autumn Golden Amber",
+          "color_hex": "#D97706",
+          "material": "foliage_fall"
+        },
+        {
+          "name": "Coastal Sage Mist",
+          "color_hex": "#607264",
+          "material": "foliage_saline"
+        }
+      ]
+    },
+    {
+      "id": "CL_TREE_025",
+      "name": "Ginkgo Biloba Tree Type 3",
+      "subcategory": "trees",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 2,
+        "height_tiles": 4.0
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 56
+      },
+      "cutaway_layer": "exterior_foliage",
+      "tags": [
+        "nature",
+        "foliage",
+        "tree",
+        "ginkgo_biloba"
+      ],
+      "variants": [
+        {
+          "name": "Spring Canary Green",
+          "color_hex": "#88A759",
+          "material": "foliage_lush"
+        },
+        {
+          "name": "Autumn Golden Amber",
+          "color_hex": "#D97706",
+          "material": "foliage_fall"
+        },
+        {
+          "name": "Coastal Sage Mist",
+          "color_hex": "#607264",
+          "material": "foliage_saline"
+        }
+      ]
+    },
+    {
+      "id": "CL_TREE_026",
+      "name": "Cypress Columnar Tree Type 3",
+      "subcategory": "trees",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 2,
+        "height_tiles": 4.0
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 56
+      },
+      "cutaway_layer": "exterior_foliage",
+      "tags": [
+        "nature",
+        "foliage",
+        "tree",
+        "cypress_columnar"
+      ],
+      "variants": [
+        {
+          "name": "Spring Canary Green",
+          "color_hex": "#88A759",
+          "material": "foliage_lush"
+        },
+        {
+          "name": "Autumn Golden Amber",
+          "color_hex": "#D97706",
+          "material": "foliage_fall"
+        },
+        {
+          "name": "Coastal Sage Mist",
+          "color_hex": "#607264",
+          "material": "foliage_saline"
+        }
+      ]
+    },
+    {
+      "id": "CL_TREE_027",
+      "name": "Magnolia Tree Type 3",
+      "subcategory": "trees",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 2,
+        "height_tiles": 4.0
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 56
+      },
+      "cutaway_layer": "exterior_foliage",
+      "tags": [
+        "nature",
+        "foliage",
+        "tree",
+        "magnolia"
+      ],
+      "variants": [
+        {
+          "name": "Spring Canary Green",
+          "color_hex": "#88A759",
+          "material": "foliage_lush"
+        },
+        {
+          "name": "Autumn Golden Amber",
+          "color_hex": "#D97706",
+          "material": "foliage_fall"
+        },
+        {
+          "name": "Coastal Sage Mist",
+          "color_hex": "#607264",
+          "material": "foliage_saline"
+        }
+      ]
+    },
+    {
+      "id": "CL_TREE_028",
+      "name": "Coastal Pine Tree Type 4",
+      "subcategory": "trees",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 2,
+        "height_tiles": 4.0
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 56
+      },
+      "cutaway_layer": "exterior_foliage",
+      "tags": [
+        "nature",
+        "foliage",
+        "tree",
+        "coastal_pine"
+      ],
+      "variants": [
+        {
+          "name": "Spring Canary Green",
+          "color_hex": "#88A759",
+          "material": "foliage_lush"
+        },
+        {
+          "name": "Autumn Golden Amber",
+          "color_hex": "#D97706",
+          "material": "foliage_fall"
+        },
+        {
+          "name": "Coastal Sage Mist",
+          "color_hex": "#607264",
+          "material": "foliage_saline"
+        }
+      ]
+    },
+    {
+      "id": "CL_TREE_029",
+      "name": "Fan Palm Tree Type 4",
+      "subcategory": "trees",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 2,
+        "height_tiles": 4.0
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 56
+      },
+      "cutaway_layer": "exterior_foliage",
+      "tags": [
+        "nature",
+        "foliage",
+        "tree",
+        "fan_palm"
+      ],
+      "variants": [
+        {
+          "name": "Spring Canary Green",
+          "color_hex": "#88A759",
+          "material": "foliage_lush"
+        },
+        {
+          "name": "Autumn Golden Amber",
+          "color_hex": "#D97706",
+          "material": "foliage_fall"
+        },
+        {
+          "name": "Coastal Sage Mist",
+          "color_hex": "#607264",
+          "material": "foliage_saline"
+        }
+      ]
+    },
+    {
+      "id": "CL_TREE_030",
+      "name": "Date Palm Tree Type 4",
+      "subcategory": "trees",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 2,
+        "height_tiles": 4.0
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 56
+      },
+      "cutaway_layer": "exterior_foliage",
+      "tags": [
+        "nature",
+        "foliage",
+        "tree",
+        "date_palm"
+      ],
+      "variants": [
+        {
+          "name": "Spring Canary Green",
+          "color_hex": "#88A759",
+          "material": "foliage_lush"
+        },
+        {
+          "name": "Autumn Golden Amber",
+          "color_hex": "#D97706",
+          "material": "foliage_fall"
+        },
+        {
+          "name": "Coastal Sage Mist",
+          "color_hex": "#607264",
+          "material": "foliage_saline"
+        }
+      ]
+    },
+    {
+      "id": "CL_TREE_031",
+      "name": "Weeping Willow Tree Type 4",
+      "subcategory": "trees",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 2,
+        "height_tiles": 4.0
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 56
+      },
+      "cutaway_layer": "exterior_foliage",
+      "tags": [
+        "nature",
+        "foliage",
+        "tree",
+        "weeping_willow"
+      ],
+      "variants": [
+        {
+          "name": "Spring Canary Green",
+          "color_hex": "#88A759",
+          "material": "foliage_lush"
+        },
+        {
+          "name": "Autumn Golden Amber",
+          "color_hex": "#D97706",
+          "material": "foliage_fall"
+        },
+        {
+          "name": "Coastal Sage Mist",
+          "color_hex": "#607264",
+          "material": "foliage_saline"
+        }
+      ]
+    },
+    {
+      "id": "CL_TREE_032",
+      "name": "Silver Birch Tree Type 4",
+      "subcategory": "trees",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 2,
+        "height_tiles": 4.0
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 56
+      },
+      "cutaway_layer": "exterior_foliage",
+      "tags": [
+        "nature",
+        "foliage",
+        "tree",
+        "silver_birch"
+      ],
+      "variants": [
+        {
+          "name": "Spring Canary Green",
+          "color_hex": "#88A759",
+          "material": "foliage_lush"
+        },
+        {
+          "name": "Autumn Golden Amber",
+          "color_hex": "#D97706",
+          "material": "foliage_fall"
+        },
+        {
+          "name": "Coastal Sage Mist",
+          "color_hex": "#607264",
+          "material": "foliage_saline"
+        }
+      ]
+    },
+    {
+      "id": "CL_TREE_033",
+      "name": "Japanese Maple Tree Type 4",
+      "subcategory": "trees",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 2,
+        "height_tiles": 4.0
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 56
+      },
+      "cutaway_layer": "exterior_foliage",
+      "tags": [
+        "nature",
+        "foliage",
+        "tree",
+        "japanese_maple"
+      ],
+      "variants": [
+        {
+          "name": "Spring Canary Green",
+          "color_hex": "#88A759",
+          "material": "foliage_lush"
+        },
+        {
+          "name": "Autumn Golden Amber",
+          "color_hex": "#D97706",
+          "material": "foliage_fall"
+        },
+        {
+          "name": "Coastal Sage Mist",
+          "color_hex": "#607264",
+          "material": "foliage_saline"
+        }
+      ]
+    },
+    {
+      "id": "CL_TREE_034",
+      "name": "Ginkgo Biloba Tree Type 4",
+      "subcategory": "trees",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 2,
+        "height_tiles": 4.0
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 56
+      },
+      "cutaway_layer": "exterior_foliage",
+      "tags": [
+        "nature",
+        "foliage",
+        "tree",
+        "ginkgo_biloba"
+      ],
+      "variants": [
+        {
+          "name": "Spring Canary Green",
+          "color_hex": "#88A759",
+          "material": "foliage_lush"
+        },
+        {
+          "name": "Autumn Golden Amber",
+          "color_hex": "#D97706",
+          "material": "foliage_fall"
+        },
+        {
+          "name": "Coastal Sage Mist",
+          "color_hex": "#607264",
+          "material": "foliage_saline"
+        }
+      ]
+    },
+    {
+      "id": "CL_TREE_035",
+      "name": "Cypress Columnar Tree Type 4",
+      "subcategory": "trees",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 2,
+        "height_tiles": 4.0
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 56
+      },
+      "cutaway_layer": "exterior_foliage",
+      "tags": [
+        "nature",
+        "foliage",
+        "tree",
+        "cypress_columnar"
+      ],
+      "variants": [
+        {
+          "name": "Spring Canary Green",
+          "color_hex": "#88A759",
+          "material": "foliage_lush"
+        },
+        {
+          "name": "Autumn Golden Amber",
+          "color_hex": "#D97706",
+          "material": "foliage_fall"
+        },
+        {
+          "name": "Coastal Sage Mist",
+          "color_hex": "#607264",
+          "material": "foliage_saline"
+        }
+      ]
+    },
+    {
+      "id": "CL_TREE_036",
+      "name": "Magnolia Tree Type 4",
+      "subcategory": "trees",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 2,
+        "height_tiles": 4.0
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 56
+      },
+      "cutaway_layer": "exterior_foliage",
+      "tags": [
+        "nature",
+        "foliage",
+        "tree",
+        "magnolia"
+      ],
+      "variants": [
+        {
+          "name": "Spring Canary Green",
+          "color_hex": "#88A759",
+          "material": "foliage_lush"
+        },
+        {
+          "name": "Autumn Golden Amber",
+          "color_hex": "#D97706",
+          "material": "foliage_fall"
+        },
+        {
+          "name": "Coastal Sage Mist",
+          "color_hex": "#607264",
+          "material": "foliage_saline"
+        }
+      ]
+    },
+    {
+      "id": "CL_TREE_037",
+      "name": "Coastal Pine Tree Type 5",
+      "subcategory": "trees",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 2,
+        "height_tiles": 4.0
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 56
+      },
+      "cutaway_layer": "exterior_foliage",
+      "tags": [
+        "nature",
+        "foliage",
+        "tree",
+        "coastal_pine"
+      ],
+      "variants": [
+        {
+          "name": "Spring Canary Green",
+          "color_hex": "#88A759",
+          "material": "foliage_lush"
+        },
+        {
+          "name": "Autumn Golden Amber",
+          "color_hex": "#D97706",
+          "material": "foliage_fall"
+        },
+        {
+          "name": "Coastal Sage Mist",
+          "color_hex": "#607264",
+          "material": "foliage_saline"
+        }
+      ]
+    },
+    {
+      "id": "CL_TREE_038",
+      "name": "Fan Palm Tree Type 5",
+      "subcategory": "trees",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 2,
+        "height_tiles": 4.0
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 56
+      },
+      "cutaway_layer": "exterior_foliage",
+      "tags": [
+        "nature",
+        "foliage",
+        "tree",
+        "fan_palm"
+      ],
+      "variants": [
+        {
+          "name": "Spring Canary Green",
+          "color_hex": "#88A759",
+          "material": "foliage_lush"
+        },
+        {
+          "name": "Autumn Golden Amber",
+          "color_hex": "#D97706",
+          "material": "foliage_fall"
+        },
+        {
+          "name": "Coastal Sage Mist",
+          "color_hex": "#607264",
+          "material": "foliage_saline"
+        }
+      ]
+    },
+    {
+      "id": "CL_TREE_039",
+      "name": "Date Palm Tree Type 5",
+      "subcategory": "trees",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 2,
+        "height_tiles": 4.0
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 56
+      },
+      "cutaway_layer": "exterior_foliage",
+      "tags": [
+        "nature",
+        "foliage",
+        "tree",
+        "date_palm"
+      ],
+      "variants": [
+        {
+          "name": "Spring Canary Green",
+          "color_hex": "#88A759",
+          "material": "foliage_lush"
+        },
+        {
+          "name": "Autumn Golden Amber",
+          "color_hex": "#D97706",
+          "material": "foliage_fall"
+        },
+        {
+          "name": "Coastal Sage Mist",
+          "color_hex": "#607264",
+          "material": "foliage_saline"
+        }
+      ]
+    },
+    {
+      "id": "CL_TREE_040",
+      "name": "Weeping Willow Tree Type 5",
+      "subcategory": "trees",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 2,
+        "height_tiles": 4.0
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 56
+      },
+      "cutaway_layer": "exterior_foliage",
+      "tags": [
+        "nature",
+        "foliage",
+        "tree",
+        "weeping_willow"
+      ],
+      "variants": [
+        {
+          "name": "Spring Canary Green",
+          "color_hex": "#88A759",
+          "material": "foliage_lush"
+        },
+        {
+          "name": "Autumn Golden Amber",
+          "color_hex": "#D97706",
+          "material": "foliage_fall"
+        },
+        {
+          "name": "Coastal Sage Mist",
+          "color_hex": "#607264",
+          "material": "foliage_saline"
+        }
+      ]
+    },
+    {
+      "id": "CL_TREE_041",
+      "name": "Silver Birch Tree Type 5",
+      "subcategory": "trees",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 2,
+        "height_tiles": 4.0
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 56
+      },
+      "cutaway_layer": "exterior_foliage",
+      "tags": [
+        "nature",
+        "foliage",
+        "tree",
+        "silver_birch"
+      ],
+      "variants": [
+        {
+          "name": "Spring Canary Green",
+          "color_hex": "#88A759",
+          "material": "foliage_lush"
+        },
+        {
+          "name": "Autumn Golden Amber",
+          "color_hex": "#D97706",
+          "material": "foliage_fall"
+        },
+        {
+          "name": "Coastal Sage Mist",
+          "color_hex": "#607264",
+          "material": "foliage_saline"
+        }
+      ]
+    },
+    {
+      "id": "CL_TREE_042",
+      "name": "Japanese Maple Tree Type 5",
+      "subcategory": "trees",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 2,
+        "height_tiles": 4.0
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 56
+      },
+      "cutaway_layer": "exterior_foliage",
+      "tags": [
+        "nature",
+        "foliage",
+        "tree",
+        "japanese_maple"
+      ],
+      "variants": [
+        {
+          "name": "Spring Canary Green",
+          "color_hex": "#88A759",
+          "material": "foliage_lush"
+        },
+        {
+          "name": "Autumn Golden Amber",
+          "color_hex": "#D97706",
+          "material": "foliage_fall"
+        },
+        {
+          "name": "Coastal Sage Mist",
+          "color_hex": "#607264",
+          "material": "foliage_saline"
+        }
+      ]
+    },
+    {
+      "id": "CL_TREE_043",
+      "name": "Ginkgo Biloba Tree Type 5",
+      "subcategory": "trees",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 2,
+        "height_tiles": 4.0
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 56
+      },
+      "cutaway_layer": "exterior_foliage",
+      "tags": [
+        "nature",
+        "foliage",
+        "tree",
+        "ginkgo_biloba"
+      ],
+      "variants": [
+        {
+          "name": "Spring Canary Green",
+          "color_hex": "#88A759",
+          "material": "foliage_lush"
+        },
+        {
+          "name": "Autumn Golden Amber",
+          "color_hex": "#D97706",
+          "material": "foliage_fall"
+        },
+        {
+          "name": "Coastal Sage Mist",
+          "color_hex": "#607264",
+          "material": "foliage_saline"
+        }
+      ]
+    },
+    {
+      "id": "CL_TREE_044",
+      "name": "Cypress Columnar Tree Type 5",
+      "subcategory": "trees",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 2,
+        "height_tiles": 4.0
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 56
+      },
+      "cutaway_layer": "exterior_foliage",
+      "tags": [
+        "nature",
+        "foliage",
+        "tree",
+        "cypress_columnar"
+      ],
+      "variants": [
+        {
+          "name": "Spring Canary Green",
+          "color_hex": "#88A759",
+          "material": "foliage_lush"
+        },
+        {
+          "name": "Autumn Golden Amber",
+          "color_hex": "#D97706",
+          "material": "foliage_fall"
+        },
+        {
+          "name": "Coastal Sage Mist",
+          "color_hex": "#607264",
+          "material": "foliage_saline"
+        }
+      ]
+    },
+    {
+      "id": "CL_TREE_045",
+      "name": "Magnolia Tree Type 5",
+      "subcategory": "trees",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 2,
+        "height_tiles": 4.0
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 56
+      },
+      "cutaway_layer": "exterior_foliage",
+      "tags": [
+        "nature",
+        "foliage",
+        "tree",
+        "magnolia"
+      ],
+      "variants": [
+        {
+          "name": "Spring Canary Green",
+          "color_hex": "#88A759",
+          "material": "foliage_lush"
+        },
+        {
+          "name": "Autumn Golden Amber",
+          "color_hex": "#D97706",
+          "material": "foliage_fall"
+        },
+        {
+          "name": "Coastal Sage Mist",
+          "color_hex": "#607264",
+          "material": "foliage_saline"
+        }
+      ]
+    },
+    {
+      "id": "CL_SHRUB_001",
+      "name": "Lavender Patch Cluster 1",
+      "subcategory": "shrubs_groundcover",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 24
+      },
+      "cutaway_layer": "exterior_foliage",
+      "tags": [
+        "nature",
+        "shrub",
+        "garden",
+        "lavender_patch"
+      ],
+      "variants": [
+        {
+          "name": "Vibrant Bloom",
+          "color_hex": "#EC4899",
+          "material": "flower_petals"
+        },
+        {
+          "name": "Ocean Coastal Blue",
+          "color_hex": "#38BDF8",
+          "material": "saline_perennial"
+        },
+        {
+          "name": "Deep Evergreen",
+          "color_hex": "#15803D",
+          "material": "woody_shrub"
+        }
+      ]
+    },
+    {
+      "id": "CL_SHRUB_002",
+      "name": "Fountain Grass Cluster 1",
+      "subcategory": "shrubs_groundcover",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 24
+      },
+      "cutaway_layer": "exterior_foliage",
+      "tags": [
+        "nature",
+        "shrub",
+        "garden",
+        "fountain_grass"
+      ],
+      "variants": [
+        {
+          "name": "Vibrant Bloom",
+          "color_hex": "#EC4899",
+          "material": "flower_petals"
+        },
+        {
+          "name": "Ocean Coastal Blue",
+          "color_hex": "#38BDF8",
+          "material": "saline_perennial"
+        },
+        {
+          "name": "Deep Evergreen",
+          "color_hex": "#15803D",
+          "material": "woody_shrub"
+        }
+      ]
+    },
+    {
+      "id": "CL_SHRUB_003",
+      "name": "Hydrangea Bush Cluster 1",
+      "subcategory": "shrubs_groundcover",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 24
+      },
+      "cutaway_layer": "exterior_foliage",
+      "tags": [
+        "nature",
+        "shrub",
+        "garden",
+        "hydrangea_bush"
+      ],
+      "variants": [
+        {
+          "name": "Vibrant Bloom",
+          "color_hex": "#EC4899",
+          "material": "flower_petals"
+        },
+        {
+          "name": "Ocean Coastal Blue",
+          "color_hex": "#38BDF8",
+          "material": "saline_perennial"
+        },
+        {
+          "name": "Deep Evergreen",
+          "color_hex": "#15803D",
+          "material": "woody_shrub"
+        }
+      ]
+    },
+    {
+      "id": "CL_SHRUB_004",
+      "name": "Boxwood Hedge Cluster 1",
+      "subcategory": "shrubs_groundcover",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 24
+      },
+      "cutaway_layer": "exterior_foliage",
+      "tags": [
+        "nature",
+        "shrub",
+        "garden",
+        "boxwood_hedge"
+      ],
+      "variants": [
+        {
+          "name": "Vibrant Bloom",
+          "color_hex": "#EC4899",
+          "material": "flower_petals"
+        },
+        {
+          "name": "Ocean Coastal Blue",
+          "color_hex": "#38BDF8",
+          "material": "saline_perennial"
+        },
+        {
+          "name": "Deep Evergreen",
+          "color_hex": "#15803D",
+          "material": "woody_shrub"
+        }
+      ]
+    },
+    {
+      "id": "CL_SHRUB_005",
+      "name": "Coastal Rosemary Cluster 1",
+      "subcategory": "shrubs_groundcover",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 24
+      },
+      "cutaway_layer": "exterior_foliage",
+      "tags": [
+        "nature",
+        "shrub",
+        "garden",
+        "coastal_rosemary"
+      ],
+      "variants": [
+        {
+          "name": "Vibrant Bloom",
+          "color_hex": "#EC4899",
+          "material": "flower_petals"
+        },
+        {
+          "name": "Ocean Coastal Blue",
+          "color_hex": "#38BDF8",
+          "material": "saline_perennial"
+        },
+        {
+          "name": "Deep Evergreen",
+          "color_hex": "#15803D",
+          "material": "woody_shrub"
+        }
+      ]
+    },
+    {
+      "id": "CL_SHRUB_006",
+      "name": "Succulent Agave Cluster 1",
+      "subcategory": "shrubs_groundcover",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 24
+      },
+      "cutaway_layer": "exterior_foliage",
+      "tags": [
+        "nature",
+        "shrub",
+        "garden",
+        "succulent_agave"
+      ],
+      "variants": [
+        {
+          "name": "Vibrant Bloom",
+          "color_hex": "#EC4899",
+          "material": "flower_petals"
+        },
+        {
+          "name": "Ocean Coastal Blue",
+          "color_hex": "#38BDF8",
+          "material": "saline_perennial"
+        },
+        {
+          "name": "Deep Evergreen",
+          "color_hex": "#15803D",
+          "material": "woody_shrub"
+        }
+      ]
+    },
+    {
+      "id": "CL_SHRUB_007",
+      "name": "Sea Thrift Cluster 1",
+      "subcategory": "shrubs_groundcover",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 24
+      },
+      "cutaway_layer": "exterior_foliage",
+      "tags": [
+        "nature",
+        "shrub",
+        "garden",
+        "sea_thrift"
+      ],
+      "variants": [
+        {
+          "name": "Vibrant Bloom",
+          "color_hex": "#EC4899",
+          "material": "flower_petals"
+        },
+        {
+          "name": "Ocean Coastal Blue",
+          "color_hex": "#38BDF8",
+          "material": "saline_perennial"
+        },
+        {
+          "name": "Deep Evergreen",
+          "color_hex": "#15803D",
+          "material": "woody_shrub"
+        }
+      ]
+    },
+    {
+      "id": "CL_SHRUB_008",
+      "name": "Lavender Patch Cluster 2",
+      "subcategory": "shrubs_groundcover",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 24
+      },
+      "cutaway_layer": "exterior_foliage",
+      "tags": [
+        "nature",
+        "shrub",
+        "garden",
+        "lavender_patch"
+      ],
+      "variants": [
+        {
+          "name": "Vibrant Bloom",
+          "color_hex": "#EC4899",
+          "material": "flower_petals"
+        },
+        {
+          "name": "Ocean Coastal Blue",
+          "color_hex": "#38BDF8",
+          "material": "saline_perennial"
+        },
+        {
+          "name": "Deep Evergreen",
+          "color_hex": "#15803D",
+          "material": "woody_shrub"
+        }
+      ]
+    },
+    {
+      "id": "CL_SHRUB_009",
+      "name": "Fountain Grass Cluster 2",
+      "subcategory": "shrubs_groundcover",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 24
+      },
+      "cutaway_layer": "exterior_foliage",
+      "tags": [
+        "nature",
+        "shrub",
+        "garden",
+        "fountain_grass"
+      ],
+      "variants": [
+        {
+          "name": "Vibrant Bloom",
+          "color_hex": "#EC4899",
+          "material": "flower_petals"
+        },
+        {
+          "name": "Ocean Coastal Blue",
+          "color_hex": "#38BDF8",
+          "material": "saline_perennial"
+        },
+        {
+          "name": "Deep Evergreen",
+          "color_hex": "#15803D",
+          "material": "woody_shrub"
+        }
+      ]
+    },
+    {
+      "id": "CL_SHRUB_010",
+      "name": "Hydrangea Bush Cluster 2",
+      "subcategory": "shrubs_groundcover",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 24
+      },
+      "cutaway_layer": "exterior_foliage",
+      "tags": [
+        "nature",
+        "shrub",
+        "garden",
+        "hydrangea_bush"
+      ],
+      "variants": [
+        {
+          "name": "Vibrant Bloom",
+          "color_hex": "#EC4899",
+          "material": "flower_petals"
+        },
+        {
+          "name": "Ocean Coastal Blue",
+          "color_hex": "#38BDF8",
+          "material": "saline_perennial"
+        },
+        {
+          "name": "Deep Evergreen",
+          "color_hex": "#15803D",
+          "material": "woody_shrub"
+        }
+      ]
+    },
+    {
+      "id": "CL_SHRUB_011",
+      "name": "Boxwood Hedge Cluster 2",
+      "subcategory": "shrubs_groundcover",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 24
+      },
+      "cutaway_layer": "exterior_foliage",
+      "tags": [
+        "nature",
+        "shrub",
+        "garden",
+        "boxwood_hedge"
+      ],
+      "variants": [
+        {
+          "name": "Vibrant Bloom",
+          "color_hex": "#EC4899",
+          "material": "flower_petals"
+        },
+        {
+          "name": "Ocean Coastal Blue",
+          "color_hex": "#38BDF8",
+          "material": "saline_perennial"
+        },
+        {
+          "name": "Deep Evergreen",
+          "color_hex": "#15803D",
+          "material": "woody_shrub"
+        }
+      ]
+    },
+    {
+      "id": "CL_SHRUB_012",
+      "name": "Coastal Rosemary Cluster 2",
+      "subcategory": "shrubs_groundcover",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 24
+      },
+      "cutaway_layer": "exterior_foliage",
+      "tags": [
+        "nature",
+        "shrub",
+        "garden",
+        "coastal_rosemary"
+      ],
+      "variants": [
+        {
+          "name": "Vibrant Bloom",
+          "color_hex": "#EC4899",
+          "material": "flower_petals"
+        },
+        {
+          "name": "Ocean Coastal Blue",
+          "color_hex": "#38BDF8",
+          "material": "saline_perennial"
+        },
+        {
+          "name": "Deep Evergreen",
+          "color_hex": "#15803D",
+          "material": "woody_shrub"
+        }
+      ]
+    },
+    {
+      "id": "CL_SHRUB_013",
+      "name": "Succulent Agave Cluster 2",
+      "subcategory": "shrubs_groundcover",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 24
+      },
+      "cutaway_layer": "exterior_foliage",
+      "tags": [
+        "nature",
+        "shrub",
+        "garden",
+        "succulent_agave"
+      ],
+      "variants": [
+        {
+          "name": "Vibrant Bloom",
+          "color_hex": "#EC4899",
+          "material": "flower_petals"
+        },
+        {
+          "name": "Ocean Coastal Blue",
+          "color_hex": "#38BDF8",
+          "material": "saline_perennial"
+        },
+        {
+          "name": "Deep Evergreen",
+          "color_hex": "#15803D",
+          "material": "woody_shrub"
+        }
+      ]
+    },
+    {
+      "id": "CL_SHRUB_014",
+      "name": "Sea Thrift Cluster 2",
+      "subcategory": "shrubs_groundcover",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 24
+      },
+      "cutaway_layer": "exterior_foliage",
+      "tags": [
+        "nature",
+        "shrub",
+        "garden",
+        "sea_thrift"
+      ],
+      "variants": [
+        {
+          "name": "Vibrant Bloom",
+          "color_hex": "#EC4899",
+          "material": "flower_petals"
+        },
+        {
+          "name": "Ocean Coastal Blue",
+          "color_hex": "#38BDF8",
+          "material": "saline_perennial"
+        },
+        {
+          "name": "Deep Evergreen",
+          "color_hex": "#15803D",
+          "material": "woody_shrub"
+        }
+      ]
+    },
+    {
+      "id": "CL_SHRUB_015",
+      "name": "Lavender Patch Cluster 3",
+      "subcategory": "shrubs_groundcover",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 24
+      },
+      "cutaway_layer": "exterior_foliage",
+      "tags": [
+        "nature",
+        "shrub",
+        "garden",
+        "lavender_patch"
+      ],
+      "variants": [
+        {
+          "name": "Vibrant Bloom",
+          "color_hex": "#EC4899",
+          "material": "flower_petals"
+        },
+        {
+          "name": "Ocean Coastal Blue",
+          "color_hex": "#38BDF8",
+          "material": "saline_perennial"
+        },
+        {
+          "name": "Deep Evergreen",
+          "color_hex": "#15803D",
+          "material": "woody_shrub"
+        }
+      ]
+    },
+    {
+      "id": "CL_SHRUB_016",
+      "name": "Fountain Grass Cluster 3",
+      "subcategory": "shrubs_groundcover",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 24
+      },
+      "cutaway_layer": "exterior_foliage",
+      "tags": [
+        "nature",
+        "shrub",
+        "garden",
+        "fountain_grass"
+      ],
+      "variants": [
+        {
+          "name": "Vibrant Bloom",
+          "color_hex": "#EC4899",
+          "material": "flower_petals"
+        },
+        {
+          "name": "Ocean Coastal Blue",
+          "color_hex": "#38BDF8",
+          "material": "saline_perennial"
+        },
+        {
+          "name": "Deep Evergreen",
+          "color_hex": "#15803D",
+          "material": "woody_shrub"
+        }
+      ]
+    },
+    {
+      "id": "CL_SHRUB_017",
+      "name": "Hydrangea Bush Cluster 3",
+      "subcategory": "shrubs_groundcover",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 24
+      },
+      "cutaway_layer": "exterior_foliage",
+      "tags": [
+        "nature",
+        "shrub",
+        "garden",
+        "hydrangea_bush"
+      ],
+      "variants": [
+        {
+          "name": "Vibrant Bloom",
+          "color_hex": "#EC4899",
+          "material": "flower_petals"
+        },
+        {
+          "name": "Ocean Coastal Blue",
+          "color_hex": "#38BDF8",
+          "material": "saline_perennial"
+        },
+        {
+          "name": "Deep Evergreen",
+          "color_hex": "#15803D",
+          "material": "woody_shrub"
+        }
+      ]
+    },
+    {
+      "id": "CL_SHRUB_018",
+      "name": "Boxwood Hedge Cluster 3",
+      "subcategory": "shrubs_groundcover",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 24
+      },
+      "cutaway_layer": "exterior_foliage",
+      "tags": [
+        "nature",
+        "shrub",
+        "garden",
+        "boxwood_hedge"
+      ],
+      "variants": [
+        {
+          "name": "Vibrant Bloom",
+          "color_hex": "#EC4899",
+          "material": "flower_petals"
+        },
+        {
+          "name": "Ocean Coastal Blue",
+          "color_hex": "#38BDF8",
+          "material": "saline_perennial"
+        },
+        {
+          "name": "Deep Evergreen",
+          "color_hex": "#15803D",
+          "material": "woody_shrub"
+        }
+      ]
+    },
+    {
+      "id": "CL_SHRUB_019",
+      "name": "Coastal Rosemary Cluster 3",
+      "subcategory": "shrubs_groundcover",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 24
+      },
+      "cutaway_layer": "exterior_foliage",
+      "tags": [
+        "nature",
+        "shrub",
+        "garden",
+        "coastal_rosemary"
+      ],
+      "variants": [
+        {
+          "name": "Vibrant Bloom",
+          "color_hex": "#EC4899",
+          "material": "flower_petals"
+        },
+        {
+          "name": "Ocean Coastal Blue",
+          "color_hex": "#38BDF8",
+          "material": "saline_perennial"
+        },
+        {
+          "name": "Deep Evergreen",
+          "color_hex": "#15803D",
+          "material": "woody_shrub"
+        }
+      ]
+    },
+    {
+      "id": "CL_SHRUB_020",
+      "name": "Succulent Agave Cluster 3",
+      "subcategory": "shrubs_groundcover",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 24
+      },
+      "cutaway_layer": "exterior_foliage",
+      "tags": [
+        "nature",
+        "shrub",
+        "garden",
+        "succulent_agave"
+      ],
+      "variants": [
+        {
+          "name": "Vibrant Bloom",
+          "color_hex": "#EC4899",
+          "material": "flower_petals"
+        },
+        {
+          "name": "Ocean Coastal Blue",
+          "color_hex": "#38BDF8",
+          "material": "saline_perennial"
+        },
+        {
+          "name": "Deep Evergreen",
+          "color_hex": "#15803D",
+          "material": "woody_shrub"
+        }
+      ]
+    },
+    {
+      "id": "CL_SHRUB_021",
+      "name": "Sea Thrift Cluster 3",
+      "subcategory": "shrubs_groundcover",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 24
+      },
+      "cutaway_layer": "exterior_foliage",
+      "tags": [
+        "nature",
+        "shrub",
+        "garden",
+        "sea_thrift"
+      ],
+      "variants": [
+        {
+          "name": "Vibrant Bloom",
+          "color_hex": "#EC4899",
+          "material": "flower_petals"
+        },
+        {
+          "name": "Ocean Coastal Blue",
+          "color_hex": "#38BDF8",
+          "material": "saline_perennial"
+        },
+        {
+          "name": "Deep Evergreen",
+          "color_hex": "#15803D",
+          "material": "woody_shrub"
+        }
+      ]
+    },
+    {
+      "id": "CL_SHRUB_022",
+      "name": "Lavender Patch Cluster 4",
+      "subcategory": "shrubs_groundcover",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 24
+      },
+      "cutaway_layer": "exterior_foliage",
+      "tags": [
+        "nature",
+        "shrub",
+        "garden",
+        "lavender_patch"
+      ],
+      "variants": [
+        {
+          "name": "Vibrant Bloom",
+          "color_hex": "#EC4899",
+          "material": "flower_petals"
+        },
+        {
+          "name": "Ocean Coastal Blue",
+          "color_hex": "#38BDF8",
+          "material": "saline_perennial"
+        },
+        {
+          "name": "Deep Evergreen",
+          "color_hex": "#15803D",
+          "material": "woody_shrub"
+        }
+      ]
+    },
+    {
+      "id": "CL_SHRUB_023",
+      "name": "Fountain Grass Cluster 4",
+      "subcategory": "shrubs_groundcover",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 24
+      },
+      "cutaway_layer": "exterior_foliage",
+      "tags": [
+        "nature",
+        "shrub",
+        "garden",
+        "fountain_grass"
+      ],
+      "variants": [
+        {
+          "name": "Vibrant Bloom",
+          "color_hex": "#EC4899",
+          "material": "flower_petals"
+        },
+        {
+          "name": "Ocean Coastal Blue",
+          "color_hex": "#38BDF8",
+          "material": "saline_perennial"
+        },
+        {
+          "name": "Deep Evergreen",
+          "color_hex": "#15803D",
+          "material": "woody_shrub"
+        }
+      ]
+    },
+    {
+      "id": "CL_SHRUB_024",
+      "name": "Hydrangea Bush Cluster 4",
+      "subcategory": "shrubs_groundcover",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 24
+      },
+      "cutaway_layer": "exterior_foliage",
+      "tags": [
+        "nature",
+        "shrub",
+        "garden",
+        "hydrangea_bush"
+      ],
+      "variants": [
+        {
+          "name": "Vibrant Bloom",
+          "color_hex": "#EC4899",
+          "material": "flower_petals"
+        },
+        {
+          "name": "Ocean Coastal Blue",
+          "color_hex": "#38BDF8",
+          "material": "saline_perennial"
+        },
+        {
+          "name": "Deep Evergreen",
+          "color_hex": "#15803D",
+          "material": "woody_shrub"
+        }
+      ]
+    },
+    {
+      "id": "CL_SHRUB_025",
+      "name": "Boxwood Hedge Cluster 4",
+      "subcategory": "shrubs_groundcover",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 24
+      },
+      "cutaway_layer": "exterior_foliage",
+      "tags": [
+        "nature",
+        "shrub",
+        "garden",
+        "boxwood_hedge"
+      ],
+      "variants": [
+        {
+          "name": "Vibrant Bloom",
+          "color_hex": "#EC4899",
+          "material": "flower_petals"
+        },
+        {
+          "name": "Ocean Coastal Blue",
+          "color_hex": "#38BDF8",
+          "material": "saline_perennial"
+        },
+        {
+          "name": "Deep Evergreen",
+          "color_hex": "#15803D",
+          "material": "woody_shrub"
+        }
+      ]
+    },
+    {
+      "id": "CL_SHRUB_026",
+      "name": "Coastal Rosemary Cluster 4",
+      "subcategory": "shrubs_groundcover",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 24
+      },
+      "cutaway_layer": "exterior_foliage",
+      "tags": [
+        "nature",
+        "shrub",
+        "garden",
+        "coastal_rosemary"
+      ],
+      "variants": [
+        {
+          "name": "Vibrant Bloom",
+          "color_hex": "#EC4899",
+          "material": "flower_petals"
+        },
+        {
+          "name": "Ocean Coastal Blue",
+          "color_hex": "#38BDF8",
+          "material": "saline_perennial"
+        },
+        {
+          "name": "Deep Evergreen",
+          "color_hex": "#15803D",
+          "material": "woody_shrub"
+        }
+      ]
+    },
+    {
+      "id": "CL_SHRUB_027",
+      "name": "Succulent Agave Cluster 4",
+      "subcategory": "shrubs_groundcover",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 24
+      },
+      "cutaway_layer": "exterior_foliage",
+      "tags": [
+        "nature",
+        "shrub",
+        "garden",
+        "succulent_agave"
+      ],
+      "variants": [
+        {
+          "name": "Vibrant Bloom",
+          "color_hex": "#EC4899",
+          "material": "flower_petals"
+        },
+        {
+          "name": "Ocean Coastal Blue",
+          "color_hex": "#38BDF8",
+          "material": "saline_perennial"
+        },
+        {
+          "name": "Deep Evergreen",
+          "color_hex": "#15803D",
+          "material": "woody_shrub"
+        }
+      ]
+    },
+    {
+      "id": "CL_SHRUB_028",
+      "name": "Sea Thrift Cluster 4",
+      "subcategory": "shrubs_groundcover",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 24
+      },
+      "cutaway_layer": "exterior_foliage",
+      "tags": [
+        "nature",
+        "shrub",
+        "garden",
+        "sea_thrift"
+      ],
+      "variants": [
+        {
+          "name": "Vibrant Bloom",
+          "color_hex": "#EC4899",
+          "material": "flower_petals"
+        },
+        {
+          "name": "Ocean Coastal Blue",
+          "color_hex": "#38BDF8",
+          "material": "saline_perennial"
+        },
+        {
+          "name": "Deep Evergreen",
+          "color_hex": "#15803D",
+          "material": "woody_shrub"
+        }
+      ]
+    },
+    {
+      "id": "CL_SHRUB_029",
+      "name": "Lavender Patch Cluster 5",
+      "subcategory": "shrubs_groundcover",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 24
+      },
+      "cutaway_layer": "exterior_foliage",
+      "tags": [
+        "nature",
+        "shrub",
+        "garden",
+        "lavender_patch"
+      ],
+      "variants": [
+        {
+          "name": "Vibrant Bloom",
+          "color_hex": "#EC4899",
+          "material": "flower_petals"
+        },
+        {
+          "name": "Ocean Coastal Blue",
+          "color_hex": "#38BDF8",
+          "material": "saline_perennial"
+        },
+        {
+          "name": "Deep Evergreen",
+          "color_hex": "#15803D",
+          "material": "woody_shrub"
+        }
+      ]
+    },
+    {
+      "id": "CL_SHRUB_030",
+      "name": "Fountain Grass Cluster 5",
+      "subcategory": "shrubs_groundcover",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 24
+      },
+      "cutaway_layer": "exterior_foliage",
+      "tags": [
+        "nature",
+        "shrub",
+        "garden",
+        "fountain_grass"
+      ],
+      "variants": [
+        {
+          "name": "Vibrant Bloom",
+          "color_hex": "#EC4899",
+          "material": "flower_petals"
+        },
+        {
+          "name": "Ocean Coastal Blue",
+          "color_hex": "#38BDF8",
+          "material": "saline_perennial"
+        },
+        {
+          "name": "Deep Evergreen",
+          "color_hex": "#15803D",
+          "material": "woody_shrub"
+        }
+      ]
+    },
+    {
+      "id": "CL_SHRUB_031",
+      "name": "Hydrangea Bush Cluster 5",
+      "subcategory": "shrubs_groundcover",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 24
+      },
+      "cutaway_layer": "exterior_foliage",
+      "tags": [
+        "nature",
+        "shrub",
+        "garden",
+        "hydrangea_bush"
+      ],
+      "variants": [
+        {
+          "name": "Vibrant Bloom",
+          "color_hex": "#EC4899",
+          "material": "flower_petals"
+        },
+        {
+          "name": "Ocean Coastal Blue",
+          "color_hex": "#38BDF8",
+          "material": "saline_perennial"
+        },
+        {
+          "name": "Deep Evergreen",
+          "color_hex": "#15803D",
+          "material": "woody_shrub"
+        }
+      ]
+    },
+    {
+      "id": "CL_SHRUB_032",
+      "name": "Boxwood Hedge Cluster 5",
+      "subcategory": "shrubs_groundcover",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 24
+      },
+      "cutaway_layer": "exterior_foliage",
+      "tags": [
+        "nature",
+        "shrub",
+        "garden",
+        "boxwood_hedge"
+      ],
+      "variants": [
+        {
+          "name": "Vibrant Bloom",
+          "color_hex": "#EC4899",
+          "material": "flower_petals"
+        },
+        {
+          "name": "Ocean Coastal Blue",
+          "color_hex": "#38BDF8",
+          "material": "saline_perennial"
+        },
+        {
+          "name": "Deep Evergreen",
+          "color_hex": "#15803D",
+          "material": "woody_shrub"
+        }
+      ]
+    },
+    {
+      "id": "CL_SHRUB_033",
+      "name": "Coastal Rosemary Cluster 5",
+      "subcategory": "shrubs_groundcover",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 24
+      },
+      "cutaway_layer": "exterior_foliage",
+      "tags": [
+        "nature",
+        "shrub",
+        "garden",
+        "coastal_rosemary"
+      ],
+      "variants": [
+        {
+          "name": "Vibrant Bloom",
+          "color_hex": "#EC4899",
+          "material": "flower_petals"
+        },
+        {
+          "name": "Ocean Coastal Blue",
+          "color_hex": "#38BDF8",
+          "material": "saline_perennial"
+        },
+        {
+          "name": "Deep Evergreen",
+          "color_hex": "#15803D",
+          "material": "woody_shrub"
+        }
+      ]
+    },
+    {
+      "id": "CL_SHRUB_034",
+      "name": "Succulent Agave Cluster 5",
+      "subcategory": "shrubs_groundcover",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 24
+      },
+      "cutaway_layer": "exterior_foliage",
+      "tags": [
+        "nature",
+        "shrub",
+        "garden",
+        "succulent_agave"
+      ],
+      "variants": [
+        {
+          "name": "Vibrant Bloom",
+          "color_hex": "#EC4899",
+          "material": "flower_petals"
+        },
+        {
+          "name": "Ocean Coastal Blue",
+          "color_hex": "#38BDF8",
+          "material": "saline_perennial"
+        },
+        {
+          "name": "Deep Evergreen",
+          "color_hex": "#15803D",
+          "material": "woody_shrub"
+        }
+      ]
+    },
+    {
+      "id": "CL_SHRUB_035",
+      "name": "Sea Thrift Cluster 5",
+      "subcategory": "shrubs_groundcover",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 24
+      },
+      "cutaway_layer": "exterior_foliage",
+      "tags": [
+        "nature",
+        "shrub",
+        "garden",
+        "sea_thrift"
+      ],
+      "variants": [
+        {
+          "name": "Vibrant Bloom",
+          "color_hex": "#EC4899",
+          "material": "flower_petals"
+        },
+        {
+          "name": "Ocean Coastal Blue",
+          "color_hex": "#38BDF8",
+          "material": "saline_perennial"
+        },
+        {
+          "name": "Deep Evergreen",
+          "color_hex": "#15803D",
+          "material": "woody_shrub"
+        }
+      ]
+    },
+    {
+      "id": "CL_PLANTER_001",
+      "name": "Modular Urban Planter Box 1",
+      "subcategory": "planters",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 0.8
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 20
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "landscape",
+        "planter",
+        "civic"
+      ],
+      "variants": [
+        {
+          "name": "Corten Weathered Steel",
+          "color_hex": "#9A3412",
+          "material": "corten_steel"
+        },
+        {
+          "name": "White Terrazzo Stone",
+          "color_hex": "#F8FAFC",
+          "material": "terrazzo"
+        },
+        {
+          "name": "Dark Basalt Slate",
+          "color_hex": "#1E293B",
+          "material": "basalt"
+        }
+      ]
+    },
+    {
+      "id": "CL_PLANTER_002",
+      "name": "Modular Urban Planter Box 2",
+      "subcategory": "planters",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 0.8
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 20
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "landscape",
+        "planter",
+        "civic"
+      ],
+      "variants": [
+        {
+          "name": "Corten Weathered Steel",
+          "color_hex": "#9A3412",
+          "material": "corten_steel"
+        },
+        {
+          "name": "White Terrazzo Stone",
+          "color_hex": "#F8FAFC",
+          "material": "terrazzo"
+        },
+        {
+          "name": "Dark Basalt Slate",
+          "color_hex": "#1E293B",
+          "material": "basalt"
+        }
+      ]
+    },
+    {
+      "id": "CL_PLANTER_003",
+      "name": "Modular Urban Planter Box 3",
+      "subcategory": "planters",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 0.8
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 20
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "landscape",
+        "planter",
+        "civic"
+      ],
+      "variants": [
+        {
+          "name": "Corten Weathered Steel",
+          "color_hex": "#9A3412",
+          "material": "corten_steel"
+        },
+        {
+          "name": "White Terrazzo Stone",
+          "color_hex": "#F8FAFC",
+          "material": "terrazzo"
+        },
+        {
+          "name": "Dark Basalt Slate",
+          "color_hex": "#1E293B",
+          "material": "basalt"
+        }
+      ]
+    },
+    {
+      "id": "CL_PLANTER_004",
+      "name": "Modular Urban Planter Box 4",
+      "subcategory": "planters",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 0.8
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 20
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "landscape",
+        "planter",
+        "civic"
+      ],
+      "variants": [
+        {
+          "name": "Corten Weathered Steel",
+          "color_hex": "#9A3412",
+          "material": "corten_steel"
+        },
+        {
+          "name": "White Terrazzo Stone",
+          "color_hex": "#F8FAFC",
+          "material": "terrazzo"
+        },
+        {
+          "name": "Dark Basalt Slate",
+          "color_hex": "#1E293B",
+          "material": "basalt"
+        }
+      ]
+    },
+    {
+      "id": "CL_PLANTER_005",
+      "name": "Modular Urban Planter Box 5",
+      "subcategory": "planters",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 0.8
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 20
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "landscape",
+        "planter",
+        "civic"
+      ],
+      "variants": [
+        {
+          "name": "Corten Weathered Steel",
+          "color_hex": "#9A3412",
+          "material": "corten_steel"
+        },
+        {
+          "name": "White Terrazzo Stone",
+          "color_hex": "#F8FAFC",
+          "material": "terrazzo"
+        },
+        {
+          "name": "Dark Basalt Slate",
+          "color_hex": "#1E293B",
+          "material": "basalt"
+        }
+      ]
+    },
+    {
+      "id": "CL_PLANTER_006",
+      "name": "Modular Urban Planter Box 6",
+      "subcategory": "planters",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 0.8
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 20
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "landscape",
+        "planter",
+        "civic"
+      ],
+      "variants": [
+        {
+          "name": "Corten Weathered Steel",
+          "color_hex": "#9A3412",
+          "material": "corten_steel"
+        },
+        {
+          "name": "White Terrazzo Stone",
+          "color_hex": "#F8FAFC",
+          "material": "terrazzo"
+        },
+        {
+          "name": "Dark Basalt Slate",
+          "color_hex": "#1E293B",
+          "material": "basalt"
+        }
+      ]
+    },
+    {
+      "id": "CL_PLANTER_007",
+      "name": "Modular Urban Planter Box 7",
+      "subcategory": "planters",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 0.8
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 20
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "landscape",
+        "planter",
+        "civic"
+      ],
+      "variants": [
+        {
+          "name": "Corten Weathered Steel",
+          "color_hex": "#9A3412",
+          "material": "corten_steel"
+        },
+        {
+          "name": "White Terrazzo Stone",
+          "color_hex": "#F8FAFC",
+          "material": "terrazzo"
+        },
+        {
+          "name": "Dark Basalt Slate",
+          "color_hex": "#1E293B",
+          "material": "basalt"
+        }
+      ]
+    },
+    {
+      "id": "CL_PLANTER_008",
+      "name": "Modular Urban Planter Box 8",
+      "subcategory": "planters",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 0.8
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 20
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "landscape",
+        "planter",
+        "civic"
+      ],
+      "variants": [
+        {
+          "name": "Corten Weathered Steel",
+          "color_hex": "#9A3412",
+          "material": "corten_steel"
+        },
+        {
+          "name": "White Terrazzo Stone",
+          "color_hex": "#F8FAFC",
+          "material": "terrazzo"
+        },
+        {
+          "name": "Dark Basalt Slate",
+          "color_hex": "#1E293B",
+          "material": "basalt"
+        }
+      ]
+    },
+    {
+      "id": "CL_PLANTER_009",
+      "name": "Modular Urban Planter Box 9",
+      "subcategory": "planters",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 0.8
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 20
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "landscape",
+        "planter",
+        "civic"
+      ],
+      "variants": [
+        {
+          "name": "Corten Weathered Steel",
+          "color_hex": "#9A3412",
+          "material": "corten_steel"
+        },
+        {
+          "name": "White Terrazzo Stone",
+          "color_hex": "#F8FAFC",
+          "material": "terrazzo"
+        },
+        {
+          "name": "Dark Basalt Slate",
+          "color_hex": "#1E293B",
+          "material": "basalt"
+        }
+      ]
+    },
+    {
+      "id": "CL_PLANTER_010",
+      "name": "Modular Urban Planter Box 10",
+      "subcategory": "planters",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 0.8
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 20
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "landscape",
+        "planter",
+        "civic"
+      ],
+      "variants": [
+        {
+          "name": "Corten Weathered Steel",
+          "color_hex": "#9A3412",
+          "material": "corten_steel"
+        },
+        {
+          "name": "White Terrazzo Stone",
+          "color_hex": "#F8FAFC",
+          "material": "terrazzo"
+        },
+        {
+          "name": "Dark Basalt Slate",
+          "color_hex": "#1E293B",
+          "material": "basalt"
+        }
+      ]
+    },
+    {
+      "id": "CL_PLANTER_011",
+      "name": "Modular Urban Planter Box 11",
+      "subcategory": "planters",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 0.8
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 20
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "landscape",
+        "planter",
+        "civic"
+      ],
+      "variants": [
+        {
+          "name": "Corten Weathered Steel",
+          "color_hex": "#9A3412",
+          "material": "corten_steel"
+        },
+        {
+          "name": "White Terrazzo Stone",
+          "color_hex": "#F8FAFC",
+          "material": "terrazzo"
+        },
+        {
+          "name": "Dark Basalt Slate",
+          "color_hex": "#1E293B",
+          "material": "basalt"
+        }
+      ]
+    },
+    {
+      "id": "CL_PLANTER_012",
+      "name": "Modular Urban Planter Box 12",
+      "subcategory": "planters",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 0.8
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 20
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "landscape",
+        "planter",
+        "civic"
+      ],
+      "variants": [
+        {
+          "name": "Corten Weathered Steel",
+          "color_hex": "#9A3412",
+          "material": "corten_steel"
+        },
+        {
+          "name": "White Terrazzo Stone",
+          "color_hex": "#F8FAFC",
+          "material": "terrazzo"
+        },
+        {
+          "name": "Dark Basalt Slate",
+          "color_hex": "#1E293B",
+          "material": "basalt"
+        }
+      ]
+    },
+    {
+      "id": "CL_PLANTER_013",
+      "name": "Modular Urban Planter Box 13",
+      "subcategory": "planters",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 0.8
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 20
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "landscape",
+        "planter",
+        "civic"
+      ],
+      "variants": [
+        {
+          "name": "Corten Weathered Steel",
+          "color_hex": "#9A3412",
+          "material": "corten_steel"
+        },
+        {
+          "name": "White Terrazzo Stone",
+          "color_hex": "#F8FAFC",
+          "material": "terrazzo"
+        },
+        {
+          "name": "Dark Basalt Slate",
+          "color_hex": "#1E293B",
+          "material": "basalt"
+        }
+      ]
+    },
+    {
+      "id": "CL_PLANTER_014",
+      "name": "Modular Urban Planter Box 14",
+      "subcategory": "planters",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 0.8
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 20
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "landscape",
+        "planter",
+        "civic"
+      ],
+      "variants": [
+        {
+          "name": "Corten Weathered Steel",
+          "color_hex": "#9A3412",
+          "material": "corten_steel"
+        },
+        {
+          "name": "White Terrazzo Stone",
+          "color_hex": "#F8FAFC",
+          "material": "terrazzo"
+        },
+        {
+          "name": "Dark Basalt Slate",
+          "color_hex": "#1E293B",
+          "material": "basalt"
+        }
+      ]
+    },
+    {
+      "id": "CL_PLANTER_015",
+      "name": "Modular Urban Planter Box 15",
+      "subcategory": "planters",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 0.8
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 20
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "landscape",
+        "planter",
+        "civic"
+      ],
+      "variants": [
+        {
+          "name": "Corten Weathered Steel",
+          "color_hex": "#9A3412",
+          "material": "corten_steel"
+        },
+        {
+          "name": "White Terrazzo Stone",
+          "color_hex": "#F8FAFC",
+          "material": "terrazzo"
+        },
+        {
+          "name": "Dark Basalt Slate",
+          "color_hex": "#1E293B",
+          "material": "basalt"
+        }
+      ]
+    },
+    {
+      "id": "CL_PLANTER_016",
+      "name": "Modular Urban Planter Box 16",
+      "subcategory": "planters",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 0.8
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 20
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "landscape",
+        "planter",
+        "civic"
+      ],
+      "variants": [
+        {
+          "name": "Corten Weathered Steel",
+          "color_hex": "#9A3412",
+          "material": "corten_steel"
+        },
+        {
+          "name": "White Terrazzo Stone",
+          "color_hex": "#F8FAFC",
+          "material": "terrazzo"
+        },
+        {
+          "name": "Dark Basalt Slate",
+          "color_hex": "#1E293B",
+          "material": "basalt"
+        }
+      ]
+    },
+    {
+      "id": "CL_PLANTER_017",
+      "name": "Modular Urban Planter Box 17",
+      "subcategory": "planters",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 0.8
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 20
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "landscape",
+        "planter",
+        "civic"
+      ],
+      "variants": [
+        {
+          "name": "Corten Weathered Steel",
+          "color_hex": "#9A3412",
+          "material": "corten_steel"
+        },
+        {
+          "name": "White Terrazzo Stone",
+          "color_hex": "#F8FAFC",
+          "material": "terrazzo"
+        },
+        {
+          "name": "Dark Basalt Slate",
+          "color_hex": "#1E293B",
+          "material": "basalt"
+        }
+      ]
+    },
+    {
+      "id": "CL_PLANTER_018",
+      "name": "Modular Urban Planter Box 18",
+      "subcategory": "planters",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 0.8
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 20
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "landscape",
+        "planter",
+        "civic"
+      ],
+      "variants": [
+        {
+          "name": "Corten Weathered Steel",
+          "color_hex": "#9A3412",
+          "material": "corten_steel"
+        },
+        {
+          "name": "White Terrazzo Stone",
+          "color_hex": "#F8FAFC",
+          "material": "terrazzo"
+        },
+        {
+          "name": "Dark Basalt Slate",
+          "color_hex": "#1E293B",
+          "material": "basalt"
+        }
+      ]
+    },
+    {
+      "id": "CL_FOUNTAIN_001",
+      "name": "Central Concentric Spray 1",
+      "subcategory": "water_features",
+      "tile_footprint": {
+        "width": 4,
+        "depth": 4,
+        "height_tiles": 1.5
+      },
+      "anchor_point": {
+        "x": 64,
+        "y": 48
+      },
+      "cutaway_layer": "exterior_ground",
+      "tags": [
+        "civic",
+        "water_feature",
+        "fountain",
+        "central_concentric_spray"
+      ],
+      "variants": [
+        {
+          "name": "Carrara White Marble",
+          "color_hex": "#F1F5F9",
+          "material": "marble"
+        },
+        {
+          "name": "Charcoal Granite Basin",
+          "color_hex": "#334155",
+          "material": "polished_granite"
+        },
+        {
+          "name": "Bronze Patina Accents",
+          "color_hex": "#0D9488",
+          "material": "aged_bronze"
+        }
+      ]
+    },
+    {
+      "id": "CL_FOUNTAIN_002",
+      "name": "Interactive Ground Jets 1",
+      "subcategory": "water_features",
+      "tile_footprint": {
+        "width": 4,
+        "depth": 4,
+        "height_tiles": 1.5
+      },
+      "anchor_point": {
+        "x": 64,
+        "y": 48
+      },
+      "cutaway_layer": "exterior_ground",
+      "tags": [
+        "civic",
+        "water_feature",
+        "fountain",
+        "interactive_ground_jets"
+      ],
+      "variants": [
+        {
+          "name": "Carrara White Marble",
+          "color_hex": "#F1F5F9",
+          "material": "marble"
+        },
+        {
+          "name": "Charcoal Granite Basin",
+          "color_hex": "#334155",
+          "material": "polished_granite"
+        },
+        {
+          "name": "Bronze Patina Accents",
+          "color_hex": "#0D9488",
+          "material": "aged_bronze"
+        }
+      ]
+    },
+    {
+      "id": "CL_FOUNTAIN_003",
+      "name": "Cascading Water Wall 1",
+      "subcategory": "water_features",
+      "tile_footprint": {
+        "width": 4,
+        "depth": 4,
+        "height_tiles": 1.5
+      },
+      "anchor_point": {
+        "x": 64,
+        "y": 48
+      },
+      "cutaway_layer": "exterior_ground",
+      "tags": [
+        "civic",
+        "water_feature",
+        "fountain",
+        "cascading_water_wall"
+      ],
+      "variants": [
+        {
+          "name": "Carrara White Marble",
+          "color_hex": "#F1F5F9",
+          "material": "marble"
+        },
+        {
+          "name": "Charcoal Granite Basin",
+          "color_hex": "#334155",
+          "material": "polished_granite"
+        },
+        {
+          "name": "Bronze Patina Accents",
+          "color_hex": "#0D9488",
+          "material": "aged_bronze"
+        }
+      ]
+    },
+    {
+      "id": "CL_FOUNTAIN_004",
+      "name": "Harbor Sculptural Fountain 1",
+      "subcategory": "water_features",
+      "tile_footprint": {
+        "width": 4,
+        "depth": 4,
+        "height_tiles": 1.5
+      },
+      "anchor_point": {
+        "x": 64,
+        "y": 48
+      },
+      "cutaway_layer": "exterior_ground",
+      "tags": [
+        "civic",
+        "water_feature",
+        "fountain",
+        "harbor_sculptural_fountain"
+      ],
+      "variants": [
+        {
+          "name": "Carrara White Marble",
+          "color_hex": "#F1F5F9",
+          "material": "marble"
+        },
+        {
+          "name": "Charcoal Granite Basin",
+          "color_hex": "#334155",
+          "material": "polished_granite"
+        },
+        {
+          "name": "Bronze Patina Accents",
+          "color_hex": "#0D9488",
+          "material": "aged_bronze"
+        }
+      ]
+    },
+    {
+      "id": "CL_FOUNTAIN_005",
+      "name": "Zen Reflecting Pool 1",
+      "subcategory": "water_features",
+      "tile_footprint": {
+        "width": 4,
+        "depth": 4,
+        "height_tiles": 1.5
+      },
+      "anchor_point": {
+        "x": 64,
+        "y": 48
+      },
+      "cutaway_layer": "exterior_ground",
+      "tags": [
+        "civic",
+        "water_feature",
+        "fountain",
+        "zen_reflecting_pool"
+      ],
+      "variants": [
+        {
+          "name": "Carrara White Marble",
+          "color_hex": "#F1F5F9",
+          "material": "marble"
+        },
+        {
+          "name": "Charcoal Granite Basin",
+          "color_hex": "#334155",
+          "material": "polished_granite"
+        },
+        {
+          "name": "Bronze Patina Accents",
+          "color_hex": "#0D9488",
+          "material": "aged_bronze"
+        }
+      ]
+    },
+    {
+      "id": "CL_FOUNTAIN_006",
+      "name": "Central Concentric Spray 2",
+      "subcategory": "water_features",
+      "tile_footprint": {
+        "width": 4,
+        "depth": 4,
+        "height_tiles": 1.5
+      },
+      "anchor_point": {
+        "x": 64,
+        "y": 48
+      },
+      "cutaway_layer": "exterior_ground",
+      "tags": [
+        "civic",
+        "water_feature",
+        "fountain",
+        "central_concentric_spray"
+      ],
+      "variants": [
+        {
+          "name": "Carrara White Marble",
+          "color_hex": "#F1F5F9",
+          "material": "marble"
+        },
+        {
+          "name": "Charcoal Granite Basin",
+          "color_hex": "#334155",
+          "material": "polished_granite"
+        },
+        {
+          "name": "Bronze Patina Accents",
+          "color_hex": "#0D9488",
+          "material": "aged_bronze"
+        }
+      ]
+    },
+    {
+      "id": "CL_FOUNTAIN_007",
+      "name": "Interactive Ground Jets 2",
+      "subcategory": "water_features",
+      "tile_footprint": {
+        "width": 4,
+        "depth": 4,
+        "height_tiles": 1.5
+      },
+      "anchor_point": {
+        "x": 64,
+        "y": 48
+      },
+      "cutaway_layer": "exterior_ground",
+      "tags": [
+        "civic",
+        "water_feature",
+        "fountain",
+        "interactive_ground_jets"
+      ],
+      "variants": [
+        {
+          "name": "Carrara White Marble",
+          "color_hex": "#F1F5F9",
+          "material": "marble"
+        },
+        {
+          "name": "Charcoal Granite Basin",
+          "color_hex": "#334155",
+          "material": "polished_granite"
+        },
+        {
+          "name": "Bronze Patina Accents",
+          "color_hex": "#0D9488",
+          "material": "aged_bronze"
+        }
+      ]
+    },
+    {
+      "id": "CL_FOUNTAIN_008",
+      "name": "Cascading Water Wall 2",
+      "subcategory": "water_features",
+      "tile_footprint": {
+        "width": 4,
+        "depth": 4,
+        "height_tiles": 1.5
+      },
+      "anchor_point": {
+        "x": 64,
+        "y": 48
+      },
+      "cutaway_layer": "exterior_ground",
+      "tags": [
+        "civic",
+        "water_feature",
+        "fountain",
+        "cascading_water_wall"
+      ],
+      "variants": [
+        {
+          "name": "Carrara White Marble",
+          "color_hex": "#F1F5F9",
+          "material": "marble"
+        },
+        {
+          "name": "Charcoal Granite Basin",
+          "color_hex": "#334155",
+          "material": "polished_granite"
+        },
+        {
+          "name": "Bronze Patina Accents",
+          "color_hex": "#0D9488",
+          "material": "aged_bronze"
+        }
+      ]
+    },
+    {
+      "id": "CL_FOUNTAIN_009",
+      "name": "Harbor Sculptural Fountain 2",
+      "subcategory": "water_features",
+      "tile_footprint": {
+        "width": 4,
+        "depth": 4,
+        "height_tiles": 1.5
+      },
+      "anchor_point": {
+        "x": 64,
+        "y": 48
+      },
+      "cutaway_layer": "exterior_ground",
+      "tags": [
+        "civic",
+        "water_feature",
+        "fountain",
+        "harbor_sculptural_fountain"
+      ],
+      "variants": [
+        {
+          "name": "Carrara White Marble",
+          "color_hex": "#F1F5F9",
+          "material": "marble"
+        },
+        {
+          "name": "Charcoal Granite Basin",
+          "color_hex": "#334155",
+          "material": "polished_granite"
+        },
+        {
+          "name": "Bronze Patina Accents",
+          "color_hex": "#0D9488",
+          "material": "aged_bronze"
+        }
+      ]
+    },
+    {
+      "id": "CL_FOUNTAIN_010",
+      "name": "Zen Reflecting Pool 2",
+      "subcategory": "water_features",
+      "tile_footprint": {
+        "width": 4,
+        "depth": 4,
+        "height_tiles": 1.5
+      },
+      "anchor_point": {
+        "x": 64,
+        "y": 48
+      },
+      "cutaway_layer": "exterior_ground",
+      "tags": [
+        "civic",
+        "water_feature",
+        "fountain",
+        "zen_reflecting_pool"
+      ],
+      "variants": [
+        {
+          "name": "Carrara White Marble",
+          "color_hex": "#F1F5F9",
+          "material": "marble"
+        },
+        {
+          "name": "Charcoal Granite Basin",
+          "color_hex": "#334155",
+          "material": "polished_granite"
+        },
+        {
+          "name": "Bronze Patina Accents",
+          "color_hex": "#0D9488",
+          "material": "aged_bronze"
+        }
+      ]
+    },
+    {
+      "id": "CL_SCULPTURE_001",
+      "name": "Civic Sculpture Coastal Sail Monolith 1",
+      "subcategory": "public_art",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 2,
+        "height_tiles": 3.5
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 40
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "art",
+        "sculpture",
+        "landmark",
+        "coastal_sail_monolith"
+      ],
+      "variants": [
+        {
+          "name": "Polished Mirror Steel",
+          "color_hex": "#E2E8F0",
+          "material": "mirror_steel"
+        },
+        {
+          "name": "Aged Verdigris Copper",
+          "color_hex": "#14B8A6",
+          "material": "oxidized_copper"
+        },
+        {
+          "name": "Black Obsidian Cast",
+          "color_hex": "#0F172A",
+          "material": "composite_polymer"
+        }
+      ]
+    },
+    {
+      "id": "CL_SCULPTURE_002",
+      "name": "Civic Sculpture Geometric Kinetic Wind 1",
+      "subcategory": "public_art",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 2,
+        "height_tiles": 3.5
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 40
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "art",
+        "sculpture",
+        "landmark",
+        "geometric_kinetic_wind"
+      ],
+      "variants": [
+        {
+          "name": "Polished Mirror Steel",
+          "color_hex": "#E2E8F0",
+          "material": "mirror_steel"
+        },
+        {
+          "name": "Aged Verdigris Copper",
+          "color_hex": "#14B8A6",
+          "material": "oxidized_copper"
+        },
+        {
+          "name": "Black Obsidian Cast",
+          "color_hex": "#0F172A",
+          "material": "composite_polymer"
+        }
+      ]
+    },
+    {
+      "id": "CL_SCULPTURE_003",
+      "name": "Civic Sculpture Historic Mariner Statue 1",
+      "subcategory": "public_art",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 2,
+        "height_tiles": 3.5
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 40
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "art",
+        "sculpture",
+        "landmark",
+        "historic_mariner_statue"
+      ],
+      "variants": [
+        {
+          "name": "Polished Mirror Steel",
+          "color_hex": "#E2E8F0",
+          "material": "mirror_steel"
+        },
+        {
+          "name": "Aged Verdigris Copper",
+          "color_hex": "#14B8A6",
+          "material": "oxidized_copper"
+        },
+        {
+          "name": "Black Obsidian Cast",
+          "color_hex": "#0F172A",
+          "material": "composite_polymer"
+        }
+      ]
+    },
+    {
+      "id": "CL_SCULPTURE_004",
+      "name": "Civic Sculpture Modern Digital Orb 1",
+      "subcategory": "public_art",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 2,
+        "height_tiles": 3.5
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 40
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "art",
+        "sculpture",
+        "landmark",
+        "modern_digital_orb"
+      ],
+      "variants": [
+        {
+          "name": "Polished Mirror Steel",
+          "color_hex": "#E2E8F0",
+          "material": "mirror_steel"
+        },
+        {
+          "name": "Aged Verdigris Copper",
+          "color_hex": "#14B8A6",
+          "material": "oxidized_copper"
+        },
+        {
+          "name": "Black Obsidian Cast",
+          "color_hex": "#0F172A",
+          "material": "composite_polymer"
+        }
+      ]
+    },
+    {
+      "id": "CL_SCULPTURE_005",
+      "name": "Civic Sculpture Abstract Wave Bronze 1",
+      "subcategory": "public_art",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 2,
+        "height_tiles": 3.5
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 40
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "art",
+        "sculpture",
+        "landmark",
+        "abstract_wave_bronze"
+      ],
+      "variants": [
+        {
+          "name": "Polished Mirror Steel",
+          "color_hex": "#E2E8F0",
+          "material": "mirror_steel"
+        },
+        {
+          "name": "Aged Verdigris Copper",
+          "color_hex": "#14B8A6",
+          "material": "oxidized_copper"
+        },
+        {
+          "name": "Black Obsidian Cast",
+          "color_hex": "#0F172A",
+          "material": "composite_polymer"
+        }
+      ]
+    },
+    {
+      "id": "CL_SCULPTURE_006",
+      "name": "Civic Sculpture Coastal Sail Monolith 2",
+      "subcategory": "public_art",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 2,
+        "height_tiles": 3.5
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 40
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "art",
+        "sculpture",
+        "landmark",
+        "coastal_sail_monolith"
+      ],
+      "variants": [
+        {
+          "name": "Polished Mirror Steel",
+          "color_hex": "#E2E8F0",
+          "material": "mirror_steel"
+        },
+        {
+          "name": "Aged Verdigris Copper",
+          "color_hex": "#14B8A6",
+          "material": "oxidized_copper"
+        },
+        {
+          "name": "Black Obsidian Cast",
+          "color_hex": "#0F172A",
+          "material": "composite_polymer"
+        }
+      ]
+    },
+    {
+      "id": "CL_SCULPTURE_007",
+      "name": "Civic Sculpture Geometric Kinetic Wind 2",
+      "subcategory": "public_art",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 2,
+        "height_tiles": 3.5
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 40
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "art",
+        "sculpture",
+        "landmark",
+        "geometric_kinetic_wind"
+      ],
+      "variants": [
+        {
+          "name": "Polished Mirror Steel",
+          "color_hex": "#E2E8F0",
+          "material": "mirror_steel"
+        },
+        {
+          "name": "Aged Verdigris Copper",
+          "color_hex": "#14B8A6",
+          "material": "oxidized_copper"
+        },
+        {
+          "name": "Black Obsidian Cast",
+          "color_hex": "#0F172A",
+          "material": "composite_polymer"
+        }
+      ]
+    },
+    {
+      "id": "CL_SCULPTURE_008",
+      "name": "Civic Sculpture Historic Mariner Statue 2",
+      "subcategory": "public_art",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 2,
+        "height_tiles": 3.5
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 40
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "art",
+        "sculpture",
+        "landmark",
+        "historic_mariner_statue"
+      ],
+      "variants": [
+        {
+          "name": "Polished Mirror Steel",
+          "color_hex": "#E2E8F0",
+          "material": "mirror_steel"
+        },
+        {
+          "name": "Aged Verdigris Copper",
+          "color_hex": "#14B8A6",
+          "material": "oxidized_copper"
+        },
+        {
+          "name": "Black Obsidian Cast",
+          "color_hex": "#0F172A",
+          "material": "composite_polymer"
+        }
+      ]
+    },
+    {
+      "id": "CL_SCULPTURE_009",
+      "name": "Civic Sculpture Modern Digital Orb 2",
+      "subcategory": "public_art",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 2,
+        "height_tiles": 3.5
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 40
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "art",
+        "sculpture",
+        "landmark",
+        "modern_digital_orb"
+      ],
+      "variants": [
+        {
+          "name": "Polished Mirror Steel",
+          "color_hex": "#E2E8F0",
+          "material": "mirror_steel"
+        },
+        {
+          "name": "Aged Verdigris Copper",
+          "color_hex": "#14B8A6",
+          "material": "oxidized_copper"
+        },
+        {
+          "name": "Black Obsidian Cast",
+          "color_hex": "#0F172A",
+          "material": "composite_polymer"
+        }
+      ]
+    },
+    {
+      "id": "CL_SCULPTURE_010",
+      "name": "Civic Sculpture Abstract Wave Bronze 2",
+      "subcategory": "public_art",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 2,
+        "height_tiles": 3.5
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 40
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "art",
+        "sculpture",
+        "landmark",
+        "abstract_wave_bronze"
+      ],
+      "variants": [
+        {
+          "name": "Polished Mirror Steel",
+          "color_hex": "#E2E8F0",
+          "material": "mirror_steel"
+        },
+        {
+          "name": "Aged Verdigris Copper",
+          "color_hex": "#14B8A6",
+          "material": "oxidized_copper"
+        },
+        {
+          "name": "Black Obsidian Cast",
+          "color_hex": "#0F172A",
+          "material": "composite_polymer"
+        }
+      ]
+    },
+    {
+      "id": "CL_SCULPTURE_011",
+      "name": "Civic Sculpture Coastal Sail Monolith 3",
+      "subcategory": "public_art",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 2,
+        "height_tiles": 3.5
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 40
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "art",
+        "sculpture",
+        "landmark",
+        "coastal_sail_monolith"
+      ],
+      "variants": [
+        {
+          "name": "Polished Mirror Steel",
+          "color_hex": "#E2E8F0",
+          "material": "mirror_steel"
+        },
+        {
+          "name": "Aged Verdigris Copper",
+          "color_hex": "#14B8A6",
+          "material": "oxidized_copper"
+        },
+        {
+          "name": "Black Obsidian Cast",
+          "color_hex": "#0F172A",
+          "material": "composite_polymer"
+        }
+      ]
+    },
+    {
+      "id": "CL_SCULPTURE_012",
+      "name": "Civic Sculpture Geometric Kinetic Wind 3",
+      "subcategory": "public_art",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 2,
+        "height_tiles": 3.5
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 40
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "art",
+        "sculpture",
+        "landmark",
+        "geometric_kinetic_wind"
+      ],
+      "variants": [
+        {
+          "name": "Polished Mirror Steel",
+          "color_hex": "#E2E8F0",
+          "material": "mirror_steel"
+        },
+        {
+          "name": "Aged Verdigris Copper",
+          "color_hex": "#14B8A6",
+          "material": "oxidized_copper"
+        },
+        {
+          "name": "Black Obsidian Cast",
+          "color_hex": "#0F172A",
+          "material": "composite_polymer"
+        }
+      ]
+    },
+    {
+      "id": "CL_PLAYGROUND_001",
+      "name": "Recreation Equipment Curved Climbing Dome 1",
+      "subcategory": "sports_play",
+      "tile_footprint": {
+        "width": 3,
+        "depth": 2,
+        "height_tiles": 2.0
+      },
+      "anchor_point": {
+        "x": 48,
+        "y": 32
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "recreation",
+        "sports",
+        "playground",
+        "curved_climbing_dome"
+      ],
+      "variants": [
+        {
+          "name": "Primary Bright Play",
+          "color_hex": "#EF4444",
+          "material": "powder_coated_steel"
+        },
+        {
+          "name": "Natural Robinia Wood",
+          "color_hex": "#D97706",
+          "material": "organic_timber"
+        },
+        {
+          "name": "Catch Yellow & Cyan",
+          "color_hex": "#F5BA31",
+          "material": "epdm_steel"
+        }
+      ]
+    },
+    {
+      "id": "CL_PLAYGROUND_002",
+      "name": "Recreation Equipment Wooden Adventure Ship 1",
+      "subcategory": "sports_play",
+      "tile_footprint": {
+        "width": 3,
+        "depth": 2,
+        "height_tiles": 2.0
+      },
+      "anchor_point": {
+        "x": 48,
+        "y": 32
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "recreation",
+        "sports",
+        "playground",
+        "wooden_adventure_ship"
+      ],
+      "variants": [
+        {
+          "name": "Primary Bright Play",
+          "color_hex": "#EF4444",
+          "material": "powder_coated_steel"
+        },
+        {
+          "name": "Natural Robinia Wood",
+          "color_hex": "#D97706",
+          "material": "organic_timber"
+        },
+        {
+          "name": "Catch Yellow & Cyan",
+          "color_hex": "#F5BA31",
+          "material": "epdm_steel"
+        }
+      ]
+    },
+    {
+      "id": "CL_PLAYGROUND_003",
+      "name": "Recreation Equipment Spring Rider Dolphin 1",
+      "subcategory": "sports_play",
+      "tile_footprint": {
+        "width": 3,
+        "depth": 2,
+        "height_tiles": 2.0
+      },
+      "anchor_point": {
+        "x": 48,
+        "y": 32
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "recreation",
+        "sports",
+        "playground",
+        "spring_rider_dolphin"
+      ],
+      "variants": [
+        {
+          "name": "Primary Bright Play",
+          "color_hex": "#EF4444",
+          "material": "powder_coated_steel"
+        },
+        {
+          "name": "Natural Robinia Wood",
+          "color_hex": "#D97706",
+          "material": "organic_timber"
+        },
+        {
+          "name": "Catch Yellow & Cyan",
+          "color_hex": "#F5BA31",
+          "material": "epdm_steel"
+        }
+      ]
+    },
+    {
+      "id": "CL_PLAYGROUND_004",
+      "name": "Recreation Equipment Outdoor Calisthenics Rig 1",
+      "subcategory": "sports_play",
+      "tile_footprint": {
+        "width": 3,
+        "depth": 2,
+        "height_tiles": 2.0
+      },
+      "anchor_point": {
+        "x": 48,
+        "y": 32
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "recreation",
+        "sports",
+        "playground",
+        "outdoor_calisthenics_rig"
+      ],
+      "variants": [
+        {
+          "name": "Primary Bright Play",
+          "color_hex": "#EF4444",
+          "material": "powder_coated_steel"
+        },
+        {
+          "name": "Natural Robinia Wood",
+          "color_hex": "#D97706",
+          "material": "organic_timber"
+        },
+        {
+          "name": "Catch Yellow & Cyan",
+          "color_hex": "#F5BA31",
+          "material": "epdm_steel"
+        }
+      ]
+    },
+    {
+      "id": "CL_PLAYGROUND_005",
+      "name": "Recreation Equipment Table Tennis Concrete 1",
+      "subcategory": "sports_play",
+      "tile_footprint": {
+        "width": 3,
+        "depth": 2,
+        "height_tiles": 2.0
+      },
+      "anchor_point": {
+        "x": 48,
+        "y": 32
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "recreation",
+        "sports",
+        "playground",
+        "table_tennis_concrete"
+      ],
+      "variants": [
+        {
+          "name": "Primary Bright Play",
+          "color_hex": "#EF4444",
+          "material": "powder_coated_steel"
+        },
+        {
+          "name": "Natural Robinia Wood",
+          "color_hex": "#D97706",
+          "material": "organic_timber"
+        },
+        {
+          "name": "Catch Yellow & Cyan",
+          "color_hex": "#F5BA31",
+          "material": "epdm_steel"
+        }
+      ]
+    },
+    {
+      "id": "CL_PLAYGROUND_006",
+      "name": "Recreation Equipment Padel Mini Rebound 1",
+      "subcategory": "sports_play",
+      "tile_footprint": {
+        "width": 3,
+        "depth": 2,
+        "height_tiles": 2.0
+      },
+      "anchor_point": {
+        "x": 48,
+        "y": 32
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "recreation",
+        "sports",
+        "playground",
+        "padel_mini_rebound"
+      ],
+      "variants": [
+        {
+          "name": "Primary Bright Play",
+          "color_hex": "#EF4444",
+          "material": "powder_coated_steel"
+        },
+        {
+          "name": "Natural Robinia Wood",
+          "color_hex": "#D97706",
+          "material": "organic_timber"
+        },
+        {
+          "name": "Catch Yellow & Cyan",
+          "color_hex": "#F5BA31",
+          "material": "epdm_steel"
+        }
+      ]
+    },
+    {
+      "id": "CL_PLAYGROUND_007",
+      "name": "Recreation Equipment Curved Climbing Dome 2",
+      "subcategory": "sports_play",
+      "tile_footprint": {
+        "width": 3,
+        "depth": 2,
+        "height_tiles": 2.0
+      },
+      "anchor_point": {
+        "x": 48,
+        "y": 32
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "recreation",
+        "sports",
+        "playground",
+        "curved_climbing_dome"
+      ],
+      "variants": [
+        {
+          "name": "Primary Bright Play",
+          "color_hex": "#EF4444",
+          "material": "powder_coated_steel"
+        },
+        {
+          "name": "Natural Robinia Wood",
+          "color_hex": "#D97706",
+          "material": "organic_timber"
+        },
+        {
+          "name": "Catch Yellow & Cyan",
+          "color_hex": "#F5BA31",
+          "material": "epdm_steel"
+        }
+      ]
+    },
+    {
+      "id": "CL_PLAYGROUND_008",
+      "name": "Recreation Equipment Wooden Adventure Ship 2",
+      "subcategory": "sports_play",
+      "tile_footprint": {
+        "width": 3,
+        "depth": 2,
+        "height_tiles": 2.0
+      },
+      "anchor_point": {
+        "x": 48,
+        "y": 32
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "recreation",
+        "sports",
+        "playground",
+        "wooden_adventure_ship"
+      ],
+      "variants": [
+        {
+          "name": "Primary Bright Play",
+          "color_hex": "#EF4444",
+          "material": "powder_coated_steel"
+        },
+        {
+          "name": "Natural Robinia Wood",
+          "color_hex": "#D97706",
+          "material": "organic_timber"
+        },
+        {
+          "name": "Catch Yellow & Cyan",
+          "color_hex": "#F5BA31",
+          "material": "epdm_steel"
+        }
+      ]
+    },
+    {
+      "id": "CL_PLAYGROUND_009",
+      "name": "Recreation Equipment Spring Rider Dolphin 2",
+      "subcategory": "sports_play",
+      "tile_footprint": {
+        "width": 3,
+        "depth": 2,
+        "height_tiles": 2.0
+      },
+      "anchor_point": {
+        "x": 48,
+        "y": 32
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "recreation",
+        "sports",
+        "playground",
+        "spring_rider_dolphin"
+      ],
+      "variants": [
+        {
+          "name": "Primary Bright Play",
+          "color_hex": "#EF4444",
+          "material": "powder_coated_steel"
+        },
+        {
+          "name": "Natural Robinia Wood",
+          "color_hex": "#D97706",
+          "material": "organic_timber"
+        },
+        {
+          "name": "Catch Yellow & Cyan",
+          "color_hex": "#F5BA31",
+          "material": "epdm_steel"
+        }
+      ]
+    },
+    {
+      "id": "CL_PLAYGROUND_010",
+      "name": "Recreation Equipment Outdoor Calisthenics Rig 2",
+      "subcategory": "sports_play",
+      "tile_footprint": {
+        "width": 3,
+        "depth": 2,
+        "height_tiles": 2.0
+      },
+      "anchor_point": {
+        "x": 48,
+        "y": 32
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "recreation",
+        "sports",
+        "playground",
+        "outdoor_calisthenics_rig"
+      ],
+      "variants": [
+        {
+          "name": "Primary Bright Play",
+          "color_hex": "#EF4444",
+          "material": "powder_coated_steel"
+        },
+        {
+          "name": "Natural Robinia Wood",
+          "color_hex": "#D97706",
+          "material": "organic_timber"
+        },
+        {
+          "name": "Catch Yellow & Cyan",
+          "color_hex": "#F5BA31",
+          "material": "epdm_steel"
+        }
+      ]
+    },
+    {
+      "id": "CL_PLAYGROUND_011",
+      "name": "Recreation Equipment Table Tennis Concrete 2",
+      "subcategory": "sports_play",
+      "tile_footprint": {
+        "width": 3,
+        "depth": 2,
+        "height_tiles": 2.0
+      },
+      "anchor_point": {
+        "x": 48,
+        "y": 32
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "recreation",
+        "sports",
+        "playground",
+        "table_tennis_concrete"
+      ],
+      "variants": [
+        {
+          "name": "Primary Bright Play",
+          "color_hex": "#EF4444",
+          "material": "powder_coated_steel"
+        },
+        {
+          "name": "Natural Robinia Wood",
+          "color_hex": "#D97706",
+          "material": "organic_timber"
+        },
+        {
+          "name": "Catch Yellow & Cyan",
+          "color_hex": "#F5BA31",
+          "material": "epdm_steel"
+        }
+      ]
+    },
+    {
+      "id": "CL_PLAYGROUND_012",
+      "name": "Recreation Equipment Padel Mini Rebound 2",
+      "subcategory": "sports_play",
+      "tile_footprint": {
+        "width": 3,
+        "depth": 2,
+        "height_tiles": 2.0
+      },
+      "anchor_point": {
+        "x": 48,
+        "y": 32
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "recreation",
+        "sports",
+        "playground",
+        "padel_mini_rebound"
+      ],
+      "variants": [
+        {
+          "name": "Primary Bright Play",
+          "color_hex": "#EF4444",
+          "material": "powder_coated_steel"
+        },
+        {
+          "name": "Natural Robinia Wood",
+          "color_hex": "#D97706",
+          "material": "organic_timber"
+        },
+        {
+          "name": "Catch Yellow & Cyan",
+          "color_hex": "#F5BA31",
+          "material": "epdm_steel"
+        }
+      ]
+    },
+    {
+      "id": "CL_PLAYGROUND_013",
+      "name": "Recreation Equipment Curved Climbing Dome 3",
+      "subcategory": "sports_play",
+      "tile_footprint": {
+        "width": 3,
+        "depth": 2,
+        "height_tiles": 2.0
+      },
+      "anchor_point": {
+        "x": 48,
+        "y": 32
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "recreation",
+        "sports",
+        "playground",
+        "curved_climbing_dome"
+      ],
+      "variants": [
+        {
+          "name": "Primary Bright Play",
+          "color_hex": "#EF4444",
+          "material": "powder_coated_steel"
+        },
+        {
+          "name": "Natural Robinia Wood",
+          "color_hex": "#D97706",
+          "material": "organic_timber"
+        },
+        {
+          "name": "Catch Yellow & Cyan",
+          "color_hex": "#F5BA31",
+          "material": "epdm_steel"
+        }
+      ]
+    },
+    {
+      "id": "CL_PLAYGROUND_014",
+      "name": "Recreation Equipment Wooden Adventure Ship 3",
+      "subcategory": "sports_play",
+      "tile_footprint": {
+        "width": 3,
+        "depth": 2,
+        "height_tiles": 2.0
+      },
+      "anchor_point": {
+        "x": 48,
+        "y": 32
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "recreation",
+        "sports",
+        "playground",
+        "wooden_adventure_ship"
+      ],
+      "variants": [
+        {
+          "name": "Primary Bright Play",
+          "color_hex": "#EF4444",
+          "material": "powder_coated_steel"
+        },
+        {
+          "name": "Natural Robinia Wood",
+          "color_hex": "#D97706",
+          "material": "organic_timber"
+        },
+        {
+          "name": "Catch Yellow & Cyan",
+          "color_hex": "#F5BA31",
+          "material": "epdm_steel"
+        }
+      ]
+    },
+    {
+      "id": "CL_PLAYGROUND_015",
+      "name": "Recreation Equipment Spring Rider Dolphin 3",
+      "subcategory": "sports_play",
+      "tile_footprint": {
+        "width": 3,
+        "depth": 2,
+        "height_tiles": 2.0
+      },
+      "anchor_point": {
+        "x": 48,
+        "y": 32
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "recreation",
+        "sports",
+        "playground",
+        "spring_rider_dolphin"
+      ],
+      "variants": [
+        {
+          "name": "Primary Bright Play",
+          "color_hex": "#EF4444",
+          "material": "powder_coated_steel"
+        },
+        {
+          "name": "Natural Robinia Wood",
+          "color_hex": "#D97706",
+          "material": "organic_timber"
+        },
+        {
+          "name": "Catch Yellow & Cyan",
+          "color_hex": "#F5BA31",
+          "material": "epdm_steel"
+        }
+      ]
+    },
+    {
+      "id": "CL_PLAYGROUND_016",
+      "name": "Recreation Equipment Outdoor Calisthenics Rig 3",
+      "subcategory": "sports_play",
+      "tile_footprint": {
+        "width": 3,
+        "depth": 2,
+        "height_tiles": 2.0
+      },
+      "anchor_point": {
+        "x": 48,
+        "y": 32
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "recreation",
+        "sports",
+        "playground",
+        "outdoor_calisthenics_rig"
+      ],
+      "variants": [
+        {
+          "name": "Primary Bright Play",
+          "color_hex": "#EF4444",
+          "material": "powder_coated_steel"
+        },
+        {
+          "name": "Natural Robinia Wood",
+          "color_hex": "#D97706",
+          "material": "organic_timber"
+        },
+        {
+          "name": "Catch Yellow & Cyan",
+          "color_hex": "#F5BA31",
+          "material": "epdm_steel"
+        }
+      ]
+    },
+    {
+      "id": "CL_PLAYGROUND_017",
+      "name": "Recreation Equipment Table Tennis Concrete 3",
+      "subcategory": "sports_play",
+      "tile_footprint": {
+        "width": 3,
+        "depth": 2,
+        "height_tiles": 2.0
+      },
+      "anchor_point": {
+        "x": 48,
+        "y": 32
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "recreation",
+        "sports",
+        "playground",
+        "table_tennis_concrete"
+      ],
+      "variants": [
+        {
+          "name": "Primary Bright Play",
+          "color_hex": "#EF4444",
+          "material": "powder_coated_steel"
+        },
+        {
+          "name": "Natural Robinia Wood",
+          "color_hex": "#D97706",
+          "material": "organic_timber"
+        },
+        {
+          "name": "Catch Yellow & Cyan",
+          "color_hex": "#F5BA31",
+          "material": "epdm_steel"
+        }
+      ]
+    },
+    {
+      "id": "CL_PLAYGROUND_018",
+      "name": "Recreation Equipment Padel Mini Rebound 3",
+      "subcategory": "sports_play",
+      "tile_footprint": {
+        "width": 3,
+        "depth": 2,
+        "height_tiles": 2.0
+      },
+      "anchor_point": {
+        "x": 48,
+        "y": 32
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "recreation",
+        "sports",
+        "playground",
+        "padel_mini_rebound"
+      ],
+      "variants": [
+        {
+          "name": "Primary Bright Play",
+          "color_hex": "#EF4444",
+          "material": "powder_coated_steel"
+        },
+        {
+          "name": "Natural Robinia Wood",
+          "color_hex": "#D97706",
+          "material": "organic_timber"
+        },
+        {
+          "name": "Catch Yellow & Cyan",
+          "color_hex": "#F5BA31",
+          "material": "epdm_steel"
+        }
+      ]
+    },
+    {
+      "id": "CL_PIER_001",
+      "name": "Heavy Timber Wharf Pier Segment 1",
+      "subcategory": "marine_infrastructure",
+      "tile_footprint": {
+        "width": 4,
+        "depth": 2,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 64,
+        "y": 32
+      },
+      "cutaway_layer": "exterior_marine_base",
+      "tags": [
+        "marine",
+        "coastal",
+        "pier",
+        "heavy_timber_wharf_pier"
+      ],
+      "variants": [
+        {
+          "name": "Weathered Marine Timber",
+          "color_hex": "#78350F",
+          "material": "creosote_timber"
+        },
+        {
+          "name": "Engineered Sea Concrete",
+          "color_hex": "#94A3B8",
+          "material": "sulfate_resistant_concrete"
+        },
+        {
+          "name": "Natural Basalt Boulders",
+          "color_hex": "#334155",
+          "material": "quarry_rock"
+        }
+      ]
+    },
+    {
+      "id": "CL_PIER_002",
+      "name": "Floating Pontoon Jetty Segment 1",
+      "subcategory": "marine_infrastructure",
+      "tile_footprint": {
+        "width": 4,
+        "depth": 2,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 64,
+        "y": 32
+      },
+      "cutaway_layer": "exterior_marine_base",
+      "tags": [
+        "marine",
+        "coastal",
+        "pier",
+        "floating_pontoon_jetty"
+      ],
+      "variants": [
+        {
+          "name": "Weathered Marine Timber",
+          "color_hex": "#78350F",
+          "material": "creosote_timber"
+        },
+        {
+          "name": "Engineered Sea Concrete",
+          "color_hex": "#94A3B8",
+          "material": "sulfate_resistant_concrete"
+        },
+        {
+          "name": "Natural Basalt Boulders",
+          "color_hex": "#334155",
+          "material": "quarry_rock"
+        }
+      ]
+    },
+    {
+      "id": "CL_PIER_003",
+      "name": "Concrete Tetrapod Breakwater Segment 1",
+      "subcategory": "marine_infrastructure",
+      "tile_footprint": {
+        "width": 4,
+        "depth": 2,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 64,
+        "y": 32
+      },
+      "cutaway_layer": "exterior_marine_base",
+      "tags": [
+        "marine",
+        "coastal",
+        "pier",
+        "concrete_tetrapod_breakwater"
+      ],
+      "variants": [
+        {
+          "name": "Weathered Marine Timber",
+          "color_hex": "#78350F",
+          "material": "creosote_timber"
+        },
+        {
+          "name": "Engineered Sea Concrete",
+          "color_hex": "#94A3B8",
+          "material": "sulfate_resistant_concrete"
+        },
+        {
+          "name": "Natural Basalt Boulders",
+          "color_hex": "#334155",
+          "material": "quarry_rock"
+        }
+      ]
+    },
+    {
+      "id": "CL_PIER_004",
+      "name": "Stepped Tidal Amphitheater Segment 1",
+      "subcategory": "marine_infrastructure",
+      "tile_footprint": {
+        "width": 4,
+        "depth": 2,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 64,
+        "y": 32
+      },
+      "cutaway_layer": "exterior_marine_base",
+      "tags": [
+        "marine",
+        "coastal",
+        "pier",
+        "stepped_tidal_amphitheater"
+      ],
+      "variants": [
+        {
+          "name": "Weathered Marine Timber",
+          "color_hex": "#78350F",
+          "material": "creosote_timber"
+        },
+        {
+          "name": "Engineered Sea Concrete",
+          "color_hex": "#94A3B8",
+          "material": "sulfate_resistant_concrete"
+        },
+        {
+          "name": "Natural Basalt Boulders",
+          "color_hex": "#334155",
+          "material": "quarry_rock"
+        }
+      ]
+    },
+    {
+      "id": "CL_PIER_005",
+      "name": "Stone Riprap Seawall Segment 1",
+      "subcategory": "marine_infrastructure",
+      "tile_footprint": {
+        "width": 4,
+        "depth": 2,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 64,
+        "y": 32
+      },
+      "cutaway_layer": "exterior_marine_base",
+      "tags": [
+        "marine",
+        "coastal",
+        "pier",
+        "stone_riprap_seawall"
+      ],
+      "variants": [
+        {
+          "name": "Weathered Marine Timber",
+          "color_hex": "#78350F",
+          "material": "creosote_timber"
+        },
+        {
+          "name": "Engineered Sea Concrete",
+          "color_hex": "#94A3B8",
+          "material": "sulfate_resistant_concrete"
+        },
+        {
+          "name": "Natural Basalt Boulders",
+          "color_hex": "#334155",
+          "material": "quarry_rock"
+        }
+      ]
+    },
+    {
+      "id": "CL_PIER_006",
+      "name": "Heavy Timber Wharf Pier Segment 2",
+      "subcategory": "marine_infrastructure",
+      "tile_footprint": {
+        "width": 4,
+        "depth": 2,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 64,
+        "y": 32
+      },
+      "cutaway_layer": "exterior_marine_base",
+      "tags": [
+        "marine",
+        "coastal",
+        "pier",
+        "heavy_timber_wharf_pier"
+      ],
+      "variants": [
+        {
+          "name": "Weathered Marine Timber",
+          "color_hex": "#78350F",
+          "material": "creosote_timber"
+        },
+        {
+          "name": "Engineered Sea Concrete",
+          "color_hex": "#94A3B8",
+          "material": "sulfate_resistant_concrete"
+        },
+        {
+          "name": "Natural Basalt Boulders",
+          "color_hex": "#334155",
+          "material": "quarry_rock"
+        }
+      ]
+    },
+    {
+      "id": "CL_PIER_007",
+      "name": "Floating Pontoon Jetty Segment 2",
+      "subcategory": "marine_infrastructure",
+      "tile_footprint": {
+        "width": 4,
+        "depth": 2,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 64,
+        "y": 32
+      },
+      "cutaway_layer": "exterior_marine_base",
+      "tags": [
+        "marine",
+        "coastal",
+        "pier",
+        "floating_pontoon_jetty"
+      ],
+      "variants": [
+        {
+          "name": "Weathered Marine Timber",
+          "color_hex": "#78350F",
+          "material": "creosote_timber"
+        },
+        {
+          "name": "Engineered Sea Concrete",
+          "color_hex": "#94A3B8",
+          "material": "sulfate_resistant_concrete"
+        },
+        {
+          "name": "Natural Basalt Boulders",
+          "color_hex": "#334155",
+          "material": "quarry_rock"
+        }
+      ]
+    },
+    {
+      "id": "CL_PIER_008",
+      "name": "Concrete Tetrapod Breakwater Segment 2",
+      "subcategory": "marine_infrastructure",
+      "tile_footprint": {
+        "width": 4,
+        "depth": 2,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 64,
+        "y": 32
+      },
+      "cutaway_layer": "exterior_marine_base",
+      "tags": [
+        "marine",
+        "coastal",
+        "pier",
+        "concrete_tetrapod_breakwater"
+      ],
+      "variants": [
+        {
+          "name": "Weathered Marine Timber",
+          "color_hex": "#78350F",
+          "material": "creosote_timber"
+        },
+        {
+          "name": "Engineered Sea Concrete",
+          "color_hex": "#94A3B8",
+          "material": "sulfate_resistant_concrete"
+        },
+        {
+          "name": "Natural Basalt Boulders",
+          "color_hex": "#334155",
+          "material": "quarry_rock"
+        }
+      ]
+    },
+    {
+      "id": "CL_PIER_009",
+      "name": "Stepped Tidal Amphitheater Segment 2",
+      "subcategory": "marine_infrastructure",
+      "tile_footprint": {
+        "width": 4,
+        "depth": 2,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 64,
+        "y": 32
+      },
+      "cutaway_layer": "exterior_marine_base",
+      "tags": [
+        "marine",
+        "coastal",
+        "pier",
+        "stepped_tidal_amphitheater"
+      ],
+      "variants": [
+        {
+          "name": "Weathered Marine Timber",
+          "color_hex": "#78350F",
+          "material": "creosote_timber"
+        },
+        {
+          "name": "Engineered Sea Concrete",
+          "color_hex": "#94A3B8",
+          "material": "sulfate_resistant_concrete"
+        },
+        {
+          "name": "Natural Basalt Boulders",
+          "color_hex": "#334155",
+          "material": "quarry_rock"
+        }
+      ]
+    },
+    {
+      "id": "CL_PIER_010",
+      "name": "Stone Riprap Seawall Segment 2",
+      "subcategory": "marine_infrastructure",
+      "tile_footprint": {
+        "width": 4,
+        "depth": 2,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 64,
+        "y": 32
+      },
+      "cutaway_layer": "exterior_marine_base",
+      "tags": [
+        "marine",
+        "coastal",
+        "pier",
+        "stone_riprap_seawall"
+      ],
+      "variants": [
+        {
+          "name": "Weathered Marine Timber",
+          "color_hex": "#78350F",
+          "material": "creosote_timber"
+        },
+        {
+          "name": "Engineered Sea Concrete",
+          "color_hex": "#94A3B8",
+          "material": "sulfate_resistant_concrete"
+        },
+        {
+          "name": "Natural Basalt Boulders",
+          "color_hex": "#334155",
+          "material": "quarry_rock"
+        }
+      ]
+    },
+    {
+      "id": "CL_PIER_011",
+      "name": "Heavy Timber Wharf Pier Segment 3",
+      "subcategory": "marine_infrastructure",
+      "tile_footprint": {
+        "width": 4,
+        "depth": 2,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 64,
+        "y": 32
+      },
+      "cutaway_layer": "exterior_marine_base",
+      "tags": [
+        "marine",
+        "coastal",
+        "pier",
+        "heavy_timber_wharf_pier"
+      ],
+      "variants": [
+        {
+          "name": "Weathered Marine Timber",
+          "color_hex": "#78350F",
+          "material": "creosote_timber"
+        },
+        {
+          "name": "Engineered Sea Concrete",
+          "color_hex": "#94A3B8",
+          "material": "sulfate_resistant_concrete"
+        },
+        {
+          "name": "Natural Basalt Boulders",
+          "color_hex": "#334155",
+          "material": "quarry_rock"
+        }
+      ]
+    },
+    {
+      "id": "CL_PIER_012",
+      "name": "Floating Pontoon Jetty Segment 3",
+      "subcategory": "marine_infrastructure",
+      "tile_footprint": {
+        "width": 4,
+        "depth": 2,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 64,
+        "y": 32
+      },
+      "cutaway_layer": "exterior_marine_base",
+      "tags": [
+        "marine",
+        "coastal",
+        "pier",
+        "floating_pontoon_jetty"
+      ],
+      "variants": [
+        {
+          "name": "Weathered Marine Timber",
+          "color_hex": "#78350F",
+          "material": "creosote_timber"
+        },
+        {
+          "name": "Engineered Sea Concrete",
+          "color_hex": "#94A3B8",
+          "material": "sulfate_resistant_concrete"
+        },
+        {
+          "name": "Natural Basalt Boulders",
+          "color_hex": "#334155",
+          "material": "quarry_rock"
+        }
+      ]
+    },
+    {
+      "id": "CL_PIER_013",
+      "name": "Concrete Tetrapod Breakwater Segment 3",
+      "subcategory": "marine_infrastructure",
+      "tile_footprint": {
+        "width": 4,
+        "depth": 2,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 64,
+        "y": 32
+      },
+      "cutaway_layer": "exterior_marine_base",
+      "tags": [
+        "marine",
+        "coastal",
+        "pier",
+        "concrete_tetrapod_breakwater"
+      ],
+      "variants": [
+        {
+          "name": "Weathered Marine Timber",
+          "color_hex": "#78350F",
+          "material": "creosote_timber"
+        },
+        {
+          "name": "Engineered Sea Concrete",
+          "color_hex": "#94A3B8",
+          "material": "sulfate_resistant_concrete"
+        },
+        {
+          "name": "Natural Basalt Boulders",
+          "color_hex": "#334155",
+          "material": "quarry_rock"
+        }
+      ]
+    },
+    {
+      "id": "CL_PIER_014",
+      "name": "Stepped Tidal Amphitheater Segment 3",
+      "subcategory": "marine_infrastructure",
+      "tile_footprint": {
+        "width": 4,
+        "depth": 2,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 64,
+        "y": 32
+      },
+      "cutaway_layer": "exterior_marine_base",
+      "tags": [
+        "marine",
+        "coastal",
+        "pier",
+        "stepped_tidal_amphitheater"
+      ],
+      "variants": [
+        {
+          "name": "Weathered Marine Timber",
+          "color_hex": "#78350F",
+          "material": "creosote_timber"
+        },
+        {
+          "name": "Engineered Sea Concrete",
+          "color_hex": "#94A3B8",
+          "material": "sulfate_resistant_concrete"
+        },
+        {
+          "name": "Natural Basalt Boulders",
+          "color_hex": "#334155",
+          "material": "quarry_rock"
+        }
+      ]
+    },
+    {
+      "id": "CL_PIER_015",
+      "name": "Stone Riprap Seawall Segment 3",
+      "subcategory": "marine_infrastructure",
+      "tile_footprint": {
+        "width": 4,
+        "depth": 2,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 64,
+        "y": 32
+      },
+      "cutaway_layer": "exterior_marine_base",
+      "tags": [
+        "marine",
+        "coastal",
+        "pier",
+        "stone_riprap_seawall"
+      ],
+      "variants": [
+        {
+          "name": "Weathered Marine Timber",
+          "color_hex": "#78350F",
+          "material": "creosote_timber"
+        },
+        {
+          "name": "Engineered Sea Concrete",
+          "color_hex": "#94A3B8",
+          "material": "sulfate_resistant_concrete"
+        },
+        {
+          "name": "Natural Basalt Boulders",
+          "color_hex": "#334155",
+          "material": "quarry_rock"
+        }
+      ]
+    },
+    {
+      "id": "CL_PIER_016",
+      "name": "Heavy Timber Wharf Pier Segment 4",
+      "subcategory": "marine_infrastructure",
+      "tile_footprint": {
+        "width": 4,
+        "depth": 2,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 64,
+        "y": 32
+      },
+      "cutaway_layer": "exterior_marine_base",
+      "tags": [
+        "marine",
+        "coastal",
+        "pier",
+        "heavy_timber_wharf_pier"
+      ],
+      "variants": [
+        {
+          "name": "Weathered Marine Timber",
+          "color_hex": "#78350F",
+          "material": "creosote_timber"
+        },
+        {
+          "name": "Engineered Sea Concrete",
+          "color_hex": "#94A3B8",
+          "material": "sulfate_resistant_concrete"
+        },
+        {
+          "name": "Natural Basalt Boulders",
+          "color_hex": "#334155",
+          "material": "quarry_rock"
+        }
+      ]
+    },
+    {
+      "id": "CL_PIER_017",
+      "name": "Floating Pontoon Jetty Segment 4",
+      "subcategory": "marine_infrastructure",
+      "tile_footprint": {
+        "width": 4,
+        "depth": 2,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 64,
+        "y": 32
+      },
+      "cutaway_layer": "exterior_marine_base",
+      "tags": [
+        "marine",
+        "coastal",
+        "pier",
+        "floating_pontoon_jetty"
+      ],
+      "variants": [
+        {
+          "name": "Weathered Marine Timber",
+          "color_hex": "#78350F",
+          "material": "creosote_timber"
+        },
+        {
+          "name": "Engineered Sea Concrete",
+          "color_hex": "#94A3B8",
+          "material": "sulfate_resistant_concrete"
+        },
+        {
+          "name": "Natural Basalt Boulders",
+          "color_hex": "#334155",
+          "material": "quarry_rock"
+        }
+      ]
+    },
+    {
+      "id": "CL_PIER_018",
+      "name": "Concrete Tetrapod Breakwater Segment 4",
+      "subcategory": "marine_infrastructure",
+      "tile_footprint": {
+        "width": 4,
+        "depth": 2,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 64,
+        "y": 32
+      },
+      "cutaway_layer": "exterior_marine_base",
+      "tags": [
+        "marine",
+        "coastal",
+        "pier",
+        "concrete_tetrapod_breakwater"
+      ],
+      "variants": [
+        {
+          "name": "Weathered Marine Timber",
+          "color_hex": "#78350F",
+          "material": "creosote_timber"
+        },
+        {
+          "name": "Engineered Sea Concrete",
+          "color_hex": "#94A3B8",
+          "material": "sulfate_resistant_concrete"
+        },
+        {
+          "name": "Natural Basalt Boulders",
+          "color_hex": "#334155",
+          "material": "quarry_rock"
+        }
+      ]
+    },
+    {
+      "id": "CL_PIER_019",
+      "name": "Stepped Tidal Amphitheater Segment 4",
+      "subcategory": "marine_infrastructure",
+      "tile_footprint": {
+        "width": 4,
+        "depth": 2,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 64,
+        "y": 32
+      },
+      "cutaway_layer": "exterior_marine_base",
+      "tags": [
+        "marine",
+        "coastal",
+        "pier",
+        "stepped_tidal_amphitheater"
+      ],
+      "variants": [
+        {
+          "name": "Weathered Marine Timber",
+          "color_hex": "#78350F",
+          "material": "creosote_timber"
+        },
+        {
+          "name": "Engineered Sea Concrete",
+          "color_hex": "#94A3B8",
+          "material": "sulfate_resistant_concrete"
+        },
+        {
+          "name": "Natural Basalt Boulders",
+          "color_hex": "#334155",
+          "material": "quarry_rock"
+        }
+      ]
+    },
+    {
+      "id": "CL_PIER_020",
+      "name": "Stone Riprap Seawall Segment 4",
+      "subcategory": "marine_infrastructure",
+      "tile_footprint": {
+        "width": 4,
+        "depth": 2,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 64,
+        "y": 32
+      },
+      "cutaway_layer": "exterior_marine_base",
+      "tags": [
+        "marine",
+        "coastal",
+        "pier",
+        "stone_riprap_seawall"
+      ],
+      "variants": [
+        {
+          "name": "Weathered Marine Timber",
+          "color_hex": "#78350F",
+          "material": "creosote_timber"
+        },
+        {
+          "name": "Engineered Sea Concrete",
+          "color_hex": "#94A3B8",
+          "material": "sulfate_resistant_concrete"
+        },
+        {
+          "name": "Natural Basalt Boulders",
+          "color_hex": "#334155",
+          "material": "quarry_rock"
+        }
+      ]
+    },
+    {
+      "id": "CL_PIER_021",
+      "name": "Heavy Timber Wharf Pier Segment 5",
+      "subcategory": "marine_infrastructure",
+      "tile_footprint": {
+        "width": 4,
+        "depth": 2,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 64,
+        "y": 32
+      },
+      "cutaway_layer": "exterior_marine_base",
+      "tags": [
+        "marine",
+        "coastal",
+        "pier",
+        "heavy_timber_wharf_pier"
+      ],
+      "variants": [
+        {
+          "name": "Weathered Marine Timber",
+          "color_hex": "#78350F",
+          "material": "creosote_timber"
+        },
+        {
+          "name": "Engineered Sea Concrete",
+          "color_hex": "#94A3B8",
+          "material": "sulfate_resistant_concrete"
+        },
+        {
+          "name": "Natural Basalt Boulders",
+          "color_hex": "#334155",
+          "material": "quarry_rock"
+        }
+      ]
+    },
+    {
+      "id": "CL_PIER_022",
+      "name": "Floating Pontoon Jetty Segment 5",
+      "subcategory": "marine_infrastructure",
+      "tile_footprint": {
+        "width": 4,
+        "depth": 2,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 64,
+        "y": 32
+      },
+      "cutaway_layer": "exterior_marine_base",
+      "tags": [
+        "marine",
+        "coastal",
+        "pier",
+        "floating_pontoon_jetty"
+      ],
+      "variants": [
+        {
+          "name": "Weathered Marine Timber",
+          "color_hex": "#78350F",
+          "material": "creosote_timber"
+        },
+        {
+          "name": "Engineered Sea Concrete",
+          "color_hex": "#94A3B8",
+          "material": "sulfate_resistant_concrete"
+        },
+        {
+          "name": "Natural Basalt Boulders",
+          "color_hex": "#334155",
+          "material": "quarry_rock"
+        }
+      ]
+    },
+    {
+      "id": "CL_PIER_023",
+      "name": "Concrete Tetrapod Breakwater Segment 5",
+      "subcategory": "marine_infrastructure",
+      "tile_footprint": {
+        "width": 4,
+        "depth": 2,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 64,
+        "y": 32
+      },
+      "cutaway_layer": "exterior_marine_base",
+      "tags": [
+        "marine",
+        "coastal",
+        "pier",
+        "concrete_tetrapod_breakwater"
+      ],
+      "variants": [
+        {
+          "name": "Weathered Marine Timber",
+          "color_hex": "#78350F",
+          "material": "creosote_timber"
+        },
+        {
+          "name": "Engineered Sea Concrete",
+          "color_hex": "#94A3B8",
+          "material": "sulfate_resistant_concrete"
+        },
+        {
+          "name": "Natural Basalt Boulders",
+          "color_hex": "#334155",
+          "material": "quarry_rock"
+        }
+      ]
+    },
+    {
+      "id": "CL_PIER_024",
+      "name": "Stepped Tidal Amphitheater Segment 5",
+      "subcategory": "marine_infrastructure",
+      "tile_footprint": {
+        "width": 4,
+        "depth": 2,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 64,
+        "y": 32
+      },
+      "cutaway_layer": "exterior_marine_base",
+      "tags": [
+        "marine",
+        "coastal",
+        "pier",
+        "stepped_tidal_amphitheater"
+      ],
+      "variants": [
+        {
+          "name": "Weathered Marine Timber",
+          "color_hex": "#78350F",
+          "material": "creosote_timber"
+        },
+        {
+          "name": "Engineered Sea Concrete",
+          "color_hex": "#94A3B8",
+          "material": "sulfate_resistant_concrete"
+        },
+        {
+          "name": "Natural Basalt Boulders",
+          "color_hex": "#334155",
+          "material": "quarry_rock"
+        }
+      ]
+    },
+    {
+      "id": "CL_PIER_025",
+      "name": "Stone Riprap Seawall Segment 5",
+      "subcategory": "marine_infrastructure",
+      "tile_footprint": {
+        "width": 4,
+        "depth": 2,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 64,
+        "y": 32
+      },
+      "cutaway_layer": "exterior_marine_base",
+      "tags": [
+        "marine",
+        "coastal",
+        "pier",
+        "stone_riprap_seawall"
+      ],
+      "variants": [
+        {
+          "name": "Weathered Marine Timber",
+          "color_hex": "#78350F",
+          "material": "creosote_timber"
+        },
+        {
+          "name": "Engineered Sea Concrete",
+          "color_hex": "#94A3B8",
+          "material": "sulfate_resistant_concrete"
+        },
+        {
+          "name": "Natural Basalt Boulders",
+          "color_hex": "#334155",
+          "material": "quarry_rock"
+        }
+      ]
+    },
+    {
+      "id": "CL_BOAT_001",
+      "name": "Classic Wooden Trawler 1",
+      "subcategory": "vessels",
+      "tile_footprint": {
+        "width": 4,
+        "depth": 2,
+        "height_tiles": 3.0
+      },
+      "anchor_point": {
+        "x": 64,
+        "y": 36
+      },
+      "cutaway_layer": "exterior_water_props",
+      "tags": [
+        "maritime",
+        "vessel",
+        "boat",
+        "classic_wooden_trawler"
+      ],
+      "variants": [
+        {
+          "name": "Classic White & Navy",
+          "color_hex": "#1E3A8A",
+          "material": "fiberglass"
+        },
+        {
+          "name": "Catch Yellow Stripe Commercial",
+          "color_hex": "#F5BA31",
+          "material": "welded_steel"
+        },
+        {
+          "name": "Varnished Mahogany Heritage",
+          "color_hex": "#7C2D12",
+          "material": "marine_ply_mahogany"
+        }
+      ]
+    },
+    {
+      "id": "CL_BOAT_002",
+      "name": "Coastal Ferry Catamaran 1",
+      "subcategory": "vessels",
+      "tile_footprint": {
+        "width": 4,
+        "depth": 2,
+        "height_tiles": 3.0
+      },
+      "anchor_point": {
+        "x": 64,
+        "y": 36
+      },
+      "cutaway_layer": "exterior_water_props",
+      "tags": [
+        "maritime",
+        "vessel",
+        "boat",
+        "coastal_ferry_catamaran"
+      ],
+      "variants": [
+        {
+          "name": "Classic White & Navy",
+          "color_hex": "#1E3A8A",
+          "material": "fiberglass"
+        },
+        {
+          "name": "Catch Yellow Stripe Commercial",
+          "color_hex": "#F5BA31",
+          "material": "welded_steel"
+        },
+        {
+          "name": "Varnished Mahogany Heritage",
+          "color_hex": "#7C2D12",
+          "material": "marine_ply_mahogany"
+        }
+      ]
+    },
+    {
+      "id": "CL_BOAT_003",
+      "name": "Racing Sloop Sailboat 1",
+      "subcategory": "vessels",
+      "tile_footprint": {
+        "width": 4,
+        "depth": 2,
+        "height_tiles": 3.0
+      },
+      "anchor_point": {
+        "x": 64,
+        "y": 36
+      },
+      "cutaway_layer": "exterior_water_props",
+      "tags": [
+        "maritime",
+        "vessel",
+        "boat",
+        "racing_sloop_sailboat"
+      ],
+      "variants": [
+        {
+          "name": "Classic White & Navy",
+          "color_hex": "#1E3A8A",
+          "material": "fiberglass"
+        },
+        {
+          "name": "Catch Yellow Stripe Commercial",
+          "color_hex": "#F5BA31",
+          "material": "welded_steel"
+        },
+        {
+          "name": "Varnished Mahogany Heritage",
+          "color_hex": "#7C2D12",
+          "material": "marine_ply_mahogany"
+        }
+      ]
+    },
+    {
+      "id": "CL_BOAT_004",
+      "name": "Luxury Motor Yacht 1",
+      "subcategory": "vessels",
+      "tile_footprint": {
+        "width": 4,
+        "depth": 2,
+        "height_tiles": 3.0
+      },
+      "anchor_point": {
+        "x": 64,
+        "y": 36
+      },
+      "cutaway_layer": "exterior_water_props",
+      "tags": [
+        "maritime",
+        "vessel",
+        "boat",
+        "luxury_motor_yacht"
+      ],
+      "variants": [
+        {
+          "name": "Classic White & Navy",
+          "color_hex": "#1E3A8A",
+          "material": "fiberglass"
+        },
+        {
+          "name": "Catch Yellow Stripe Commercial",
+          "color_hex": "#F5BA31",
+          "material": "welded_steel"
+        },
+        {
+          "name": "Varnished Mahogany Heritage",
+          "color_hex": "#7C2D12",
+          "material": "marine_ply_mahogany"
+        }
+      ]
+    },
+    {
+      "id": "CL_BOAT_005",
+      "name": "Harbor Pilot Tugboat 1",
+      "subcategory": "vessels",
+      "tile_footprint": {
+        "width": 4,
+        "depth": 2,
+        "height_tiles": 3.0
+      },
+      "anchor_point": {
+        "x": 64,
+        "y": 36
+      },
+      "cutaway_layer": "exterior_water_props",
+      "tags": [
+        "maritime",
+        "vessel",
+        "boat",
+        "harbor_pilot_tugboat"
+      ],
+      "variants": [
+        {
+          "name": "Classic White & Navy",
+          "color_hex": "#1E3A8A",
+          "material": "fiberglass"
+        },
+        {
+          "name": "Catch Yellow Stripe Commercial",
+          "color_hex": "#F5BA31",
+          "material": "welded_steel"
+        },
+        {
+          "name": "Varnished Mahogany Heritage",
+          "color_hex": "#7C2D12",
+          "material": "marine_ply_mahogany"
+        }
+      ]
+    },
+    {
+      "id": "CL_BOAT_006",
+      "name": "Kayak Canoe Rack 1",
+      "subcategory": "vessels",
+      "tile_footprint": {
+        "width": 4,
+        "depth": 2,
+        "height_tiles": 3.0
+      },
+      "anchor_point": {
+        "x": 64,
+        "y": 36
+      },
+      "cutaway_layer": "exterior_water_props",
+      "tags": [
+        "maritime",
+        "vessel",
+        "boat",
+        "kayak_canoe_rack"
+      ],
+      "variants": [
+        {
+          "name": "Classic White & Navy",
+          "color_hex": "#1E3A8A",
+          "material": "fiberglass"
+        },
+        {
+          "name": "Catch Yellow Stripe Commercial",
+          "color_hex": "#F5BA31",
+          "material": "welded_steel"
+        },
+        {
+          "name": "Varnished Mahogany Heritage",
+          "color_hex": "#7C2D12",
+          "material": "marine_ply_mahogany"
+        }
+      ]
+    },
+    {
+      "id": "CL_BOAT_007",
+      "name": "Container Feeder Ship 1",
+      "subcategory": "vessels",
+      "tile_footprint": {
+        "width": 4,
+        "depth": 2,
+        "height_tiles": 3.0
+      },
+      "anchor_point": {
+        "x": 64,
+        "y": 36
+      },
+      "cutaway_layer": "exterior_water_props",
+      "tags": [
+        "maritime",
+        "vessel",
+        "boat",
+        "container_feeder_ship"
+      ],
+      "variants": [
+        {
+          "name": "Classic White & Navy",
+          "color_hex": "#1E3A8A",
+          "material": "fiberglass"
+        },
+        {
+          "name": "Catch Yellow Stripe Commercial",
+          "color_hex": "#F5BA31",
+          "material": "welded_steel"
+        },
+        {
+          "name": "Varnished Mahogany Heritage",
+          "color_hex": "#7C2D12",
+          "material": "marine_ply_mahogany"
+        }
+      ]
+    },
+    {
+      "id": "CL_BOAT_008",
+      "name": "Classic Wooden Trawler 2",
+      "subcategory": "vessels",
+      "tile_footprint": {
+        "width": 4,
+        "depth": 2,
+        "height_tiles": 3.0
+      },
+      "anchor_point": {
+        "x": 64,
+        "y": 36
+      },
+      "cutaway_layer": "exterior_water_props",
+      "tags": [
+        "maritime",
+        "vessel",
+        "boat",
+        "classic_wooden_trawler"
+      ],
+      "variants": [
+        {
+          "name": "Classic White & Navy",
+          "color_hex": "#1E3A8A",
+          "material": "fiberglass"
+        },
+        {
+          "name": "Catch Yellow Stripe Commercial",
+          "color_hex": "#F5BA31",
+          "material": "welded_steel"
+        },
+        {
+          "name": "Varnished Mahogany Heritage",
+          "color_hex": "#7C2D12",
+          "material": "marine_ply_mahogany"
+        }
+      ]
+    },
+    {
+      "id": "CL_BOAT_009",
+      "name": "Coastal Ferry Catamaran 2",
+      "subcategory": "vessels",
+      "tile_footprint": {
+        "width": 4,
+        "depth": 2,
+        "height_tiles": 3.0
+      },
+      "anchor_point": {
+        "x": 64,
+        "y": 36
+      },
+      "cutaway_layer": "exterior_water_props",
+      "tags": [
+        "maritime",
+        "vessel",
+        "boat",
+        "coastal_ferry_catamaran"
+      ],
+      "variants": [
+        {
+          "name": "Classic White & Navy",
+          "color_hex": "#1E3A8A",
+          "material": "fiberglass"
+        },
+        {
+          "name": "Catch Yellow Stripe Commercial",
+          "color_hex": "#F5BA31",
+          "material": "welded_steel"
+        },
+        {
+          "name": "Varnished Mahogany Heritage",
+          "color_hex": "#7C2D12",
+          "material": "marine_ply_mahogany"
+        }
+      ]
+    },
+    {
+      "id": "CL_BOAT_010",
+      "name": "Racing Sloop Sailboat 2",
+      "subcategory": "vessels",
+      "tile_footprint": {
+        "width": 4,
+        "depth": 2,
+        "height_tiles": 3.0
+      },
+      "anchor_point": {
+        "x": 64,
+        "y": 36
+      },
+      "cutaway_layer": "exterior_water_props",
+      "tags": [
+        "maritime",
+        "vessel",
+        "boat",
+        "racing_sloop_sailboat"
+      ],
+      "variants": [
+        {
+          "name": "Classic White & Navy",
+          "color_hex": "#1E3A8A",
+          "material": "fiberglass"
+        },
+        {
+          "name": "Catch Yellow Stripe Commercial",
+          "color_hex": "#F5BA31",
+          "material": "welded_steel"
+        },
+        {
+          "name": "Varnished Mahogany Heritage",
+          "color_hex": "#7C2D12",
+          "material": "marine_ply_mahogany"
+        }
+      ]
+    },
+    {
+      "id": "CL_BOAT_011",
+      "name": "Luxury Motor Yacht 2",
+      "subcategory": "vessels",
+      "tile_footprint": {
+        "width": 4,
+        "depth": 2,
+        "height_tiles": 3.0
+      },
+      "anchor_point": {
+        "x": 64,
+        "y": 36
+      },
+      "cutaway_layer": "exterior_water_props",
+      "tags": [
+        "maritime",
+        "vessel",
+        "boat",
+        "luxury_motor_yacht"
+      ],
+      "variants": [
+        {
+          "name": "Classic White & Navy",
+          "color_hex": "#1E3A8A",
+          "material": "fiberglass"
+        },
+        {
+          "name": "Catch Yellow Stripe Commercial",
+          "color_hex": "#F5BA31",
+          "material": "welded_steel"
+        },
+        {
+          "name": "Varnished Mahogany Heritage",
+          "color_hex": "#7C2D12",
+          "material": "marine_ply_mahogany"
+        }
+      ]
+    },
+    {
+      "id": "CL_BOAT_012",
+      "name": "Harbor Pilot Tugboat 2",
+      "subcategory": "vessels",
+      "tile_footprint": {
+        "width": 4,
+        "depth": 2,
+        "height_tiles": 3.0
+      },
+      "anchor_point": {
+        "x": 64,
+        "y": 36
+      },
+      "cutaway_layer": "exterior_water_props",
+      "tags": [
+        "maritime",
+        "vessel",
+        "boat",
+        "harbor_pilot_tugboat"
+      ],
+      "variants": [
+        {
+          "name": "Classic White & Navy",
+          "color_hex": "#1E3A8A",
+          "material": "fiberglass"
+        },
+        {
+          "name": "Catch Yellow Stripe Commercial",
+          "color_hex": "#F5BA31",
+          "material": "welded_steel"
+        },
+        {
+          "name": "Varnished Mahogany Heritage",
+          "color_hex": "#7C2D12",
+          "material": "marine_ply_mahogany"
+        }
+      ]
+    },
+    {
+      "id": "CL_BOAT_013",
+      "name": "Kayak Canoe Rack 2",
+      "subcategory": "vessels",
+      "tile_footprint": {
+        "width": 4,
+        "depth": 2,
+        "height_tiles": 3.0
+      },
+      "anchor_point": {
+        "x": 64,
+        "y": 36
+      },
+      "cutaway_layer": "exterior_water_props",
+      "tags": [
+        "maritime",
+        "vessel",
+        "boat",
+        "kayak_canoe_rack"
+      ],
+      "variants": [
+        {
+          "name": "Classic White & Navy",
+          "color_hex": "#1E3A8A",
+          "material": "fiberglass"
+        },
+        {
+          "name": "Catch Yellow Stripe Commercial",
+          "color_hex": "#F5BA31",
+          "material": "welded_steel"
+        },
+        {
+          "name": "Varnished Mahogany Heritage",
+          "color_hex": "#7C2D12",
+          "material": "marine_ply_mahogany"
+        }
+      ]
+    },
+    {
+      "id": "CL_BOAT_014",
+      "name": "Container Feeder Ship 2",
+      "subcategory": "vessels",
+      "tile_footprint": {
+        "width": 4,
+        "depth": 2,
+        "height_tiles": 3.0
+      },
+      "anchor_point": {
+        "x": 64,
+        "y": 36
+      },
+      "cutaway_layer": "exterior_water_props",
+      "tags": [
+        "maritime",
+        "vessel",
+        "boat",
+        "container_feeder_ship"
+      ],
+      "variants": [
+        {
+          "name": "Classic White & Navy",
+          "color_hex": "#1E3A8A",
+          "material": "fiberglass"
+        },
+        {
+          "name": "Catch Yellow Stripe Commercial",
+          "color_hex": "#F5BA31",
+          "material": "welded_steel"
+        },
+        {
+          "name": "Varnished Mahogany Heritage",
+          "color_hex": "#7C2D12",
+          "material": "marine_ply_mahogany"
+        }
+      ]
+    },
+    {
+      "id": "CL_BOAT_015",
+      "name": "Classic Wooden Trawler 3",
+      "subcategory": "vessels",
+      "tile_footprint": {
+        "width": 4,
+        "depth": 2,
+        "height_tiles": 3.0
+      },
+      "anchor_point": {
+        "x": 64,
+        "y": 36
+      },
+      "cutaway_layer": "exterior_water_props",
+      "tags": [
+        "maritime",
+        "vessel",
+        "boat",
+        "classic_wooden_trawler"
+      ],
+      "variants": [
+        {
+          "name": "Classic White & Navy",
+          "color_hex": "#1E3A8A",
+          "material": "fiberglass"
+        },
+        {
+          "name": "Catch Yellow Stripe Commercial",
+          "color_hex": "#F5BA31",
+          "material": "welded_steel"
+        },
+        {
+          "name": "Varnished Mahogany Heritage",
+          "color_hex": "#7C2D12",
+          "material": "marine_ply_mahogany"
+        }
+      ]
+    },
+    {
+      "id": "CL_BOAT_016",
+      "name": "Coastal Ferry Catamaran 3",
+      "subcategory": "vessels",
+      "tile_footprint": {
+        "width": 4,
+        "depth": 2,
+        "height_tiles": 3.0
+      },
+      "anchor_point": {
+        "x": 64,
+        "y": 36
+      },
+      "cutaway_layer": "exterior_water_props",
+      "tags": [
+        "maritime",
+        "vessel",
+        "boat",
+        "coastal_ferry_catamaran"
+      ],
+      "variants": [
+        {
+          "name": "Classic White & Navy",
+          "color_hex": "#1E3A8A",
+          "material": "fiberglass"
+        },
+        {
+          "name": "Catch Yellow Stripe Commercial",
+          "color_hex": "#F5BA31",
+          "material": "welded_steel"
+        },
+        {
+          "name": "Varnished Mahogany Heritage",
+          "color_hex": "#7C2D12",
+          "material": "marine_ply_mahogany"
+        }
+      ]
+    },
+    {
+      "id": "CL_BOAT_017",
+      "name": "Racing Sloop Sailboat 3",
+      "subcategory": "vessels",
+      "tile_footprint": {
+        "width": 4,
+        "depth": 2,
+        "height_tiles": 3.0
+      },
+      "anchor_point": {
+        "x": 64,
+        "y": 36
+      },
+      "cutaway_layer": "exterior_water_props",
+      "tags": [
+        "maritime",
+        "vessel",
+        "boat",
+        "racing_sloop_sailboat"
+      ],
+      "variants": [
+        {
+          "name": "Classic White & Navy",
+          "color_hex": "#1E3A8A",
+          "material": "fiberglass"
+        },
+        {
+          "name": "Catch Yellow Stripe Commercial",
+          "color_hex": "#F5BA31",
+          "material": "welded_steel"
+        },
+        {
+          "name": "Varnished Mahogany Heritage",
+          "color_hex": "#7C2D12",
+          "material": "marine_ply_mahogany"
+        }
+      ]
+    },
+    {
+      "id": "CL_BOAT_018",
+      "name": "Luxury Motor Yacht 3",
+      "subcategory": "vessels",
+      "tile_footprint": {
+        "width": 4,
+        "depth": 2,
+        "height_tiles": 3.0
+      },
+      "anchor_point": {
+        "x": 64,
+        "y": 36
+      },
+      "cutaway_layer": "exterior_water_props",
+      "tags": [
+        "maritime",
+        "vessel",
+        "boat",
+        "luxury_motor_yacht"
+      ],
+      "variants": [
+        {
+          "name": "Classic White & Navy",
+          "color_hex": "#1E3A8A",
+          "material": "fiberglass"
+        },
+        {
+          "name": "Catch Yellow Stripe Commercial",
+          "color_hex": "#F5BA31",
+          "material": "welded_steel"
+        },
+        {
+          "name": "Varnished Mahogany Heritage",
+          "color_hex": "#7C2D12",
+          "material": "marine_ply_mahogany"
+        }
+      ]
+    },
+    {
+      "id": "CL_BOAT_019",
+      "name": "Harbor Pilot Tugboat 3",
+      "subcategory": "vessels",
+      "tile_footprint": {
+        "width": 4,
+        "depth": 2,
+        "height_tiles": 3.0
+      },
+      "anchor_point": {
+        "x": 64,
+        "y": 36
+      },
+      "cutaway_layer": "exterior_water_props",
+      "tags": [
+        "maritime",
+        "vessel",
+        "boat",
+        "harbor_pilot_tugboat"
+      ],
+      "variants": [
+        {
+          "name": "Classic White & Navy",
+          "color_hex": "#1E3A8A",
+          "material": "fiberglass"
+        },
+        {
+          "name": "Catch Yellow Stripe Commercial",
+          "color_hex": "#F5BA31",
+          "material": "welded_steel"
+        },
+        {
+          "name": "Varnished Mahogany Heritage",
+          "color_hex": "#7C2D12",
+          "material": "marine_ply_mahogany"
+        }
+      ]
+    },
+    {
+      "id": "CL_BOAT_020",
+      "name": "Kayak Canoe Rack 3",
+      "subcategory": "vessels",
+      "tile_footprint": {
+        "width": 4,
+        "depth": 2,
+        "height_tiles": 3.0
+      },
+      "anchor_point": {
+        "x": 64,
+        "y": 36
+      },
+      "cutaway_layer": "exterior_water_props",
+      "tags": [
+        "maritime",
+        "vessel",
+        "boat",
+        "kayak_canoe_rack"
+      ],
+      "variants": [
+        {
+          "name": "Classic White & Navy",
+          "color_hex": "#1E3A8A",
+          "material": "fiberglass"
+        },
+        {
+          "name": "Catch Yellow Stripe Commercial",
+          "color_hex": "#F5BA31",
+          "material": "welded_steel"
+        },
+        {
+          "name": "Varnished Mahogany Heritage",
+          "color_hex": "#7C2D12",
+          "material": "marine_ply_mahogany"
+        }
+      ]
+    },
+    {
+      "id": "CL_BOAT_021",
+      "name": "Container Feeder Ship 3",
+      "subcategory": "vessels",
+      "tile_footprint": {
+        "width": 4,
+        "depth": 2,
+        "height_tiles": 3.0
+      },
+      "anchor_point": {
+        "x": 64,
+        "y": 36
+      },
+      "cutaway_layer": "exterior_water_props",
+      "tags": [
+        "maritime",
+        "vessel",
+        "boat",
+        "container_feeder_ship"
+      ],
+      "variants": [
+        {
+          "name": "Classic White & Navy",
+          "color_hex": "#1E3A8A",
+          "material": "fiberglass"
+        },
+        {
+          "name": "Catch Yellow Stripe Commercial",
+          "color_hex": "#F5BA31",
+          "material": "welded_steel"
+        },
+        {
+          "name": "Varnished Mahogany Heritage",
+          "color_hex": "#7C2D12",
+          "material": "marine_ply_mahogany"
+        }
+      ]
+    },
+    {
+      "id": "CL_BOAT_022",
+      "name": "Classic Wooden Trawler 4",
+      "subcategory": "vessels",
+      "tile_footprint": {
+        "width": 4,
+        "depth": 2,
+        "height_tiles": 3.0
+      },
+      "anchor_point": {
+        "x": 64,
+        "y": 36
+      },
+      "cutaway_layer": "exterior_water_props",
+      "tags": [
+        "maritime",
+        "vessel",
+        "boat",
+        "classic_wooden_trawler"
+      ],
+      "variants": [
+        {
+          "name": "Classic White & Navy",
+          "color_hex": "#1E3A8A",
+          "material": "fiberglass"
+        },
+        {
+          "name": "Catch Yellow Stripe Commercial",
+          "color_hex": "#F5BA31",
+          "material": "welded_steel"
+        },
+        {
+          "name": "Varnished Mahogany Heritage",
+          "color_hex": "#7C2D12",
+          "material": "marine_ply_mahogany"
+        }
+      ]
+    },
+    {
+      "id": "CL_BOAT_023",
+      "name": "Coastal Ferry Catamaran 4",
+      "subcategory": "vessels",
+      "tile_footprint": {
+        "width": 4,
+        "depth": 2,
+        "height_tiles": 3.0
+      },
+      "anchor_point": {
+        "x": 64,
+        "y": 36
+      },
+      "cutaway_layer": "exterior_water_props",
+      "tags": [
+        "maritime",
+        "vessel",
+        "boat",
+        "coastal_ferry_catamaran"
+      ],
+      "variants": [
+        {
+          "name": "Classic White & Navy",
+          "color_hex": "#1E3A8A",
+          "material": "fiberglass"
+        },
+        {
+          "name": "Catch Yellow Stripe Commercial",
+          "color_hex": "#F5BA31",
+          "material": "welded_steel"
+        },
+        {
+          "name": "Varnished Mahogany Heritage",
+          "color_hex": "#7C2D12",
+          "material": "marine_ply_mahogany"
+        }
+      ]
+    },
+    {
+      "id": "CL_BOAT_024",
+      "name": "Racing Sloop Sailboat 4",
+      "subcategory": "vessels",
+      "tile_footprint": {
+        "width": 4,
+        "depth": 2,
+        "height_tiles": 3.0
+      },
+      "anchor_point": {
+        "x": 64,
+        "y": 36
+      },
+      "cutaway_layer": "exterior_water_props",
+      "tags": [
+        "maritime",
+        "vessel",
+        "boat",
+        "racing_sloop_sailboat"
+      ],
+      "variants": [
+        {
+          "name": "Classic White & Navy",
+          "color_hex": "#1E3A8A",
+          "material": "fiberglass"
+        },
+        {
+          "name": "Catch Yellow Stripe Commercial",
+          "color_hex": "#F5BA31",
+          "material": "welded_steel"
+        },
+        {
+          "name": "Varnished Mahogany Heritage",
+          "color_hex": "#7C2D12",
+          "material": "marine_ply_mahogany"
+        }
+      ]
+    },
+    {
+      "id": "CL_BOAT_025",
+      "name": "Luxury Motor Yacht 4",
+      "subcategory": "vessels",
+      "tile_footprint": {
+        "width": 4,
+        "depth": 2,
+        "height_tiles": 3.0
+      },
+      "anchor_point": {
+        "x": 64,
+        "y": 36
+      },
+      "cutaway_layer": "exterior_water_props",
+      "tags": [
+        "maritime",
+        "vessel",
+        "boat",
+        "luxury_motor_yacht"
+      ],
+      "variants": [
+        {
+          "name": "Classic White & Navy",
+          "color_hex": "#1E3A8A",
+          "material": "fiberglass"
+        },
+        {
+          "name": "Catch Yellow Stripe Commercial",
+          "color_hex": "#F5BA31",
+          "material": "welded_steel"
+        },
+        {
+          "name": "Varnished Mahogany Heritage",
+          "color_hex": "#7C2D12",
+          "material": "marine_ply_mahogany"
+        }
+      ]
+    },
+    {
+      "id": "CL_BOAT_026",
+      "name": "Harbor Pilot Tugboat 4",
+      "subcategory": "vessels",
+      "tile_footprint": {
+        "width": 4,
+        "depth": 2,
+        "height_tiles": 3.0
+      },
+      "anchor_point": {
+        "x": 64,
+        "y": 36
+      },
+      "cutaway_layer": "exterior_water_props",
+      "tags": [
+        "maritime",
+        "vessel",
+        "boat",
+        "harbor_pilot_tugboat"
+      ],
+      "variants": [
+        {
+          "name": "Classic White & Navy",
+          "color_hex": "#1E3A8A",
+          "material": "fiberglass"
+        },
+        {
+          "name": "Catch Yellow Stripe Commercial",
+          "color_hex": "#F5BA31",
+          "material": "welded_steel"
+        },
+        {
+          "name": "Varnished Mahogany Heritage",
+          "color_hex": "#7C2D12",
+          "material": "marine_ply_mahogany"
+        }
+      ]
+    },
+    {
+      "id": "CL_BOAT_027",
+      "name": "Kayak Canoe Rack 4",
+      "subcategory": "vessels",
+      "tile_footprint": {
+        "width": 4,
+        "depth": 2,
+        "height_tiles": 3.0
+      },
+      "anchor_point": {
+        "x": 64,
+        "y": 36
+      },
+      "cutaway_layer": "exterior_water_props",
+      "tags": [
+        "maritime",
+        "vessel",
+        "boat",
+        "kayak_canoe_rack"
+      ],
+      "variants": [
+        {
+          "name": "Classic White & Navy",
+          "color_hex": "#1E3A8A",
+          "material": "fiberglass"
+        },
+        {
+          "name": "Catch Yellow Stripe Commercial",
+          "color_hex": "#F5BA31",
+          "material": "welded_steel"
+        },
+        {
+          "name": "Varnished Mahogany Heritage",
+          "color_hex": "#7C2D12",
+          "material": "marine_ply_mahogany"
+        }
+      ]
+    },
+    {
+      "id": "CL_BOAT_028",
+      "name": "Container Feeder Ship 4",
+      "subcategory": "vessels",
+      "tile_footprint": {
+        "width": 4,
+        "depth": 2,
+        "height_tiles": 3.0
+      },
+      "anchor_point": {
+        "x": 64,
+        "y": 36
+      },
+      "cutaway_layer": "exterior_water_props",
+      "tags": [
+        "maritime",
+        "vessel",
+        "boat",
+        "container_feeder_ship"
+      ],
+      "variants": [
+        {
+          "name": "Classic White & Navy",
+          "color_hex": "#1E3A8A",
+          "material": "fiberglass"
+        },
+        {
+          "name": "Catch Yellow Stripe Commercial",
+          "color_hex": "#F5BA31",
+          "material": "welded_steel"
+        },
+        {
+          "name": "Varnished Mahogany Heritage",
+          "color_hex": "#7C2D12",
+          "material": "marine_ply_mahogany"
+        }
+      ]
+    },
+    {
+      "id": "CL_BOAT_029",
+      "name": "Classic Wooden Trawler 5",
+      "subcategory": "vessels",
+      "tile_footprint": {
+        "width": 4,
+        "depth": 2,
+        "height_tiles": 3.0
+      },
+      "anchor_point": {
+        "x": 64,
+        "y": 36
+      },
+      "cutaway_layer": "exterior_water_props",
+      "tags": [
+        "maritime",
+        "vessel",
+        "boat",
+        "classic_wooden_trawler"
+      ],
+      "variants": [
+        {
+          "name": "Classic White & Navy",
+          "color_hex": "#1E3A8A",
+          "material": "fiberglass"
+        },
+        {
+          "name": "Catch Yellow Stripe Commercial",
+          "color_hex": "#F5BA31",
+          "material": "welded_steel"
+        },
+        {
+          "name": "Varnished Mahogany Heritage",
+          "color_hex": "#7C2D12",
+          "material": "marine_ply_mahogany"
+        }
+      ]
+    },
+    {
+      "id": "CL_BOAT_030",
+      "name": "Coastal Ferry Catamaran 5",
+      "subcategory": "vessels",
+      "tile_footprint": {
+        "width": 4,
+        "depth": 2,
+        "height_tiles": 3.0
+      },
+      "anchor_point": {
+        "x": 64,
+        "y": 36
+      },
+      "cutaway_layer": "exterior_water_props",
+      "tags": [
+        "maritime",
+        "vessel",
+        "boat",
+        "coastal_ferry_catamaran"
+      ],
+      "variants": [
+        {
+          "name": "Classic White & Navy",
+          "color_hex": "#1E3A8A",
+          "material": "fiberglass"
+        },
+        {
+          "name": "Catch Yellow Stripe Commercial",
+          "color_hex": "#F5BA31",
+          "material": "welded_steel"
+        },
+        {
+          "name": "Varnished Mahogany Heritage",
+          "color_hex": "#7C2D12",
+          "material": "marine_ply_mahogany"
+        }
+      ]
+    },
+    {
+      "id": "CL_BOAT_031",
+      "name": "Racing Sloop Sailboat 5",
+      "subcategory": "vessels",
+      "tile_footprint": {
+        "width": 4,
+        "depth": 2,
+        "height_tiles": 3.0
+      },
+      "anchor_point": {
+        "x": 64,
+        "y": 36
+      },
+      "cutaway_layer": "exterior_water_props",
+      "tags": [
+        "maritime",
+        "vessel",
+        "boat",
+        "racing_sloop_sailboat"
+      ],
+      "variants": [
+        {
+          "name": "Classic White & Navy",
+          "color_hex": "#1E3A8A",
+          "material": "fiberglass"
+        },
+        {
+          "name": "Catch Yellow Stripe Commercial",
+          "color_hex": "#F5BA31",
+          "material": "welded_steel"
+        },
+        {
+          "name": "Varnished Mahogany Heritage",
+          "color_hex": "#7C2D12",
+          "material": "marine_ply_mahogany"
+        }
+      ]
+    },
+    {
+      "id": "CL_BOAT_032",
+      "name": "Luxury Motor Yacht 5",
+      "subcategory": "vessels",
+      "tile_footprint": {
+        "width": 4,
+        "depth": 2,
+        "height_tiles": 3.0
+      },
+      "anchor_point": {
+        "x": 64,
+        "y": 36
+      },
+      "cutaway_layer": "exterior_water_props",
+      "tags": [
+        "maritime",
+        "vessel",
+        "boat",
+        "luxury_motor_yacht"
+      ],
+      "variants": [
+        {
+          "name": "Classic White & Navy",
+          "color_hex": "#1E3A8A",
+          "material": "fiberglass"
+        },
+        {
+          "name": "Catch Yellow Stripe Commercial",
+          "color_hex": "#F5BA31",
+          "material": "welded_steel"
+        },
+        {
+          "name": "Varnished Mahogany Heritage",
+          "color_hex": "#7C2D12",
+          "material": "marine_ply_mahogany"
+        }
+      ]
+    },
+    {
+      "id": "CL_BOAT_033",
+      "name": "Harbor Pilot Tugboat 5",
+      "subcategory": "vessels",
+      "tile_footprint": {
+        "width": 4,
+        "depth": 2,
+        "height_tiles": 3.0
+      },
+      "anchor_point": {
+        "x": 64,
+        "y": 36
+      },
+      "cutaway_layer": "exterior_water_props",
+      "tags": [
+        "maritime",
+        "vessel",
+        "boat",
+        "harbor_pilot_tugboat"
+      ],
+      "variants": [
+        {
+          "name": "Classic White & Navy",
+          "color_hex": "#1E3A8A",
+          "material": "fiberglass"
+        },
+        {
+          "name": "Catch Yellow Stripe Commercial",
+          "color_hex": "#F5BA31",
+          "material": "welded_steel"
+        },
+        {
+          "name": "Varnished Mahogany Heritage",
+          "color_hex": "#7C2D12",
+          "material": "marine_ply_mahogany"
+        }
+      ]
+    },
+    {
+      "id": "CL_BOAT_034",
+      "name": "Kayak Canoe Rack 5",
+      "subcategory": "vessels",
+      "tile_footprint": {
+        "width": 4,
+        "depth": 2,
+        "height_tiles": 3.0
+      },
+      "anchor_point": {
+        "x": 64,
+        "y": 36
+      },
+      "cutaway_layer": "exterior_water_props",
+      "tags": [
+        "maritime",
+        "vessel",
+        "boat",
+        "kayak_canoe_rack"
+      ],
+      "variants": [
+        {
+          "name": "Classic White & Navy",
+          "color_hex": "#1E3A8A",
+          "material": "fiberglass"
+        },
+        {
+          "name": "Catch Yellow Stripe Commercial",
+          "color_hex": "#F5BA31",
+          "material": "welded_steel"
+        },
+        {
+          "name": "Varnished Mahogany Heritage",
+          "color_hex": "#7C2D12",
+          "material": "marine_ply_mahogany"
+        }
+      ]
+    },
+    {
+      "id": "CL_BOAT_035",
+      "name": "Container Feeder Ship 5",
+      "subcategory": "vessels",
+      "tile_footprint": {
+        "width": 4,
+        "depth": 2,
+        "height_tiles": 3.0
+      },
+      "anchor_point": {
+        "x": 64,
+        "y": 36
+      },
+      "cutaway_layer": "exterior_water_props",
+      "tags": [
+        "maritime",
+        "vessel",
+        "boat",
+        "container_feeder_ship"
+      ],
+      "variants": [
+        {
+          "name": "Classic White & Navy",
+          "color_hex": "#1E3A8A",
+          "material": "fiberglass"
+        },
+        {
+          "name": "Catch Yellow Stripe Commercial",
+          "color_hex": "#F5BA31",
+          "material": "welded_steel"
+        },
+        {
+          "name": "Varnished Mahogany Heritage",
+          "color_hex": "#7C2D12",
+          "material": "marine_ply_mahogany"
+        }
+      ]
+    },
+    {
+      "id": "CL_GEAR_001",
+      "name": "Navigation Channel Buoy 1",
+      "subcategory": "fishery_harbor_props",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 18
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "fishery",
+        "harbor",
+        "dock",
+        "navigation_channel_buoy"
+      ],
+      "variants": [
+        {
+          "name": "Beacon High-Vis Orange",
+          "color_hex": "#EA580C",
+          "material": "polyethylene"
+        },
+        {
+          "name": "Aged Salt-Sprayed Wood",
+          "color_hex": "#A8A29E",
+          "material": "rustic_pine"
+        },
+        {
+          "name": "Nautical Blue Fiber",
+          "color_hex": "#0284C7",
+          "material": "braided_poly"
+        }
+      ]
+    },
+    {
+      "id": "CL_GEAR_002",
+      "name": "Dockside Mooring Cleat 1",
+      "subcategory": "fishery_harbor_props",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 18
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "fishery",
+        "harbor",
+        "dock",
+        "dockside_mooring_cleat"
+      ],
+      "variants": [
+        {
+          "name": "Beacon High-Vis Orange",
+          "color_hex": "#EA580C",
+          "material": "polyethylene"
+        },
+        {
+          "name": "Aged Salt-Sprayed Wood",
+          "color_hex": "#A8A29E",
+          "material": "rustic_pine"
+        },
+        {
+          "name": "Nautical Blue Fiber",
+          "color_hex": "#0284C7",
+          "material": "braided_poly"
+        }
+      ]
+    },
+    {
+      "id": "CL_GEAR_003",
+      "name": "Stacked Wooden Fish Crates 1",
+      "subcategory": "fishery_harbor_props",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 18
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "fishery",
+        "harbor",
+        "dock",
+        "stacked_wooden_fish_crates"
+      ],
+      "variants": [
+        {
+          "name": "Beacon High-Vis Orange",
+          "color_hex": "#EA580C",
+          "material": "polyethylene"
+        },
+        {
+          "name": "Aged Salt-Sprayed Wood",
+          "color_hex": "#A8A29E",
+          "material": "rustic_pine"
+        },
+        {
+          "name": "Nautical Blue Fiber",
+          "color_hex": "#0284C7",
+          "material": "braided_poly"
+        }
+      ]
+    },
+    {
+      "id": "CL_GEAR_004",
+      "name": "Mended Nylon Fishing Nets 1",
+      "subcategory": "fishery_harbor_props",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 18
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "fishery",
+        "harbor",
+        "dock",
+        "mended_nylon_fishing_nets"
+      ],
+      "variants": [
+        {
+          "name": "Beacon High-Vis Orange",
+          "color_hex": "#EA580C",
+          "material": "polyethylene"
+        },
+        {
+          "name": "Aged Salt-Sprayed Wood",
+          "color_hex": "#A8A29E",
+          "material": "rustic_pine"
+        },
+        {
+          "name": "Nautical Blue Fiber",
+          "color_hex": "#0284C7",
+          "material": "braided_poly"
+        }
+      ]
+    },
+    {
+      "id": "CL_GEAR_005",
+      "name": "Lobster Trap Pile 1",
+      "subcategory": "fishery_harbor_props",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 18
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "fishery",
+        "harbor",
+        "dock",
+        "lobster_trap_pile"
+      ],
+      "variants": [
+        {
+          "name": "Beacon High-Vis Orange",
+          "color_hex": "#EA580C",
+          "material": "polyethylene"
+        },
+        {
+          "name": "Aged Salt-Sprayed Wood",
+          "color_hex": "#A8A29E",
+          "material": "rustic_pine"
+        },
+        {
+          "name": "Nautical Blue Fiber",
+          "color_hex": "#0284C7",
+          "material": "braided_poly"
+        }
+      ]
+    },
+    {
+      "id": "CL_GEAR_006",
+      "name": "Navigation Channel Buoy 2",
+      "subcategory": "fishery_harbor_props",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 18
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "fishery",
+        "harbor",
+        "dock",
+        "navigation_channel_buoy"
+      ],
+      "variants": [
+        {
+          "name": "Beacon High-Vis Orange",
+          "color_hex": "#EA580C",
+          "material": "polyethylene"
+        },
+        {
+          "name": "Aged Salt-Sprayed Wood",
+          "color_hex": "#A8A29E",
+          "material": "rustic_pine"
+        },
+        {
+          "name": "Nautical Blue Fiber",
+          "color_hex": "#0284C7",
+          "material": "braided_poly"
+        }
+      ]
+    },
+    {
+      "id": "CL_GEAR_007",
+      "name": "Dockside Mooring Cleat 2",
+      "subcategory": "fishery_harbor_props",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 18
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "fishery",
+        "harbor",
+        "dock",
+        "dockside_mooring_cleat"
+      ],
+      "variants": [
+        {
+          "name": "Beacon High-Vis Orange",
+          "color_hex": "#EA580C",
+          "material": "polyethylene"
+        },
+        {
+          "name": "Aged Salt-Sprayed Wood",
+          "color_hex": "#A8A29E",
+          "material": "rustic_pine"
+        },
+        {
+          "name": "Nautical Blue Fiber",
+          "color_hex": "#0284C7",
+          "material": "braided_poly"
+        }
+      ]
+    },
+    {
+      "id": "CL_GEAR_008",
+      "name": "Stacked Wooden Fish Crates 2",
+      "subcategory": "fishery_harbor_props",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 18
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "fishery",
+        "harbor",
+        "dock",
+        "stacked_wooden_fish_crates"
+      ],
+      "variants": [
+        {
+          "name": "Beacon High-Vis Orange",
+          "color_hex": "#EA580C",
+          "material": "polyethylene"
+        },
+        {
+          "name": "Aged Salt-Sprayed Wood",
+          "color_hex": "#A8A29E",
+          "material": "rustic_pine"
+        },
+        {
+          "name": "Nautical Blue Fiber",
+          "color_hex": "#0284C7",
+          "material": "braided_poly"
+        }
+      ]
+    },
+    {
+      "id": "CL_GEAR_009",
+      "name": "Mended Nylon Fishing Nets 2",
+      "subcategory": "fishery_harbor_props",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 18
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "fishery",
+        "harbor",
+        "dock",
+        "mended_nylon_fishing_nets"
+      ],
+      "variants": [
+        {
+          "name": "Beacon High-Vis Orange",
+          "color_hex": "#EA580C",
+          "material": "polyethylene"
+        },
+        {
+          "name": "Aged Salt-Sprayed Wood",
+          "color_hex": "#A8A29E",
+          "material": "rustic_pine"
+        },
+        {
+          "name": "Nautical Blue Fiber",
+          "color_hex": "#0284C7",
+          "material": "braided_poly"
+        }
+      ]
+    },
+    {
+      "id": "CL_GEAR_010",
+      "name": "Lobster Trap Pile 2",
+      "subcategory": "fishery_harbor_props",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 18
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "fishery",
+        "harbor",
+        "dock",
+        "lobster_trap_pile"
+      ],
+      "variants": [
+        {
+          "name": "Beacon High-Vis Orange",
+          "color_hex": "#EA580C",
+          "material": "polyethylene"
+        },
+        {
+          "name": "Aged Salt-Sprayed Wood",
+          "color_hex": "#A8A29E",
+          "material": "rustic_pine"
+        },
+        {
+          "name": "Nautical Blue Fiber",
+          "color_hex": "#0284C7",
+          "material": "braided_poly"
+        }
+      ]
+    },
+    {
+      "id": "CL_GEAR_011",
+      "name": "Navigation Channel Buoy 3",
+      "subcategory": "fishery_harbor_props",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 18
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "fishery",
+        "harbor",
+        "dock",
+        "navigation_channel_buoy"
+      ],
+      "variants": [
+        {
+          "name": "Beacon High-Vis Orange",
+          "color_hex": "#EA580C",
+          "material": "polyethylene"
+        },
+        {
+          "name": "Aged Salt-Sprayed Wood",
+          "color_hex": "#A8A29E",
+          "material": "rustic_pine"
+        },
+        {
+          "name": "Nautical Blue Fiber",
+          "color_hex": "#0284C7",
+          "material": "braided_poly"
+        }
+      ]
+    },
+    {
+      "id": "CL_GEAR_012",
+      "name": "Dockside Mooring Cleat 3",
+      "subcategory": "fishery_harbor_props",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 18
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "fishery",
+        "harbor",
+        "dock",
+        "dockside_mooring_cleat"
+      ],
+      "variants": [
+        {
+          "name": "Beacon High-Vis Orange",
+          "color_hex": "#EA580C",
+          "material": "polyethylene"
+        },
+        {
+          "name": "Aged Salt-Sprayed Wood",
+          "color_hex": "#A8A29E",
+          "material": "rustic_pine"
+        },
+        {
+          "name": "Nautical Blue Fiber",
+          "color_hex": "#0284C7",
+          "material": "braided_poly"
+        }
+      ]
+    },
+    {
+      "id": "CL_GEAR_013",
+      "name": "Stacked Wooden Fish Crates 3",
+      "subcategory": "fishery_harbor_props",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 18
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "fishery",
+        "harbor",
+        "dock",
+        "stacked_wooden_fish_crates"
+      ],
+      "variants": [
+        {
+          "name": "Beacon High-Vis Orange",
+          "color_hex": "#EA580C",
+          "material": "polyethylene"
+        },
+        {
+          "name": "Aged Salt-Sprayed Wood",
+          "color_hex": "#A8A29E",
+          "material": "rustic_pine"
+        },
+        {
+          "name": "Nautical Blue Fiber",
+          "color_hex": "#0284C7",
+          "material": "braided_poly"
+        }
+      ]
+    },
+    {
+      "id": "CL_GEAR_014",
+      "name": "Mended Nylon Fishing Nets 3",
+      "subcategory": "fishery_harbor_props",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 18
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "fishery",
+        "harbor",
+        "dock",
+        "mended_nylon_fishing_nets"
+      ],
+      "variants": [
+        {
+          "name": "Beacon High-Vis Orange",
+          "color_hex": "#EA580C",
+          "material": "polyethylene"
+        },
+        {
+          "name": "Aged Salt-Sprayed Wood",
+          "color_hex": "#A8A29E",
+          "material": "rustic_pine"
+        },
+        {
+          "name": "Nautical Blue Fiber",
+          "color_hex": "#0284C7",
+          "material": "braided_poly"
+        }
+      ]
+    },
+    {
+      "id": "CL_GEAR_015",
+      "name": "Lobster Trap Pile 3",
+      "subcategory": "fishery_harbor_props",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 18
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "fishery",
+        "harbor",
+        "dock",
+        "lobster_trap_pile"
+      ],
+      "variants": [
+        {
+          "name": "Beacon High-Vis Orange",
+          "color_hex": "#EA580C",
+          "material": "polyethylene"
+        },
+        {
+          "name": "Aged Salt-Sprayed Wood",
+          "color_hex": "#A8A29E",
+          "material": "rustic_pine"
+        },
+        {
+          "name": "Nautical Blue Fiber",
+          "color_hex": "#0284C7",
+          "material": "braided_poly"
+        }
+      ]
+    },
+    {
+      "id": "CL_GEAR_016",
+      "name": "Navigation Channel Buoy 4",
+      "subcategory": "fishery_harbor_props",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 18
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "fishery",
+        "harbor",
+        "dock",
+        "navigation_channel_buoy"
+      ],
+      "variants": [
+        {
+          "name": "Beacon High-Vis Orange",
+          "color_hex": "#EA580C",
+          "material": "polyethylene"
+        },
+        {
+          "name": "Aged Salt-Sprayed Wood",
+          "color_hex": "#A8A29E",
+          "material": "rustic_pine"
+        },
+        {
+          "name": "Nautical Blue Fiber",
+          "color_hex": "#0284C7",
+          "material": "braided_poly"
+        }
+      ]
+    },
+    {
+      "id": "CL_GEAR_017",
+      "name": "Dockside Mooring Cleat 4",
+      "subcategory": "fishery_harbor_props",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 18
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "fishery",
+        "harbor",
+        "dock",
+        "dockside_mooring_cleat"
+      ],
+      "variants": [
+        {
+          "name": "Beacon High-Vis Orange",
+          "color_hex": "#EA580C",
+          "material": "polyethylene"
+        },
+        {
+          "name": "Aged Salt-Sprayed Wood",
+          "color_hex": "#A8A29E",
+          "material": "rustic_pine"
+        },
+        {
+          "name": "Nautical Blue Fiber",
+          "color_hex": "#0284C7",
+          "material": "braided_poly"
+        }
+      ]
+    },
+    {
+      "id": "CL_GEAR_018",
+      "name": "Stacked Wooden Fish Crates 4",
+      "subcategory": "fishery_harbor_props",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 18
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "fishery",
+        "harbor",
+        "dock",
+        "stacked_wooden_fish_crates"
+      ],
+      "variants": [
+        {
+          "name": "Beacon High-Vis Orange",
+          "color_hex": "#EA580C",
+          "material": "polyethylene"
+        },
+        {
+          "name": "Aged Salt-Sprayed Wood",
+          "color_hex": "#A8A29E",
+          "material": "rustic_pine"
+        },
+        {
+          "name": "Nautical Blue Fiber",
+          "color_hex": "#0284C7",
+          "material": "braided_poly"
+        }
+      ]
+    },
+    {
+      "id": "CL_GEAR_019",
+      "name": "Mended Nylon Fishing Nets 4",
+      "subcategory": "fishery_harbor_props",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 18
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "fishery",
+        "harbor",
+        "dock",
+        "mended_nylon_fishing_nets"
+      ],
+      "variants": [
+        {
+          "name": "Beacon High-Vis Orange",
+          "color_hex": "#EA580C",
+          "material": "polyethylene"
+        },
+        {
+          "name": "Aged Salt-Sprayed Wood",
+          "color_hex": "#A8A29E",
+          "material": "rustic_pine"
+        },
+        {
+          "name": "Nautical Blue Fiber",
+          "color_hex": "#0284C7",
+          "material": "braided_poly"
+        }
+      ]
+    },
+    {
+      "id": "CL_GEAR_020",
+      "name": "Lobster Trap Pile 4",
+      "subcategory": "fishery_harbor_props",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 18
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "fishery",
+        "harbor",
+        "dock",
+        "lobster_trap_pile"
+      ],
+      "variants": [
+        {
+          "name": "Beacon High-Vis Orange",
+          "color_hex": "#EA580C",
+          "material": "polyethylene"
+        },
+        {
+          "name": "Aged Salt-Sprayed Wood",
+          "color_hex": "#A8A29E",
+          "material": "rustic_pine"
+        },
+        {
+          "name": "Nautical Blue Fiber",
+          "color_hex": "#0284C7",
+          "material": "braided_poly"
+        }
+      ]
+    }
+  ]
+}

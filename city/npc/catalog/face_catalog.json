@@ -1,0 +1,1876 @@
+{
+  "category": "face",
+  "total_count": 110,
+  "items": [
+    {
+      "id": "FACE_001",
+      "name": "Expression Calm Focused Variant 1",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "calm_focused",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_002",
+      "name": "Expression Warm Smile Variant 1",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "warm_smile",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_003",
+      "name": "Expression Curious Wide Eyed Variant 1",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "curious_wide_eyed",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_004",
+      "name": "Expression Determined Brow Variant 1",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "determined_brow",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_005",
+      "name": "Expression Thoughtful Squint Variant 1",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "thoughtful_squint",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_006",
+      "name": "Expression Cheerful Laughing Variant 1",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "cheerful_laughing",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_007",
+      "name": "Expression Sleepy Chill Variant 1",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "sleepy_chill",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_008",
+      "name": "Expression Skeptical Raised Eyebrow Variant 1",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "skeptical_raised_eyebrow",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_009",
+      "name": "Expression Confident Smirk Variant 1",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "confident_smirk",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_010",
+      "name": "Expression Surprised Gasp Variant 1",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "surprised_gasp",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_011",
+      "name": "Expression Winking Playful Variant 1",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "winking_playful",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_012",
+      "name": "Expression Stoic Neutral Variant 1",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "stoic_neutral",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_013",
+      "name": "Expression Calm Focused Variant 2",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "calm_focused",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_014",
+      "name": "Expression Warm Smile Variant 2",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "warm_smile",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_015",
+      "name": "Expression Curious Wide Eyed Variant 2",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "curious_wide_eyed",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_016",
+      "name": "Expression Determined Brow Variant 2",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "determined_brow",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_017",
+      "name": "Expression Thoughtful Squint Variant 2",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "thoughtful_squint",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_018",
+      "name": "Expression Cheerful Laughing Variant 2",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "cheerful_laughing",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_019",
+      "name": "Expression Sleepy Chill Variant 2",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "sleepy_chill",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_020",
+      "name": "Expression Skeptical Raised Eyebrow Variant 2",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "skeptical_raised_eyebrow",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_021",
+      "name": "Expression Confident Smirk Variant 2",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "confident_smirk",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_022",
+      "name": "Expression Surprised Gasp Variant 2",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "surprised_gasp",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_023",
+      "name": "Expression Winking Playful Variant 2",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "winking_playful",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_024",
+      "name": "Expression Stoic Neutral Variant 2",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "stoic_neutral",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_025",
+      "name": "Expression Calm Focused Variant 3",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "calm_focused",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_026",
+      "name": "Expression Warm Smile Variant 3",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "warm_smile",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_027",
+      "name": "Expression Curious Wide Eyed Variant 3",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "curious_wide_eyed",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_028",
+      "name": "Expression Determined Brow Variant 3",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "determined_brow",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_029",
+      "name": "Expression Thoughtful Squint Variant 3",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "thoughtful_squint",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_030",
+      "name": "Expression Cheerful Laughing Variant 3",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "cheerful_laughing",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_031",
+      "name": "Expression Sleepy Chill Variant 3",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "sleepy_chill",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_032",
+      "name": "Expression Skeptical Raised Eyebrow Variant 3",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "skeptical_raised_eyebrow",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_033",
+      "name": "Expression Confident Smirk Variant 3",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "confident_smirk",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_034",
+      "name": "Expression Surprised Gasp Variant 3",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "surprised_gasp",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_035",
+      "name": "Expression Winking Playful Variant 3",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "winking_playful",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_036",
+      "name": "Expression Stoic Neutral Variant 3",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "stoic_neutral",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_037",
+      "name": "Expression Calm Focused Variant 4",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "calm_focused",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_038",
+      "name": "Expression Warm Smile Variant 4",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "warm_smile",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_039",
+      "name": "Expression Curious Wide Eyed Variant 4",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "curious_wide_eyed",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_040",
+      "name": "Expression Determined Brow Variant 4",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "determined_brow",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_041",
+      "name": "Expression Thoughtful Squint Variant 4",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "thoughtful_squint",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_042",
+      "name": "Expression Cheerful Laughing Variant 4",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "cheerful_laughing",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_043",
+      "name": "Expression Sleepy Chill Variant 4",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "sleepy_chill",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_044",
+      "name": "Expression Skeptical Raised Eyebrow Variant 4",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "skeptical_raised_eyebrow",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_045",
+      "name": "Expression Confident Smirk Variant 4",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "confident_smirk",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_046",
+      "name": "Expression Surprised Gasp Variant 4",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "surprised_gasp",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_047",
+      "name": "Expression Winking Playful Variant 4",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "winking_playful",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_048",
+      "name": "Expression Stoic Neutral Variant 4",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "stoic_neutral",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_049",
+      "name": "Expression Calm Focused Variant 5",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "calm_focused",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_050",
+      "name": "Expression Warm Smile Variant 5",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "warm_smile",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_051",
+      "name": "Expression Curious Wide Eyed Variant 5",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "curious_wide_eyed",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_052",
+      "name": "Expression Determined Brow Variant 5",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "determined_brow",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_053",
+      "name": "Expression Thoughtful Squint Variant 5",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "thoughtful_squint",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_054",
+      "name": "Expression Cheerful Laughing Variant 5",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "cheerful_laughing",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_055",
+      "name": "Expression Sleepy Chill Variant 5",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "sleepy_chill",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_056",
+      "name": "Expression Skeptical Raised Eyebrow Variant 5",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "skeptical_raised_eyebrow",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_057",
+      "name": "Expression Confident Smirk Variant 5",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "confident_smirk",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_058",
+      "name": "Expression Surprised Gasp Variant 5",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "surprised_gasp",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_059",
+      "name": "Expression Winking Playful Variant 5",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "winking_playful",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_060",
+      "name": "Expression Stoic Neutral Variant 5",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "stoic_neutral",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_061",
+      "name": "Expression Calm Focused Variant 6",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "calm_focused",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_062",
+      "name": "Expression Warm Smile Variant 6",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "warm_smile",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_063",
+      "name": "Expression Curious Wide Eyed Variant 6",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "curious_wide_eyed",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_064",
+      "name": "Expression Determined Brow Variant 6",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "determined_brow",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_065",
+      "name": "Expression Thoughtful Squint Variant 6",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "thoughtful_squint",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_066",
+      "name": "Expression Cheerful Laughing Variant 6",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "cheerful_laughing",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_067",
+      "name": "Expression Sleepy Chill Variant 6",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "sleepy_chill",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_068",
+      "name": "Expression Skeptical Raised Eyebrow Variant 6",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "skeptical_raised_eyebrow",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_069",
+      "name": "Expression Confident Smirk Variant 6",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "confident_smirk",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_070",
+      "name": "Expression Surprised Gasp Variant 6",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "surprised_gasp",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_071",
+      "name": "Expression Winking Playful Variant 6",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "winking_playful",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_072",
+      "name": "Expression Stoic Neutral Variant 6",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "stoic_neutral",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_073",
+      "name": "Expression Calm Focused Variant 7",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "calm_focused",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_074",
+      "name": "Expression Warm Smile Variant 7",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "warm_smile",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_075",
+      "name": "Expression Curious Wide Eyed Variant 7",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "curious_wide_eyed",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_076",
+      "name": "Expression Determined Brow Variant 7",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "determined_brow",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_077",
+      "name": "Expression Thoughtful Squint Variant 7",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "thoughtful_squint",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_078",
+      "name": "Expression Cheerful Laughing Variant 7",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "cheerful_laughing",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_079",
+      "name": "Expression Sleepy Chill Variant 7",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "sleepy_chill",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_080",
+      "name": "Expression Skeptical Raised Eyebrow Variant 7",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "skeptical_raised_eyebrow",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_081",
+      "name": "Expression Confident Smirk Variant 7",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "confident_smirk",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_082",
+      "name": "Expression Surprised Gasp Variant 7",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "surprised_gasp",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_083",
+      "name": "Expression Winking Playful Variant 7",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "winking_playful",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_084",
+      "name": "Expression Stoic Neutral Variant 7",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "stoic_neutral",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_085",
+      "name": "Expression Calm Focused Variant 8",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "calm_focused",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_086",
+      "name": "Expression Warm Smile Variant 8",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "warm_smile",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_087",
+      "name": "Expression Curious Wide Eyed Variant 8",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "curious_wide_eyed",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_088",
+      "name": "Expression Determined Brow Variant 8",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "determined_brow",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_089",
+      "name": "Expression Thoughtful Squint Variant 8",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "thoughtful_squint",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_090",
+      "name": "Expression Cheerful Laughing Variant 8",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "cheerful_laughing",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_091",
+      "name": "Expression Sleepy Chill Variant 8",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "sleepy_chill",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_092",
+      "name": "Expression Skeptical Raised Eyebrow Variant 8",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "skeptical_raised_eyebrow",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_093",
+      "name": "Expression Confident Smirk Variant 8",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "confident_smirk",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_094",
+      "name": "Expression Surprised Gasp Variant 8",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "surprised_gasp",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_095",
+      "name": "Expression Winking Playful Variant 8",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "winking_playful",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_096",
+      "name": "Expression Stoic Neutral Variant 8",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "stoic_neutral",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_097",
+      "name": "Expression Calm Focused Variant 9",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "calm_focused",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_098",
+      "name": "Expression Warm Smile Variant 9",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "warm_smile",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_099",
+      "name": "Expression Curious Wide Eyed Variant 9",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "curious_wide_eyed",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_100",
+      "name": "Expression Determined Brow Variant 9",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "determined_brow",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_101",
+      "name": "Expression Thoughtful Squint Variant 9",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "thoughtful_squint",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_102",
+      "name": "Expression Cheerful Laughing Variant 9",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "cheerful_laughing",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_103",
+      "name": "Expression Sleepy Chill Variant 9",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "sleepy_chill",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_104",
+      "name": "Expression Skeptical Raised Eyebrow Variant 9",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "skeptical_raised_eyebrow",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_105",
+      "name": "Expression Confident Smirk Variant 9",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "confident_smirk",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_106",
+      "name": "Expression Surprised Gasp Variant 9",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "surprised_gasp",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_107",
+      "name": "Expression Winking Playful Variant 9",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "winking_playful",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_108",
+      "name": "Expression Stoic Neutral Variant 9",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "stoic_neutral",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_109",
+      "name": "Expression Calm Focused Variant 10",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "calm_focused",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    },
+    {
+      "id": "FACE_110",
+      "name": "Expression Warm Smile Variant 10",
+      "subcategory": "facial_expression",
+      "eye_color_configurable": true,
+      "layer_z": 4,
+      "anchor_offset": {
+        "x": 24,
+        "y": 18
+      },
+      "tags": [
+        "face",
+        "warm_smile",
+        "expression"
+      ],
+      "palette_slot": "skin_ramp"
+    }
+  ]
+}

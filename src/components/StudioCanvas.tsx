@@ -2,6 +2,9 @@ import React, { useRef, useEffect, useState, useCallback } from 'react';
 import { useAgentStore, updateStudioSimulation, LOCATIONS } from '../store/agentStore';
 import { IsometricRenderer } from '../engine/IsometricRenderer';
 import { IsometricEngine } from '../engine/IsometricEngine';
+import { CITY_DISTRICTS } from '../engine/CityData';
+import { DistrictId } from '../types/agent';
+import { CityZoomControls } from './CityZoomControls';
 import { Plus, Minus, Maximize2 } from 'lucide-react';
 
 interface StudioCanvasProps {
@@ -50,6 +53,28 @@ export const StudioCanvas: React.FC<StudioCanvasProps> = ({
       setZoom(targetZoom);
     }
   }, [zoom]);
+
+  // Smoothly fly camera to any district
+  const flyToDistrict = useCallback((districtId: DistrictId) => {
+    store.setActiveDistrictId(districtId);
+    const district = CITY_DISTRICTS.find(d => d.id === districtId);
+    if (!district) return;
+    const centerIso = IsometricEngine.worldToIso(district.centerPos.x, district.centerPos.y, 0);
+    const targetZ = districtId === 'downtown_waterfront' ? 1.15 : 0.65;
+    const w = window.innerWidth;
+    const h = window.innerHeight;
+    setPan({
+      x: w / 2 - centerIso.x * targetZ,
+      y: h / 2 - centerIso.y * targetZ,
+    });
+    setZoom(targetZ);
+  }, [store]);
+
+  // Recenter specifically to Arise Studio HQ
+  const recenterHQ = useCallback(() => {
+    store.setActiveDistrictId('downtown_waterfront');
+    recenter(1.15);
+  }, [recenter, store]);
 
   // Initialize camera centered on lower engineering cluster
   useEffect(() => {
@@ -146,6 +171,21 @@ export const StudioCanvas: React.FC<StudioCanvasProps> = ({
       const worldGround = IsometricEngine.screenToWorld(clickX, clickY, pan.x, pan.y, zoom, 0);
       const worldMezzanine = IsometricEngine.screenToWorld(clickX, clickY, pan.x, pan.y, zoom, 48);
 
+      // Z0 City View: Check clicks on Landmark Pins to fly into them
+      if (zoom < 0.4) {
+        for (const district of CITY_DISTRICTS) {
+          for (const lm of district.landmarks) {
+            const pinIso = IsometricEngine.worldToIso(lm.worldPos.x, lm.worldPos.y, 0);
+            const screenPinX = pinIso.x * zoom + pan.x;
+            const screenPinY = pinIso.y * zoom + pan.y;
+            if (Math.hypot(clickX - screenPinX, clickY - screenPinY) < 35) {
+              flyToDistrict(district.id);
+              return;
+            }
+          }
+        }
+      }
+
       // 1. Check click on Boss Door Waiting Mat
       const bossDist = Math.hypot(
         worldMezzanine.x - LOCATIONS.BOSS_DOOR_WAITING_MAT.x,
@@ -226,7 +266,7 @@ export const StudioCanvas: React.FC<StudioCanvasProps> = ({
         }
       }
     },
-    [pan, zoom, store, onOpenDeskModal, onOpenTaskBoard, onOpenDecisionModal, onOpenDiffReview, onOpenNpcModal]
+    [pan, zoom, store, onOpenDeskModal, onOpenTaskBoard, onOpenDecisionModal, onOpenDiffReview, onOpenNpcModal, flyToDistrict]
   );
 
   // Mouse Drag Pan
@@ -247,11 +287,11 @@ export const StudioCanvas: React.FC<StudioCanvasProps> = ({
     isDraggingRef.current = false;
   };
 
-  // Mouse Wheel Zoom
+  // Mouse Wheel Zoom (Continuous 0.18 to 2.6)
   const handleWheel = (e: React.WheelEvent) => {
     e.preventDefault();
     const zoomFactor = e.deltaY < 0 ? 1.08 : 0.92;
-    setZoom(prev => Math.max(0.5, Math.min(2.4, prev * zoomFactor)));
+    setZoom(prev => Math.max(0.18, Math.min(2.6, prev * zoomFactor)));
   };
 
   // Touch Support (Pinch zoom & touch drag)
@@ -279,7 +319,7 @@ export const StudioCanvas: React.FC<StudioCanvasProps> = ({
       const dy = e.touches[0].clientY - e.touches[1].clientY;
       const newDist = Math.hypot(dx, dy);
       const factor = newDist / lastTouchDistanceRef.current;
-      setZoom(prev => Math.max(0.5, Math.min(2.4, prev * factor)));
+      setZoom(prev => Math.max(0.18, Math.min(2.6, prev * factor)));
       lastTouchDistanceRef.current = newDist;
     }
   };
@@ -305,17 +345,28 @@ export const StudioCanvas: React.FC<StudioCanvasProps> = ({
         onTouchEnd={handleTouchEnd}
       />
 
+      {/* 5-Scale Continuous Zoom & District Navigation Controls */}
+      <CityZoomControls
+        currentZoom={zoom}
+        onSetZoom={(newZ) => {
+          setZoom(newZ);
+        }}
+        onFlyToDistrict={flyToDistrict}
+        onRecenterHQ={recenterHQ}
+        activeDistrictId={store.activeDistrictId}
+      />
+
       {/* Floating Camera Controls (Bottom Right) */}
       <div className="absolute bottom-14 right-3 z-30 flex flex-col space-y-1.5 bg-studio-dark/90 backdrop-blur-md border border-studio-border rounded-xl p-1 shadow-xl">
         <button
-          onClick={() => setZoom(z => Math.min(2.4, Number((z + 0.15).toFixed(2))))}
+          onClick={() => setZoom(z => Math.min(2.6, Number((z + 0.15).toFixed(2))))}
           className="w-8 h-8 flex items-center justify-center rounded-lg hover:bg-studio-surface text-slate-300 hover:text-white transition-colors active:scale-95"
           title="Zoom In"
         >
           <Plus className="w-4 h-4" />
         </button>
         <button
-          onClick={() => setZoom(z => Math.max(0.4, Number((z - 0.15).toFixed(2))))}
+          onClick={() => setZoom(z => Math.max(0.18, Number((z - 0.15).toFixed(2))))}
           className="w-8 h-8 flex items-center justify-center rounded-lg hover:bg-studio-surface text-slate-300 hover:text-white transition-colors active:scale-95"
           title="Zoom Out"
         >

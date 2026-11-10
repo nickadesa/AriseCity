@@ -1,0 +1,1878 @@
+{
+  "category": "building_typologies",
+  "total_count": 48,
+  "items": [
+    {
+      "id": "BLD_DETACHED_COASTAL_VILLA_01",
+      "name": "Stepped Terrace Coastal Villa Model 1",
+      "category": "residential",
+      "tile_footprint": {
+        "width": 6,
+        "depth": 6,
+        "height_tiles": 6
+      },
+      "floors_count": 2,
+      "has_cutaway": true,
+      "anchor_point": {
+        "x": 96,
+        "y": 96
+      },
+      "cutaway_layer": "building_massing",
+      "tags": [
+        "architecture",
+        "residential",
+        "detached_coastal_villa"
+      ],
+      "variants": [
+        {
+          "name": "Charcoal Steel & Timber Slats",
+          "color_hex": "#222629",
+          "material": "blackened_steel_cedar"
+        },
+        {
+          "name": "Catch Yellow & Glass Facade",
+          "color_hex": "#F5BA31",
+          "material": "yellow_steel_glass"
+        },
+        {
+          "name": "Off-White Concrete & Sedum Roof",
+          "color_hex": "#F8FAFC",
+          "material": "architectural_concrete_green"
+        }
+      ]
+    },
+    {
+      "id": "BLD_DETACHED_COASTAL_VILLA_02",
+      "name": "Stepped Terrace Coastal Villa Model 2",
+      "category": "residential",
+      "tile_footprint": {
+        "width": 6,
+        "depth": 6,
+        "height_tiles": 6
+      },
+      "floors_count": 2,
+      "has_cutaway": true,
+      "anchor_point": {
+        "x": 96,
+        "y": 96
+      },
+      "cutaway_layer": "building_massing",
+      "tags": [
+        "architecture",
+        "residential",
+        "detached_coastal_villa"
+      ],
+      "variants": [
+        {
+          "name": "Charcoal Steel & Timber Slats",
+          "color_hex": "#222629",
+          "material": "blackened_steel_cedar"
+        },
+        {
+          "name": "Catch Yellow & Glass Facade",
+          "color_hex": "#F5BA31",
+          "material": "yellow_steel_glass"
+        },
+        {
+          "name": "Off-White Concrete & Sedum Roof",
+          "color_hex": "#F8FAFC",
+          "material": "architectural_concrete_green"
+        }
+      ]
+    },
+    {
+      "id": "BLD_DETACHED_COASTAL_VILLA_03",
+      "name": "Stepped Terrace Coastal Villa Model 3",
+      "category": "residential",
+      "tile_footprint": {
+        "width": 6,
+        "depth": 6,
+        "height_tiles": 6
+      },
+      "floors_count": 2,
+      "has_cutaway": true,
+      "anchor_point": {
+        "x": 96,
+        "y": 96
+      },
+      "cutaway_layer": "building_massing",
+      "tags": [
+        "architecture",
+        "residential",
+        "detached_coastal_villa"
+      ],
+      "variants": [
+        {
+          "name": "Charcoal Steel & Timber Slats",
+          "color_hex": "#222629",
+          "material": "blackened_steel_cedar"
+        },
+        {
+          "name": "Catch Yellow & Glass Facade",
+          "color_hex": "#F5BA31",
+          "material": "yellow_steel_glass"
+        },
+        {
+          "name": "Off-White Concrete & Sedum Roof",
+          "color_hex": "#F8FAFC",
+          "material": "architectural_concrete_green"
+        }
+      ]
+    },
+    {
+      "id": "BLD_BEACHFRONT_TOWNHOUSE_01",
+      "name": "Nordic Slender Townhouse Row Model 1",
+      "category": "residential",
+      "tile_footprint": {
+        "width": 4,
+        "depth": 5,
+        "height_tiles": 9
+      },
+      "floors_count": 3,
+      "has_cutaway": true,
+      "anchor_point": {
+        "x": 64,
+        "y": 80
+      },
+      "cutaway_layer": "building_massing",
+      "tags": [
+        "architecture",
+        "residential",
+        "beachfront_townhouse"
+      ],
+      "variants": [
+        {
+          "name": "Charcoal Steel & Timber Slats",
+          "color_hex": "#222629",
+          "material": "blackened_steel_cedar"
+        },
+        {
+          "name": "Catch Yellow & Glass Facade",
+          "color_hex": "#F5BA31",
+          "material": "yellow_steel_glass"
+        },
+        {
+          "name": "Off-White Concrete & Sedum Roof",
+          "color_hex": "#F8FAFC",
+          "material": "architectural_concrete_green"
+        }
+      ]
+    },
+    {
+      "id": "BLD_BEACHFRONT_TOWNHOUSE_02",
+      "name": "Nordic Slender Townhouse Row Model 2",
+      "category": "residential",
+      "tile_footprint": {
+        "width": 4,
+        "depth": 5,
+        "height_tiles": 9
+      },
+      "floors_count": 3,
+      "has_cutaway": true,
+      "anchor_point": {
+        "x": 64,
+        "y": 80
+      },
+      "cutaway_layer": "building_massing",
+      "tags": [
+        "architecture",
+        "residential",
+        "beachfront_townhouse"
+      ],
+      "variants": [
+        {
+          "name": "Charcoal Steel & Timber Slats",
+          "color_hex": "#222629",
+          "material": "blackened_steel_cedar"
+        },
+        {
+          "name": "Catch Yellow & Glass Facade",
+          "color_hex": "#F5BA31",
+          "material": "yellow_steel_glass"
+        },
+        {
+          "name": "Off-White Concrete & Sedum Roof",
+          "color_hex": "#F8FAFC",
+          "material": "architectural_concrete_green"
+        }
+      ]
+    },
+    {
+      "id": "BLD_BEACHFRONT_TOWNHOUSE_03",
+      "name": "Nordic Slender Townhouse Row Model 3",
+      "category": "residential",
+      "tile_footprint": {
+        "width": 4,
+        "depth": 5,
+        "height_tiles": 9
+      },
+      "floors_count": 3,
+      "has_cutaway": true,
+      "anchor_point": {
+        "x": 64,
+        "y": 80
+      },
+      "cutaway_layer": "building_massing",
+      "tags": [
+        "architecture",
+        "residential",
+        "beachfront_townhouse"
+      ],
+      "variants": [
+        {
+          "name": "Charcoal Steel & Timber Slats",
+          "color_hex": "#222629",
+          "material": "blackened_steel_cedar"
+        },
+        {
+          "name": "Catch Yellow & Glass Facade",
+          "color_hex": "#F5BA31",
+          "material": "yellow_steel_glass"
+        },
+        {
+          "name": "Off-White Concrete & Sedum Roof",
+          "color_hex": "#F8FAFC",
+          "material": "architectural_concrete_green"
+        }
+      ]
+    },
+    {
+      "id": "BLD_WATERFRONT_CONDO_HIGHRISE_01",
+      "name": "Marine View Luxury Residences Model 1",
+      "category": "residential",
+      "tile_footprint": {
+        "width": 8,
+        "depth": 8,
+        "height_tiles": 36
+      },
+      "floors_count": 12,
+      "has_cutaway": true,
+      "anchor_point": {
+        "x": 128,
+        "y": 128
+      },
+      "cutaway_layer": "building_massing",
+      "tags": [
+        "architecture",
+        "residential",
+        "waterfront_condo_highrise"
+      ],
+      "variants": [
+        {
+          "name": "Charcoal Steel & Timber Slats",
+          "color_hex": "#222629",
+          "material": "blackened_steel_cedar"
+        },
+        {
+          "name": "Catch Yellow & Glass Facade",
+          "color_hex": "#F5BA31",
+          "material": "yellow_steel_glass"
+        },
+        {
+          "name": "Off-White Concrete & Sedum Roof",
+          "color_hex": "#F8FAFC",
+          "material": "architectural_concrete_green"
+        }
+      ]
+    },
+    {
+      "id": "BLD_WATERFRONT_CONDO_HIGHRISE_02",
+      "name": "Marine View Luxury Residences Model 2",
+      "category": "residential",
+      "tile_footprint": {
+        "width": 8,
+        "depth": 8,
+        "height_tiles": 36
+      },
+      "floors_count": 12,
+      "has_cutaway": true,
+      "anchor_point": {
+        "x": 128,
+        "y": 128
+      },
+      "cutaway_layer": "building_massing",
+      "tags": [
+        "architecture",
+        "residential",
+        "waterfront_condo_highrise"
+      ],
+      "variants": [
+        {
+          "name": "Charcoal Steel & Timber Slats",
+          "color_hex": "#222629",
+          "material": "blackened_steel_cedar"
+        },
+        {
+          "name": "Catch Yellow & Glass Facade",
+          "color_hex": "#F5BA31",
+          "material": "yellow_steel_glass"
+        },
+        {
+          "name": "Off-White Concrete & Sedum Roof",
+          "color_hex": "#F8FAFC",
+          "material": "architectural_concrete_green"
+        }
+      ]
+    },
+    {
+      "id": "BLD_WATERFRONT_CONDO_HIGHRISE_03",
+      "name": "Marine View Luxury Residences Model 3",
+      "category": "residential",
+      "tile_footprint": {
+        "width": 8,
+        "depth": 8,
+        "height_tiles": 36
+      },
+      "floors_count": 12,
+      "has_cutaway": true,
+      "anchor_point": {
+        "x": 128,
+        "y": 128
+      },
+      "cutaway_layer": "building_massing",
+      "tags": [
+        "architecture",
+        "residential",
+        "waterfront_condo_highrise"
+      ],
+      "variants": [
+        {
+          "name": "Charcoal Steel & Timber Slats",
+          "color_hex": "#222629",
+          "material": "blackened_steel_cedar"
+        },
+        {
+          "name": "Catch Yellow & Glass Facade",
+          "color_hex": "#F5BA31",
+          "material": "yellow_steel_glass"
+        },
+        {
+          "name": "Off-White Concrete & Sedum Roof",
+          "color_hex": "#F8FAFC",
+          "material": "architectural_concrete_green"
+        }
+      ]
+    },
+    {
+      "id": "BLD_ARTISANAL_FISH_MARKET_01",
+      "name": "Historic Pier Fishermen Market Hall Model 1",
+      "category": "commercial_retail",
+      "tile_footprint": {
+        "width": 10,
+        "depth": 6,
+        "height_tiles": 3
+      },
+      "floors_count": 1,
+      "has_cutaway": true,
+      "anchor_point": {
+        "x": 160,
+        "y": 96
+      },
+      "cutaway_layer": "building_massing",
+      "tags": [
+        "architecture",
+        "commercial_retail",
+        "artisanal_fish_market"
+      ],
+      "variants": [
+        {
+          "name": "Charcoal Steel & Timber Slats",
+          "color_hex": "#222629",
+          "material": "blackened_steel_cedar"
+        },
+        {
+          "name": "Catch Yellow & Glass Facade",
+          "color_hex": "#F5BA31",
+          "material": "yellow_steel_glass"
+        },
+        {
+          "name": "Off-White Concrete & Sedum Roof",
+          "color_hex": "#F8FAFC",
+          "material": "architectural_concrete_green"
+        }
+      ]
+    },
+    {
+      "id": "BLD_ARTISANAL_FISH_MARKET_02",
+      "name": "Historic Pier Fishermen Market Hall Model 2",
+      "category": "commercial_retail",
+      "tile_footprint": {
+        "width": 10,
+        "depth": 6,
+        "height_tiles": 3
+      },
+      "floors_count": 1,
+      "has_cutaway": true,
+      "anchor_point": {
+        "x": 160,
+        "y": 96
+      },
+      "cutaway_layer": "building_massing",
+      "tags": [
+        "architecture",
+        "commercial_retail",
+        "artisanal_fish_market"
+      ],
+      "variants": [
+        {
+          "name": "Charcoal Steel & Timber Slats",
+          "color_hex": "#222629",
+          "material": "blackened_steel_cedar"
+        },
+        {
+          "name": "Catch Yellow & Glass Facade",
+          "color_hex": "#F5BA31",
+          "material": "yellow_steel_glass"
+        },
+        {
+          "name": "Off-White Concrete & Sedum Roof",
+          "color_hex": "#F8FAFC",
+          "material": "architectural_concrete_green"
+        }
+      ]
+    },
+    {
+      "id": "BLD_ARTISANAL_FISH_MARKET_03",
+      "name": "Historic Pier Fishermen Market Hall Model 3",
+      "category": "commercial_retail",
+      "tile_footprint": {
+        "width": 10,
+        "depth": 6,
+        "height_tiles": 3
+      },
+      "floors_count": 1,
+      "has_cutaway": true,
+      "anchor_point": {
+        "x": 160,
+        "y": 96
+      },
+      "cutaway_layer": "building_massing",
+      "tags": [
+        "architecture",
+        "commercial_retail",
+        "artisanal_fish_market"
+      ],
+      "variants": [
+        {
+          "name": "Charcoal Steel & Timber Slats",
+          "color_hex": "#222629",
+          "material": "blackened_steel_cedar"
+        },
+        {
+          "name": "Catch Yellow & Glass Facade",
+          "color_hex": "#F5BA31",
+          "material": "yellow_steel_glass"
+        },
+        {
+          "name": "Off-White Concrete & Sedum Roof",
+          "color_hex": "#F8FAFC",
+          "material": "architectural_concrete_green"
+        }
+      ]
+    },
+    {
+      "id": "BLD_ROOFTOP_SEAFOOD_BISTRO_01",
+      "name": "Glazed Waterfront Seafood Restaurant Model 1",
+      "category": "commercial_retail",
+      "tile_footprint": {
+        "width": 6,
+        "depth": 5,
+        "height_tiles": 6
+      },
+      "floors_count": 2,
+      "has_cutaway": true,
+      "anchor_point": {
+        "x": 96,
+        "y": 80
+      },
+      "cutaway_layer": "building_massing",
+      "tags": [
+        "architecture",
+        "commercial_retail",
+        "rooftop_seafood_bistro"
+      ],
+      "variants": [
+        {
+          "name": "Charcoal Steel & Timber Slats",
+          "color_hex": "#222629",
+          "material": "blackened_steel_cedar"
+        },
+        {
+          "name": "Catch Yellow & Glass Facade",
+          "color_hex": "#F5BA31",
+          "material": "yellow_steel_glass"
+        },
+        {
+          "name": "Off-White Concrete & Sedum Roof",
+          "color_hex": "#F8FAFC",
+          "material": "architectural_concrete_green"
+        }
+      ]
+    },
+    {
+      "id": "BLD_ROOFTOP_SEAFOOD_BISTRO_02",
+      "name": "Glazed Waterfront Seafood Restaurant Model 2",
+      "category": "commercial_retail",
+      "tile_footprint": {
+        "width": 6,
+        "depth": 5,
+        "height_tiles": 6
+      },
+      "floors_count": 2,
+      "has_cutaway": true,
+      "anchor_point": {
+        "x": 96,
+        "y": 80
+      },
+      "cutaway_layer": "building_massing",
+      "tags": [
+        "architecture",
+        "commercial_retail",
+        "rooftop_seafood_bistro"
+      ],
+      "variants": [
+        {
+          "name": "Charcoal Steel & Timber Slats",
+          "color_hex": "#222629",
+          "material": "blackened_steel_cedar"
+        },
+        {
+          "name": "Catch Yellow & Glass Facade",
+          "color_hex": "#F5BA31",
+          "material": "yellow_steel_glass"
+        },
+        {
+          "name": "Off-White Concrete & Sedum Roof",
+          "color_hex": "#F8FAFC",
+          "material": "architectural_concrete_green"
+        }
+      ]
+    },
+    {
+      "id": "BLD_ROOFTOP_SEAFOOD_BISTRO_03",
+      "name": "Glazed Waterfront Seafood Restaurant Model 3",
+      "category": "commercial_retail",
+      "tile_footprint": {
+        "width": 6,
+        "depth": 5,
+        "height_tiles": 6
+      },
+      "floors_count": 2,
+      "has_cutaway": true,
+      "anchor_point": {
+        "x": 96,
+        "y": 80
+      },
+      "cutaway_layer": "building_massing",
+      "tags": [
+        "architecture",
+        "commercial_retail",
+        "rooftop_seafood_bistro"
+      ],
+      "variants": [
+        {
+          "name": "Charcoal Steel & Timber Slats",
+          "color_hex": "#222629",
+          "material": "blackened_steel_cedar"
+        },
+        {
+          "name": "Catch Yellow & Glass Facade",
+          "color_hex": "#F5BA31",
+          "material": "yellow_steel_glass"
+        },
+        {
+          "name": "Off-White Concrete & Sedum Roof",
+          "color_hex": "#F8FAFC",
+          "material": "architectural_concrete_green"
+        }
+      ]
+    },
+    {
+      "id": "BLD_CATCH_YELLOW_CAFE_01",
+      "name": "Catch Specialty Espresso & Bakery Model 1",
+      "category": "commercial_retail",
+      "tile_footprint": {
+        "width": 4,
+        "depth": 4,
+        "height_tiles": 3
+      },
+      "floors_count": 1,
+      "has_cutaway": true,
+      "anchor_point": {
+        "x": 64,
+        "y": 64
+      },
+      "cutaway_layer": "building_massing",
+      "tags": [
+        "architecture",
+        "commercial_retail",
+        "catch_yellow_cafe"
+      ],
+      "variants": [
+        {
+          "name": "Charcoal Steel & Timber Slats",
+          "color_hex": "#222629",
+          "material": "blackened_steel_cedar"
+        },
+        {
+          "name": "Catch Yellow & Glass Facade",
+          "color_hex": "#F5BA31",
+          "material": "yellow_steel_glass"
+        },
+        {
+          "name": "Off-White Concrete & Sedum Roof",
+          "color_hex": "#F8FAFC",
+          "material": "architectural_concrete_green"
+        }
+      ]
+    },
+    {
+      "id": "BLD_CATCH_YELLOW_CAFE_02",
+      "name": "Catch Specialty Espresso & Bakery Model 2",
+      "category": "commercial_retail",
+      "tile_footprint": {
+        "width": 4,
+        "depth": 4,
+        "height_tiles": 3
+      },
+      "floors_count": 1,
+      "has_cutaway": true,
+      "anchor_point": {
+        "x": 64,
+        "y": 64
+      },
+      "cutaway_layer": "building_massing",
+      "tags": [
+        "architecture",
+        "commercial_retail",
+        "catch_yellow_cafe"
+      ],
+      "variants": [
+        {
+          "name": "Charcoal Steel & Timber Slats",
+          "color_hex": "#222629",
+          "material": "blackened_steel_cedar"
+        },
+        {
+          "name": "Catch Yellow & Glass Facade",
+          "color_hex": "#F5BA31",
+          "material": "yellow_steel_glass"
+        },
+        {
+          "name": "Off-White Concrete & Sedum Roof",
+          "color_hex": "#F8FAFC",
+          "material": "architectural_concrete_green"
+        }
+      ]
+    },
+    {
+      "id": "BLD_CATCH_YELLOW_CAFE_03",
+      "name": "Catch Specialty Espresso & Bakery Model 3",
+      "category": "commercial_retail",
+      "tile_footprint": {
+        "width": 4,
+        "depth": 4,
+        "height_tiles": 3
+      },
+      "floors_count": 1,
+      "has_cutaway": true,
+      "anchor_point": {
+        "x": 64,
+        "y": 64
+      },
+      "cutaway_layer": "building_massing",
+      "tags": [
+        "architecture",
+        "commercial_retail",
+        "catch_yellow_cafe"
+      ],
+      "variants": [
+        {
+          "name": "Charcoal Steel & Timber Slats",
+          "color_hex": "#222629",
+          "material": "blackened_steel_cedar"
+        },
+        {
+          "name": "Catch Yellow & Glass Facade",
+          "color_hex": "#F5BA31",
+          "material": "yellow_steel_glass"
+        },
+        {
+          "name": "Off-White Concrete & Sedum Roof",
+          "color_hex": "#F8FAFC",
+          "material": "architectural_concrete_green"
+        }
+      ]
+    },
+    {
+      "id": "BLD_ARISE_HQ_COWORKING_01",
+      "name": "Arise Studio Core & Tech Headquarters Model 1",
+      "category": "commercial_office",
+      "tile_footprint": {
+        "width": 12,
+        "depth": 10,
+        "height_tiles": 12
+      },
+      "floors_count": 4,
+      "has_cutaway": true,
+      "anchor_point": {
+        "x": 192,
+        "y": 160
+      },
+      "cutaway_layer": "building_massing",
+      "tags": [
+        "architecture",
+        "commercial_office",
+        "arise_hq_coworking"
+      ],
+      "variants": [
+        {
+          "name": "Charcoal Steel & Timber Slats",
+          "color_hex": "#222629",
+          "material": "blackened_steel_cedar"
+        },
+        {
+          "name": "Catch Yellow & Glass Facade",
+          "color_hex": "#F5BA31",
+          "material": "yellow_steel_glass"
+        },
+        {
+          "name": "Off-White Concrete & Sedum Roof",
+          "color_hex": "#F8FAFC",
+          "material": "architectural_concrete_green"
+        }
+      ]
+    },
+    {
+      "id": "BLD_ARISE_HQ_COWORKING_02",
+      "name": "Arise Studio Core & Tech Headquarters Model 2",
+      "category": "commercial_office",
+      "tile_footprint": {
+        "width": 12,
+        "depth": 10,
+        "height_tiles": 12
+      },
+      "floors_count": 4,
+      "has_cutaway": true,
+      "anchor_point": {
+        "x": 192,
+        "y": 160
+      },
+      "cutaway_layer": "building_massing",
+      "tags": [
+        "architecture",
+        "commercial_office",
+        "arise_hq_coworking"
+      ],
+      "variants": [
+        {
+          "name": "Charcoal Steel & Timber Slats",
+          "color_hex": "#222629",
+          "material": "blackened_steel_cedar"
+        },
+        {
+          "name": "Catch Yellow & Glass Facade",
+          "color_hex": "#F5BA31",
+          "material": "yellow_steel_glass"
+        },
+        {
+          "name": "Off-White Concrete & Sedum Roof",
+          "color_hex": "#F8FAFC",
+          "material": "architectural_concrete_green"
+        }
+      ]
+    },
+    {
+      "id": "BLD_ARISE_HQ_COWORKING_03",
+      "name": "Arise Studio Core & Tech Headquarters Model 3",
+      "category": "commercial_office",
+      "tile_footprint": {
+        "width": 12,
+        "depth": 10,
+        "height_tiles": 12
+      },
+      "floors_count": 4,
+      "has_cutaway": true,
+      "anchor_point": {
+        "x": 192,
+        "y": 160
+      },
+      "cutaway_layer": "building_massing",
+      "tags": [
+        "architecture",
+        "commercial_office",
+        "arise_hq_coworking"
+      ],
+      "variants": [
+        {
+          "name": "Charcoal Steel & Timber Slats",
+          "color_hex": "#222629",
+          "material": "blackened_steel_cedar"
+        },
+        {
+          "name": "Catch Yellow & Glass Facade",
+          "color_hex": "#F5BA31",
+          "material": "yellow_steel_glass"
+        },
+        {
+          "name": "Off-White Concrete & Sedum Roof",
+          "color_hex": "#F8FAFC",
+          "material": "architectural_concrete_green"
+        }
+      ]
+    },
+    {
+      "id": "BLD_BOXSPACES_CONTAINER_HUB_01",
+      "name": "#BOXSPACES Modular Container Office Model 1",
+      "category": "commercial_office",
+      "tile_footprint": {
+        "width": 8,
+        "depth": 6,
+        "height_tiles": 9
+      },
+      "floors_count": 3,
+      "has_cutaway": true,
+      "anchor_point": {
+        "x": 128,
+        "y": 96
+      },
+      "cutaway_layer": "building_massing",
+      "tags": [
+        "architecture",
+        "commercial_office",
+        "boxspaces_container_hub"
+      ],
+      "variants": [
+        {
+          "name": "Charcoal Steel & Timber Slats",
+          "color_hex": "#222629",
+          "material": "blackened_steel_cedar"
+        },
+        {
+          "name": "Catch Yellow & Glass Facade",
+          "color_hex": "#F5BA31",
+          "material": "yellow_steel_glass"
+        },
+        {
+          "name": "Off-White Concrete & Sedum Roof",
+          "color_hex": "#F8FAFC",
+          "material": "architectural_concrete_green"
+        }
+      ]
+    },
+    {
+      "id": "BLD_BOXSPACES_CONTAINER_HUB_02",
+      "name": "#BOXSPACES Modular Container Office Model 2",
+      "category": "commercial_office",
+      "tile_footprint": {
+        "width": 8,
+        "depth": 6,
+        "height_tiles": 9
+      },
+      "floors_count": 3,
+      "has_cutaway": true,
+      "anchor_point": {
+        "x": 128,
+        "y": 96
+      },
+      "cutaway_layer": "building_massing",
+      "tags": [
+        "architecture",
+        "commercial_office",
+        "boxspaces_container_hub"
+      ],
+      "variants": [
+        {
+          "name": "Charcoal Steel & Timber Slats",
+          "color_hex": "#222629",
+          "material": "blackened_steel_cedar"
+        },
+        {
+          "name": "Catch Yellow & Glass Facade",
+          "color_hex": "#F5BA31",
+          "material": "yellow_steel_glass"
+        },
+        {
+          "name": "Off-White Concrete & Sedum Roof",
+          "color_hex": "#F8FAFC",
+          "material": "architectural_concrete_green"
+        }
+      ]
+    },
+    {
+      "id": "BLD_BOXSPACES_CONTAINER_HUB_03",
+      "name": "#BOXSPACES Modular Container Office Model 3",
+      "category": "commercial_office",
+      "tile_footprint": {
+        "width": 8,
+        "depth": 6,
+        "height_tiles": 9
+      },
+      "floors_count": 3,
+      "has_cutaway": true,
+      "anchor_point": {
+        "x": 128,
+        "y": 96
+      },
+      "cutaway_layer": "building_massing",
+      "tags": [
+        "architecture",
+        "commercial_office",
+        "boxspaces_container_hub"
+      ],
+      "variants": [
+        {
+          "name": "Charcoal Steel & Timber Slats",
+          "color_hex": "#222629",
+          "material": "blackened_steel_cedar"
+        },
+        {
+          "name": "Catch Yellow & Glass Facade",
+          "color_hex": "#F5BA31",
+          "material": "yellow_steel_glass"
+        },
+        {
+          "name": "Off-White Concrete & Sedum Roof",
+          "color_hex": "#F8FAFC",
+          "material": "architectural_concrete_green"
+        }
+      ]
+    },
+    {
+      "id": "BLD_CIVIC_CITY_HALL_01",
+      "name": "Coastal Municipal Governance Hall Model 1",
+      "category": "civic_government",
+      "tile_footprint": {
+        "width": 10,
+        "depth": 10,
+        "height_tiles": 9
+      },
+      "floors_count": 3,
+      "has_cutaway": true,
+      "anchor_point": {
+        "x": 160,
+        "y": 160
+      },
+      "cutaway_layer": "building_massing",
+      "tags": [
+        "architecture",
+        "civic_government",
+        "civic_city_hall"
+      ],
+      "variants": [
+        {
+          "name": "Charcoal Steel & Timber Slats",
+          "color_hex": "#222629",
+          "material": "blackened_steel_cedar"
+        },
+        {
+          "name": "Catch Yellow & Glass Facade",
+          "color_hex": "#F5BA31",
+          "material": "yellow_steel_glass"
+        },
+        {
+          "name": "Off-White Concrete & Sedum Roof",
+          "color_hex": "#F8FAFC",
+          "material": "architectural_concrete_green"
+        }
+      ]
+    },
+    {
+      "id": "BLD_CIVIC_CITY_HALL_02",
+      "name": "Coastal Municipal Governance Hall Model 2",
+      "category": "civic_government",
+      "tile_footprint": {
+        "width": 10,
+        "depth": 10,
+        "height_tiles": 9
+      },
+      "floors_count": 3,
+      "has_cutaway": true,
+      "anchor_point": {
+        "x": 160,
+        "y": 160
+      },
+      "cutaway_layer": "building_massing",
+      "tags": [
+        "architecture",
+        "civic_government",
+        "civic_city_hall"
+      ],
+      "variants": [
+        {
+          "name": "Charcoal Steel & Timber Slats",
+          "color_hex": "#222629",
+          "material": "blackened_steel_cedar"
+        },
+        {
+          "name": "Catch Yellow & Glass Facade",
+          "color_hex": "#F5BA31",
+          "material": "yellow_steel_glass"
+        },
+        {
+          "name": "Off-White Concrete & Sedum Roof",
+          "color_hex": "#F8FAFC",
+          "material": "architectural_concrete_green"
+        }
+      ]
+    },
+    {
+      "id": "BLD_CIVIC_CITY_HALL_03",
+      "name": "Coastal Municipal Governance Hall Model 3",
+      "category": "civic_government",
+      "tile_footprint": {
+        "width": 10,
+        "depth": 10,
+        "height_tiles": 9
+      },
+      "floors_count": 3,
+      "has_cutaway": true,
+      "anchor_point": {
+        "x": 160,
+        "y": 160
+      },
+      "cutaway_layer": "building_massing",
+      "tags": [
+        "architecture",
+        "civic_government",
+        "civic_city_hall"
+      ],
+      "variants": [
+        {
+          "name": "Charcoal Steel & Timber Slats",
+          "color_hex": "#222629",
+          "material": "blackened_steel_cedar"
+        },
+        {
+          "name": "Catch Yellow & Glass Facade",
+          "color_hex": "#F5BA31",
+          "material": "yellow_steel_glass"
+        },
+        {
+          "name": "Off-White Concrete & Sedum Roof",
+          "color_hex": "#F8FAFC",
+          "material": "architectural_concrete_green"
+        }
+      ]
+    },
+    {
+      "id": "BLD_MONOLITH_DATA_MAINFRAME_01",
+      "name": "Sub-sea Cable Data Center & Mainframe Model 1",
+      "category": "civic_government",
+      "tile_footprint": {
+        "width": 8,
+        "depth": 8,
+        "height_tiles": 6
+      },
+      "floors_count": 2,
+      "has_cutaway": true,
+      "anchor_point": {
+        "x": 128,
+        "y": 128
+      },
+      "cutaway_layer": "building_massing",
+      "tags": [
+        "architecture",
+        "civic_government",
+        "monolith_data_mainframe"
+      ],
+      "variants": [
+        {
+          "name": "Charcoal Steel & Timber Slats",
+          "color_hex": "#222629",
+          "material": "blackened_steel_cedar"
+        },
+        {
+          "name": "Catch Yellow & Glass Facade",
+          "color_hex": "#F5BA31",
+          "material": "yellow_steel_glass"
+        },
+        {
+          "name": "Off-White Concrete & Sedum Roof",
+          "color_hex": "#F8FAFC",
+          "material": "architectural_concrete_green"
+        }
+      ]
+    },
+    {
+      "id": "BLD_MONOLITH_DATA_MAINFRAME_02",
+      "name": "Sub-sea Cable Data Center & Mainframe Model 2",
+      "category": "civic_government",
+      "tile_footprint": {
+        "width": 8,
+        "depth": 8,
+        "height_tiles": 6
+      },
+      "floors_count": 2,
+      "has_cutaway": true,
+      "anchor_point": {
+        "x": 128,
+        "y": 128
+      },
+      "cutaway_layer": "building_massing",
+      "tags": [
+        "architecture",
+        "civic_government",
+        "monolith_data_mainframe"
+      ],
+      "variants": [
+        {
+          "name": "Charcoal Steel & Timber Slats",
+          "color_hex": "#222629",
+          "material": "blackened_steel_cedar"
+        },
+        {
+          "name": "Catch Yellow & Glass Facade",
+          "color_hex": "#F5BA31",
+          "material": "yellow_steel_glass"
+        },
+        {
+          "name": "Off-White Concrete & Sedum Roof",
+          "color_hex": "#F8FAFC",
+          "material": "architectural_concrete_green"
+        }
+      ]
+    },
+    {
+      "id": "BLD_MONOLITH_DATA_MAINFRAME_03",
+      "name": "Sub-sea Cable Data Center & Mainframe Model 3",
+      "category": "civic_government",
+      "tile_footprint": {
+        "width": 8,
+        "depth": 8,
+        "height_tiles": 6
+      },
+      "floors_count": 2,
+      "has_cutaway": true,
+      "anchor_point": {
+        "x": 128,
+        "y": 128
+      },
+      "cutaway_layer": "building_massing",
+      "tags": [
+        "architecture",
+        "civic_government",
+        "monolith_data_mainframe"
+      ],
+      "variants": [
+        {
+          "name": "Charcoal Steel & Timber Slats",
+          "color_hex": "#222629",
+          "material": "blackened_steel_cedar"
+        },
+        {
+          "name": "Catch Yellow & Glass Facade",
+          "color_hex": "#F5BA31",
+          "material": "yellow_steel_glass"
+        },
+        {
+          "name": "Off-White Concrete & Sedum Roof",
+          "color_hex": "#F8FAFC",
+          "material": "architectural_concrete_green"
+        }
+      ]
+    },
+    {
+      "id": "BLD_PADEL_PICKLEBALL_CLUB_01",
+      "name": "Waterfront Athletic & Padel Complex Model 1",
+      "category": "sports_wellness",
+      "tile_footprint": {
+        "width": 12,
+        "depth": 8,
+        "height_tiles": 6
+      },
+      "floors_count": 2,
+      "has_cutaway": true,
+      "anchor_point": {
+        "x": 192,
+        "y": 128
+      },
+      "cutaway_layer": "building_massing",
+      "tags": [
+        "architecture",
+        "sports_wellness",
+        "padel_pickleball_club"
+      ],
+      "variants": [
+        {
+          "name": "Charcoal Steel & Timber Slats",
+          "color_hex": "#222629",
+          "material": "blackened_steel_cedar"
+        },
+        {
+          "name": "Catch Yellow & Glass Facade",
+          "color_hex": "#F5BA31",
+          "material": "yellow_steel_glass"
+        },
+        {
+          "name": "Off-White Concrete & Sedum Roof",
+          "color_hex": "#F8FAFC",
+          "material": "architectural_concrete_green"
+        }
+      ]
+    },
+    {
+      "id": "BLD_PADEL_PICKLEBALL_CLUB_02",
+      "name": "Waterfront Athletic & Padel Complex Model 2",
+      "category": "sports_wellness",
+      "tile_footprint": {
+        "width": 12,
+        "depth": 8,
+        "height_tiles": 6
+      },
+      "floors_count": 2,
+      "has_cutaway": true,
+      "anchor_point": {
+        "x": 192,
+        "y": 128
+      },
+      "cutaway_layer": "building_massing",
+      "tags": [
+        "architecture",
+        "sports_wellness",
+        "padel_pickleball_club"
+      ],
+      "variants": [
+        {
+          "name": "Charcoal Steel & Timber Slats",
+          "color_hex": "#222629",
+          "material": "blackened_steel_cedar"
+        },
+        {
+          "name": "Catch Yellow & Glass Facade",
+          "color_hex": "#F5BA31",
+          "material": "yellow_steel_glass"
+        },
+        {
+          "name": "Off-White Concrete & Sedum Roof",
+          "color_hex": "#F8FAFC",
+          "material": "architectural_concrete_green"
+        }
+      ]
+    },
+    {
+      "id": "BLD_PADEL_PICKLEBALL_CLUB_03",
+      "name": "Waterfront Athletic & Padel Complex Model 3",
+      "category": "sports_wellness",
+      "tile_footprint": {
+        "width": 12,
+        "depth": 8,
+        "height_tiles": 6
+      },
+      "floors_count": 2,
+      "has_cutaway": true,
+      "anchor_point": {
+        "x": 192,
+        "y": 128
+      },
+      "cutaway_layer": "building_massing",
+      "tags": [
+        "architecture",
+        "sports_wellness",
+        "padel_pickleball_club"
+      ],
+      "variants": [
+        {
+          "name": "Charcoal Steel & Timber Slats",
+          "color_hex": "#222629",
+          "material": "blackened_steel_cedar"
+        },
+        {
+          "name": "Catch Yellow & Glass Facade",
+          "color_hex": "#F5BA31",
+          "material": "yellow_steel_glass"
+        },
+        {
+          "name": "Off-White Concrete & Sedum Roof",
+          "color_hex": "#F8FAFC",
+          "material": "architectural_concrete_green"
+        }
+      ]
+    },
+    {
+      "id": "BLD_FERRY_CRUISE_TERMINAL_01",
+      "name": "Grand Maritime Port Passenger Terminal Model 1",
+      "category": "maritime_harbor",
+      "tile_footprint": {
+        "width": 14,
+        "depth": 8,
+        "height_tiles": 6
+      },
+      "floors_count": 2,
+      "has_cutaway": true,
+      "anchor_point": {
+        "x": 224,
+        "y": 128
+      },
+      "cutaway_layer": "building_massing",
+      "tags": [
+        "architecture",
+        "maritime_harbor",
+        "ferry_cruise_terminal"
+      ],
+      "variants": [
+        {
+          "name": "Charcoal Steel & Timber Slats",
+          "color_hex": "#222629",
+          "material": "blackened_steel_cedar"
+        },
+        {
+          "name": "Catch Yellow & Glass Facade",
+          "color_hex": "#F5BA31",
+          "material": "yellow_steel_glass"
+        },
+        {
+          "name": "Off-White Concrete & Sedum Roof",
+          "color_hex": "#F8FAFC",
+          "material": "architectural_concrete_green"
+        }
+      ]
+    },
+    {
+      "id": "BLD_FERRY_CRUISE_TERMINAL_02",
+      "name": "Grand Maritime Port Passenger Terminal Model 2",
+      "category": "maritime_harbor",
+      "tile_footprint": {
+        "width": 14,
+        "depth": 8,
+        "height_tiles": 6
+      },
+      "floors_count": 2,
+      "has_cutaway": true,
+      "anchor_point": {
+        "x": 224,
+        "y": 128
+      },
+      "cutaway_layer": "building_massing",
+      "tags": [
+        "architecture",
+        "maritime_harbor",
+        "ferry_cruise_terminal"
+      ],
+      "variants": [
+        {
+          "name": "Charcoal Steel & Timber Slats",
+          "color_hex": "#222629",
+          "material": "blackened_steel_cedar"
+        },
+        {
+          "name": "Catch Yellow & Glass Facade",
+          "color_hex": "#F5BA31",
+          "material": "yellow_steel_glass"
+        },
+        {
+          "name": "Off-White Concrete & Sedum Roof",
+          "color_hex": "#F8FAFC",
+          "material": "architectural_concrete_green"
+        }
+      ]
+    },
+    {
+      "id": "BLD_FERRY_CRUISE_TERMINAL_03",
+      "name": "Grand Maritime Port Passenger Terminal Model 3",
+      "category": "maritime_harbor",
+      "tile_footprint": {
+        "width": 14,
+        "depth": 8,
+        "height_tiles": 6
+      },
+      "floors_count": 2,
+      "has_cutaway": true,
+      "anchor_point": {
+        "x": 224,
+        "y": 128
+      },
+      "cutaway_layer": "building_massing",
+      "tags": [
+        "architecture",
+        "maritime_harbor",
+        "ferry_cruise_terminal"
+      ],
+      "variants": [
+        {
+          "name": "Charcoal Steel & Timber Slats",
+          "color_hex": "#222629",
+          "material": "blackened_steel_cedar"
+        },
+        {
+          "name": "Catch Yellow & Glass Facade",
+          "color_hex": "#F5BA31",
+          "material": "yellow_steel_glass"
+        },
+        {
+          "name": "Off-White Concrete & Sedum Roof",
+          "color_hex": "#F8FAFC",
+          "material": "architectural_concrete_green"
+        }
+      ]
+    },
+    {
+      "id": "BLD_AIRMADE_CLEAN_ENERGY_01",
+      "name": "System 1.0 Clean Hydrogen & Power Hub Model 1",
+      "category": "industrial_energy",
+      "tile_footprint": {
+        "width": 10,
+        "depth": 8,
+        "height_tiles": 9
+      },
+      "floors_count": 3,
+      "has_cutaway": true,
+      "anchor_point": {
+        "x": 160,
+        "y": 128
+      },
+      "cutaway_layer": "building_massing",
+      "tags": [
+        "architecture",
+        "industrial_energy",
+        "airmade_clean_energy"
+      ],
+      "variants": [
+        {
+          "name": "Charcoal Steel & Timber Slats",
+          "color_hex": "#222629",
+          "material": "blackened_steel_cedar"
+        },
+        {
+          "name": "Catch Yellow & Glass Facade",
+          "color_hex": "#F5BA31",
+          "material": "yellow_steel_glass"
+        },
+        {
+          "name": "Off-White Concrete & Sedum Roof",
+          "color_hex": "#F8FAFC",
+          "material": "architectural_concrete_green"
+        }
+      ]
+    },
+    {
+      "id": "BLD_AIRMADE_CLEAN_ENERGY_02",
+      "name": "System 1.0 Clean Hydrogen & Power Hub Model 2",
+      "category": "industrial_energy",
+      "tile_footprint": {
+        "width": 10,
+        "depth": 8,
+        "height_tiles": 9
+      },
+      "floors_count": 3,
+      "has_cutaway": true,
+      "anchor_point": {
+        "x": 160,
+        "y": 128
+      },
+      "cutaway_layer": "building_massing",
+      "tags": [
+        "architecture",
+        "industrial_energy",
+        "airmade_clean_energy"
+      ],
+      "variants": [
+        {
+          "name": "Charcoal Steel & Timber Slats",
+          "color_hex": "#222629",
+          "material": "blackened_steel_cedar"
+        },
+        {
+          "name": "Catch Yellow & Glass Facade",
+          "color_hex": "#F5BA31",
+          "material": "yellow_steel_glass"
+        },
+        {
+          "name": "Off-White Concrete & Sedum Roof",
+          "color_hex": "#F8FAFC",
+          "material": "architectural_concrete_green"
+        }
+      ]
+    },
+    {
+      "id": "BLD_AIRMADE_CLEAN_ENERGY_03",
+      "name": "System 1.0 Clean Hydrogen & Power Hub Model 3",
+      "category": "industrial_energy",
+      "tile_footprint": {
+        "width": 10,
+        "depth": 8,
+        "height_tiles": 9
+      },
+      "floors_count": 3,
+      "has_cutaway": true,
+      "anchor_point": {
+        "x": 160,
+        "y": 128
+      },
+      "cutaway_layer": "building_massing",
+      "tags": [
+        "architecture",
+        "industrial_energy",
+        "airmade_clean_energy"
+      ],
+      "variants": [
+        {
+          "name": "Charcoal Steel & Timber Slats",
+          "color_hex": "#222629",
+          "material": "blackened_steel_cedar"
+        },
+        {
+          "name": "Catch Yellow & Glass Facade",
+          "color_hex": "#F5BA31",
+          "material": "yellow_steel_glass"
+        },
+        {
+          "name": "Off-White Concrete & Sedum Roof",
+          "color_hex": "#F8FAFC",
+          "material": "architectural_concrete_green"
+        }
+      ]
+    },
+    {
+      "id": "BLD_OCEANFRONT_BOUTIQUE_HOTEL_01",
+      "name": "Azure Shore Resort & Spa Hotel Model 1",
+      "category": "hospitality_hotel",
+      "tile_footprint": {
+        "width": 10,
+        "depth": 8,
+        "height_tiles": 15
+      },
+      "floors_count": 5,
+      "has_cutaway": true,
+      "anchor_point": {
+        "x": 160,
+        "y": 128
+      },
+      "cutaway_layer": "building_massing",
+      "tags": [
+        "architecture",
+        "hospitality_hotel",
+        "oceanfront_boutique_hotel"
+      ],
+      "variants": [
+        {
+          "name": "Charcoal Steel & Timber Slats",
+          "color_hex": "#222629",
+          "material": "blackened_steel_cedar"
+        },
+        {
+          "name": "Catch Yellow & Glass Facade",
+          "color_hex": "#F5BA31",
+          "material": "yellow_steel_glass"
+        },
+        {
+          "name": "Off-White Concrete & Sedum Roof",
+          "color_hex": "#F8FAFC",
+          "material": "architectural_concrete_green"
+        }
+      ]
+    },
+    {
+      "id": "BLD_OCEANFRONT_BOUTIQUE_HOTEL_02",
+      "name": "Azure Shore Resort & Spa Hotel Model 2",
+      "category": "hospitality_hotel",
+      "tile_footprint": {
+        "width": 10,
+        "depth": 8,
+        "height_tiles": 15
+      },
+      "floors_count": 5,
+      "has_cutaway": true,
+      "anchor_point": {
+        "x": 160,
+        "y": 128
+      },
+      "cutaway_layer": "building_massing",
+      "tags": [
+        "architecture",
+        "hospitality_hotel",
+        "oceanfront_boutique_hotel"
+      ],
+      "variants": [
+        {
+          "name": "Charcoal Steel & Timber Slats",
+          "color_hex": "#222629",
+          "material": "blackened_steel_cedar"
+        },
+        {
+          "name": "Catch Yellow & Glass Facade",
+          "color_hex": "#F5BA31",
+          "material": "yellow_steel_glass"
+        },
+        {
+          "name": "Off-White Concrete & Sedum Roof",
+          "color_hex": "#F8FAFC",
+          "material": "architectural_concrete_green"
+        }
+      ]
+    },
+    {
+      "id": "BLD_OCEANFRONT_BOUTIQUE_HOTEL_03",
+      "name": "Azure Shore Resort & Spa Hotel Model 3",
+      "category": "hospitality_hotel",
+      "tile_footprint": {
+        "width": 10,
+        "depth": 8,
+        "height_tiles": 15
+      },
+      "floors_count": 5,
+      "has_cutaway": true,
+      "anchor_point": {
+        "x": 160,
+        "y": 128
+      },
+      "cutaway_layer": "building_massing",
+      "tags": [
+        "architecture",
+        "hospitality_hotel",
+        "oceanfront_boutique_hotel"
+      ],
+      "variants": [
+        {
+          "name": "Charcoal Steel & Timber Slats",
+          "color_hex": "#222629",
+          "material": "blackened_steel_cedar"
+        },
+        {
+          "name": "Catch Yellow & Glass Facade",
+          "color_hex": "#F5BA31",
+          "material": "yellow_steel_glass"
+        },
+        {
+          "name": "Off-White Concrete & Sedum Roof",
+          "color_hex": "#F8FAFC",
+          "material": "architectural_concrete_green"
+        }
+      ]
+    },
+    {
+      "id": "BLD_HARBOR_EMERGENCY_STATION_01",
+      "name": "Combined Police & Maritime Rescue Station Model 1",
+      "category": "healthcare_emergency",
+      "tile_footprint": {
+        "width": 8,
+        "depth": 6,
+        "height_tiles": 6
+      },
+      "floors_count": 2,
+      "has_cutaway": true,
+      "anchor_point": {
+        "x": 128,
+        "y": 96
+      },
+      "cutaway_layer": "building_massing",
+      "tags": [
+        "architecture",
+        "healthcare_emergency",
+        "harbor_emergency_station"
+      ],
+      "variants": [
+        {
+          "name": "Charcoal Steel & Timber Slats",
+          "color_hex": "#222629",
+          "material": "blackened_steel_cedar"
+        },
+        {
+          "name": "Catch Yellow & Glass Facade",
+          "color_hex": "#F5BA31",
+          "material": "yellow_steel_glass"
+        },
+        {
+          "name": "Off-White Concrete & Sedum Roof",
+          "color_hex": "#F8FAFC",
+          "material": "architectural_concrete_green"
+        }
+      ]
+    },
+    {
+      "id": "BLD_HARBOR_EMERGENCY_STATION_02",
+      "name": "Combined Police & Maritime Rescue Station Model 2",
+      "category": "healthcare_emergency",
+      "tile_footprint": {
+        "width": 8,
+        "depth": 6,
+        "height_tiles": 6
+      },
+      "floors_count": 2,
+      "has_cutaway": true,
+      "anchor_point": {
+        "x": 128,
+        "y": 96
+      },
+      "cutaway_layer": "building_massing",
+      "tags": [
+        "architecture",
+        "healthcare_emergency",
+        "harbor_emergency_station"
+      ],
+      "variants": [
+        {
+          "name": "Charcoal Steel & Timber Slats",
+          "color_hex": "#222629",
+          "material": "blackened_steel_cedar"
+        },
+        {
+          "name": "Catch Yellow & Glass Facade",
+          "color_hex": "#F5BA31",
+          "material": "yellow_steel_glass"
+        },
+        {
+          "name": "Off-White Concrete & Sedum Roof",
+          "color_hex": "#F8FAFC",
+          "material": "architectural_concrete_green"
+        }
+      ]
+    },
+    {
+      "id": "BLD_HARBOR_EMERGENCY_STATION_03",
+      "name": "Combined Police & Maritime Rescue Station Model 3",
+      "category": "healthcare_emergency",
+      "tile_footprint": {
+        "width": 8,
+        "depth": 6,
+        "height_tiles": 6
+      },
+      "floors_count": 2,
+      "has_cutaway": true,
+      "anchor_point": {
+        "x": 128,
+        "y": 96
+      },
+      "cutaway_layer": "building_massing",
+      "tags": [
+        "architecture",
+        "healthcare_emergency",
+        "harbor_emergency_station"
+      ],
+      "variants": [
+        {
+          "name": "Charcoal Steel & Timber Slats",
+          "color_hex": "#222629",
+          "material": "blackened_steel_cedar"
+        },
+        {
+          "name": "Catch Yellow & Glass Facade",
+          "color_hex": "#F5BA31",
+          "material": "yellow_steel_glass"
+        },
+        {
+          "name": "Off-White Concrete & Sedum Roof",
+          "color_hex": "#F8FAFC",
+          "material": "architectural_concrete_green"
+        }
+      ]
+    },
+    {
+      "id": "BLD_COASTAL_MARINE_INSTITUTE_01",
+      "name": "Oceanographic Academy & Research Labs Model 1",
+      "category": "educational",
+      "tile_footprint": {
+        "width": 10,
+        "depth": 8,
+        "height_tiles": 9
+      },
+      "floors_count": 3,
+      "has_cutaway": true,
+      "anchor_point": {
+        "x": 160,
+        "y": 128
+      },
+      "cutaway_layer": "building_massing",
+      "tags": [
+        "architecture",
+        "educational",
+        "coastal_marine_institute"
+      ],
+      "variants": [
+        {
+          "name": "Charcoal Steel & Timber Slats",
+          "color_hex": "#222629",
+          "material": "blackened_steel_cedar"
+        },
+        {
+          "name": "Catch Yellow & Glass Facade",
+          "color_hex": "#F5BA31",
+          "material": "yellow_steel_glass"
+        },
+        {
+          "name": "Off-White Concrete & Sedum Roof",
+          "color_hex": "#F8FAFC",
+          "material": "architectural_concrete_green"
+        }
+      ]
+    },
+    {
+      "id": "BLD_COASTAL_MARINE_INSTITUTE_02",
+      "name": "Oceanographic Academy & Research Labs Model 2",
+      "category": "educational",
+      "tile_footprint": {
+        "width": 10,
+        "depth": 8,
+        "height_tiles": 9
+      },
+      "floors_count": 3,
+      "has_cutaway": true,
+      "anchor_point": {
+        "x": 160,
+        "y": 128
+      },
+      "cutaway_layer": "building_massing",
+      "tags": [
+        "architecture",
+        "educational",
+        "coastal_marine_institute"
+      ],
+      "variants": [
+        {
+          "name": "Charcoal Steel & Timber Slats",
+          "color_hex": "#222629",
+          "material": "blackened_steel_cedar"
+        },
+        {
+          "name": "Catch Yellow & Glass Facade",
+          "color_hex": "#F5BA31",
+          "material": "yellow_steel_glass"
+        },
+        {
+          "name": "Off-White Concrete & Sedum Roof",
+          "color_hex": "#F8FAFC",
+          "material": "architectural_concrete_green"
+        }
+      ]
+    },
+    {
+      "id": "BLD_COASTAL_MARINE_INSTITUTE_03",
+      "name": "Oceanographic Academy & Research Labs Model 3",
+      "category": "educational",
+      "tile_footprint": {
+        "width": 10,
+        "depth": 8,
+        "height_tiles": 9
+      },
+      "floors_count": 3,
+      "has_cutaway": true,
+      "anchor_point": {
+        "x": 160,
+        "y": 128
+      },
+      "cutaway_layer": "building_massing",
+      "tags": [
+        "architecture",
+        "educational",
+        "coastal_marine_institute"
+      ],
+      "variants": [
+        {
+          "name": "Charcoal Steel & Timber Slats",
+          "color_hex": "#222629",
+          "material": "blackened_steel_cedar"
+        },
+        {
+          "name": "Catch Yellow & Glass Facade",
+          "color_hex": "#F5BA31",
+          "material": "yellow_steel_glass"
+        },
+        {
+          "name": "Off-White Concrete & Sedum Roof",
+          "color_hex": "#F8FAFC",
+          "material": "architectural_concrete_green"
+        }
+      ]
+    }
+  ]
+}

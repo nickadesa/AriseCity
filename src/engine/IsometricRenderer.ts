@@ -1,10 +1,11 @@
 import { TimeState, Agent, AmbientNPC } from '../types/agent';
 import { IsometricEngine } from './IsometricEngine';
 import { PixelCharacterRenderer } from './PixelCharacterRenderer';
+import { CityWorldRenderer } from './CityWorldRenderer';
 import { LOCATIONS } from '../store/agentStore';
 
 export class IsometricRenderer {
-  // Main Studio Render Loop
+  // Main Studio & City Multi-Scale Render Loop (Z0 to Z4)
   static render(
     ctx: CanvasRenderingContext2D,
     width: number,
@@ -16,7 +17,8 @@ export class IsometricRenderer {
     agents: Agent[],
     npcs: AmbientNPC[],
     selectedAgentId: string | null,
-    selectedNpcId: string | null
+    selectedNpcId: string | null,
+    hoveredDistrictId?: string | null
   ) {
     // 1. Clear background (Atmospheric night/day gradient)
     this.renderBackdrop(ctx, width, height, timeState);
@@ -25,11 +27,35 @@ export class IsometricRenderer {
     ctx.translate(panX, panY);
     ctx.scale(zoom, zoom);
 
-    // Zoom transition:
-    // If zoom < 0.85: blend into exterior modular container building (#BOXSPACES, Image 1 & 5)
-    // If zoom >= 0.85: reveal full high-detail multi-level architectural cutaway interior (Images 1-4)
-    const exteriorAlpha = Math.max(0, Math.min(1, (1.0 - zoom) / 0.4));
-    const interiorAlpha = 1.0 - exteriorAlpha * 0.85;
+    // -------------------------------------------------------------
+    // Z0: MACRO CITY VECTOR MAP (Zoom < 0.35)
+    // -------------------------------------------------------------
+    if (zoom < 0.35) {
+      CityWorldRenderer.renderZ0CityMap(
+        ctx,
+        width,
+        height,
+        timeState,
+        hoveredDistrictId || null
+      );
+      ctx.restore();
+      this.renderAtmosphericOverlay(ctx, width, height, timeState);
+      return;
+    }
+
+    // -------------------------------------------------------------
+    // Z1 & Z2: DISTRICT MASSING & COASTAL WATERFRONT (Zoom 0.35 to 0.85)
+    // -------------------------------------------------------------
+    if (zoom < 0.95) {
+      CityWorldRenderer.renderZ1DistrictMassing(ctx, timeState);
+    }
+
+    // Zoom transition between Exterior Container and Interior Cutaway:
+    // Z2 (zoom 0.7 - 1.1): Exterior Container Building fully visible (#BOXSPACES, Image 1 & 5)
+    // Z3 (zoom 1.1 - 1.7): Cutaway transition (Roofs peel back, revealing levels 1 & 2)
+    // Z4 (zoom >= 1.7): Full high-detail interior (Desks, Bleachers, Catch Coworking 01)
+    const exteriorAlpha = Math.max(0, Math.min(1, (1.25 - zoom) / 0.45));
+    const interiorAlpha = Math.max(0, Math.min(1, (zoom - 0.75) / 0.45));
 
     // 2. Render Ground Plane & Concrete Plaza (Image 1)
     this.renderGroundPlaza(ctx, timeState);
@@ -42,7 +68,7 @@ export class IsometricRenderer {
       ctx.restore();
     }
 
-    // 4. Render Exterior Container Shell if zoomed out (Images 1 & 5)
+    // 4. Render Exterior Container Shell if in Z1/Z2 or transitioning Z3
     if (exteriorAlpha > 0.05) {
       ctx.save();
       ctx.globalAlpha = exteriorAlpha;

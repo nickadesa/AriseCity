@@ -1,0 +1,1766 @@
+{
+  "category": "top",
+  "total_count": 110,
+  "items": [
+    {
+      "id": "TOP_001",
+      "name": "Minimalist Crewneck Tshirt Style 1",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "minimalist_crewneck_tshirt"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_002",
+      "name": "Oxford Cotton Buttondown Style 1",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "oxford_cotton_buttondown"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_003",
+      "name": "Developer Hoodie Arise Style 1",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "developer_hoodie_arise"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_004",
+      "name": "Tailored Suit Blazer Style 1",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "tailored_suit_blazer"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_005",
+      "name": "Oversized Knit Sweater Style 1",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "oversized_knit_sweater"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_006",
+      "name": "Coastal Fishermans Cableknit Style 1",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "coastal_fishermans_cableknit"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_007",
+      "name": "Denim Utility Jacket Style 1",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "denim_utility_jacket"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_008",
+      "name": "Linen Summer Shirt Style 1",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "linen_summer_shirt"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_009",
+      "name": "Athletic Track Jacket Style 1",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "athletic_track_jacket"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_010",
+      "name": "Medical Lab Coat Style 1",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "medical_lab_coat"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_011",
+      "name": "Chef Culinary Jacket Style 1",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "chef_culinary_jacket"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_012",
+      "name": "Puffer Vest Commuter Style 1",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "puffer_vest_commuter"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_013",
+      "name": "Leather Biker Jacket Style 1",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "leather_biker_jacket"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_014",
+      "name": "Flannel Plaid Overshirt Style 1",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "flannel_plaid_overshirt"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_015",
+      "name": "Polo Shirt Padel Style 1",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "polo_shirt_padel"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_016",
+      "name": "Windbreaker Sailing Style 1",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "windbreaker_sailing"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_017",
+      "name": "Sleeveless Tank Top Style 1",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "sleeveless_tank_top"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_018",
+      "name": "Turtleneck Merino Style 1",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "turtleneck_merino"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_019",
+      "name": "Safety Highvis Vest Style 1",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "safety_highvis_vest"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_020",
+      "name": "Trench Coat Waterproof Style 1",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "trench_coat_waterproof"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_021",
+      "name": "Kimono Wrap Cardigan Style 1",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "kimono_wrap_cardigan"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_022",
+      "name": "Graphic Tee Pixel Style 1",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "graphic_tee_pixel"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_023",
+      "name": "Minimalist Crewneck Tshirt Style 2",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "minimalist_crewneck_tshirt"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_024",
+      "name": "Oxford Cotton Buttondown Style 2",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "oxford_cotton_buttondown"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_025",
+      "name": "Developer Hoodie Arise Style 2",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "developer_hoodie_arise"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_026",
+      "name": "Tailored Suit Blazer Style 2",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "tailored_suit_blazer"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_027",
+      "name": "Oversized Knit Sweater Style 2",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "oversized_knit_sweater"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_028",
+      "name": "Coastal Fishermans Cableknit Style 2",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "coastal_fishermans_cableknit"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_029",
+      "name": "Denim Utility Jacket Style 2",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "denim_utility_jacket"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_030",
+      "name": "Linen Summer Shirt Style 2",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "linen_summer_shirt"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_031",
+      "name": "Athletic Track Jacket Style 2",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "athletic_track_jacket"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_032",
+      "name": "Medical Lab Coat Style 2",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "medical_lab_coat"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_033",
+      "name": "Chef Culinary Jacket Style 2",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "chef_culinary_jacket"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_034",
+      "name": "Puffer Vest Commuter Style 2",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "puffer_vest_commuter"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_035",
+      "name": "Leather Biker Jacket Style 2",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "leather_biker_jacket"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_036",
+      "name": "Flannel Plaid Overshirt Style 2",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "flannel_plaid_overshirt"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_037",
+      "name": "Polo Shirt Padel Style 2",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "polo_shirt_padel"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_038",
+      "name": "Windbreaker Sailing Style 2",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "windbreaker_sailing"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_039",
+      "name": "Sleeveless Tank Top Style 2",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "sleeveless_tank_top"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_040",
+      "name": "Turtleneck Merino Style 2",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "turtleneck_merino"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_041",
+      "name": "Safety Highvis Vest Style 2",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "safety_highvis_vest"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_042",
+      "name": "Trench Coat Waterproof Style 2",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "trench_coat_waterproof"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_043",
+      "name": "Kimono Wrap Cardigan Style 2",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "kimono_wrap_cardigan"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_044",
+      "name": "Graphic Tee Pixel Style 2",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "graphic_tee_pixel"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_045",
+      "name": "Minimalist Crewneck Tshirt Style 3",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "minimalist_crewneck_tshirt"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_046",
+      "name": "Oxford Cotton Buttondown Style 3",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "oxford_cotton_buttondown"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_047",
+      "name": "Developer Hoodie Arise Style 3",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "developer_hoodie_arise"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_048",
+      "name": "Tailored Suit Blazer Style 3",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "tailored_suit_blazer"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_049",
+      "name": "Oversized Knit Sweater Style 3",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "oversized_knit_sweater"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_050",
+      "name": "Coastal Fishermans Cableknit Style 3",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "coastal_fishermans_cableknit"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_051",
+      "name": "Denim Utility Jacket Style 3",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "denim_utility_jacket"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_052",
+      "name": "Linen Summer Shirt Style 3",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "linen_summer_shirt"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_053",
+      "name": "Athletic Track Jacket Style 3",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "athletic_track_jacket"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_054",
+      "name": "Medical Lab Coat Style 3",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "medical_lab_coat"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_055",
+      "name": "Chef Culinary Jacket Style 3",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "chef_culinary_jacket"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_056",
+      "name": "Puffer Vest Commuter Style 3",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "puffer_vest_commuter"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_057",
+      "name": "Leather Biker Jacket Style 3",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "leather_biker_jacket"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_058",
+      "name": "Flannel Plaid Overshirt Style 3",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "flannel_plaid_overshirt"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_059",
+      "name": "Polo Shirt Padel Style 3",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "polo_shirt_padel"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_060",
+      "name": "Windbreaker Sailing Style 3",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "windbreaker_sailing"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_061",
+      "name": "Sleeveless Tank Top Style 3",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "sleeveless_tank_top"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_062",
+      "name": "Turtleneck Merino Style 3",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "turtleneck_merino"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_063",
+      "name": "Safety Highvis Vest Style 3",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "safety_highvis_vest"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_064",
+      "name": "Trench Coat Waterproof Style 3",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "trench_coat_waterproof"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_065",
+      "name": "Kimono Wrap Cardigan Style 3",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "kimono_wrap_cardigan"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_066",
+      "name": "Graphic Tee Pixel Style 3",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "graphic_tee_pixel"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_067",
+      "name": "Minimalist Crewneck Tshirt Style 4",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "minimalist_crewneck_tshirt"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_068",
+      "name": "Oxford Cotton Buttondown Style 4",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "oxford_cotton_buttondown"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_069",
+      "name": "Developer Hoodie Arise Style 4",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "developer_hoodie_arise"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_070",
+      "name": "Tailored Suit Blazer Style 4",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "tailored_suit_blazer"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_071",
+      "name": "Oversized Knit Sweater Style 4",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "oversized_knit_sweater"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_072",
+      "name": "Coastal Fishermans Cableknit Style 4",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "coastal_fishermans_cableknit"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_073",
+      "name": "Denim Utility Jacket Style 4",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "denim_utility_jacket"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_074",
+      "name": "Linen Summer Shirt Style 4",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "linen_summer_shirt"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_075",
+      "name": "Athletic Track Jacket Style 4",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "athletic_track_jacket"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_076",
+      "name": "Medical Lab Coat Style 4",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "medical_lab_coat"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_077",
+      "name": "Chef Culinary Jacket Style 4",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "chef_culinary_jacket"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_078",
+      "name": "Puffer Vest Commuter Style 4",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "puffer_vest_commuter"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_079",
+      "name": "Leather Biker Jacket Style 4",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "leather_biker_jacket"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_080",
+      "name": "Flannel Plaid Overshirt Style 4",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "flannel_plaid_overshirt"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_081",
+      "name": "Polo Shirt Padel Style 4",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "polo_shirt_padel"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_082",
+      "name": "Windbreaker Sailing Style 4",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "windbreaker_sailing"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_083",
+      "name": "Sleeveless Tank Top Style 4",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "sleeveless_tank_top"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_084",
+      "name": "Turtleneck Merino Style 4",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "turtleneck_merino"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_085",
+      "name": "Safety Highvis Vest Style 4",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "safety_highvis_vest"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_086",
+      "name": "Trench Coat Waterproof Style 4",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "trench_coat_waterproof"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_087",
+      "name": "Kimono Wrap Cardigan Style 4",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "kimono_wrap_cardigan"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_088",
+      "name": "Graphic Tee Pixel Style 4",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "graphic_tee_pixel"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_089",
+      "name": "Minimalist Crewneck Tshirt Style 5",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "minimalist_crewneck_tshirt"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_090",
+      "name": "Oxford Cotton Buttondown Style 5",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "oxford_cotton_buttondown"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_091",
+      "name": "Developer Hoodie Arise Style 5",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "developer_hoodie_arise"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_092",
+      "name": "Tailored Suit Blazer Style 5",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "tailored_suit_blazer"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_093",
+      "name": "Oversized Knit Sweater Style 5",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "oversized_knit_sweater"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_094",
+      "name": "Coastal Fishermans Cableknit Style 5",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "coastal_fishermans_cableknit"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_095",
+      "name": "Denim Utility Jacket Style 5",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "denim_utility_jacket"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_096",
+      "name": "Linen Summer Shirt Style 5",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "linen_summer_shirt"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_097",
+      "name": "Athletic Track Jacket Style 5",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "athletic_track_jacket"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_098",
+      "name": "Medical Lab Coat Style 5",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "medical_lab_coat"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_099",
+      "name": "Chef Culinary Jacket Style 5",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "chef_culinary_jacket"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_100",
+      "name": "Puffer Vest Commuter Style 5",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "puffer_vest_commuter"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_101",
+      "name": "Leather Biker Jacket Style 5",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "leather_biker_jacket"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_102",
+      "name": "Flannel Plaid Overshirt Style 5",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "flannel_plaid_overshirt"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_103",
+      "name": "Polo Shirt Padel Style 5",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "polo_shirt_padel"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_104",
+      "name": "Windbreaker Sailing Style 5",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "windbreaker_sailing"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_105",
+      "name": "Sleeveless Tank Top Style 5",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "sleeveless_tank_top"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_106",
+      "name": "Turtleneck Merino Style 5",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "turtleneck_merino"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_107",
+      "name": "Safety Highvis Vest Style 5",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "safety_highvis_vest"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_108",
+      "name": "Trench Coat Waterproof Style 5",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "trench_coat_waterproof"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_109",
+      "name": "Kimono Wrap Cardigan Style 5",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "kimono_wrap_cardigan"
+      ],
+      "palette_slot": "top_ramp"
+    },
+    {
+      "id": "TOP_110",
+      "name": "Graphic Tee Pixel Style 5",
+      "subcategory": "tops",
+      "layer_z": 7,
+      "anchor_offset": {
+        "x": 24,
+        "y": 24
+      },
+      "tags": [
+        "clothing",
+        "top",
+        "graphic_tee_pixel"
+      ],
+      "palette_slot": "top_ramp"
+    }
+  ]
+}

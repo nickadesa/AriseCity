@@ -1,0 +1,5001 @@
+{
+  "category": "specialized_equipment",
+  "total_count": 135,
+  "items": [
+    {
+      "id": "SPEC_OFFICE_01_01",
+      "name": "AI Server Blade Model 1",
+      "sector": "office",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "office",
+        "ai_server_blade"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_OFFICE_01_02",
+      "name": "AI Server Blade Model 2",
+      "sector": "office",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "office",
+        "ai_server_blade"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_OFFICE_01_03",
+      "name": "AI Server Blade Model 3",
+      "sector": "office",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "office",
+        "ai_server_blade"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_OFFICE_02_01",
+      "name": "Multi-screen Developer Workstation Model 1",
+      "sector": "office",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "office",
+        "multi-screen_developer_workstation"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_OFFICE_02_02",
+      "name": "Multi-screen Developer Workstation Model 2",
+      "sector": "office",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "office",
+        "multi-screen_developer_workstation"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_OFFICE_02_03",
+      "name": "Multi-screen Developer Workstation Model 3",
+      "sector": "office",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "office",
+        "multi-screen_developer_workstation"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_OFFICE_03_01",
+      "name": "Dual 3D Printer Model 1",
+      "sector": "office",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "office",
+        "dual_3d_printer"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_OFFICE_03_02",
+      "name": "Dual 3D Printer Model 2",
+      "sector": "office",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "office",
+        "dual_3d_printer"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_OFFICE_03_03",
+      "name": "Dual 3D Printer Model 3",
+      "sector": "office",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "office",
+        "dual_3d_printer"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_OFFICE_04_01",
+      "name": "Robotic Solder Bench Model 1",
+      "sector": "office",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "office",
+        "robotic_solder_bench"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_OFFICE_04_02",
+      "name": "Robotic Solder Bench Model 2",
+      "sector": "office",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "office",
+        "robotic_solder_bench"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_OFFICE_04_03",
+      "name": "Robotic Solder Bench Model 3",
+      "sector": "office",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "office",
+        "robotic_solder_bench"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_OFFICE_05_01",
+      "name": "Townhall Presentation Screen Model 1",
+      "sector": "office",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "office",
+        "townhall_presentation_screen"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_OFFICE_05_02",
+      "name": "Townhall Presentation Screen Model 2",
+      "sector": "office",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "office",
+        "townhall_presentation_screen"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_OFFICE_05_03",
+      "name": "Townhall Presentation Screen Model 3",
+      "sector": "office",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "office",
+        "townhall_presentation_screen"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_RESTAURANT_01_01",
+      "name": "Commercial Seafood Steamer Model 1",
+      "sector": "restaurant",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "restaurant",
+        "commercial_seafood_steamer"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_RESTAURANT_01_02",
+      "name": "Commercial Seafood Steamer Model 2",
+      "sector": "restaurant",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "restaurant",
+        "commercial_seafood_steamer"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_RESTAURANT_01_03",
+      "name": "Commercial Seafood Steamer Model 3",
+      "sector": "restaurant",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "restaurant",
+        "commercial_seafood_steamer"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_RESTAURANT_02_01",
+      "name": "Industrial Pizza Oven Model 1",
+      "sector": "restaurant",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "restaurant",
+        "industrial_pizza_oven"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_RESTAURANT_02_02",
+      "name": "Industrial Pizza Oven Model 2",
+      "sector": "restaurant",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "restaurant",
+        "industrial_pizza_oven"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_RESTAURANT_02_03",
+      "name": "Industrial Pizza Oven Model 3",
+      "sector": "restaurant",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "restaurant",
+        "industrial_pizza_oven"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_RESTAURANT_03_01",
+      "name": "Oyster Shucking Ice Station Model 1",
+      "sector": "restaurant",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "restaurant",
+        "oyster_shucking_ice_station"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_RESTAURANT_03_02",
+      "name": "Oyster Shucking Ice Station Model 2",
+      "sector": "restaurant",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "restaurant",
+        "oyster_shucking_ice_station"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_RESTAURANT_03_03",
+      "name": "Oyster Shucking Ice Station Model 3",
+      "sector": "restaurant",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "restaurant",
+        "oyster_shucking_ice_station"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_RESTAURANT_04_01",
+      "name": "Commercial Coffee Roaster Model 1",
+      "sector": "restaurant",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "restaurant",
+        "commercial_coffee_roaster"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_RESTAURANT_04_02",
+      "name": "Commercial Coffee Roaster Model 2",
+      "sector": "restaurant",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "restaurant",
+        "commercial_coffee_roaster"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_RESTAURANT_04_03",
+      "name": "Commercial Coffee Roaster Model 3",
+      "sector": "restaurant",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "restaurant",
+        "commercial_coffee_roaster"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_RESTAURANT_05_01",
+      "name": "POS Touch Terminal Model 1",
+      "sector": "restaurant",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "restaurant",
+        "pos_touch_terminal"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_RESTAURANT_05_02",
+      "name": "POS Touch Terminal Model 2",
+      "sector": "restaurant",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "restaurant",
+        "pos_touch_terminal"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_RESTAURANT_05_03",
+      "name": "POS Touch Terminal Model 3",
+      "sector": "restaurant",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "restaurant",
+        "pos_touch_terminal"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_HOSPITAL_01_01",
+      "name": "Mobile Ultrasound Cart Model 1",
+      "sector": "hospital",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "hospital",
+        "mobile_ultrasound_cart"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_HOSPITAL_01_02",
+      "name": "Mobile Ultrasound Cart Model 2",
+      "sector": "hospital",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "hospital",
+        "mobile_ultrasound_cart"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_HOSPITAL_01_03",
+      "name": "Mobile Ultrasound Cart Model 3",
+      "sector": "hospital",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "hospital",
+        "mobile_ultrasound_cart"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_HOSPITAL_02_01",
+      "name": "Patient Vital Monitor Model 1",
+      "sector": "hospital",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "hospital",
+        "patient_vital_monitor"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_HOSPITAL_02_02",
+      "name": "Patient Vital Monitor Model 2",
+      "sector": "hospital",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "hospital",
+        "patient_vital_monitor"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_HOSPITAL_02_03",
+      "name": "Patient Vital Monitor Model 3",
+      "sector": "hospital",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "hospital",
+        "patient_vital_monitor"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_HOSPITAL_03_01",
+      "name": "Emergency Defibrillator Station Model 1",
+      "sector": "hospital",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "hospital",
+        "emergency_defibrillator_station"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_HOSPITAL_03_02",
+      "name": "Emergency Defibrillator Station Model 2",
+      "sector": "hospital",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "hospital",
+        "emergency_defibrillator_station"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_HOSPITAL_03_03",
+      "name": "Emergency Defibrillator Station Model 3",
+      "sector": "hospital",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "hospital",
+        "emergency_defibrillator_station"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_HOSPITAL_04_01",
+      "name": "Diagnostic Microscope Model 1",
+      "sector": "hospital",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "hospital",
+        "diagnostic_microscope"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_HOSPITAL_04_02",
+      "name": "Diagnostic Microscope Model 2",
+      "sector": "hospital",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "hospital",
+        "diagnostic_microscope"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_HOSPITAL_04_03",
+      "name": "Diagnostic Microscope Model 3",
+      "sector": "hospital",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "hospital",
+        "diagnostic_microscope"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_HOSPITAL_05_01",
+      "name": "Surgical Prep Lamp Model 1",
+      "sector": "hospital",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "hospital",
+        "surgical_prep_lamp"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_HOSPITAL_05_02",
+      "name": "Surgical Prep Lamp Model 2",
+      "sector": "hospital",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "hospital",
+        "surgical_prep_lamp"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_HOSPITAL_05_03",
+      "name": "Surgical Prep Lamp Model 3",
+      "sector": "hospital",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "hospital",
+        "surgical_prep_lamp"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_SCHOOL_01_01",
+      "name": "Interactive Smart Projector Board Model 1",
+      "sector": "school",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "school",
+        "interactive_smart_projector_board"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_SCHOOL_01_02",
+      "name": "Interactive Smart Projector Board Model 2",
+      "sector": "school",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "school",
+        "interactive_smart_projector_board"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_SCHOOL_01_03",
+      "name": "Interactive Smart Projector Board Model 3",
+      "sector": "school",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "school",
+        "interactive_smart_projector_board"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_SCHOOL_02_01",
+      "name": "Science Lab Bunsen Sink Model 1",
+      "sector": "school",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "school",
+        "science_lab_bunsen_sink"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_SCHOOL_02_02",
+      "name": "Science Lab Bunsen Sink Model 2",
+      "sector": "school",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "school",
+        "science_lab_bunsen_sink"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_SCHOOL_02_03",
+      "name": "Science Lab Bunsen Sink Model 3",
+      "sector": "school",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "school",
+        "science_lab_bunsen_sink"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_SCHOOL_03_01",
+      "name": "Student Drafting Easel Model 1",
+      "sector": "school",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "school",
+        "student_drafting_easel"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_SCHOOL_03_02",
+      "name": "Student Drafting Easel Model 2",
+      "sector": "school",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "school",
+        "student_drafting_easel"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_SCHOOL_03_03",
+      "name": "Student Drafting Easel Model 3",
+      "sector": "school",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "school",
+        "student_drafting_easel"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_SCHOOL_04_01",
+      "name": "Robotics Kit Workbench Model 1",
+      "sector": "school",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "school",
+        "robotics_kit_workbench"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_SCHOOL_04_02",
+      "name": "Robotics Kit Workbench Model 2",
+      "sector": "school",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "school",
+        "robotics_kit_workbench"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_SCHOOL_04_03",
+      "name": "Robotics Kit Workbench Model 3",
+      "sector": "school",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "school",
+        "robotics_kit_workbench"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_SCHOOL_05_01",
+      "name": "Modular Classroom Desk Model 1",
+      "sector": "school",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "school",
+        "modular_classroom_desk"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_SCHOOL_05_02",
+      "name": "Modular Classroom Desk Model 2",
+      "sector": "school",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "school",
+        "modular_classroom_desk"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_SCHOOL_05_03",
+      "name": "Modular Classroom Desk Model 3",
+      "sector": "school",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "school",
+        "modular_classroom_desk"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_FACTORY_01_01",
+      "name": "Automated Pick-and-Place Robotic Arm Model 1",
+      "sector": "factory",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "factory",
+        "automated_pick-and-place_robotic_arm"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_FACTORY_01_02",
+      "name": "Automated Pick-and-Place Robotic Arm Model 2",
+      "sector": "factory",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "factory",
+        "automated_pick-and-place_robotic_arm"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_FACTORY_01_03",
+      "name": "Automated Pick-and-Place Robotic Arm Model 3",
+      "sector": "factory",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "factory",
+        "automated_pick-and-place_robotic_arm"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_FACTORY_02_01",
+      "name": "CNC Milling Station Model 1",
+      "sector": "factory",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "factory",
+        "cnc_milling_station"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_FACTORY_02_02",
+      "name": "CNC Milling Station Model 2",
+      "sector": "factory",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "factory",
+        "cnc_milling_station"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_FACTORY_02_03",
+      "name": "CNC Milling Station Model 3",
+      "sector": "factory",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "factory",
+        "cnc_milling_station"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_FACTORY_03_01",
+      "name": "Hydraulic Pallet Jack Model 1",
+      "sector": "factory",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "factory",
+        "hydraulic_pallet_jack"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_FACTORY_03_02",
+      "name": "Hydraulic Pallet Jack Model 2",
+      "sector": "factory",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "factory",
+        "hydraulic_pallet_jack"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_FACTORY_03_03",
+      "name": "Hydraulic Pallet Jack Model 3",
+      "sector": "factory",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "factory",
+        "hydraulic_pallet_jack"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_FACTORY_04_01",
+      "name": "Chemical Fume Extraction Hood Model 1",
+      "sector": "factory",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "factory",
+        "chemical_fume_extraction_hood"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_FACTORY_04_02",
+      "name": "Chemical Fume Extraction Hood Model 2",
+      "sector": "factory",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "factory",
+        "chemical_fume_extraction_hood"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_FACTORY_04_03",
+      "name": "Chemical Fume Extraction Hood Model 3",
+      "sector": "factory",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "factory",
+        "chemical_fume_extraction_hood"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_FACTORY_05_01",
+      "name": "Conveyor Roller Belt Model 1",
+      "sector": "factory",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "factory",
+        "conveyor_roller_belt"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_FACTORY_05_02",
+      "name": "Conveyor Roller Belt Model 2",
+      "sector": "factory",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "factory",
+        "conveyor_roller_belt"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_FACTORY_05_03",
+      "name": "Conveyor Roller Belt Model 3",
+      "sector": "factory",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "factory",
+        "conveyor_roller_belt"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_RETAIL_01_01",
+      "name": "Curved Barcode Checkout Counter Model 1",
+      "sector": "retail",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "retail",
+        "curved_barcode_checkout_counter"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_RETAIL_01_02",
+      "name": "Curved Barcode Checkout Counter Model 2",
+      "sector": "retail",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "retail",
+        "curved_barcode_checkout_counter"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_RETAIL_01_03",
+      "name": "Curved Barcode Checkout Counter Model 3",
+      "sector": "retail",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "retail",
+        "curved_barcode_checkout_counter"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_RETAIL_02_01",
+      "name": "Garment Mannequin Display Model 1",
+      "sector": "retail",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "retail",
+        "garment_mannequin_display"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_RETAIL_02_02",
+      "name": "Garment Mannequin Display Model 2",
+      "sector": "retail",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "retail",
+        "garment_mannequin_display"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_RETAIL_02_03",
+      "name": "Garment Mannequin Display Model 3",
+      "sector": "retail",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "retail",
+        "garment_mannequin_display"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_RETAIL_03_01",
+      "name": "Security RFID Gate Model 1",
+      "sector": "retail",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "retail",
+        "security_rfid_gate"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_RETAIL_03_02",
+      "name": "Security RFID Gate Model 2",
+      "sector": "retail",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "retail",
+        "security_rfid_gate"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_RETAIL_03_03",
+      "name": "Security RFID Gate Model 3",
+      "sector": "retail",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "retail",
+        "security_rfid_gate"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_RETAIL_04_01",
+      "name": "Jewelry Glass Vitrine Model 1",
+      "sector": "retail",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "retail",
+        "jewelry_glass_vitrine"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_RETAIL_04_02",
+      "name": "Jewelry Glass Vitrine Model 2",
+      "sector": "retail",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "retail",
+        "jewelry_glass_vitrine"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_RETAIL_04_03",
+      "name": "Jewelry Glass Vitrine Model 3",
+      "sector": "retail",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "retail",
+        "jewelry_glass_vitrine"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_RETAIL_05_01",
+      "name": "Refrigerated Display Showcase Model 1",
+      "sector": "retail",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "retail",
+        "refrigerated_display_showcase"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_RETAIL_05_02",
+      "name": "Refrigerated Display Showcase Model 2",
+      "sector": "retail",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "retail",
+        "refrigerated_display_showcase"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_RETAIL_05_03",
+      "name": "Refrigerated Display Showcase Model 3",
+      "sector": "retail",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "retail",
+        "refrigerated_display_showcase"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_LIBRARY_01_01",
+      "name": "Book Return Drop Chute Model 1",
+      "sector": "library",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "library",
+        "book_return_drop_chute"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_LIBRARY_01_02",
+      "name": "Book Return Drop Chute Model 2",
+      "sector": "library",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "library",
+        "book_return_drop_chute"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_LIBRARY_01_03",
+      "name": "Book Return Drop Chute Model 3",
+      "sector": "library",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "library",
+        "book_return_drop_chute"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_LIBRARY_02_01",
+      "name": "Microfiche / Digital Archive Reader Model 1",
+      "sector": "library",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "library",
+        "microfiche_/_digital_archive_reader"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_LIBRARY_02_02",
+      "name": "Microfiche / Digital Archive Reader Model 2",
+      "sector": "library",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "library",
+        "microfiche_/_digital_archive_reader"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_LIBRARY_02_03",
+      "name": "Microfiche / Digital Archive Reader Model 3",
+      "sector": "library",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "library",
+        "microfiche_/_digital_archive_reader"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_LIBRARY_03_01",
+      "name": "Study Carrel with Partition Model 1",
+      "sector": "library",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "library",
+        "study_carrel_with_partition"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_LIBRARY_03_02",
+      "name": "Study Carrel with Partition Model 2",
+      "sector": "library",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "library",
+        "study_carrel_with_partition"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_LIBRARY_03_03",
+      "name": "Study Carrel with Partition Model 3",
+      "sector": "library",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "library",
+        "study_carrel_with_partition"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_LIBRARY_04_01",
+      "name": "Rolling Wooden Library Ladder Model 1",
+      "sector": "library",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "library",
+        "rolling_wooden_library_ladder"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_LIBRARY_04_02",
+      "name": "Rolling Wooden Library Ladder Model 2",
+      "sector": "library",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "library",
+        "rolling_wooden_library_ladder"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_LIBRARY_04_03",
+      "name": "Rolling Wooden Library Ladder Model 3",
+      "sector": "library",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "library",
+        "rolling_wooden_library_ladder"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_LIBRARY_05_01",
+      "name": "Catalog Search Terminal Model 1",
+      "sector": "library",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "library",
+        "catalog_search_terminal"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_LIBRARY_05_02",
+      "name": "Catalog Search Terminal Model 2",
+      "sector": "library",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "library",
+        "catalog_search_terminal"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_LIBRARY_05_03",
+      "name": "Catalog Search Terminal Model 3",
+      "sector": "library",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "library",
+        "catalog_search_terminal"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_GYM_01_01",
+      "name": "Olympic Weightlifting Power Rack Model 1",
+      "sector": "gym",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "gym",
+        "olympic_weightlifting_power_rack"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_GYM_01_02",
+      "name": "Olympic Weightlifting Power Rack Model 2",
+      "sector": "gym",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "gym",
+        "olympic_weightlifting_power_rack"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_GYM_01_03",
+      "name": "Olympic Weightlifting Power Rack Model 3",
+      "sector": "gym",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "gym",
+        "olympic_weightlifting_power_rack"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_GYM_02_01",
+      "name": "Commercial Elliptical Trainer Model 1",
+      "sector": "gym",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "gym",
+        "commercial_elliptical_trainer"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_GYM_02_02",
+      "name": "Commercial Elliptical Trainer Model 2",
+      "sector": "gym",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "gym",
+        "commercial_elliptical_trainer"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_GYM_02_03",
+      "name": "Commercial Elliptical Trainer Model 3",
+      "sector": "gym",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "gym",
+        "commercial_elliptical_trainer"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_GYM_03_01",
+      "name": "Rowing Ergometer Water-resistance Model 1",
+      "sector": "gym",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "gym",
+        "rowing_ergometer_water-resistance"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_GYM_03_02",
+      "name": "Rowing Ergometer Water-resistance Model 2",
+      "sector": "gym",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "gym",
+        "rowing_ergometer_water-resistance"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_GYM_03_03",
+      "name": "Rowing Ergometer Water-resistance Model 3",
+      "sector": "gym",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "gym",
+        "rowing_ergometer_water-resistance"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_GYM_04_01",
+      "name": "Padel Racket Stringer Machine Model 1",
+      "sector": "gym",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "gym",
+        "padel_racket_stringer_machine"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_GYM_04_02",
+      "name": "Padel Racket Stringer Machine Model 2",
+      "sector": "gym",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "gym",
+        "padel_racket_stringer_machine"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_GYM_04_03",
+      "name": "Padel Racket Stringer Machine Model 3",
+      "sector": "gym",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "gym",
+        "padel_racket_stringer_machine"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_GYM_05_01",
+      "name": "Wall-mounted Cable Cross Machine Model 1",
+      "sector": "gym",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "gym",
+        "wall-mounted_cable_cross_machine"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_GYM_05_02",
+      "name": "Wall-mounted Cable Cross Machine Model 2",
+      "sector": "gym",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "gym",
+        "wall-mounted_cable_cross_machine"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_GYM_05_03",
+      "name": "Wall-mounted Cable Cross Machine Model 3",
+      "sector": "gym",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "gym",
+        "wall-mounted_cable_cross_machine"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_HOTEL_01_01",
+      "name": "Brass Luggage Bellhop Trolley Model 1",
+      "sector": "hotel",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "hotel",
+        "brass_luggage_bellhop_trolley"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_HOTEL_01_02",
+      "name": "Brass Luggage Bellhop Trolley Model 2",
+      "sector": "hotel",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "hotel",
+        "brass_luggage_bellhop_trolley"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_HOTEL_01_03",
+      "name": "Brass Luggage Bellhop Trolley Model 3",
+      "sector": "hotel",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "hotel",
+        "brass_luggage_bellhop_trolley"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_HOTEL_02_01",
+      "name": "Electronic Keycard Encoder Station Model 1",
+      "sector": "hotel",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "hotel",
+        "electronic_keycard_encoder_station"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_HOTEL_02_02",
+      "name": "Electronic Keycard Encoder Station Model 2",
+      "sector": "hotel",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "hotel",
+        "electronic_keycard_encoder_station"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_HOTEL_02_03",
+      "name": "Electronic Keycard Encoder Station Model 3",
+      "sector": "hotel",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "hotel",
+        "electronic_keycard_encoder_station"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_HOTEL_03_01",
+      "name": "Concierge Reservation Lectern Model 1",
+      "sector": "hotel",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "hotel",
+        "concierge_reservation_lectern"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_HOTEL_03_02",
+      "name": "Concierge Reservation Lectern Model 2",
+      "sector": "hotel",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "hotel",
+        "concierge_reservation_lectern"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_HOTEL_03_03",
+      "name": "Concierge Reservation Lectern Model 3",
+      "sector": "hotel",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "hotel",
+        "concierge_reservation_lectern"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_HOTEL_04_01",
+      "name": "Housekeeping Linen Cart Model 1",
+      "sector": "hotel",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "hotel",
+        "housekeeping_linen_cart"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_HOTEL_04_02",
+      "name": "Housekeeping Linen Cart Model 2",
+      "sector": "hotel",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "hotel",
+        "housekeeping_linen_cart"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_HOTEL_04_03",
+      "name": "Housekeeping Linen Cart Model 3",
+      "sector": "hotel",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "hotel",
+        "housekeeping_linen_cart"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_HOTEL_05_01",
+      "name": "Mini-bar Chiller Display Model 1",
+      "sector": "hotel",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "hotel",
+        "mini-bar_chiller_display"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_HOTEL_05_02",
+      "name": "Mini-bar Chiller Display Model 2",
+      "sector": "hotel",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "hotel",
+        "mini-bar_chiller_display"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    },
+    {
+      "id": "SPEC_HOTEL_05_03",
+      "name": "Mini-bar Chiller Display Model 3",
+      "sector": "hotel",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "interior_specialized",
+      "tags": [
+        "specialized",
+        "hotel",
+        "mini-bar_chiller_display"
+      ],
+      "variants": [
+        {
+          "name": "Industrial Steel & Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "heavy_steel"
+        },
+        {
+          "name": "Clinical Sterile White",
+          "color_hex": "#F8FAFC",
+          "material": "antimicrobial_composite"
+        },
+        {
+          "name": "Charcoal Matte Tech",
+          "color_hex": "#1E293B",
+          "material": "anodized_alloy"
+        }
+      ]
+    }
+  ]
+}

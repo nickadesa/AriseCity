@@ -1,0 +1,108 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "AriseCity Building Schema",
+  "description": "Defines building specifications across all zoom levels (Z0 to Z4) including footprint, facade, cutaway layers, and occupants.",
+  "type": "object",
+  "required": [
+    "id",
+    "name",
+    "category",
+    "district_id",
+    "world_position",
+    "footprint",
+    "floors_count",
+    "floors",
+    "layers"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^BLD_[A-Z0-9_]+$",
+      "description": "Unique building identifier"
+    },
+    "name": {
+      "type": "string",
+      "description": "Human-readable building title"
+    },
+    "category": {
+      "type": "string",
+      "enum": [
+        "residential",
+        "commercial_retail",
+        "commercial_office",
+        "civic_government",
+        "maritime_harbor",
+        "sports_wellness",
+        "industrial_energy",
+        "hospitality_hotel",
+        "healthcare",
+        "educational"
+      ]
+    },
+    "district_id": {
+      "type": "string",
+      "description": "Parent district ID where building is located"
+    },
+    "world_position": {
+      "type": "object",
+      "required": ["tile_x", "tile_y"],
+      "properties": {
+        "tile_x": { "type": "integer" },
+        "tile_y": { "type": "integer" },
+        "elevation_m": { "type": "number", "default": 0 }
+      }
+    },
+    "footprint": {
+      "type": "object",
+      "required": ["width_tiles", "depth_tiles"],
+      "properties": {
+        "width_tiles": { "type": "integer", "minimum": 1 },
+        "depth_tiles": { "type": "integer", "minimum": 1 },
+        "rotation_deg": { "type": "integer", "enum": [0, 90, 180, 270], "default": 0 }
+      }
+    },
+    "floors_count": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 50
+    },
+    "has_cutaway": {
+      "type": "boolean",
+      "default": true,
+      "description": "Whether building allows interior peeling view at Z3/Z4"
+    },
+    "layers": {
+      "type": "object",
+      "required": ["foundation_asset", "facade_asset", "roof_asset"],
+      "properties": {
+        "foundation_asset": { "type": "string" },
+        "facade_asset": { "type": "string" },
+        "facade_cutaway_asset": { "type": "string" },
+        "roof_asset": { "type": "string" }
+      }
+    },
+    "variants": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "variant_id": { "type": "string" },
+          "material": { "type": "string" },
+          "color_hex": { "type": "string" }
+        }
+      }
+    },
+    "floors": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "description": "References to Floor IDs"
+      }
+    },
+    "assigned_agents": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "List of AI Agents or Key NPCs stationed here"
+    }
+  }
+}

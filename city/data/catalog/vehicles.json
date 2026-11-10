@@ -1,0 +1,1671 @@
+{
+  "category": "vehicles",
+  "total_count": 45,
+  "items": [
+    {
+      "id": "VEH_SEDAN_ELECTRIC_01",
+      "name": "Electric Sedan Taxi Mk.1",
+      "subcategory": "passenger_car",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.2
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 28
+      },
+      "cutaway_layer": "exterior_traffic",
+      "tags": [
+        "vehicle",
+        "passenger_car",
+        "sedan_electric"
+      ],
+      "variants": [
+        {
+          "name": "Pearl White / Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "gloss_aluminum"
+        },
+        {
+          "name": "Deep Harbor Slate",
+          "color_hex": "#1E293B",
+          "material": "metallic_clearcoat"
+        },
+        {
+          "name": "Canary Lime Fleet",
+          "color_hex": "#88A759",
+          "material": "composite_enamel"
+        }
+      ]
+    },
+    {
+      "id": "VEH_SEDAN_ELECTRIC_02",
+      "name": "Electric Sedan Taxi Mk.2",
+      "subcategory": "passenger_car",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.2
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 28
+      },
+      "cutaway_layer": "exterior_traffic",
+      "tags": [
+        "vehicle",
+        "passenger_car",
+        "sedan_electric"
+      ],
+      "variants": [
+        {
+          "name": "Pearl White / Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "gloss_aluminum"
+        },
+        {
+          "name": "Deep Harbor Slate",
+          "color_hex": "#1E293B",
+          "material": "metallic_clearcoat"
+        },
+        {
+          "name": "Canary Lime Fleet",
+          "color_hex": "#88A759",
+          "material": "composite_enamel"
+        }
+      ]
+    },
+    {
+      "id": "VEH_SEDAN_ELECTRIC_03",
+      "name": "Electric Sedan Taxi Mk.3",
+      "subcategory": "passenger_car",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.2
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 28
+      },
+      "cutaway_layer": "exterior_traffic",
+      "tags": [
+        "vehicle",
+        "passenger_car",
+        "sedan_electric"
+      ],
+      "variants": [
+        {
+          "name": "Pearl White / Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "gloss_aluminum"
+        },
+        {
+          "name": "Deep Harbor Slate",
+          "color_hex": "#1E293B",
+          "material": "metallic_clearcoat"
+        },
+        {
+          "name": "Canary Lime Fleet",
+          "color_hex": "#88A759",
+          "material": "composite_enamel"
+        }
+      ]
+    },
+    {
+      "id": "VEH_COMPACT_CITY_EV_01",
+      "name": "Compact Urban Hatchback Mk.1",
+      "subcategory": "passenger_car",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.1
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 26
+      },
+      "cutaway_layer": "exterior_traffic",
+      "tags": [
+        "vehicle",
+        "passenger_car",
+        "compact_city_ev"
+      ],
+      "variants": [
+        {
+          "name": "Pearl White / Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "gloss_aluminum"
+        },
+        {
+          "name": "Deep Harbor Slate",
+          "color_hex": "#1E293B",
+          "material": "metallic_clearcoat"
+        },
+        {
+          "name": "Canary Lime Fleet",
+          "color_hex": "#88A759",
+          "material": "composite_enamel"
+        }
+      ]
+    },
+    {
+      "id": "VEH_COMPACT_CITY_EV_02",
+      "name": "Compact Urban Hatchback Mk.2",
+      "subcategory": "passenger_car",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.1
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 26
+      },
+      "cutaway_layer": "exterior_traffic",
+      "tags": [
+        "vehicle",
+        "passenger_car",
+        "compact_city_ev"
+      ],
+      "variants": [
+        {
+          "name": "Pearl White / Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "gloss_aluminum"
+        },
+        {
+          "name": "Deep Harbor Slate",
+          "color_hex": "#1E293B",
+          "material": "metallic_clearcoat"
+        },
+        {
+          "name": "Canary Lime Fleet",
+          "color_hex": "#88A759",
+          "material": "composite_enamel"
+        }
+      ]
+    },
+    {
+      "id": "VEH_COMPACT_CITY_EV_03",
+      "name": "Compact Urban Hatchback Mk.3",
+      "subcategory": "passenger_car",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.1
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 26
+      },
+      "cutaway_layer": "exterior_traffic",
+      "tags": [
+        "vehicle",
+        "passenger_car",
+        "compact_city_ev"
+      ],
+      "variants": [
+        {
+          "name": "Pearl White / Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "gloss_aluminum"
+        },
+        {
+          "name": "Deep Harbor Slate",
+          "color_hex": "#1E293B",
+          "material": "metallic_clearcoat"
+        },
+        {
+          "name": "Canary Lime Fleet",
+          "color_hex": "#88A759",
+          "material": "composite_enamel"
+        }
+      ]
+    },
+    {
+      "id": "VEH_SUV_COASTAL_CROSSOVER_01",
+      "name": "Coastal Explorer SUV Mk.1",
+      "subcategory": "passenger_car",
+      "tile_footprint": {
+        "width": 3,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 48,
+        "y": 33
+      },
+      "cutaway_layer": "exterior_traffic",
+      "tags": [
+        "vehicle",
+        "passenger_car",
+        "suv_coastal_crossover"
+      ],
+      "variants": [
+        {
+          "name": "Pearl White / Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "gloss_aluminum"
+        },
+        {
+          "name": "Deep Harbor Slate",
+          "color_hex": "#1E293B",
+          "material": "metallic_clearcoat"
+        },
+        {
+          "name": "Canary Lime Fleet",
+          "color_hex": "#88A759",
+          "material": "composite_enamel"
+        }
+      ]
+    },
+    {
+      "id": "VEH_SUV_COASTAL_CROSSOVER_02",
+      "name": "Coastal Explorer SUV Mk.2",
+      "subcategory": "passenger_car",
+      "tile_footprint": {
+        "width": 3,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 48,
+        "y": 33
+      },
+      "cutaway_layer": "exterior_traffic",
+      "tags": [
+        "vehicle",
+        "passenger_car",
+        "suv_coastal_crossover"
+      ],
+      "variants": [
+        {
+          "name": "Pearl White / Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "gloss_aluminum"
+        },
+        {
+          "name": "Deep Harbor Slate",
+          "color_hex": "#1E293B",
+          "material": "metallic_clearcoat"
+        },
+        {
+          "name": "Canary Lime Fleet",
+          "color_hex": "#88A759",
+          "material": "composite_enamel"
+        }
+      ]
+    },
+    {
+      "id": "VEH_SUV_COASTAL_CROSSOVER_03",
+      "name": "Coastal Explorer SUV Mk.3",
+      "subcategory": "passenger_car",
+      "tile_footprint": {
+        "width": 3,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 48,
+        "y": 33
+      },
+      "cutaway_layer": "exterior_traffic",
+      "tags": [
+        "vehicle",
+        "passenger_car",
+        "suv_coastal_crossover"
+      ],
+      "variants": [
+        {
+          "name": "Pearl White / Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "gloss_aluminum"
+        },
+        {
+          "name": "Deep Harbor Slate",
+          "color_hex": "#1E293B",
+          "material": "metallic_clearcoat"
+        },
+        {
+          "name": "Canary Lime Fleet",
+          "color_hex": "#88A759",
+          "material": "composite_enamel"
+        }
+      ]
+    },
+    {
+      "id": "VEH_DELIVERY_VAN_ELECTRIC_01",
+      "name": "Autonomous Parcel Delivery Van Mk.1",
+      "subcategory": "commercial_freight",
+      "tile_footprint": {
+        "width": 3,
+        "depth": 1,
+        "height_tiles": 1.8
+      },
+      "anchor_point": {
+        "x": 48,
+        "y": 43
+      },
+      "cutaway_layer": "exterior_traffic",
+      "tags": [
+        "vehicle",
+        "commercial_freight",
+        "delivery_van_electric"
+      ],
+      "variants": [
+        {
+          "name": "Pearl White / Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "gloss_aluminum"
+        },
+        {
+          "name": "Deep Harbor Slate",
+          "color_hex": "#1E293B",
+          "material": "metallic_clearcoat"
+        },
+        {
+          "name": "Canary Lime Fleet",
+          "color_hex": "#88A759",
+          "material": "composite_enamel"
+        }
+      ]
+    },
+    {
+      "id": "VEH_DELIVERY_VAN_ELECTRIC_02",
+      "name": "Autonomous Parcel Delivery Van Mk.2",
+      "subcategory": "commercial_freight",
+      "tile_footprint": {
+        "width": 3,
+        "depth": 1,
+        "height_tiles": 1.8
+      },
+      "anchor_point": {
+        "x": 48,
+        "y": 43
+      },
+      "cutaway_layer": "exterior_traffic",
+      "tags": [
+        "vehicle",
+        "commercial_freight",
+        "delivery_van_electric"
+      ],
+      "variants": [
+        {
+          "name": "Pearl White / Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "gloss_aluminum"
+        },
+        {
+          "name": "Deep Harbor Slate",
+          "color_hex": "#1E293B",
+          "material": "metallic_clearcoat"
+        },
+        {
+          "name": "Canary Lime Fleet",
+          "color_hex": "#88A759",
+          "material": "composite_enamel"
+        }
+      ]
+    },
+    {
+      "id": "VEH_DELIVERY_VAN_ELECTRIC_03",
+      "name": "Autonomous Parcel Delivery Van Mk.3",
+      "subcategory": "commercial_freight",
+      "tile_footprint": {
+        "width": 3,
+        "depth": 1,
+        "height_tiles": 1.8
+      },
+      "anchor_point": {
+        "x": 48,
+        "y": 43
+      },
+      "cutaway_layer": "exterior_traffic",
+      "tags": [
+        "vehicle",
+        "commercial_freight",
+        "delivery_van_electric"
+      ],
+      "variants": [
+        {
+          "name": "Pearl White / Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "gloss_aluminum"
+        },
+        {
+          "name": "Deep Harbor Slate",
+          "color_hex": "#1E293B",
+          "material": "metallic_clearcoat"
+        },
+        {
+          "name": "Canary Lime Fleet",
+          "color_hex": "#88A759",
+          "material": "composite_enamel"
+        }
+      ]
+    },
+    {
+      "id": "VEH_HEAVY_FLATBED_TRUCK_01",
+      "name": "Port Logistics Flatbed Truck Mk.1",
+      "subcategory": "commercial_freight",
+      "tile_footprint": {
+        "width": 4,
+        "depth": 1,
+        "height_tiles": 2.0
+      },
+      "anchor_point": {
+        "x": 64,
+        "y": 48
+      },
+      "cutaway_layer": "exterior_traffic",
+      "tags": [
+        "vehicle",
+        "commercial_freight",
+        "heavy_flatbed_truck"
+      ],
+      "variants": [
+        {
+          "name": "Pearl White / Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "gloss_aluminum"
+        },
+        {
+          "name": "Deep Harbor Slate",
+          "color_hex": "#1E293B",
+          "material": "metallic_clearcoat"
+        },
+        {
+          "name": "Canary Lime Fleet",
+          "color_hex": "#88A759",
+          "material": "composite_enamel"
+        }
+      ]
+    },
+    {
+      "id": "VEH_HEAVY_FLATBED_TRUCK_02",
+      "name": "Port Logistics Flatbed Truck Mk.2",
+      "subcategory": "commercial_freight",
+      "tile_footprint": {
+        "width": 4,
+        "depth": 1,
+        "height_tiles": 2.0
+      },
+      "anchor_point": {
+        "x": 64,
+        "y": 48
+      },
+      "cutaway_layer": "exterior_traffic",
+      "tags": [
+        "vehicle",
+        "commercial_freight",
+        "heavy_flatbed_truck"
+      ],
+      "variants": [
+        {
+          "name": "Pearl White / Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "gloss_aluminum"
+        },
+        {
+          "name": "Deep Harbor Slate",
+          "color_hex": "#1E293B",
+          "material": "metallic_clearcoat"
+        },
+        {
+          "name": "Canary Lime Fleet",
+          "color_hex": "#88A759",
+          "material": "composite_enamel"
+        }
+      ]
+    },
+    {
+      "id": "VEH_HEAVY_FLATBED_TRUCK_03",
+      "name": "Port Logistics Flatbed Truck Mk.3",
+      "subcategory": "commercial_freight",
+      "tile_footprint": {
+        "width": 4,
+        "depth": 1,
+        "height_tiles": 2.0
+      },
+      "anchor_point": {
+        "x": 64,
+        "y": 48
+      },
+      "cutaway_layer": "exterior_traffic",
+      "tags": [
+        "vehicle",
+        "commercial_freight",
+        "heavy_flatbed_truck"
+      ],
+      "variants": [
+        {
+          "name": "Pearl White / Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "gloss_aluminum"
+        },
+        {
+          "name": "Deep Harbor Slate",
+          "color_hex": "#1E293B",
+          "material": "metallic_clearcoat"
+        },
+        {
+          "name": "Canary Lime Fleet",
+          "color_hex": "#88A759",
+          "material": "composite_enamel"
+        }
+      ]
+    },
+    {
+      "id": "VEH_CITY_TRANSIT_BUS_01",
+      "name": "Articulated Low-Floor Transit Bus Mk.1",
+      "subcategory": "public_transit",
+      "tile_footprint": {
+        "width": 5,
+        "depth": 1,
+        "height_tiles": 2.2
+      },
+      "anchor_point": {
+        "x": 80,
+        "y": 52
+      },
+      "cutaway_layer": "exterior_traffic",
+      "tags": [
+        "vehicle",
+        "public_transit",
+        "city_transit_bus"
+      ],
+      "variants": [
+        {
+          "name": "Pearl White / Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "gloss_aluminum"
+        },
+        {
+          "name": "Deep Harbor Slate",
+          "color_hex": "#1E293B",
+          "material": "metallic_clearcoat"
+        },
+        {
+          "name": "Canary Lime Fleet",
+          "color_hex": "#88A759",
+          "material": "composite_enamel"
+        }
+      ]
+    },
+    {
+      "id": "VEH_CITY_TRANSIT_BUS_02",
+      "name": "Articulated Low-Floor Transit Bus Mk.2",
+      "subcategory": "public_transit",
+      "tile_footprint": {
+        "width": 5,
+        "depth": 1,
+        "height_tiles": 2.2
+      },
+      "anchor_point": {
+        "x": 80,
+        "y": 52
+      },
+      "cutaway_layer": "exterior_traffic",
+      "tags": [
+        "vehicle",
+        "public_transit",
+        "city_transit_bus"
+      ],
+      "variants": [
+        {
+          "name": "Pearl White / Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "gloss_aluminum"
+        },
+        {
+          "name": "Deep Harbor Slate",
+          "color_hex": "#1E293B",
+          "material": "metallic_clearcoat"
+        },
+        {
+          "name": "Canary Lime Fleet",
+          "color_hex": "#88A759",
+          "material": "composite_enamel"
+        }
+      ]
+    },
+    {
+      "id": "VEH_CITY_TRANSIT_BUS_03",
+      "name": "Articulated Low-Floor Transit Bus Mk.3",
+      "subcategory": "public_transit",
+      "tile_footprint": {
+        "width": 5,
+        "depth": 1,
+        "height_tiles": 2.2
+      },
+      "anchor_point": {
+        "x": 80,
+        "y": 52
+      },
+      "cutaway_layer": "exterior_traffic",
+      "tags": [
+        "vehicle",
+        "public_transit",
+        "city_transit_bus"
+      ],
+      "variants": [
+        {
+          "name": "Pearl White / Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "gloss_aluminum"
+        },
+        {
+          "name": "Deep Harbor Slate",
+          "color_hex": "#1E293B",
+          "material": "metallic_clearcoat"
+        },
+        {
+          "name": "Canary Lime Fleet",
+          "color_hex": "#88A759",
+          "material": "composite_enamel"
+        }
+      ]
+    },
+    {
+      "id": "VEH_VINTAGE_CABLE_TRAM_01",
+      "name": "Waterfront Heritage Electric Tram Mk.1",
+      "subcategory": "public_transit",
+      "tile_footprint": {
+        "width": 6,
+        "depth": 1,
+        "height_tiles": 2.4
+      },
+      "anchor_point": {
+        "x": 96,
+        "y": 57
+      },
+      "cutaway_layer": "exterior_traffic",
+      "tags": [
+        "vehicle",
+        "public_transit",
+        "vintage_cable_tram"
+      ],
+      "variants": [
+        {
+          "name": "Pearl White / Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "gloss_aluminum"
+        },
+        {
+          "name": "Deep Harbor Slate",
+          "color_hex": "#1E293B",
+          "material": "metallic_clearcoat"
+        },
+        {
+          "name": "Canary Lime Fleet",
+          "color_hex": "#88A759",
+          "material": "composite_enamel"
+        }
+      ]
+    },
+    {
+      "id": "VEH_VINTAGE_CABLE_TRAM_02",
+      "name": "Waterfront Heritage Electric Tram Mk.2",
+      "subcategory": "public_transit",
+      "tile_footprint": {
+        "width": 6,
+        "depth": 1,
+        "height_tiles": 2.4
+      },
+      "anchor_point": {
+        "x": 96,
+        "y": 57
+      },
+      "cutaway_layer": "exterior_traffic",
+      "tags": [
+        "vehicle",
+        "public_transit",
+        "vintage_cable_tram"
+      ],
+      "variants": [
+        {
+          "name": "Pearl White / Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "gloss_aluminum"
+        },
+        {
+          "name": "Deep Harbor Slate",
+          "color_hex": "#1E293B",
+          "material": "metallic_clearcoat"
+        },
+        {
+          "name": "Canary Lime Fleet",
+          "color_hex": "#88A759",
+          "material": "composite_enamel"
+        }
+      ]
+    },
+    {
+      "id": "VEH_VINTAGE_CABLE_TRAM_03",
+      "name": "Waterfront Heritage Electric Tram Mk.3",
+      "subcategory": "public_transit",
+      "tile_footprint": {
+        "width": 6,
+        "depth": 1,
+        "height_tiles": 2.4
+      },
+      "anchor_point": {
+        "x": 96,
+        "y": 57
+      },
+      "cutaway_layer": "exterior_traffic",
+      "tags": [
+        "vehicle",
+        "public_transit",
+        "vintage_cable_tram"
+      ],
+      "variants": [
+        {
+          "name": "Pearl White / Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "gloss_aluminum"
+        },
+        {
+          "name": "Deep Harbor Slate",
+          "color_hex": "#1E293B",
+          "material": "metallic_clearcoat"
+        },
+        {
+          "name": "Canary Lime Fleet",
+          "color_hex": "#88A759",
+          "material": "composite_enamel"
+        }
+      ]
+    },
+    {
+      "id": "VEH_EMERGENCY_AMBULANCE_01",
+      "name": "Mobile Paramedic Unit Mk.1",
+      "subcategory": "emergency",
+      "tile_footprint": {
+        "width": 3,
+        "depth": 1,
+        "height_tiles": 1.8
+      },
+      "anchor_point": {
+        "x": 48,
+        "y": 43
+      },
+      "cutaway_layer": "exterior_traffic",
+      "tags": [
+        "vehicle",
+        "emergency",
+        "emergency_ambulance"
+      ],
+      "variants": [
+        {
+          "name": "Pearl White / Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "gloss_aluminum"
+        },
+        {
+          "name": "Deep Harbor Slate",
+          "color_hex": "#1E293B",
+          "material": "metallic_clearcoat"
+        },
+        {
+          "name": "Canary Lime Fleet",
+          "color_hex": "#88A759",
+          "material": "composite_enamel"
+        }
+      ]
+    },
+    {
+      "id": "VEH_EMERGENCY_AMBULANCE_02",
+      "name": "Mobile Paramedic Unit Mk.2",
+      "subcategory": "emergency",
+      "tile_footprint": {
+        "width": 3,
+        "depth": 1,
+        "height_tiles": 1.8
+      },
+      "anchor_point": {
+        "x": 48,
+        "y": 43
+      },
+      "cutaway_layer": "exterior_traffic",
+      "tags": [
+        "vehicle",
+        "emergency",
+        "emergency_ambulance"
+      ],
+      "variants": [
+        {
+          "name": "Pearl White / Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "gloss_aluminum"
+        },
+        {
+          "name": "Deep Harbor Slate",
+          "color_hex": "#1E293B",
+          "material": "metallic_clearcoat"
+        },
+        {
+          "name": "Canary Lime Fleet",
+          "color_hex": "#88A759",
+          "material": "composite_enamel"
+        }
+      ]
+    },
+    {
+      "id": "VEH_EMERGENCY_AMBULANCE_03",
+      "name": "Mobile Paramedic Unit Mk.3",
+      "subcategory": "emergency",
+      "tile_footprint": {
+        "width": 3,
+        "depth": 1,
+        "height_tiles": 1.8
+      },
+      "anchor_point": {
+        "x": 48,
+        "y": 43
+      },
+      "cutaway_layer": "exterior_traffic",
+      "tags": [
+        "vehicle",
+        "emergency",
+        "emergency_ambulance"
+      ],
+      "variants": [
+        {
+          "name": "Pearl White / Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "gloss_aluminum"
+        },
+        {
+          "name": "Deep Harbor Slate",
+          "color_hex": "#1E293B",
+          "material": "metallic_clearcoat"
+        },
+        {
+          "name": "Canary Lime Fleet",
+          "color_hex": "#88A759",
+          "material": "composite_enamel"
+        }
+      ]
+    },
+    {
+      "id": "VEH_FIRE_PUMPER_ENGINE_01",
+      "name": "Harbor District Fire Engine Mk.1",
+      "subcategory": "emergency",
+      "tile_footprint": {
+        "width": 4,
+        "depth": 1,
+        "height_tiles": 2.3
+      },
+      "anchor_point": {
+        "x": 64,
+        "y": 55
+      },
+      "cutaway_layer": "exterior_traffic",
+      "tags": [
+        "vehicle",
+        "emergency",
+        "fire_pumper_engine"
+      ],
+      "variants": [
+        {
+          "name": "Pearl White / Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "gloss_aluminum"
+        },
+        {
+          "name": "Deep Harbor Slate",
+          "color_hex": "#1E293B",
+          "material": "metallic_clearcoat"
+        },
+        {
+          "name": "Canary Lime Fleet",
+          "color_hex": "#88A759",
+          "material": "composite_enamel"
+        }
+      ]
+    },
+    {
+      "id": "VEH_FIRE_PUMPER_ENGINE_02",
+      "name": "Harbor District Fire Engine Mk.2",
+      "subcategory": "emergency",
+      "tile_footprint": {
+        "width": 4,
+        "depth": 1,
+        "height_tiles": 2.3
+      },
+      "anchor_point": {
+        "x": 64,
+        "y": 55
+      },
+      "cutaway_layer": "exterior_traffic",
+      "tags": [
+        "vehicle",
+        "emergency",
+        "fire_pumper_engine"
+      ],
+      "variants": [
+        {
+          "name": "Pearl White / Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "gloss_aluminum"
+        },
+        {
+          "name": "Deep Harbor Slate",
+          "color_hex": "#1E293B",
+          "material": "metallic_clearcoat"
+        },
+        {
+          "name": "Canary Lime Fleet",
+          "color_hex": "#88A759",
+          "material": "composite_enamel"
+        }
+      ]
+    },
+    {
+      "id": "VEH_FIRE_PUMPER_ENGINE_03",
+      "name": "Harbor District Fire Engine Mk.3",
+      "subcategory": "emergency",
+      "tile_footprint": {
+        "width": 4,
+        "depth": 1,
+        "height_tiles": 2.3
+      },
+      "anchor_point": {
+        "x": 64,
+        "y": 55
+      },
+      "cutaway_layer": "exterior_traffic",
+      "tags": [
+        "vehicle",
+        "emergency",
+        "fire_pumper_engine"
+      ],
+      "variants": [
+        {
+          "name": "Pearl White / Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "gloss_aluminum"
+        },
+        {
+          "name": "Deep Harbor Slate",
+          "color_hex": "#1E293B",
+          "material": "metallic_clearcoat"
+        },
+        {
+          "name": "Canary Lime Fleet",
+          "color_hex": "#88A759",
+          "material": "composite_enamel"
+        }
+      ]
+    },
+    {
+      "id": "VEH_POLICE_PATROL_INTERCEPTOR_01",
+      "name": "Civic Safety Interceptor Mk.1",
+      "subcategory": "emergency",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.3
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 31
+      },
+      "cutaway_layer": "exterior_traffic",
+      "tags": [
+        "vehicle",
+        "emergency",
+        "police_patrol_interceptor"
+      ],
+      "variants": [
+        {
+          "name": "Pearl White / Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "gloss_aluminum"
+        },
+        {
+          "name": "Deep Harbor Slate",
+          "color_hex": "#1E293B",
+          "material": "metallic_clearcoat"
+        },
+        {
+          "name": "Canary Lime Fleet",
+          "color_hex": "#88A759",
+          "material": "composite_enamel"
+        }
+      ]
+    },
+    {
+      "id": "VEH_POLICE_PATROL_INTERCEPTOR_02",
+      "name": "Civic Safety Interceptor Mk.2",
+      "subcategory": "emergency",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.3
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 31
+      },
+      "cutaway_layer": "exterior_traffic",
+      "tags": [
+        "vehicle",
+        "emergency",
+        "police_patrol_interceptor"
+      ],
+      "variants": [
+        {
+          "name": "Pearl White / Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "gloss_aluminum"
+        },
+        {
+          "name": "Deep Harbor Slate",
+          "color_hex": "#1E293B",
+          "material": "metallic_clearcoat"
+        },
+        {
+          "name": "Canary Lime Fleet",
+          "color_hex": "#88A759",
+          "material": "composite_enamel"
+        }
+      ]
+    },
+    {
+      "id": "VEH_POLICE_PATROL_INTERCEPTOR_03",
+      "name": "Civic Safety Interceptor Mk.3",
+      "subcategory": "emergency",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.3
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 31
+      },
+      "cutaway_layer": "exterior_traffic",
+      "tags": [
+        "vehicle",
+        "emergency",
+        "police_patrol_interceptor"
+      ],
+      "variants": [
+        {
+          "name": "Pearl White / Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "gloss_aluminum"
+        },
+        {
+          "name": "Deep Harbor Slate",
+          "color_hex": "#1E293B",
+          "material": "metallic_clearcoat"
+        },
+        {
+          "name": "Canary Lime Fleet",
+          "color_hex": "#88A759",
+          "material": "composite_enamel"
+        }
+      ]
+    },
+    {
+      "id": "VEH_COMMUTER_E_BIKE_01",
+      "name": "Smart Share E-Bike Mk.1",
+      "subcategory": "micromobility",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 0.8
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 19
+      },
+      "cutaway_layer": "exterior_traffic",
+      "tags": [
+        "vehicle",
+        "micromobility",
+        "commuter_e_bike"
+      ],
+      "variants": [
+        {
+          "name": "Pearl White / Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "gloss_aluminum"
+        },
+        {
+          "name": "Deep Harbor Slate",
+          "color_hex": "#1E293B",
+          "material": "metallic_clearcoat"
+        },
+        {
+          "name": "Canary Lime Fleet",
+          "color_hex": "#88A759",
+          "material": "composite_enamel"
+        }
+      ]
+    },
+    {
+      "id": "VEH_COMMUTER_E_BIKE_02",
+      "name": "Smart Share E-Bike Mk.2",
+      "subcategory": "micromobility",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 0.8
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 19
+      },
+      "cutaway_layer": "exterior_traffic",
+      "tags": [
+        "vehicle",
+        "micromobility",
+        "commuter_e_bike"
+      ],
+      "variants": [
+        {
+          "name": "Pearl White / Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "gloss_aluminum"
+        },
+        {
+          "name": "Deep Harbor Slate",
+          "color_hex": "#1E293B",
+          "material": "metallic_clearcoat"
+        },
+        {
+          "name": "Canary Lime Fleet",
+          "color_hex": "#88A759",
+          "material": "composite_enamel"
+        }
+      ]
+    },
+    {
+      "id": "VEH_COMMUTER_E_BIKE_03",
+      "name": "Smart Share E-Bike Mk.3",
+      "subcategory": "micromobility",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 0.8
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 19
+      },
+      "cutaway_layer": "exterior_traffic",
+      "tags": [
+        "vehicle",
+        "micromobility",
+        "commuter_e_bike"
+      ],
+      "variants": [
+        {
+          "name": "Pearl White / Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "gloss_aluminum"
+        },
+        {
+          "name": "Deep Harbor Slate",
+          "color_hex": "#1E293B",
+          "material": "metallic_clearcoat"
+        },
+        {
+          "name": "Canary Lime Fleet",
+          "color_hex": "#88A759",
+          "material": "composite_enamel"
+        }
+      ]
+    },
+    {
+      "id": "VEH_CARGO_BAKFIETS_TRIKE_01",
+      "name": "Commercial Cargo Tricycle Mk.1",
+      "subcategory": "micromobility",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 0.9
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 21
+      },
+      "cutaway_layer": "exterior_traffic",
+      "tags": [
+        "vehicle",
+        "micromobility",
+        "cargo_bakfiets_trike"
+      ],
+      "variants": [
+        {
+          "name": "Pearl White / Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "gloss_aluminum"
+        },
+        {
+          "name": "Deep Harbor Slate",
+          "color_hex": "#1E293B",
+          "material": "metallic_clearcoat"
+        },
+        {
+          "name": "Canary Lime Fleet",
+          "color_hex": "#88A759",
+          "material": "composite_enamel"
+        }
+      ]
+    },
+    {
+      "id": "VEH_CARGO_BAKFIETS_TRIKE_02",
+      "name": "Commercial Cargo Tricycle Mk.2",
+      "subcategory": "micromobility",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 0.9
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 21
+      },
+      "cutaway_layer": "exterior_traffic",
+      "tags": [
+        "vehicle",
+        "micromobility",
+        "cargo_bakfiets_trike"
+      ],
+      "variants": [
+        {
+          "name": "Pearl White / Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "gloss_aluminum"
+        },
+        {
+          "name": "Deep Harbor Slate",
+          "color_hex": "#1E293B",
+          "material": "metallic_clearcoat"
+        },
+        {
+          "name": "Canary Lime Fleet",
+          "color_hex": "#88A759",
+          "material": "composite_enamel"
+        }
+      ]
+    },
+    {
+      "id": "VEH_CARGO_BAKFIETS_TRIKE_03",
+      "name": "Commercial Cargo Tricycle Mk.3",
+      "subcategory": "micromobility",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 0.9
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 21
+      },
+      "cutaway_layer": "exterior_traffic",
+      "tags": [
+        "vehicle",
+        "micromobility",
+        "cargo_bakfiets_trike"
+      ],
+      "variants": [
+        {
+          "name": "Pearl White / Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "gloss_aluminum"
+        },
+        {
+          "name": "Deep Harbor Slate",
+          "color_hex": "#1E293B",
+          "material": "metallic_clearcoat"
+        },
+        {
+          "name": "Canary Lime Fleet",
+          "color_hex": "#88A759",
+          "material": "composite_enamel"
+        }
+      ]
+    },
+    {
+      "id": "VEH_ELECTRIC_KICK_SCOOTER_01",
+      "name": "Dockless Standing Scooter Mk.1",
+      "subcategory": "micromobility",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 0.7
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 16
+      },
+      "cutaway_layer": "exterior_traffic",
+      "tags": [
+        "vehicle",
+        "micromobility",
+        "electric_kick_scooter"
+      ],
+      "variants": [
+        {
+          "name": "Pearl White / Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "gloss_aluminum"
+        },
+        {
+          "name": "Deep Harbor Slate",
+          "color_hex": "#1E293B",
+          "material": "metallic_clearcoat"
+        },
+        {
+          "name": "Canary Lime Fleet",
+          "color_hex": "#88A759",
+          "material": "composite_enamel"
+        }
+      ]
+    },
+    {
+      "id": "VEH_ELECTRIC_KICK_SCOOTER_02",
+      "name": "Dockless Standing Scooter Mk.2",
+      "subcategory": "micromobility",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 0.7
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 16
+      },
+      "cutaway_layer": "exterior_traffic",
+      "tags": [
+        "vehicle",
+        "micromobility",
+        "electric_kick_scooter"
+      ],
+      "variants": [
+        {
+          "name": "Pearl White / Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "gloss_aluminum"
+        },
+        {
+          "name": "Deep Harbor Slate",
+          "color_hex": "#1E293B",
+          "material": "metallic_clearcoat"
+        },
+        {
+          "name": "Canary Lime Fleet",
+          "color_hex": "#88A759",
+          "material": "composite_enamel"
+        }
+      ]
+    },
+    {
+      "id": "VEH_ELECTRIC_KICK_SCOOTER_03",
+      "name": "Dockless Standing Scooter Mk.3",
+      "subcategory": "micromobility",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 0.7
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 16
+      },
+      "cutaway_layer": "exterior_traffic",
+      "tags": [
+        "vehicle",
+        "micromobility",
+        "electric_kick_scooter"
+      ],
+      "variants": [
+        {
+          "name": "Pearl White / Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "gloss_aluminum"
+        },
+        {
+          "name": "Deep Harbor Slate",
+          "color_hex": "#1E293B",
+          "material": "metallic_clearcoat"
+        },
+        {
+          "name": "Canary Lime Fleet",
+          "color_hex": "#88A759",
+          "material": "composite_enamel"
+        }
+      ]
+    },
+    {
+      "id": "VEH_HARBOR_FORKLIFT_01",
+      "name": "Container Terminal Forklift Mk.1",
+      "subcategory": "industrial",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.6
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 38
+      },
+      "cutaway_layer": "exterior_traffic",
+      "tags": [
+        "vehicle",
+        "industrial",
+        "harbor_forklift"
+      ],
+      "variants": [
+        {
+          "name": "Pearl White / Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "gloss_aluminum"
+        },
+        {
+          "name": "Deep Harbor Slate",
+          "color_hex": "#1E293B",
+          "material": "metallic_clearcoat"
+        },
+        {
+          "name": "Canary Lime Fleet",
+          "color_hex": "#88A759",
+          "material": "composite_enamel"
+        }
+      ]
+    },
+    {
+      "id": "VEH_HARBOR_FORKLIFT_02",
+      "name": "Container Terminal Forklift Mk.2",
+      "subcategory": "industrial",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.6
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 38
+      },
+      "cutaway_layer": "exterior_traffic",
+      "tags": [
+        "vehicle",
+        "industrial",
+        "harbor_forklift"
+      ],
+      "variants": [
+        {
+          "name": "Pearl White / Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "gloss_aluminum"
+        },
+        {
+          "name": "Deep Harbor Slate",
+          "color_hex": "#1E293B",
+          "material": "metallic_clearcoat"
+        },
+        {
+          "name": "Canary Lime Fleet",
+          "color_hex": "#88A759",
+          "material": "composite_enamel"
+        }
+      ]
+    },
+    {
+      "id": "VEH_HARBOR_FORKLIFT_03",
+      "name": "Container Terminal Forklift Mk.3",
+      "subcategory": "industrial",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.6
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 38
+      },
+      "cutaway_layer": "exterior_traffic",
+      "tags": [
+        "vehicle",
+        "industrial",
+        "harbor_forklift"
+      ],
+      "variants": [
+        {
+          "name": "Pearl White / Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "gloss_aluminum"
+        },
+        {
+          "name": "Deep Harbor Slate",
+          "color_hex": "#1E293B",
+          "material": "metallic_clearcoat"
+        },
+        {
+          "name": "Canary Lime Fleet",
+          "color_hex": "#88A759",
+          "material": "composite_enamel"
+        }
+      ]
+    },
+    {
+      "id": "VEH_STREET_SWEEPER_EV_01",
+      "name": "Autonomous Sidewalk Sweeper Mk.1",
+      "subcategory": "municipal_service",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 33
+      },
+      "cutaway_layer": "exterior_traffic",
+      "tags": [
+        "vehicle",
+        "municipal_service",
+        "street_sweeper_ev"
+      ],
+      "variants": [
+        {
+          "name": "Pearl White / Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "gloss_aluminum"
+        },
+        {
+          "name": "Deep Harbor Slate",
+          "color_hex": "#1E293B",
+          "material": "metallic_clearcoat"
+        },
+        {
+          "name": "Canary Lime Fleet",
+          "color_hex": "#88A759",
+          "material": "composite_enamel"
+        }
+      ]
+    },
+    {
+      "id": "VEH_STREET_SWEEPER_EV_02",
+      "name": "Autonomous Sidewalk Sweeper Mk.2",
+      "subcategory": "municipal_service",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 33
+      },
+      "cutaway_layer": "exterior_traffic",
+      "tags": [
+        "vehicle",
+        "municipal_service",
+        "street_sweeper_ev"
+      ],
+      "variants": [
+        {
+          "name": "Pearl White / Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "gloss_aluminum"
+        },
+        {
+          "name": "Deep Harbor Slate",
+          "color_hex": "#1E293B",
+          "material": "metallic_clearcoat"
+        },
+        {
+          "name": "Canary Lime Fleet",
+          "color_hex": "#88A759",
+          "material": "composite_enamel"
+        }
+      ]
+    },
+    {
+      "id": "VEH_STREET_SWEEPER_EV_03",
+      "name": "Autonomous Sidewalk Sweeper Mk.3",
+      "subcategory": "municipal_service",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 1.4
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 33
+      },
+      "cutaway_layer": "exterior_traffic",
+      "tags": [
+        "vehicle",
+        "municipal_service",
+        "street_sweeper_ev"
+      ],
+      "variants": [
+        {
+          "name": "Pearl White / Catch Yellow",
+          "color_hex": "#F5BA31",
+          "material": "gloss_aluminum"
+        },
+        {
+          "name": "Deep Harbor Slate",
+          "color_hex": "#1E293B",
+          "material": "metallic_clearcoat"
+        },
+        {
+          "name": "Canary Lime Fleet",
+          "color_hex": "#88A759",
+          "material": "composite_enamel"
+        }
+      ]
+    }
+  ]
+}

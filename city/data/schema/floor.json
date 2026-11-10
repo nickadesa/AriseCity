@@ -1,0 +1,66 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "AriseCity Floor Schema",
+  "description": "Defines building floor level geometry, elevation, and rooms layout.",
+  "type": "object",
+  "required": [
+    "id",
+    "building_id",
+    "floor_index",
+    "name",
+    "rooms"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^FLR_[A-Z0-9_]+$",
+      "description": "Unique floor identifier"
+    },
+    "building_id": {
+      "type": "string",
+      "description": "Parent building ID"
+    },
+    "floor_index": {
+      "type": "integer",
+      "description": "Floor number (0 = Ground Floor, 1 = First Floor, etc.)"
+    },
+    "name": {
+      "type": "string",
+      "description": "Floor label, e.g. '01 Reception & Foyer' or '02 AI Studio'"
+    },
+    "height_m": {
+      "type": "number",
+      "default": 3.0
+    },
+    "floor_plate_asset": {
+      "type": "string",
+      "description": "Asset URI for floor slab / carpet / tiles"
+    },
+    "rooms": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "description": "References to Room IDs"
+      }
+    },
+    "access_points": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["type", "position"],
+        "properties": {
+          "type": { "type": "string", "enum": ["elevator", "stairs", "fire_escape", "exterior_door"] },
+          "position": {
+            "type": "object",
+            "required": ["x", "y"],
+            "properties": {
+              "x": { "type": "number" },
+              "y": { "type": "number" }
+            }
+          },
+          "connects_to_floor_id": { "type": "string" }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,5924 @@
+{
+  "category": "street_furniture",
+  "total_count": 159,
+  "items": [
+    {
+      "id": "SF_LAMP_001",
+      "name": "Street Light Modern Solar 1",
+      "subcategory": "lighting",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 2.5
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 28
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "street",
+        "lighting",
+        "modern_solar",
+        "night_light"
+      ],
+      "variants": [
+        {
+          "name": "Charcoal Black",
+          "color_hex": "#222629",
+          "material": "powder_coated_steel"
+        },
+        {
+          "name": "Catch Yellow Accent",
+          "color_hex": "#F5BA31",
+          "material": "painted_aluminum"
+        },
+        {
+          "name": "Nordic Bronze",
+          "color_hex": "#4A3E3D",
+          "material": "cast_bronze"
+        }
+      ]
+    },
+    {
+      "id": "SF_LAMP_002",
+      "name": "Street Light Coastal Nautical 1",
+      "subcategory": "lighting",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 2.5
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 28
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "street",
+        "lighting",
+        "coastal_nautical",
+        "night_light"
+      ],
+      "variants": [
+        {
+          "name": "Charcoal Black",
+          "color_hex": "#222629",
+          "material": "powder_coated_steel"
+        },
+        {
+          "name": "Catch Yellow Accent",
+          "color_hex": "#F5BA31",
+          "material": "painted_aluminum"
+        },
+        {
+          "name": "Nordic Bronze",
+          "color_hex": "#4A3E3D",
+          "material": "cast_bronze"
+        }
+      ]
+    },
+    {
+      "id": "SF_LAMP_003",
+      "name": "Street Light Cast Iron Classic 1",
+      "subcategory": "lighting",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 2.5
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 28
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "street",
+        "lighting",
+        "cast_iron_classic",
+        "night_light"
+      ],
+      "variants": [
+        {
+          "name": "Charcoal Black",
+          "color_hex": "#222629",
+          "material": "powder_coated_steel"
+        },
+        {
+          "name": "Catch Yellow Accent",
+          "color_hex": "#F5BA31",
+          "material": "painted_aluminum"
+        },
+        {
+          "name": "Nordic Bronze",
+          "color_hex": "#4A3E3D",
+          "material": "cast_bronze"
+        }
+      ]
+    },
+    {
+      "id": "SF_LAMP_004",
+      "name": "Street Light Minimalist Led 1",
+      "subcategory": "lighting",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 2.5
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 28
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "street",
+        "lighting",
+        "minimalist_led",
+        "night_light"
+      ],
+      "variants": [
+        {
+          "name": "Charcoal Black",
+          "color_hex": "#222629",
+          "material": "powder_coated_steel"
+        },
+        {
+          "name": "Catch Yellow Accent",
+          "color_hex": "#F5BA31",
+          "material": "painted_aluminum"
+        },
+        {
+          "name": "Nordic Bronze",
+          "color_hex": "#4A3E3D",
+          "material": "cast_bronze"
+        }
+      ]
+    },
+    {
+      "id": "SF_LAMP_005",
+      "name": "Street Light Smart Iot Pole 1",
+      "subcategory": "lighting",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 2.5
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 28
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "street",
+        "lighting",
+        "smart_iot_pole",
+        "night_light"
+      ],
+      "variants": [
+        {
+          "name": "Charcoal Black",
+          "color_hex": "#222629",
+          "material": "powder_coated_steel"
+        },
+        {
+          "name": "Catch Yellow Accent",
+          "color_hex": "#F5BA31",
+          "material": "painted_aluminum"
+        },
+        {
+          "name": "Nordic Bronze",
+          "color_hex": "#4A3E3D",
+          "material": "cast_bronze"
+        }
+      ]
+    },
+    {
+      "id": "SF_LAMP_006",
+      "name": "Street Light Modern Solar 2",
+      "subcategory": "lighting",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 2.5
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 28
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "street",
+        "lighting",
+        "modern_solar",
+        "night_light"
+      ],
+      "variants": [
+        {
+          "name": "Charcoal Black",
+          "color_hex": "#222629",
+          "material": "powder_coated_steel"
+        },
+        {
+          "name": "Catch Yellow Accent",
+          "color_hex": "#F5BA31",
+          "material": "painted_aluminum"
+        },
+        {
+          "name": "Nordic Bronze",
+          "color_hex": "#4A3E3D",
+          "material": "cast_bronze"
+        }
+      ]
+    },
+    {
+      "id": "SF_LAMP_007",
+      "name": "Street Light Coastal Nautical 2",
+      "subcategory": "lighting",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 2.5
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 28
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "street",
+        "lighting",
+        "coastal_nautical",
+        "night_light"
+      ],
+      "variants": [
+        {
+          "name": "Charcoal Black",
+          "color_hex": "#222629",
+          "material": "powder_coated_steel"
+        },
+        {
+          "name": "Catch Yellow Accent",
+          "color_hex": "#F5BA31",
+          "material": "painted_aluminum"
+        },
+        {
+          "name": "Nordic Bronze",
+          "color_hex": "#4A3E3D",
+          "material": "cast_bronze"
+        }
+      ]
+    },
+    {
+      "id": "SF_LAMP_008",
+      "name": "Street Light Cast Iron Classic 2",
+      "subcategory": "lighting",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 2.5
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 28
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "street",
+        "lighting",
+        "cast_iron_classic",
+        "night_light"
+      ],
+      "variants": [
+        {
+          "name": "Charcoal Black",
+          "color_hex": "#222629",
+          "material": "powder_coated_steel"
+        },
+        {
+          "name": "Catch Yellow Accent",
+          "color_hex": "#F5BA31",
+          "material": "painted_aluminum"
+        },
+        {
+          "name": "Nordic Bronze",
+          "color_hex": "#4A3E3D",
+          "material": "cast_bronze"
+        }
+      ]
+    },
+    {
+      "id": "SF_LAMP_009",
+      "name": "Street Light Minimalist Led 2",
+      "subcategory": "lighting",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 2.5
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 28
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "street",
+        "lighting",
+        "minimalist_led",
+        "night_light"
+      ],
+      "variants": [
+        {
+          "name": "Charcoal Black",
+          "color_hex": "#222629",
+          "material": "powder_coated_steel"
+        },
+        {
+          "name": "Catch Yellow Accent",
+          "color_hex": "#F5BA31",
+          "material": "painted_aluminum"
+        },
+        {
+          "name": "Nordic Bronze",
+          "color_hex": "#4A3E3D",
+          "material": "cast_bronze"
+        }
+      ]
+    },
+    {
+      "id": "SF_LAMP_010",
+      "name": "Street Light Smart Iot Pole 2",
+      "subcategory": "lighting",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 2.5
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 28
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "street",
+        "lighting",
+        "smart_iot_pole",
+        "night_light"
+      ],
+      "variants": [
+        {
+          "name": "Charcoal Black",
+          "color_hex": "#222629",
+          "material": "powder_coated_steel"
+        },
+        {
+          "name": "Catch Yellow Accent",
+          "color_hex": "#F5BA31",
+          "material": "painted_aluminum"
+        },
+        {
+          "name": "Nordic Bronze",
+          "color_hex": "#4A3E3D",
+          "material": "cast_bronze"
+        }
+      ]
+    },
+    {
+      "id": "SF_LAMP_011",
+      "name": "Street Light Modern Solar 3",
+      "subcategory": "lighting",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 2.5
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 28
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "street",
+        "lighting",
+        "modern_solar",
+        "night_light"
+      ],
+      "variants": [
+        {
+          "name": "Charcoal Black",
+          "color_hex": "#222629",
+          "material": "powder_coated_steel"
+        },
+        {
+          "name": "Catch Yellow Accent",
+          "color_hex": "#F5BA31",
+          "material": "painted_aluminum"
+        },
+        {
+          "name": "Nordic Bronze",
+          "color_hex": "#4A3E3D",
+          "material": "cast_bronze"
+        }
+      ]
+    },
+    {
+      "id": "SF_LAMP_012",
+      "name": "Street Light Coastal Nautical 3",
+      "subcategory": "lighting",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 2.5
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 28
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "street",
+        "lighting",
+        "coastal_nautical",
+        "night_light"
+      ],
+      "variants": [
+        {
+          "name": "Charcoal Black",
+          "color_hex": "#222629",
+          "material": "powder_coated_steel"
+        },
+        {
+          "name": "Catch Yellow Accent",
+          "color_hex": "#F5BA31",
+          "material": "painted_aluminum"
+        },
+        {
+          "name": "Nordic Bronze",
+          "color_hex": "#4A3E3D",
+          "material": "cast_bronze"
+        }
+      ]
+    },
+    {
+      "id": "SF_LAMP_013",
+      "name": "Street Light Cast Iron Classic 3",
+      "subcategory": "lighting",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 2.5
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 28
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "street",
+        "lighting",
+        "cast_iron_classic",
+        "night_light"
+      ],
+      "variants": [
+        {
+          "name": "Charcoal Black",
+          "color_hex": "#222629",
+          "material": "powder_coated_steel"
+        },
+        {
+          "name": "Catch Yellow Accent",
+          "color_hex": "#F5BA31",
+          "material": "painted_aluminum"
+        },
+        {
+          "name": "Nordic Bronze",
+          "color_hex": "#4A3E3D",
+          "material": "cast_bronze"
+        }
+      ]
+    },
+    {
+      "id": "SF_LAMP_014",
+      "name": "Street Light Minimalist Led 3",
+      "subcategory": "lighting",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 2.5
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 28
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "street",
+        "lighting",
+        "minimalist_led",
+        "night_light"
+      ],
+      "variants": [
+        {
+          "name": "Charcoal Black",
+          "color_hex": "#222629",
+          "material": "powder_coated_steel"
+        },
+        {
+          "name": "Catch Yellow Accent",
+          "color_hex": "#F5BA31",
+          "material": "painted_aluminum"
+        },
+        {
+          "name": "Nordic Bronze",
+          "color_hex": "#4A3E3D",
+          "material": "cast_bronze"
+        }
+      ]
+    },
+    {
+      "id": "SF_LAMP_015",
+      "name": "Street Light Smart Iot Pole 3",
+      "subcategory": "lighting",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 2.5
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 28
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "street",
+        "lighting",
+        "smart_iot_pole",
+        "night_light"
+      ],
+      "variants": [
+        {
+          "name": "Charcoal Black",
+          "color_hex": "#222629",
+          "material": "powder_coated_steel"
+        },
+        {
+          "name": "Catch Yellow Accent",
+          "color_hex": "#F5BA31",
+          "material": "painted_aluminum"
+        },
+        {
+          "name": "Nordic Bronze",
+          "color_hex": "#4A3E3D",
+          "material": "cast_bronze"
+        }
+      ]
+    },
+    {
+      "id": "SF_LAMP_016",
+      "name": "Street Light Modern Solar 4",
+      "subcategory": "lighting",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 2.5
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 28
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "street",
+        "lighting",
+        "modern_solar",
+        "night_light"
+      ],
+      "variants": [
+        {
+          "name": "Charcoal Black",
+          "color_hex": "#222629",
+          "material": "powder_coated_steel"
+        },
+        {
+          "name": "Catch Yellow Accent",
+          "color_hex": "#F5BA31",
+          "material": "painted_aluminum"
+        },
+        {
+          "name": "Nordic Bronze",
+          "color_hex": "#4A3E3D",
+          "material": "cast_bronze"
+        }
+      ]
+    },
+    {
+      "id": "SF_LAMP_017",
+      "name": "Street Light Coastal Nautical 4",
+      "subcategory": "lighting",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 2.5
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 28
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "street",
+        "lighting",
+        "coastal_nautical",
+        "night_light"
+      ],
+      "variants": [
+        {
+          "name": "Charcoal Black",
+          "color_hex": "#222629",
+          "material": "powder_coated_steel"
+        },
+        {
+          "name": "Catch Yellow Accent",
+          "color_hex": "#F5BA31",
+          "material": "painted_aluminum"
+        },
+        {
+          "name": "Nordic Bronze",
+          "color_hex": "#4A3E3D",
+          "material": "cast_bronze"
+        }
+      ]
+    },
+    {
+      "id": "SF_LAMP_018",
+      "name": "Street Light Cast Iron Classic 4",
+      "subcategory": "lighting",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 2.5
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 28
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "street",
+        "lighting",
+        "cast_iron_classic",
+        "night_light"
+      ],
+      "variants": [
+        {
+          "name": "Charcoal Black",
+          "color_hex": "#222629",
+          "material": "powder_coated_steel"
+        },
+        {
+          "name": "Catch Yellow Accent",
+          "color_hex": "#F5BA31",
+          "material": "painted_aluminum"
+        },
+        {
+          "name": "Nordic Bronze",
+          "color_hex": "#4A3E3D",
+          "material": "cast_bronze"
+        }
+      ]
+    },
+    {
+      "id": "SF_LAMP_019",
+      "name": "Street Light Minimalist Led 4",
+      "subcategory": "lighting",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 2.5
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 28
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "street",
+        "lighting",
+        "minimalist_led",
+        "night_light"
+      ],
+      "variants": [
+        {
+          "name": "Charcoal Black",
+          "color_hex": "#222629",
+          "material": "powder_coated_steel"
+        },
+        {
+          "name": "Catch Yellow Accent",
+          "color_hex": "#F5BA31",
+          "material": "painted_aluminum"
+        },
+        {
+          "name": "Nordic Bronze",
+          "color_hex": "#4A3E3D",
+          "material": "cast_bronze"
+        }
+      ]
+    },
+    {
+      "id": "SF_LAMP_020",
+      "name": "Street Light Smart Iot Pole 4",
+      "subcategory": "lighting",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 2.5
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 28
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "street",
+        "lighting",
+        "smart_iot_pole",
+        "night_light"
+      ],
+      "variants": [
+        {
+          "name": "Charcoal Black",
+          "color_hex": "#222629",
+          "material": "powder_coated_steel"
+        },
+        {
+          "name": "Catch Yellow Accent",
+          "color_hex": "#F5BA31",
+          "material": "painted_aluminum"
+        },
+        {
+          "name": "Nordic Bronze",
+          "color_hex": "#4A3E3D",
+          "material": "cast_bronze"
+        }
+      ]
+    },
+    {
+      "id": "SF_LAMP_021",
+      "name": "Street Light Modern Solar 5",
+      "subcategory": "lighting",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 2.5
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 28
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "street",
+        "lighting",
+        "modern_solar",
+        "night_light"
+      ],
+      "variants": [
+        {
+          "name": "Charcoal Black",
+          "color_hex": "#222629",
+          "material": "powder_coated_steel"
+        },
+        {
+          "name": "Catch Yellow Accent",
+          "color_hex": "#F5BA31",
+          "material": "painted_aluminum"
+        },
+        {
+          "name": "Nordic Bronze",
+          "color_hex": "#4A3E3D",
+          "material": "cast_bronze"
+        }
+      ]
+    },
+    {
+      "id": "SF_LAMP_022",
+      "name": "Street Light Coastal Nautical 5",
+      "subcategory": "lighting",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 2.5
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 28
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "street",
+        "lighting",
+        "coastal_nautical",
+        "night_light"
+      ],
+      "variants": [
+        {
+          "name": "Charcoal Black",
+          "color_hex": "#222629",
+          "material": "powder_coated_steel"
+        },
+        {
+          "name": "Catch Yellow Accent",
+          "color_hex": "#F5BA31",
+          "material": "painted_aluminum"
+        },
+        {
+          "name": "Nordic Bronze",
+          "color_hex": "#4A3E3D",
+          "material": "cast_bronze"
+        }
+      ]
+    },
+    {
+      "id": "SF_LAMP_023",
+      "name": "Street Light Cast Iron Classic 5",
+      "subcategory": "lighting",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 2.5
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 28
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "street",
+        "lighting",
+        "cast_iron_classic",
+        "night_light"
+      ],
+      "variants": [
+        {
+          "name": "Charcoal Black",
+          "color_hex": "#222629",
+          "material": "powder_coated_steel"
+        },
+        {
+          "name": "Catch Yellow Accent",
+          "color_hex": "#F5BA31",
+          "material": "painted_aluminum"
+        },
+        {
+          "name": "Nordic Bronze",
+          "color_hex": "#4A3E3D",
+          "material": "cast_bronze"
+        }
+      ]
+    },
+    {
+      "id": "SF_LAMP_024",
+      "name": "Street Light Minimalist Led 5",
+      "subcategory": "lighting",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 2.5
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 28
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "street",
+        "lighting",
+        "minimalist_led",
+        "night_light"
+      ],
+      "variants": [
+        {
+          "name": "Charcoal Black",
+          "color_hex": "#222629",
+          "material": "powder_coated_steel"
+        },
+        {
+          "name": "Catch Yellow Accent",
+          "color_hex": "#F5BA31",
+          "material": "painted_aluminum"
+        },
+        {
+          "name": "Nordic Bronze",
+          "color_hex": "#4A3E3D",
+          "material": "cast_bronze"
+        }
+      ]
+    },
+    {
+      "id": "SF_LAMP_025",
+      "name": "Street Light Smart Iot Pole 5",
+      "subcategory": "lighting",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 2.5
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 28
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "street",
+        "lighting",
+        "smart_iot_pole",
+        "night_light"
+      ],
+      "variants": [
+        {
+          "name": "Charcoal Black",
+          "color_hex": "#222629",
+          "material": "powder_coated_steel"
+        },
+        {
+          "name": "Catch Yellow Accent",
+          "color_hex": "#F5BA31",
+          "material": "painted_aluminum"
+        },
+        {
+          "name": "Nordic Bronze",
+          "color_hex": "#4A3E3D",
+          "material": "cast_bronze"
+        }
+      ]
+    },
+    {
+      "id": "SF_BENCH_001",
+      "name": "Public Bench Curved Granite 1",
+      "subcategory": "seating",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 0.8
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "street",
+        "park",
+        "seating",
+        "curved_granite"
+      ],
+      "variants": [
+        {
+          "name": "Natural Teak",
+          "color_hex": "#A67B5B",
+          "material": "reclaimed_timber"
+        },
+        {
+          "name": "Architectural Concrete",
+          "color_hex": "#D1D5DB",
+          "material": "uhpc_concrete"
+        },
+        {
+          "name": "Matte Black Steel",
+          "color_hex": "#1F2937",
+          "material": "anodized_steel"
+        }
+      ]
+    },
+    {
+      "id": "SF_BENCH_002",
+      "name": "Public Bench Slatted Teak 1",
+      "subcategory": "seating",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 0.8
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "street",
+        "park",
+        "seating",
+        "slatted_teak"
+      ],
+      "variants": [
+        {
+          "name": "Natural Teak",
+          "color_hex": "#A67B5B",
+          "material": "reclaimed_timber"
+        },
+        {
+          "name": "Architectural Concrete",
+          "color_hex": "#D1D5DB",
+          "material": "uhpc_concrete"
+        },
+        {
+          "name": "Matte Black Steel",
+          "color_hex": "#1F2937",
+          "material": "anodized_steel"
+        }
+      ]
+    },
+    {
+      "id": "SF_BENCH_003",
+      "name": "Public Bench Smart Solar Bench 1",
+      "subcategory": "seating",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 0.8
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "street",
+        "park",
+        "seating",
+        "smart_solar_bench"
+      ],
+      "variants": [
+        {
+          "name": "Natural Teak",
+          "color_hex": "#A67B5B",
+          "material": "reclaimed_timber"
+        },
+        {
+          "name": "Architectural Concrete",
+          "color_hex": "#D1D5DB",
+          "material": "uhpc_concrete"
+        },
+        {
+          "name": "Matte Black Steel",
+          "color_hex": "#1F2937",
+          "material": "anodized_steel"
+        }
+      ]
+    },
+    {
+      "id": "SF_BENCH_004",
+      "name": "Public Bench Backless Concrete 1",
+      "subcategory": "seating",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 0.8
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "street",
+        "park",
+        "seating",
+        "backless_concrete"
+      ],
+      "variants": [
+        {
+          "name": "Natural Teak",
+          "color_hex": "#A67B5B",
+          "material": "reclaimed_timber"
+        },
+        {
+          "name": "Architectural Concrete",
+          "color_hex": "#D1D5DB",
+          "material": "uhpc_concrete"
+        },
+        {
+          "name": "Matte Black Steel",
+          "color_hex": "#1F2937",
+          "material": "anodized_steel"
+        }
+      ]
+    },
+    {
+      "id": "SF_BENCH_005",
+      "name": "Public Bench Wave Lounger 1",
+      "subcategory": "seating",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 0.8
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "street",
+        "park",
+        "seating",
+        "wave_lounger"
+      ],
+      "variants": [
+        {
+          "name": "Natural Teak",
+          "color_hex": "#A67B5B",
+          "material": "reclaimed_timber"
+        },
+        {
+          "name": "Architectural Concrete",
+          "color_hex": "#D1D5DB",
+          "material": "uhpc_concrete"
+        },
+        {
+          "name": "Matte Black Steel",
+          "color_hex": "#1F2937",
+          "material": "anodized_steel"
+        }
+      ]
+    },
+    {
+      "id": "SF_BENCH_006",
+      "name": "Public Bench Curved Granite 2",
+      "subcategory": "seating",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 0.8
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "street",
+        "park",
+        "seating",
+        "curved_granite"
+      ],
+      "variants": [
+        {
+          "name": "Natural Teak",
+          "color_hex": "#A67B5B",
+          "material": "reclaimed_timber"
+        },
+        {
+          "name": "Architectural Concrete",
+          "color_hex": "#D1D5DB",
+          "material": "uhpc_concrete"
+        },
+        {
+          "name": "Matte Black Steel",
+          "color_hex": "#1F2937",
+          "material": "anodized_steel"
+        }
+      ]
+    },
+    {
+      "id": "SF_BENCH_007",
+      "name": "Public Bench Slatted Teak 2",
+      "subcategory": "seating",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 0.8
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "street",
+        "park",
+        "seating",
+        "slatted_teak"
+      ],
+      "variants": [
+        {
+          "name": "Natural Teak",
+          "color_hex": "#A67B5B",
+          "material": "reclaimed_timber"
+        },
+        {
+          "name": "Architectural Concrete",
+          "color_hex": "#D1D5DB",
+          "material": "uhpc_concrete"
+        },
+        {
+          "name": "Matte Black Steel",
+          "color_hex": "#1F2937",
+          "material": "anodized_steel"
+        }
+      ]
+    },
+    {
+      "id": "SF_BENCH_008",
+      "name": "Public Bench Smart Solar Bench 2",
+      "subcategory": "seating",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 0.8
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "street",
+        "park",
+        "seating",
+        "smart_solar_bench"
+      ],
+      "variants": [
+        {
+          "name": "Natural Teak",
+          "color_hex": "#A67B5B",
+          "material": "reclaimed_timber"
+        },
+        {
+          "name": "Architectural Concrete",
+          "color_hex": "#D1D5DB",
+          "material": "uhpc_concrete"
+        },
+        {
+          "name": "Matte Black Steel",
+          "color_hex": "#1F2937",
+          "material": "anodized_steel"
+        }
+      ]
+    },
+    {
+      "id": "SF_BENCH_009",
+      "name": "Public Bench Backless Concrete 2",
+      "subcategory": "seating",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 0.8
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "street",
+        "park",
+        "seating",
+        "backless_concrete"
+      ],
+      "variants": [
+        {
+          "name": "Natural Teak",
+          "color_hex": "#A67B5B",
+          "material": "reclaimed_timber"
+        },
+        {
+          "name": "Architectural Concrete",
+          "color_hex": "#D1D5DB",
+          "material": "uhpc_concrete"
+        },
+        {
+          "name": "Matte Black Steel",
+          "color_hex": "#1F2937",
+          "material": "anodized_steel"
+        }
+      ]
+    },
+    {
+      "id": "SF_BENCH_010",
+      "name": "Public Bench Wave Lounger 2",
+      "subcategory": "seating",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 0.8
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "street",
+        "park",
+        "seating",
+        "wave_lounger"
+      ],
+      "variants": [
+        {
+          "name": "Natural Teak",
+          "color_hex": "#A67B5B",
+          "material": "reclaimed_timber"
+        },
+        {
+          "name": "Architectural Concrete",
+          "color_hex": "#D1D5DB",
+          "material": "uhpc_concrete"
+        },
+        {
+          "name": "Matte Black Steel",
+          "color_hex": "#1F2937",
+          "material": "anodized_steel"
+        }
+      ]
+    },
+    {
+      "id": "SF_BENCH_011",
+      "name": "Public Bench Curved Granite 3",
+      "subcategory": "seating",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 0.8
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "street",
+        "park",
+        "seating",
+        "curved_granite"
+      ],
+      "variants": [
+        {
+          "name": "Natural Teak",
+          "color_hex": "#A67B5B",
+          "material": "reclaimed_timber"
+        },
+        {
+          "name": "Architectural Concrete",
+          "color_hex": "#D1D5DB",
+          "material": "uhpc_concrete"
+        },
+        {
+          "name": "Matte Black Steel",
+          "color_hex": "#1F2937",
+          "material": "anodized_steel"
+        }
+      ]
+    },
+    {
+      "id": "SF_BENCH_012",
+      "name": "Public Bench Slatted Teak 3",
+      "subcategory": "seating",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 0.8
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "street",
+        "park",
+        "seating",
+        "slatted_teak"
+      ],
+      "variants": [
+        {
+          "name": "Natural Teak",
+          "color_hex": "#A67B5B",
+          "material": "reclaimed_timber"
+        },
+        {
+          "name": "Architectural Concrete",
+          "color_hex": "#D1D5DB",
+          "material": "uhpc_concrete"
+        },
+        {
+          "name": "Matte Black Steel",
+          "color_hex": "#1F2937",
+          "material": "anodized_steel"
+        }
+      ]
+    },
+    {
+      "id": "SF_BENCH_013",
+      "name": "Public Bench Smart Solar Bench 3",
+      "subcategory": "seating",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 0.8
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "street",
+        "park",
+        "seating",
+        "smart_solar_bench"
+      ],
+      "variants": [
+        {
+          "name": "Natural Teak",
+          "color_hex": "#A67B5B",
+          "material": "reclaimed_timber"
+        },
+        {
+          "name": "Architectural Concrete",
+          "color_hex": "#D1D5DB",
+          "material": "uhpc_concrete"
+        },
+        {
+          "name": "Matte Black Steel",
+          "color_hex": "#1F2937",
+          "material": "anodized_steel"
+        }
+      ]
+    },
+    {
+      "id": "SF_BENCH_014",
+      "name": "Public Bench Backless Concrete 3",
+      "subcategory": "seating",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 0.8
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "street",
+        "park",
+        "seating",
+        "backless_concrete"
+      ],
+      "variants": [
+        {
+          "name": "Natural Teak",
+          "color_hex": "#A67B5B",
+          "material": "reclaimed_timber"
+        },
+        {
+          "name": "Architectural Concrete",
+          "color_hex": "#D1D5DB",
+          "material": "uhpc_concrete"
+        },
+        {
+          "name": "Matte Black Steel",
+          "color_hex": "#1F2937",
+          "material": "anodized_steel"
+        }
+      ]
+    },
+    {
+      "id": "SF_BENCH_015",
+      "name": "Public Bench Wave Lounger 3",
+      "subcategory": "seating",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 0.8
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "street",
+        "park",
+        "seating",
+        "wave_lounger"
+      ],
+      "variants": [
+        {
+          "name": "Natural Teak",
+          "color_hex": "#A67B5B",
+          "material": "reclaimed_timber"
+        },
+        {
+          "name": "Architectural Concrete",
+          "color_hex": "#D1D5DB",
+          "material": "uhpc_concrete"
+        },
+        {
+          "name": "Matte Black Steel",
+          "color_hex": "#1F2937",
+          "material": "anodized_steel"
+        }
+      ]
+    },
+    {
+      "id": "SF_BENCH_016",
+      "name": "Public Bench Curved Granite 4",
+      "subcategory": "seating",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 0.8
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "street",
+        "park",
+        "seating",
+        "curved_granite"
+      ],
+      "variants": [
+        {
+          "name": "Natural Teak",
+          "color_hex": "#A67B5B",
+          "material": "reclaimed_timber"
+        },
+        {
+          "name": "Architectural Concrete",
+          "color_hex": "#D1D5DB",
+          "material": "uhpc_concrete"
+        },
+        {
+          "name": "Matte Black Steel",
+          "color_hex": "#1F2937",
+          "material": "anodized_steel"
+        }
+      ]
+    },
+    {
+      "id": "SF_BENCH_017",
+      "name": "Public Bench Slatted Teak 4",
+      "subcategory": "seating",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 0.8
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "street",
+        "park",
+        "seating",
+        "slatted_teak"
+      ],
+      "variants": [
+        {
+          "name": "Natural Teak",
+          "color_hex": "#A67B5B",
+          "material": "reclaimed_timber"
+        },
+        {
+          "name": "Architectural Concrete",
+          "color_hex": "#D1D5DB",
+          "material": "uhpc_concrete"
+        },
+        {
+          "name": "Matte Black Steel",
+          "color_hex": "#1F2937",
+          "material": "anodized_steel"
+        }
+      ]
+    },
+    {
+      "id": "SF_BENCH_018",
+      "name": "Public Bench Smart Solar Bench 4",
+      "subcategory": "seating",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 0.8
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "street",
+        "park",
+        "seating",
+        "smart_solar_bench"
+      ],
+      "variants": [
+        {
+          "name": "Natural Teak",
+          "color_hex": "#A67B5B",
+          "material": "reclaimed_timber"
+        },
+        {
+          "name": "Architectural Concrete",
+          "color_hex": "#D1D5DB",
+          "material": "uhpc_concrete"
+        },
+        {
+          "name": "Matte Black Steel",
+          "color_hex": "#1F2937",
+          "material": "anodized_steel"
+        }
+      ]
+    },
+    {
+      "id": "SF_BENCH_019",
+      "name": "Public Bench Backless Concrete 4",
+      "subcategory": "seating",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 0.8
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "street",
+        "park",
+        "seating",
+        "backless_concrete"
+      ],
+      "variants": [
+        {
+          "name": "Natural Teak",
+          "color_hex": "#A67B5B",
+          "material": "reclaimed_timber"
+        },
+        {
+          "name": "Architectural Concrete",
+          "color_hex": "#D1D5DB",
+          "material": "uhpc_concrete"
+        },
+        {
+          "name": "Matte Black Steel",
+          "color_hex": "#1F2937",
+          "material": "anodized_steel"
+        }
+      ]
+    },
+    {
+      "id": "SF_BENCH_020",
+      "name": "Public Bench Wave Lounger 4",
+      "subcategory": "seating",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 0.8
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "street",
+        "park",
+        "seating",
+        "wave_lounger"
+      ],
+      "variants": [
+        {
+          "name": "Natural Teak",
+          "color_hex": "#A67B5B",
+          "material": "reclaimed_timber"
+        },
+        {
+          "name": "Architectural Concrete",
+          "color_hex": "#D1D5DB",
+          "material": "uhpc_concrete"
+        },
+        {
+          "name": "Matte Black Steel",
+          "color_hex": "#1F2937",
+          "material": "anodized_steel"
+        }
+      ]
+    },
+    {
+      "id": "SF_BENCH_021",
+      "name": "Public Bench Curved Granite 5",
+      "subcategory": "seating",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 0.8
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "street",
+        "park",
+        "seating",
+        "curved_granite"
+      ],
+      "variants": [
+        {
+          "name": "Natural Teak",
+          "color_hex": "#A67B5B",
+          "material": "reclaimed_timber"
+        },
+        {
+          "name": "Architectural Concrete",
+          "color_hex": "#D1D5DB",
+          "material": "uhpc_concrete"
+        },
+        {
+          "name": "Matte Black Steel",
+          "color_hex": "#1F2937",
+          "material": "anodized_steel"
+        }
+      ]
+    },
+    {
+      "id": "SF_BENCH_022",
+      "name": "Public Bench Slatted Teak 5",
+      "subcategory": "seating",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 0.8
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "street",
+        "park",
+        "seating",
+        "slatted_teak"
+      ],
+      "variants": [
+        {
+          "name": "Natural Teak",
+          "color_hex": "#A67B5B",
+          "material": "reclaimed_timber"
+        },
+        {
+          "name": "Architectural Concrete",
+          "color_hex": "#D1D5DB",
+          "material": "uhpc_concrete"
+        },
+        {
+          "name": "Matte Black Steel",
+          "color_hex": "#1F2937",
+          "material": "anodized_steel"
+        }
+      ]
+    },
+    {
+      "id": "SF_BENCH_023",
+      "name": "Public Bench Smart Solar Bench 5",
+      "subcategory": "seating",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 0.8
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "street",
+        "park",
+        "seating",
+        "smart_solar_bench"
+      ],
+      "variants": [
+        {
+          "name": "Natural Teak",
+          "color_hex": "#A67B5B",
+          "material": "reclaimed_timber"
+        },
+        {
+          "name": "Architectural Concrete",
+          "color_hex": "#D1D5DB",
+          "material": "uhpc_concrete"
+        },
+        {
+          "name": "Matte Black Steel",
+          "color_hex": "#1F2937",
+          "material": "anodized_steel"
+        }
+      ]
+    },
+    {
+      "id": "SF_BENCH_024",
+      "name": "Public Bench Backless Concrete 5",
+      "subcategory": "seating",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 0.8
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "street",
+        "park",
+        "seating",
+        "backless_concrete"
+      ],
+      "variants": [
+        {
+          "name": "Natural Teak",
+          "color_hex": "#A67B5B",
+          "material": "reclaimed_timber"
+        },
+        {
+          "name": "Architectural Concrete",
+          "color_hex": "#D1D5DB",
+          "material": "uhpc_concrete"
+        },
+        {
+          "name": "Matte Black Steel",
+          "color_hex": "#1F2937",
+          "material": "anodized_steel"
+        }
+      ]
+    },
+    {
+      "id": "SF_BENCH_025",
+      "name": "Public Bench Wave Lounger 5",
+      "subcategory": "seating",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 0.8
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 24
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "street",
+        "park",
+        "seating",
+        "wave_lounger"
+      ],
+      "variants": [
+        {
+          "name": "Natural Teak",
+          "color_hex": "#A67B5B",
+          "material": "reclaimed_timber"
+        },
+        {
+          "name": "Architectural Concrete",
+          "color_hex": "#D1D5DB",
+          "material": "uhpc_concrete"
+        },
+        {
+          "name": "Matte Black Steel",
+          "color_hex": "#1F2937",
+          "material": "anodized_steel"
+        }
+      ]
+    },
+    {
+      "id": "SF_SIGN_001",
+      "name": "Wayfinding Sign Pedestrian Crossing 1",
+      "subcategory": "signage",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.8
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 24
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "street",
+        "navigation",
+        "pedestrian_crossing"
+      ],
+      "variants": [
+        {
+          "name": "Catch Yellow & Black",
+          "color_hex": "#F5BA31",
+          "material": "reflective_metal"
+        },
+        {
+          "name": "Ocean Navy & White",
+          "color_hex": "#1E293B",
+          "material": "enameled_steel"
+        },
+        {
+          "name": "Sage Green Environmental",
+          "color_hex": "#607264",
+          "material": "recycled_poly"
+        }
+      ]
+    },
+    {
+      "id": "SF_SIGN_002",
+      "name": "Wayfinding Sign Coastal Harbor Wayfinder 1",
+      "subcategory": "signage",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.8
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 24
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "street",
+        "navigation",
+        "coastal_harbor_wayfinder"
+      ],
+      "variants": [
+        {
+          "name": "Catch Yellow & Black",
+          "color_hex": "#F5BA31",
+          "material": "reflective_metal"
+        },
+        {
+          "name": "Ocean Navy & White",
+          "color_hex": "#1E293B",
+          "material": "enameled_steel"
+        },
+        {
+          "name": "Sage Green Environmental",
+          "color_hex": "#607264",
+          "material": "recycled_poly"
+        }
+      ]
+    },
+    {
+      "id": "SF_SIGN_003",
+      "name": "Wayfinding Sign Bike Lane Pylon 1",
+      "subcategory": "signage",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.8
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 24
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "street",
+        "navigation",
+        "bike_lane_pylon"
+      ],
+      "variants": [
+        {
+          "name": "Catch Yellow & Black",
+          "color_hex": "#F5BA31",
+          "material": "reflective_metal"
+        },
+        {
+          "name": "Ocean Navy & White",
+          "color_hex": "#1E293B",
+          "material": "enameled_steel"
+        },
+        {
+          "name": "Sage Green Environmental",
+          "color_hex": "#607264",
+          "material": "recycled_poly"
+        }
+      ]
+    },
+    {
+      "id": "SF_SIGN_004",
+      "name": "Wayfinding Sign Speed Limit Digital 1",
+      "subcategory": "signage",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.8
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 24
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "street",
+        "navigation",
+        "speed_limit_digital"
+      ],
+      "variants": [
+        {
+          "name": "Catch Yellow & Black",
+          "color_hex": "#F5BA31",
+          "material": "reflective_metal"
+        },
+        {
+          "name": "Ocean Navy & White",
+          "color_hex": "#1E293B",
+          "material": "enameled_steel"
+        },
+        {
+          "name": "Sage Green Environmental",
+          "color_hex": "#607264",
+          "material": "recycled_poly"
+        }
+      ]
+    },
+    {
+      "id": "SF_SIGN_005",
+      "name": "Wayfinding Sign Ferry Terminal Pointer 1",
+      "subcategory": "signage",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.8
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 24
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "street",
+        "navigation",
+        "ferry_terminal_pointer"
+      ],
+      "variants": [
+        {
+          "name": "Catch Yellow & Black",
+          "color_hex": "#F5BA31",
+          "material": "reflective_metal"
+        },
+        {
+          "name": "Ocean Navy & White",
+          "color_hex": "#1E293B",
+          "material": "enameled_steel"
+        },
+        {
+          "name": "Sage Green Environmental",
+          "color_hex": "#607264",
+          "material": "recycled_poly"
+        }
+      ]
+    },
+    {
+      "id": "SF_SIGN_006",
+      "name": "Wayfinding Sign Heritage Plaque 1",
+      "subcategory": "signage",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.8
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 24
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "street",
+        "navigation",
+        "heritage_plaque"
+      ],
+      "variants": [
+        {
+          "name": "Catch Yellow & Black",
+          "color_hex": "#F5BA31",
+          "material": "reflective_metal"
+        },
+        {
+          "name": "Ocean Navy & White",
+          "color_hex": "#1E293B",
+          "material": "enameled_steel"
+        },
+        {
+          "name": "Sage Green Environmental",
+          "color_hex": "#607264",
+          "material": "recycled_poly"
+        }
+      ]
+    },
+    {
+      "id": "SF_SIGN_007",
+      "name": "Wayfinding Sign Pedestrian Crossing 2",
+      "subcategory": "signage",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.8
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 24
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "street",
+        "navigation",
+        "pedestrian_crossing"
+      ],
+      "variants": [
+        {
+          "name": "Catch Yellow & Black",
+          "color_hex": "#F5BA31",
+          "material": "reflective_metal"
+        },
+        {
+          "name": "Ocean Navy & White",
+          "color_hex": "#1E293B",
+          "material": "enameled_steel"
+        },
+        {
+          "name": "Sage Green Environmental",
+          "color_hex": "#607264",
+          "material": "recycled_poly"
+        }
+      ]
+    },
+    {
+      "id": "SF_SIGN_008",
+      "name": "Wayfinding Sign Coastal Harbor Wayfinder 2",
+      "subcategory": "signage",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.8
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 24
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "street",
+        "navigation",
+        "coastal_harbor_wayfinder"
+      ],
+      "variants": [
+        {
+          "name": "Catch Yellow & Black",
+          "color_hex": "#F5BA31",
+          "material": "reflective_metal"
+        },
+        {
+          "name": "Ocean Navy & White",
+          "color_hex": "#1E293B",
+          "material": "enameled_steel"
+        },
+        {
+          "name": "Sage Green Environmental",
+          "color_hex": "#607264",
+          "material": "recycled_poly"
+        }
+      ]
+    },
+    {
+      "id": "SF_SIGN_009",
+      "name": "Wayfinding Sign Bike Lane Pylon 2",
+      "subcategory": "signage",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.8
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 24
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "street",
+        "navigation",
+        "bike_lane_pylon"
+      ],
+      "variants": [
+        {
+          "name": "Catch Yellow & Black",
+          "color_hex": "#F5BA31",
+          "material": "reflective_metal"
+        },
+        {
+          "name": "Ocean Navy & White",
+          "color_hex": "#1E293B",
+          "material": "enameled_steel"
+        },
+        {
+          "name": "Sage Green Environmental",
+          "color_hex": "#607264",
+          "material": "recycled_poly"
+        }
+      ]
+    },
+    {
+      "id": "SF_SIGN_010",
+      "name": "Wayfinding Sign Speed Limit Digital 2",
+      "subcategory": "signage",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.8
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 24
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "street",
+        "navigation",
+        "speed_limit_digital"
+      ],
+      "variants": [
+        {
+          "name": "Catch Yellow & Black",
+          "color_hex": "#F5BA31",
+          "material": "reflective_metal"
+        },
+        {
+          "name": "Ocean Navy & White",
+          "color_hex": "#1E293B",
+          "material": "enameled_steel"
+        },
+        {
+          "name": "Sage Green Environmental",
+          "color_hex": "#607264",
+          "material": "recycled_poly"
+        }
+      ]
+    },
+    {
+      "id": "SF_SIGN_011",
+      "name": "Wayfinding Sign Ferry Terminal Pointer 2",
+      "subcategory": "signage",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.8
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 24
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "street",
+        "navigation",
+        "ferry_terminal_pointer"
+      ],
+      "variants": [
+        {
+          "name": "Catch Yellow & Black",
+          "color_hex": "#F5BA31",
+          "material": "reflective_metal"
+        },
+        {
+          "name": "Ocean Navy & White",
+          "color_hex": "#1E293B",
+          "material": "enameled_steel"
+        },
+        {
+          "name": "Sage Green Environmental",
+          "color_hex": "#607264",
+          "material": "recycled_poly"
+        }
+      ]
+    },
+    {
+      "id": "SF_SIGN_012",
+      "name": "Wayfinding Sign Heritage Plaque 2",
+      "subcategory": "signage",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.8
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 24
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "street",
+        "navigation",
+        "heritage_plaque"
+      ],
+      "variants": [
+        {
+          "name": "Catch Yellow & Black",
+          "color_hex": "#F5BA31",
+          "material": "reflective_metal"
+        },
+        {
+          "name": "Ocean Navy & White",
+          "color_hex": "#1E293B",
+          "material": "enameled_steel"
+        },
+        {
+          "name": "Sage Green Environmental",
+          "color_hex": "#607264",
+          "material": "recycled_poly"
+        }
+      ]
+    },
+    {
+      "id": "SF_SIGN_013",
+      "name": "Wayfinding Sign Pedestrian Crossing 3",
+      "subcategory": "signage",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.8
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 24
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "street",
+        "navigation",
+        "pedestrian_crossing"
+      ],
+      "variants": [
+        {
+          "name": "Catch Yellow & Black",
+          "color_hex": "#F5BA31",
+          "material": "reflective_metal"
+        },
+        {
+          "name": "Ocean Navy & White",
+          "color_hex": "#1E293B",
+          "material": "enameled_steel"
+        },
+        {
+          "name": "Sage Green Environmental",
+          "color_hex": "#607264",
+          "material": "recycled_poly"
+        }
+      ]
+    },
+    {
+      "id": "SF_SIGN_014",
+      "name": "Wayfinding Sign Coastal Harbor Wayfinder 3",
+      "subcategory": "signage",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.8
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 24
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "street",
+        "navigation",
+        "coastal_harbor_wayfinder"
+      ],
+      "variants": [
+        {
+          "name": "Catch Yellow & Black",
+          "color_hex": "#F5BA31",
+          "material": "reflective_metal"
+        },
+        {
+          "name": "Ocean Navy & White",
+          "color_hex": "#1E293B",
+          "material": "enameled_steel"
+        },
+        {
+          "name": "Sage Green Environmental",
+          "color_hex": "#607264",
+          "material": "recycled_poly"
+        }
+      ]
+    },
+    {
+      "id": "SF_SIGN_015",
+      "name": "Wayfinding Sign Bike Lane Pylon 3",
+      "subcategory": "signage",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.8
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 24
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "street",
+        "navigation",
+        "bike_lane_pylon"
+      ],
+      "variants": [
+        {
+          "name": "Catch Yellow & Black",
+          "color_hex": "#F5BA31",
+          "material": "reflective_metal"
+        },
+        {
+          "name": "Ocean Navy & White",
+          "color_hex": "#1E293B",
+          "material": "enameled_steel"
+        },
+        {
+          "name": "Sage Green Environmental",
+          "color_hex": "#607264",
+          "material": "recycled_poly"
+        }
+      ]
+    },
+    {
+      "id": "SF_SIGN_016",
+      "name": "Wayfinding Sign Speed Limit Digital 3",
+      "subcategory": "signage",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.8
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 24
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "street",
+        "navigation",
+        "speed_limit_digital"
+      ],
+      "variants": [
+        {
+          "name": "Catch Yellow & Black",
+          "color_hex": "#F5BA31",
+          "material": "reflective_metal"
+        },
+        {
+          "name": "Ocean Navy & White",
+          "color_hex": "#1E293B",
+          "material": "enameled_steel"
+        },
+        {
+          "name": "Sage Green Environmental",
+          "color_hex": "#607264",
+          "material": "recycled_poly"
+        }
+      ]
+    },
+    {
+      "id": "SF_SIGN_017",
+      "name": "Wayfinding Sign Ferry Terminal Pointer 3",
+      "subcategory": "signage",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.8
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 24
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "street",
+        "navigation",
+        "ferry_terminal_pointer"
+      ],
+      "variants": [
+        {
+          "name": "Catch Yellow & Black",
+          "color_hex": "#F5BA31",
+          "material": "reflective_metal"
+        },
+        {
+          "name": "Ocean Navy & White",
+          "color_hex": "#1E293B",
+          "material": "enameled_steel"
+        },
+        {
+          "name": "Sage Green Environmental",
+          "color_hex": "#607264",
+          "material": "recycled_poly"
+        }
+      ]
+    },
+    {
+      "id": "SF_SIGN_018",
+      "name": "Wayfinding Sign Heritage Plaque 3",
+      "subcategory": "signage",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.8
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 24
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "street",
+        "navigation",
+        "heritage_plaque"
+      ],
+      "variants": [
+        {
+          "name": "Catch Yellow & Black",
+          "color_hex": "#F5BA31",
+          "material": "reflective_metal"
+        },
+        {
+          "name": "Ocean Navy & White",
+          "color_hex": "#1E293B",
+          "material": "enameled_steel"
+        },
+        {
+          "name": "Sage Green Environmental",
+          "color_hex": "#607264",
+          "material": "recycled_poly"
+        }
+      ]
+    },
+    {
+      "id": "SF_SIGN_019",
+      "name": "Wayfinding Sign Pedestrian Crossing 4",
+      "subcategory": "signage",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.8
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 24
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "street",
+        "navigation",
+        "pedestrian_crossing"
+      ],
+      "variants": [
+        {
+          "name": "Catch Yellow & Black",
+          "color_hex": "#F5BA31",
+          "material": "reflective_metal"
+        },
+        {
+          "name": "Ocean Navy & White",
+          "color_hex": "#1E293B",
+          "material": "enameled_steel"
+        },
+        {
+          "name": "Sage Green Environmental",
+          "color_hex": "#607264",
+          "material": "recycled_poly"
+        }
+      ]
+    },
+    {
+      "id": "SF_SIGN_020",
+      "name": "Wayfinding Sign Coastal Harbor Wayfinder 4",
+      "subcategory": "signage",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.8
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 24
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "street",
+        "navigation",
+        "coastal_harbor_wayfinder"
+      ],
+      "variants": [
+        {
+          "name": "Catch Yellow & Black",
+          "color_hex": "#F5BA31",
+          "material": "reflective_metal"
+        },
+        {
+          "name": "Ocean Navy & White",
+          "color_hex": "#1E293B",
+          "material": "enameled_steel"
+        },
+        {
+          "name": "Sage Green Environmental",
+          "color_hex": "#607264",
+          "material": "recycled_poly"
+        }
+      ]
+    },
+    {
+      "id": "SF_SIGN_021",
+      "name": "Wayfinding Sign Bike Lane Pylon 4",
+      "subcategory": "signage",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.8
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 24
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "street",
+        "navigation",
+        "bike_lane_pylon"
+      ],
+      "variants": [
+        {
+          "name": "Catch Yellow & Black",
+          "color_hex": "#F5BA31",
+          "material": "reflective_metal"
+        },
+        {
+          "name": "Ocean Navy & White",
+          "color_hex": "#1E293B",
+          "material": "enameled_steel"
+        },
+        {
+          "name": "Sage Green Environmental",
+          "color_hex": "#607264",
+          "material": "recycled_poly"
+        }
+      ]
+    },
+    {
+      "id": "SF_SIGN_022",
+      "name": "Wayfinding Sign Speed Limit Digital 4",
+      "subcategory": "signage",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.8
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 24
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "street",
+        "navigation",
+        "speed_limit_digital"
+      ],
+      "variants": [
+        {
+          "name": "Catch Yellow & Black",
+          "color_hex": "#F5BA31",
+          "material": "reflective_metal"
+        },
+        {
+          "name": "Ocean Navy & White",
+          "color_hex": "#1E293B",
+          "material": "enameled_steel"
+        },
+        {
+          "name": "Sage Green Environmental",
+          "color_hex": "#607264",
+          "material": "recycled_poly"
+        }
+      ]
+    },
+    {
+      "id": "SF_SIGN_023",
+      "name": "Wayfinding Sign Ferry Terminal Pointer 4",
+      "subcategory": "signage",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.8
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 24
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "street",
+        "navigation",
+        "ferry_terminal_pointer"
+      ],
+      "variants": [
+        {
+          "name": "Catch Yellow & Black",
+          "color_hex": "#F5BA31",
+          "material": "reflective_metal"
+        },
+        {
+          "name": "Ocean Navy & White",
+          "color_hex": "#1E293B",
+          "material": "enameled_steel"
+        },
+        {
+          "name": "Sage Green Environmental",
+          "color_hex": "#607264",
+          "material": "recycled_poly"
+        }
+      ]
+    },
+    {
+      "id": "SF_SIGN_024",
+      "name": "Wayfinding Sign Heritage Plaque 4",
+      "subcategory": "signage",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.8
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 24
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "street",
+        "navigation",
+        "heritage_plaque"
+      ],
+      "variants": [
+        {
+          "name": "Catch Yellow & Black",
+          "color_hex": "#F5BA31",
+          "material": "reflective_metal"
+        },
+        {
+          "name": "Ocean Navy & White",
+          "color_hex": "#1E293B",
+          "material": "enameled_steel"
+        },
+        {
+          "name": "Sage Green Environmental",
+          "color_hex": "#607264",
+          "material": "recycled_poly"
+        }
+      ]
+    },
+    {
+      "id": "SF_SIGN_025",
+      "name": "Wayfinding Sign Pedestrian Crossing 5",
+      "subcategory": "signage",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.8
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 24
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "street",
+        "navigation",
+        "pedestrian_crossing"
+      ],
+      "variants": [
+        {
+          "name": "Catch Yellow & Black",
+          "color_hex": "#F5BA31",
+          "material": "reflective_metal"
+        },
+        {
+          "name": "Ocean Navy & White",
+          "color_hex": "#1E293B",
+          "material": "enameled_steel"
+        },
+        {
+          "name": "Sage Green Environmental",
+          "color_hex": "#607264",
+          "material": "recycled_poly"
+        }
+      ]
+    },
+    {
+      "id": "SF_SIGN_026",
+      "name": "Wayfinding Sign Coastal Harbor Wayfinder 5",
+      "subcategory": "signage",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.8
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 24
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "street",
+        "navigation",
+        "coastal_harbor_wayfinder"
+      ],
+      "variants": [
+        {
+          "name": "Catch Yellow & Black",
+          "color_hex": "#F5BA31",
+          "material": "reflective_metal"
+        },
+        {
+          "name": "Ocean Navy & White",
+          "color_hex": "#1E293B",
+          "material": "enameled_steel"
+        },
+        {
+          "name": "Sage Green Environmental",
+          "color_hex": "#607264",
+          "material": "recycled_poly"
+        }
+      ]
+    },
+    {
+      "id": "SF_SIGN_027",
+      "name": "Wayfinding Sign Bike Lane Pylon 5",
+      "subcategory": "signage",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.8
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 24
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "street",
+        "navigation",
+        "bike_lane_pylon"
+      ],
+      "variants": [
+        {
+          "name": "Catch Yellow & Black",
+          "color_hex": "#F5BA31",
+          "material": "reflective_metal"
+        },
+        {
+          "name": "Ocean Navy & White",
+          "color_hex": "#1E293B",
+          "material": "enameled_steel"
+        },
+        {
+          "name": "Sage Green Environmental",
+          "color_hex": "#607264",
+          "material": "recycled_poly"
+        }
+      ]
+    },
+    {
+      "id": "SF_SIGN_028",
+      "name": "Wayfinding Sign Speed Limit Digital 5",
+      "subcategory": "signage",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.8
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 24
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "street",
+        "navigation",
+        "speed_limit_digital"
+      ],
+      "variants": [
+        {
+          "name": "Catch Yellow & Black",
+          "color_hex": "#F5BA31",
+          "material": "reflective_metal"
+        },
+        {
+          "name": "Ocean Navy & White",
+          "color_hex": "#1E293B",
+          "material": "enameled_steel"
+        },
+        {
+          "name": "Sage Green Environmental",
+          "color_hex": "#607264",
+          "material": "recycled_poly"
+        }
+      ]
+    },
+    {
+      "id": "SF_SIGN_029",
+      "name": "Wayfinding Sign Ferry Terminal Pointer 5",
+      "subcategory": "signage",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.8
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 24
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "street",
+        "navigation",
+        "ferry_terminal_pointer"
+      ],
+      "variants": [
+        {
+          "name": "Catch Yellow & Black",
+          "color_hex": "#F5BA31",
+          "material": "reflective_metal"
+        },
+        {
+          "name": "Ocean Navy & White",
+          "color_hex": "#1E293B",
+          "material": "enameled_steel"
+        },
+        {
+          "name": "Sage Green Environmental",
+          "color_hex": "#607264",
+          "material": "recycled_poly"
+        }
+      ]
+    },
+    {
+      "id": "SF_SIGN_030",
+      "name": "Wayfinding Sign Heritage Plaque 5",
+      "subcategory": "signage",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.8
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 24
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "street",
+        "navigation",
+        "heritage_plaque"
+      ],
+      "variants": [
+        {
+          "name": "Catch Yellow & Black",
+          "color_hex": "#F5BA31",
+          "material": "reflective_metal"
+        },
+        {
+          "name": "Ocean Navy & White",
+          "color_hex": "#1E293B",
+          "material": "enameled_steel"
+        },
+        {
+          "name": "Sage Green Environmental",
+          "color_hex": "#607264",
+          "material": "recycled_poly"
+        }
+      ]
+    },
+    {
+      "id": "SF_BIN_001",
+      "name": "Recycling Station Type 1",
+      "subcategory": "sanitation",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 20
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "sanitation",
+        "street",
+        "recycling"
+      ],
+      "variants": [
+        {
+          "name": "Triple Waste Sort Stainless",
+          "color_hex": "#9CA3AF",
+          "material": "stainless_steel"
+        },
+        {
+          "name": "Charcoal Solar Compactor",
+          "color_hex": "#111827",
+          "material": "smart_composite"
+        },
+        {
+          "name": "Coastal Wood Clad",
+          "color_hex": "#854D0E",
+          "material": "treated_cedar"
+        }
+      ]
+    },
+    {
+      "id": "SF_BIN_002",
+      "name": "Recycling Station Type 2",
+      "subcategory": "sanitation",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 20
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "sanitation",
+        "street",
+        "recycling"
+      ],
+      "variants": [
+        {
+          "name": "Triple Waste Sort Stainless",
+          "color_hex": "#9CA3AF",
+          "material": "stainless_steel"
+        },
+        {
+          "name": "Charcoal Solar Compactor",
+          "color_hex": "#111827",
+          "material": "smart_composite"
+        },
+        {
+          "name": "Coastal Wood Clad",
+          "color_hex": "#854D0E",
+          "material": "treated_cedar"
+        }
+      ]
+    },
+    {
+      "id": "SF_BIN_003",
+      "name": "Recycling Station Type 3",
+      "subcategory": "sanitation",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 20
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "sanitation",
+        "street",
+        "recycling"
+      ],
+      "variants": [
+        {
+          "name": "Triple Waste Sort Stainless",
+          "color_hex": "#9CA3AF",
+          "material": "stainless_steel"
+        },
+        {
+          "name": "Charcoal Solar Compactor",
+          "color_hex": "#111827",
+          "material": "smart_composite"
+        },
+        {
+          "name": "Coastal Wood Clad",
+          "color_hex": "#854D0E",
+          "material": "treated_cedar"
+        }
+      ]
+    },
+    {
+      "id": "SF_BIN_004",
+      "name": "Recycling Station Type 4",
+      "subcategory": "sanitation",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 20
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "sanitation",
+        "street",
+        "recycling"
+      ],
+      "variants": [
+        {
+          "name": "Triple Waste Sort Stainless",
+          "color_hex": "#9CA3AF",
+          "material": "stainless_steel"
+        },
+        {
+          "name": "Charcoal Solar Compactor",
+          "color_hex": "#111827",
+          "material": "smart_composite"
+        },
+        {
+          "name": "Coastal Wood Clad",
+          "color_hex": "#854D0E",
+          "material": "treated_cedar"
+        }
+      ]
+    },
+    {
+      "id": "SF_BIN_005",
+      "name": "Recycling Station Type 5",
+      "subcategory": "sanitation",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 20
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "sanitation",
+        "street",
+        "recycling"
+      ],
+      "variants": [
+        {
+          "name": "Triple Waste Sort Stainless",
+          "color_hex": "#9CA3AF",
+          "material": "stainless_steel"
+        },
+        {
+          "name": "Charcoal Solar Compactor",
+          "color_hex": "#111827",
+          "material": "smart_composite"
+        },
+        {
+          "name": "Coastal Wood Clad",
+          "color_hex": "#854D0E",
+          "material": "treated_cedar"
+        }
+      ]
+    },
+    {
+      "id": "SF_BIN_006",
+      "name": "Recycling Station Type 6",
+      "subcategory": "sanitation",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 20
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "sanitation",
+        "street",
+        "recycling"
+      ],
+      "variants": [
+        {
+          "name": "Triple Waste Sort Stainless",
+          "color_hex": "#9CA3AF",
+          "material": "stainless_steel"
+        },
+        {
+          "name": "Charcoal Solar Compactor",
+          "color_hex": "#111827",
+          "material": "smart_composite"
+        },
+        {
+          "name": "Coastal Wood Clad",
+          "color_hex": "#854D0E",
+          "material": "treated_cedar"
+        }
+      ]
+    },
+    {
+      "id": "SF_BIN_007",
+      "name": "Recycling Station Type 7",
+      "subcategory": "sanitation",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 20
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "sanitation",
+        "street",
+        "recycling"
+      ],
+      "variants": [
+        {
+          "name": "Triple Waste Sort Stainless",
+          "color_hex": "#9CA3AF",
+          "material": "stainless_steel"
+        },
+        {
+          "name": "Charcoal Solar Compactor",
+          "color_hex": "#111827",
+          "material": "smart_composite"
+        },
+        {
+          "name": "Coastal Wood Clad",
+          "color_hex": "#854D0E",
+          "material": "treated_cedar"
+        }
+      ]
+    },
+    {
+      "id": "SF_BIN_008",
+      "name": "Recycling Station Type 8",
+      "subcategory": "sanitation",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 20
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "sanitation",
+        "street",
+        "recycling"
+      ],
+      "variants": [
+        {
+          "name": "Triple Waste Sort Stainless",
+          "color_hex": "#9CA3AF",
+          "material": "stainless_steel"
+        },
+        {
+          "name": "Charcoal Solar Compactor",
+          "color_hex": "#111827",
+          "material": "smart_composite"
+        },
+        {
+          "name": "Coastal Wood Clad",
+          "color_hex": "#854D0E",
+          "material": "treated_cedar"
+        }
+      ]
+    },
+    {
+      "id": "SF_BIN_009",
+      "name": "Recycling Station Type 9",
+      "subcategory": "sanitation",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 20
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "sanitation",
+        "street",
+        "recycling"
+      ],
+      "variants": [
+        {
+          "name": "Triple Waste Sort Stainless",
+          "color_hex": "#9CA3AF",
+          "material": "stainless_steel"
+        },
+        {
+          "name": "Charcoal Solar Compactor",
+          "color_hex": "#111827",
+          "material": "smart_composite"
+        },
+        {
+          "name": "Coastal Wood Clad",
+          "color_hex": "#854D0E",
+          "material": "treated_cedar"
+        }
+      ]
+    },
+    {
+      "id": "SF_BIN_010",
+      "name": "Recycling Station Type 10",
+      "subcategory": "sanitation",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 20
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "sanitation",
+        "street",
+        "recycling"
+      ],
+      "variants": [
+        {
+          "name": "Triple Waste Sort Stainless",
+          "color_hex": "#9CA3AF",
+          "material": "stainless_steel"
+        },
+        {
+          "name": "Charcoal Solar Compactor",
+          "color_hex": "#111827",
+          "material": "smart_composite"
+        },
+        {
+          "name": "Coastal Wood Clad",
+          "color_hex": "#854D0E",
+          "material": "treated_cedar"
+        }
+      ]
+    },
+    {
+      "id": "SF_BIN_011",
+      "name": "Recycling Station Type 11",
+      "subcategory": "sanitation",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 20
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "sanitation",
+        "street",
+        "recycling"
+      ],
+      "variants": [
+        {
+          "name": "Triple Waste Sort Stainless",
+          "color_hex": "#9CA3AF",
+          "material": "stainless_steel"
+        },
+        {
+          "name": "Charcoal Solar Compactor",
+          "color_hex": "#111827",
+          "material": "smart_composite"
+        },
+        {
+          "name": "Coastal Wood Clad",
+          "color_hex": "#854D0E",
+          "material": "treated_cedar"
+        }
+      ]
+    },
+    {
+      "id": "SF_BIN_012",
+      "name": "Recycling Station Type 12",
+      "subcategory": "sanitation",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 20
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "sanitation",
+        "street",
+        "recycling"
+      ],
+      "variants": [
+        {
+          "name": "Triple Waste Sort Stainless",
+          "color_hex": "#9CA3AF",
+          "material": "stainless_steel"
+        },
+        {
+          "name": "Charcoal Solar Compactor",
+          "color_hex": "#111827",
+          "material": "smart_composite"
+        },
+        {
+          "name": "Coastal Wood Clad",
+          "color_hex": "#854D0E",
+          "material": "treated_cedar"
+        }
+      ]
+    },
+    {
+      "id": "SF_BIN_013",
+      "name": "Recycling Station Type 13",
+      "subcategory": "sanitation",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 20
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "sanitation",
+        "street",
+        "recycling"
+      ],
+      "variants": [
+        {
+          "name": "Triple Waste Sort Stainless",
+          "color_hex": "#9CA3AF",
+          "material": "stainless_steel"
+        },
+        {
+          "name": "Charcoal Solar Compactor",
+          "color_hex": "#111827",
+          "material": "smart_composite"
+        },
+        {
+          "name": "Coastal Wood Clad",
+          "color_hex": "#854D0E",
+          "material": "treated_cedar"
+        }
+      ]
+    },
+    {
+      "id": "SF_BIN_014",
+      "name": "Recycling Station Type 14",
+      "subcategory": "sanitation",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 20
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "sanitation",
+        "street",
+        "recycling"
+      ],
+      "variants": [
+        {
+          "name": "Triple Waste Sort Stainless",
+          "color_hex": "#9CA3AF",
+          "material": "stainless_steel"
+        },
+        {
+          "name": "Charcoal Solar Compactor",
+          "color_hex": "#111827",
+          "material": "smart_composite"
+        },
+        {
+          "name": "Coastal Wood Clad",
+          "color_hex": "#854D0E",
+          "material": "treated_cedar"
+        }
+      ]
+    },
+    {
+      "id": "SF_BIN_015",
+      "name": "Recycling Station Type 15",
+      "subcategory": "sanitation",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 20
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "sanitation",
+        "street",
+        "recycling"
+      ],
+      "variants": [
+        {
+          "name": "Triple Waste Sort Stainless",
+          "color_hex": "#9CA3AF",
+          "material": "stainless_steel"
+        },
+        {
+          "name": "Charcoal Solar Compactor",
+          "color_hex": "#111827",
+          "material": "smart_composite"
+        },
+        {
+          "name": "Coastal Wood Clad",
+          "color_hex": "#854D0E",
+          "material": "treated_cedar"
+        }
+      ]
+    },
+    {
+      "id": "SF_BIKERACK_001",
+      "name": "Bicycle Parking Rack 1",
+      "subcategory": "mobility",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 0.8
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 16
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "mobility",
+        "bicycle"
+      ],
+      "variants": [
+        {
+          "name": "Electric Charging Yellow",
+          "color_hex": "#F5BA31",
+          "material": "steel"
+        },
+        {
+          "name": "Silver Metallic",
+          "color_hex": "#E5E7EB",
+          "material": "galvanized_pipe"
+        },
+        {
+          "name": "Slate Gray",
+          "color_hex": "#475569",
+          "material": "coated_iron"
+        }
+      ]
+    },
+    {
+      "id": "SF_BIKERACK_002",
+      "name": "Bicycle Parking Rack 2",
+      "subcategory": "mobility",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 0.8
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 16
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "mobility",
+        "bicycle"
+      ],
+      "variants": [
+        {
+          "name": "Electric Charging Yellow",
+          "color_hex": "#F5BA31",
+          "material": "steel"
+        },
+        {
+          "name": "Silver Metallic",
+          "color_hex": "#E5E7EB",
+          "material": "galvanized_pipe"
+        },
+        {
+          "name": "Slate Gray",
+          "color_hex": "#475569",
+          "material": "coated_iron"
+        }
+      ]
+    },
+    {
+      "id": "SF_BIKERACK_003",
+      "name": "Bicycle Parking Rack 3",
+      "subcategory": "mobility",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 0.8
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 16
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "mobility",
+        "bicycle"
+      ],
+      "variants": [
+        {
+          "name": "Electric Charging Yellow",
+          "color_hex": "#F5BA31",
+          "material": "steel"
+        },
+        {
+          "name": "Silver Metallic",
+          "color_hex": "#E5E7EB",
+          "material": "galvanized_pipe"
+        },
+        {
+          "name": "Slate Gray",
+          "color_hex": "#475569",
+          "material": "coated_iron"
+        }
+      ]
+    },
+    {
+      "id": "SF_BIKERACK_004",
+      "name": "Bicycle Parking Rack 4",
+      "subcategory": "mobility",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 0.8
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 16
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "mobility",
+        "bicycle"
+      ],
+      "variants": [
+        {
+          "name": "Electric Charging Yellow",
+          "color_hex": "#F5BA31",
+          "material": "steel"
+        },
+        {
+          "name": "Silver Metallic",
+          "color_hex": "#E5E7EB",
+          "material": "galvanized_pipe"
+        },
+        {
+          "name": "Slate Gray",
+          "color_hex": "#475569",
+          "material": "coated_iron"
+        }
+      ]
+    },
+    {
+      "id": "SF_BIKERACK_005",
+      "name": "Bicycle Parking Rack 5",
+      "subcategory": "mobility",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 0.8
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 16
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "mobility",
+        "bicycle"
+      ],
+      "variants": [
+        {
+          "name": "Electric Charging Yellow",
+          "color_hex": "#F5BA31",
+          "material": "steel"
+        },
+        {
+          "name": "Silver Metallic",
+          "color_hex": "#E5E7EB",
+          "material": "galvanized_pipe"
+        },
+        {
+          "name": "Slate Gray",
+          "color_hex": "#475569",
+          "material": "coated_iron"
+        }
+      ]
+    },
+    {
+      "id": "SF_BIKERACK_006",
+      "name": "Bicycle Parking Rack 6",
+      "subcategory": "mobility",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 0.8
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 16
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "mobility",
+        "bicycle"
+      ],
+      "variants": [
+        {
+          "name": "Electric Charging Yellow",
+          "color_hex": "#F5BA31",
+          "material": "steel"
+        },
+        {
+          "name": "Silver Metallic",
+          "color_hex": "#E5E7EB",
+          "material": "galvanized_pipe"
+        },
+        {
+          "name": "Slate Gray",
+          "color_hex": "#475569",
+          "material": "coated_iron"
+        }
+      ]
+    },
+    {
+      "id": "SF_BIKERACK_007",
+      "name": "Bicycle Parking Rack 7",
+      "subcategory": "mobility",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 0.8
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 16
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "mobility",
+        "bicycle"
+      ],
+      "variants": [
+        {
+          "name": "Electric Charging Yellow",
+          "color_hex": "#F5BA31",
+          "material": "steel"
+        },
+        {
+          "name": "Silver Metallic",
+          "color_hex": "#E5E7EB",
+          "material": "galvanized_pipe"
+        },
+        {
+          "name": "Slate Gray",
+          "color_hex": "#475569",
+          "material": "coated_iron"
+        }
+      ]
+    },
+    {
+      "id": "SF_BIKERACK_008",
+      "name": "Bicycle Parking Rack 8",
+      "subcategory": "mobility",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 0.8
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 16
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "mobility",
+        "bicycle"
+      ],
+      "variants": [
+        {
+          "name": "Electric Charging Yellow",
+          "color_hex": "#F5BA31",
+          "material": "steel"
+        },
+        {
+          "name": "Silver Metallic",
+          "color_hex": "#E5E7EB",
+          "material": "galvanized_pipe"
+        },
+        {
+          "name": "Slate Gray",
+          "color_hex": "#475569",
+          "material": "coated_iron"
+        }
+      ]
+    },
+    {
+      "id": "SF_BIKERACK_009",
+      "name": "Bicycle Parking Rack 9",
+      "subcategory": "mobility",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 0.8
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 16
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "mobility",
+        "bicycle"
+      ],
+      "variants": [
+        {
+          "name": "Electric Charging Yellow",
+          "color_hex": "#F5BA31",
+          "material": "steel"
+        },
+        {
+          "name": "Silver Metallic",
+          "color_hex": "#E5E7EB",
+          "material": "galvanized_pipe"
+        },
+        {
+          "name": "Slate Gray",
+          "color_hex": "#475569",
+          "material": "coated_iron"
+        }
+      ]
+    },
+    {
+      "id": "SF_BIKERACK_010",
+      "name": "Bicycle Parking Rack 10",
+      "subcategory": "mobility",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 0.8
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 16
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "mobility",
+        "bicycle"
+      ],
+      "variants": [
+        {
+          "name": "Electric Charging Yellow",
+          "color_hex": "#F5BA31",
+          "material": "steel"
+        },
+        {
+          "name": "Silver Metallic",
+          "color_hex": "#E5E7EB",
+          "material": "galvanized_pipe"
+        },
+        {
+          "name": "Slate Gray",
+          "color_hex": "#475569",
+          "material": "coated_iron"
+        }
+      ]
+    },
+    {
+      "id": "SF_BIKERACK_011",
+      "name": "Bicycle Parking Rack 11",
+      "subcategory": "mobility",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 0.8
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 16
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "mobility",
+        "bicycle"
+      ],
+      "variants": [
+        {
+          "name": "Electric Charging Yellow",
+          "color_hex": "#F5BA31",
+          "material": "steel"
+        },
+        {
+          "name": "Silver Metallic",
+          "color_hex": "#E5E7EB",
+          "material": "galvanized_pipe"
+        },
+        {
+          "name": "Slate Gray",
+          "color_hex": "#475569",
+          "material": "coated_iron"
+        }
+      ]
+    },
+    {
+      "id": "SF_BIKERACK_012",
+      "name": "Bicycle Parking Rack 12",
+      "subcategory": "mobility",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 0.8
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 16
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "mobility",
+        "bicycle"
+      ],
+      "variants": [
+        {
+          "name": "Electric Charging Yellow",
+          "color_hex": "#F5BA31",
+          "material": "steel"
+        },
+        {
+          "name": "Silver Metallic",
+          "color_hex": "#E5E7EB",
+          "material": "galvanized_pipe"
+        },
+        {
+          "name": "Slate Gray",
+          "color_hex": "#475569",
+          "material": "coated_iron"
+        }
+      ]
+    },
+    {
+      "id": "SF_BIKERACK_013",
+      "name": "Bicycle Parking Rack 13",
+      "subcategory": "mobility",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 0.8
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 16
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "mobility",
+        "bicycle"
+      ],
+      "variants": [
+        {
+          "name": "Electric Charging Yellow",
+          "color_hex": "#F5BA31",
+          "material": "steel"
+        },
+        {
+          "name": "Silver Metallic",
+          "color_hex": "#E5E7EB",
+          "material": "galvanized_pipe"
+        },
+        {
+          "name": "Slate Gray",
+          "color_hex": "#475569",
+          "material": "coated_iron"
+        }
+      ]
+    },
+    {
+      "id": "SF_BIKERACK_014",
+      "name": "Bicycle Parking Rack 14",
+      "subcategory": "mobility",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 0.8
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 16
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "mobility",
+        "bicycle"
+      ],
+      "variants": [
+        {
+          "name": "Electric Charging Yellow",
+          "color_hex": "#F5BA31",
+          "material": "steel"
+        },
+        {
+          "name": "Silver Metallic",
+          "color_hex": "#E5E7EB",
+          "material": "galvanized_pipe"
+        },
+        {
+          "name": "Slate Gray",
+          "color_hex": "#475569",
+          "material": "coated_iron"
+        }
+      ]
+    },
+    {
+      "id": "SF_BIKERACK_015",
+      "name": "Bicycle Parking Rack 15",
+      "subcategory": "mobility",
+      "tile_footprint": {
+        "width": 2,
+        "depth": 1,
+        "height_tiles": 0.8
+      },
+      "anchor_point": {
+        "x": 32,
+        "y": 16
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "mobility",
+        "bicycle"
+      ],
+      "variants": [
+        {
+          "name": "Electric Charging Yellow",
+          "color_hex": "#F5BA31",
+          "material": "steel"
+        },
+        {
+          "name": "Silver Metallic",
+          "color_hex": "#E5E7EB",
+          "material": "galvanized_pipe"
+        },
+        {
+          "name": "Slate Gray",
+          "color_hex": "#475569",
+          "material": "coated_iron"
+        }
+      ]
+    },
+    {
+      "id": "SF_BUSSTOP_001",
+      "name": "Transit Shelter Shelter 1",
+      "subcategory": "transit",
+      "tile_footprint": {
+        "width": 3,
+        "depth": 2,
+        "height_tiles": 2.2
+      },
+      "anchor_point": {
+        "x": 48,
+        "y": 32
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "transit",
+        "bus_stop",
+        "glass_roof"
+      ],
+      "variants": [
+        {
+          "name": "Tempered Glass & Solar Roof",
+          "color_hex": "#38BDF8",
+          "material": "glass_aluminum"
+        },
+        {
+          "name": "Timber Pergo Coastal",
+          "color_hex": "#B45309",
+          "material": "timber_glass"
+        },
+        {
+          "name": "Digital Interactive Black",
+          "color_hex": "#000000",
+          "material": "smart_metal"
+        }
+      ]
+    },
+    {
+      "id": "SF_BUSSTOP_002",
+      "name": "Transit Shelter Shelter 2",
+      "subcategory": "transit",
+      "tile_footprint": {
+        "width": 3,
+        "depth": 2,
+        "height_tiles": 2.2
+      },
+      "anchor_point": {
+        "x": 48,
+        "y": 32
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "transit",
+        "bus_stop",
+        "glass_roof"
+      ],
+      "variants": [
+        {
+          "name": "Tempered Glass & Solar Roof",
+          "color_hex": "#38BDF8",
+          "material": "glass_aluminum"
+        },
+        {
+          "name": "Timber Pergo Coastal",
+          "color_hex": "#B45309",
+          "material": "timber_glass"
+        },
+        {
+          "name": "Digital Interactive Black",
+          "color_hex": "#000000",
+          "material": "smart_metal"
+        }
+      ]
+    },
+    {
+      "id": "SF_BUSSTOP_003",
+      "name": "Transit Shelter Shelter 3",
+      "subcategory": "transit",
+      "tile_footprint": {
+        "width": 3,
+        "depth": 2,
+        "height_tiles": 2.2
+      },
+      "anchor_point": {
+        "x": 48,
+        "y": 32
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "transit",
+        "bus_stop",
+        "glass_roof"
+      ],
+      "variants": [
+        {
+          "name": "Tempered Glass & Solar Roof",
+          "color_hex": "#38BDF8",
+          "material": "glass_aluminum"
+        },
+        {
+          "name": "Timber Pergo Coastal",
+          "color_hex": "#B45309",
+          "material": "timber_glass"
+        },
+        {
+          "name": "Digital Interactive Black",
+          "color_hex": "#000000",
+          "material": "smart_metal"
+        }
+      ]
+    },
+    {
+      "id": "SF_BUSSTOP_004",
+      "name": "Transit Shelter Shelter 4",
+      "subcategory": "transit",
+      "tile_footprint": {
+        "width": 3,
+        "depth": 2,
+        "height_tiles": 2.2
+      },
+      "anchor_point": {
+        "x": 48,
+        "y": 32
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "transit",
+        "bus_stop",
+        "glass_roof"
+      ],
+      "variants": [
+        {
+          "name": "Tempered Glass & Solar Roof",
+          "color_hex": "#38BDF8",
+          "material": "glass_aluminum"
+        },
+        {
+          "name": "Timber Pergo Coastal",
+          "color_hex": "#B45309",
+          "material": "timber_glass"
+        },
+        {
+          "name": "Digital Interactive Black",
+          "color_hex": "#000000",
+          "material": "smart_metal"
+        }
+      ]
+    },
+    {
+      "id": "SF_BUSSTOP_005",
+      "name": "Transit Shelter Shelter 5",
+      "subcategory": "transit",
+      "tile_footprint": {
+        "width": 3,
+        "depth": 2,
+        "height_tiles": 2.2
+      },
+      "anchor_point": {
+        "x": 48,
+        "y": 32
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "transit",
+        "bus_stop",
+        "glass_roof"
+      ],
+      "variants": [
+        {
+          "name": "Tempered Glass & Solar Roof",
+          "color_hex": "#38BDF8",
+          "material": "glass_aluminum"
+        },
+        {
+          "name": "Timber Pergo Coastal",
+          "color_hex": "#B45309",
+          "material": "timber_glass"
+        },
+        {
+          "name": "Digital Interactive Black",
+          "color_hex": "#000000",
+          "material": "smart_metal"
+        }
+      ]
+    },
+    {
+      "id": "SF_BUSSTOP_006",
+      "name": "Transit Shelter Shelter 6",
+      "subcategory": "transit",
+      "tile_footprint": {
+        "width": 3,
+        "depth": 2,
+        "height_tiles": 2.2
+      },
+      "anchor_point": {
+        "x": 48,
+        "y": 32
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "transit",
+        "bus_stop",
+        "glass_roof"
+      ],
+      "variants": [
+        {
+          "name": "Tempered Glass & Solar Roof",
+          "color_hex": "#38BDF8",
+          "material": "glass_aluminum"
+        },
+        {
+          "name": "Timber Pergo Coastal",
+          "color_hex": "#B45309",
+          "material": "timber_glass"
+        },
+        {
+          "name": "Digital Interactive Black",
+          "color_hex": "#000000",
+          "material": "smart_metal"
+        }
+      ]
+    },
+    {
+      "id": "SF_BUSSTOP_007",
+      "name": "Transit Shelter Shelter 7",
+      "subcategory": "transit",
+      "tile_footprint": {
+        "width": 3,
+        "depth": 2,
+        "height_tiles": 2.2
+      },
+      "anchor_point": {
+        "x": 48,
+        "y": 32
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "transit",
+        "bus_stop",
+        "glass_roof"
+      ],
+      "variants": [
+        {
+          "name": "Tempered Glass & Solar Roof",
+          "color_hex": "#38BDF8",
+          "material": "glass_aluminum"
+        },
+        {
+          "name": "Timber Pergo Coastal",
+          "color_hex": "#B45309",
+          "material": "timber_glass"
+        },
+        {
+          "name": "Digital Interactive Black",
+          "color_hex": "#000000",
+          "material": "smart_metal"
+        }
+      ]
+    },
+    {
+      "id": "SF_BUSSTOP_008",
+      "name": "Transit Shelter Shelter 8",
+      "subcategory": "transit",
+      "tile_footprint": {
+        "width": 3,
+        "depth": 2,
+        "height_tiles": 2.2
+      },
+      "anchor_point": {
+        "x": 48,
+        "y": 32
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "transit",
+        "bus_stop",
+        "glass_roof"
+      ],
+      "variants": [
+        {
+          "name": "Tempered Glass & Solar Roof",
+          "color_hex": "#38BDF8",
+          "material": "glass_aluminum"
+        },
+        {
+          "name": "Timber Pergo Coastal",
+          "color_hex": "#B45309",
+          "material": "timber_glass"
+        },
+        {
+          "name": "Digital Interactive Black",
+          "color_hex": "#000000",
+          "material": "smart_metal"
+        }
+      ]
+    },
+    {
+      "id": "SF_BUSSTOP_009",
+      "name": "Transit Shelter Shelter 9",
+      "subcategory": "transit",
+      "tile_footprint": {
+        "width": 3,
+        "depth": 2,
+        "height_tiles": 2.2
+      },
+      "anchor_point": {
+        "x": 48,
+        "y": 32
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "transit",
+        "bus_stop",
+        "glass_roof"
+      ],
+      "variants": [
+        {
+          "name": "Tempered Glass & Solar Roof",
+          "color_hex": "#38BDF8",
+          "material": "glass_aluminum"
+        },
+        {
+          "name": "Timber Pergo Coastal",
+          "color_hex": "#B45309",
+          "material": "timber_glass"
+        },
+        {
+          "name": "Digital Interactive Black",
+          "color_hex": "#000000",
+          "material": "smart_metal"
+        }
+      ]
+    },
+    {
+      "id": "SF_BUSSTOP_010",
+      "name": "Transit Shelter Shelter 10",
+      "subcategory": "transit",
+      "tile_footprint": {
+        "width": 3,
+        "depth": 2,
+        "height_tiles": 2.2
+      },
+      "anchor_point": {
+        "x": 48,
+        "y": 32
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "transit",
+        "bus_stop",
+        "glass_roof"
+      ],
+      "variants": [
+        {
+          "name": "Tempered Glass & Solar Roof",
+          "color_hex": "#38BDF8",
+          "material": "glass_aluminum"
+        },
+        {
+          "name": "Timber Pergo Coastal",
+          "color_hex": "#B45309",
+          "material": "timber_glass"
+        },
+        {
+          "name": "Digital Interactive Black",
+          "color_hex": "#000000",
+          "material": "smart_metal"
+        }
+      ]
+    },
+    {
+      "id": "SF_BUSSTOP_011",
+      "name": "Transit Shelter Shelter 11",
+      "subcategory": "transit",
+      "tile_footprint": {
+        "width": 3,
+        "depth": 2,
+        "height_tiles": 2.2
+      },
+      "anchor_point": {
+        "x": 48,
+        "y": 32
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "transit",
+        "bus_stop",
+        "glass_roof"
+      ],
+      "variants": [
+        {
+          "name": "Tempered Glass & Solar Roof",
+          "color_hex": "#38BDF8",
+          "material": "glass_aluminum"
+        },
+        {
+          "name": "Timber Pergo Coastal",
+          "color_hex": "#B45309",
+          "material": "timber_glass"
+        },
+        {
+          "name": "Digital Interactive Black",
+          "color_hex": "#000000",
+          "material": "smart_metal"
+        }
+      ]
+    },
+    {
+      "id": "SF_BUSSTOP_012",
+      "name": "Transit Shelter Shelter 12",
+      "subcategory": "transit",
+      "tile_footprint": {
+        "width": 3,
+        "depth": 2,
+        "height_tiles": 2.2
+      },
+      "anchor_point": {
+        "x": 48,
+        "y": 32
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "transit",
+        "bus_stop",
+        "glass_roof"
+      ],
+      "variants": [
+        {
+          "name": "Tempered Glass & Solar Roof",
+          "color_hex": "#38BDF8",
+          "material": "glass_aluminum"
+        },
+        {
+          "name": "Timber Pergo Coastal",
+          "color_hex": "#B45309",
+          "material": "timber_glass"
+        },
+        {
+          "name": "Digital Interactive Black",
+          "color_hex": "#000000",
+          "material": "smart_metal"
+        }
+      ]
+    },
+    {
+      "id": "SF_BUSSTOP_013",
+      "name": "Transit Shelter Shelter 13",
+      "subcategory": "transit",
+      "tile_footprint": {
+        "width": 3,
+        "depth": 2,
+        "height_tiles": 2.2
+      },
+      "anchor_point": {
+        "x": 48,
+        "y": 32
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "transit",
+        "bus_stop",
+        "glass_roof"
+      ],
+      "variants": [
+        {
+          "name": "Tempered Glass & Solar Roof",
+          "color_hex": "#38BDF8",
+          "material": "glass_aluminum"
+        },
+        {
+          "name": "Timber Pergo Coastal",
+          "color_hex": "#B45309",
+          "material": "timber_glass"
+        },
+        {
+          "name": "Digital Interactive Black",
+          "color_hex": "#000000",
+          "material": "smart_metal"
+        }
+      ]
+    },
+    {
+      "id": "SF_BUSSTOP_014",
+      "name": "Transit Shelter Shelter 14",
+      "subcategory": "transit",
+      "tile_footprint": {
+        "width": 3,
+        "depth": 2,
+        "height_tiles": 2.2
+      },
+      "anchor_point": {
+        "x": 48,
+        "y": 32
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "transit",
+        "bus_stop",
+        "glass_roof"
+      ],
+      "variants": [
+        {
+          "name": "Tempered Glass & Solar Roof",
+          "color_hex": "#38BDF8",
+          "material": "glass_aluminum"
+        },
+        {
+          "name": "Timber Pergo Coastal",
+          "color_hex": "#B45309",
+          "material": "timber_glass"
+        },
+        {
+          "name": "Digital Interactive Black",
+          "color_hex": "#000000",
+          "material": "smart_metal"
+        }
+      ]
+    },
+    {
+      "id": "SF_BUSSTOP_015",
+      "name": "Transit Shelter Shelter 15",
+      "subcategory": "transit",
+      "tile_footprint": {
+        "width": 3,
+        "depth": 2,
+        "height_tiles": 2.2
+      },
+      "anchor_point": {
+        "x": 48,
+        "y": 32
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "transit",
+        "bus_stop",
+        "glass_roof"
+      ],
+      "variants": [
+        {
+          "name": "Tempered Glass & Solar Roof",
+          "color_hex": "#38BDF8",
+          "material": "glass_aluminum"
+        },
+        {
+          "name": "Timber Pergo Coastal",
+          "color_hex": "#B45309",
+          "material": "timber_glass"
+        },
+        {
+          "name": "Digital Interactive Black",
+          "color_hex": "#000000",
+          "material": "smart_metal"
+        }
+      ]
+    },
+    {
+      "id": "SF_BARRIER_001",
+      "name": "Bollard & Waterfront Railing 1",
+      "subcategory": "safety_barriers",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 16
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "safety",
+        "bollard",
+        "railing"
+      ],
+      "variants": [
+        {
+          "name": "Nautical Cast Iron Marine",
+          "color_hex": "#1E293B",
+          "material": "marine_cast_iron"
+        },
+        {
+          "name": "Stainless Cable Guard",
+          "color_hex": "#CBD5E1",
+          "material": "tensile_cable"
+        },
+        {
+          "name": "Illuminated LED Bollard",
+          "color_hex": "#FCD34D",
+          "material": "acrylic_steel"
+        }
+      ]
+    },
+    {
+      "id": "SF_BARRIER_002",
+      "name": "Bollard & Waterfront Railing 2",
+      "subcategory": "safety_barriers",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 16
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "safety",
+        "bollard",
+        "railing"
+      ],
+      "variants": [
+        {
+          "name": "Nautical Cast Iron Marine",
+          "color_hex": "#1E293B",
+          "material": "marine_cast_iron"
+        },
+        {
+          "name": "Stainless Cable Guard",
+          "color_hex": "#CBD5E1",
+          "material": "tensile_cable"
+        },
+        {
+          "name": "Illuminated LED Bollard",
+          "color_hex": "#FCD34D",
+          "material": "acrylic_steel"
+        }
+      ]
+    },
+    {
+      "id": "SF_BARRIER_003",
+      "name": "Bollard & Waterfront Railing 3",
+      "subcategory": "safety_barriers",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 16
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "safety",
+        "bollard",
+        "railing"
+      ],
+      "variants": [
+        {
+          "name": "Nautical Cast Iron Marine",
+          "color_hex": "#1E293B",
+          "material": "marine_cast_iron"
+        },
+        {
+          "name": "Stainless Cable Guard",
+          "color_hex": "#CBD5E1",
+          "material": "tensile_cable"
+        },
+        {
+          "name": "Illuminated LED Bollard",
+          "color_hex": "#FCD34D",
+          "material": "acrylic_steel"
+        }
+      ]
+    },
+    {
+      "id": "SF_BARRIER_004",
+      "name": "Bollard & Waterfront Railing 4",
+      "subcategory": "safety_barriers",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 16
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "safety",
+        "bollard",
+        "railing"
+      ],
+      "variants": [
+        {
+          "name": "Nautical Cast Iron Marine",
+          "color_hex": "#1E293B",
+          "material": "marine_cast_iron"
+        },
+        {
+          "name": "Stainless Cable Guard",
+          "color_hex": "#CBD5E1",
+          "material": "tensile_cable"
+        },
+        {
+          "name": "Illuminated LED Bollard",
+          "color_hex": "#FCD34D",
+          "material": "acrylic_steel"
+        }
+      ]
+    },
+    {
+      "id": "SF_BARRIER_005",
+      "name": "Bollard & Waterfront Railing 5",
+      "subcategory": "safety_barriers",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 16
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "safety",
+        "bollard",
+        "railing"
+      ],
+      "variants": [
+        {
+          "name": "Nautical Cast Iron Marine",
+          "color_hex": "#1E293B",
+          "material": "marine_cast_iron"
+        },
+        {
+          "name": "Stainless Cable Guard",
+          "color_hex": "#CBD5E1",
+          "material": "tensile_cable"
+        },
+        {
+          "name": "Illuminated LED Bollard",
+          "color_hex": "#FCD34D",
+          "material": "acrylic_steel"
+        }
+      ]
+    },
+    {
+      "id": "SF_BARRIER_006",
+      "name": "Bollard & Waterfront Railing 6",
+      "subcategory": "safety_barriers",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 16
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "safety",
+        "bollard",
+        "railing"
+      ],
+      "variants": [
+        {
+          "name": "Nautical Cast Iron Marine",
+          "color_hex": "#1E293B",
+          "material": "marine_cast_iron"
+        },
+        {
+          "name": "Stainless Cable Guard",
+          "color_hex": "#CBD5E1",
+          "material": "tensile_cable"
+        },
+        {
+          "name": "Illuminated LED Bollard",
+          "color_hex": "#FCD34D",
+          "material": "acrylic_steel"
+        }
+      ]
+    },
+    {
+      "id": "SF_BARRIER_007",
+      "name": "Bollard & Waterfront Railing 7",
+      "subcategory": "safety_barriers",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 16
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "safety",
+        "bollard",
+        "railing"
+      ],
+      "variants": [
+        {
+          "name": "Nautical Cast Iron Marine",
+          "color_hex": "#1E293B",
+          "material": "marine_cast_iron"
+        },
+        {
+          "name": "Stainless Cable Guard",
+          "color_hex": "#CBD5E1",
+          "material": "tensile_cable"
+        },
+        {
+          "name": "Illuminated LED Bollard",
+          "color_hex": "#FCD34D",
+          "material": "acrylic_steel"
+        }
+      ]
+    },
+    {
+      "id": "SF_BARRIER_008",
+      "name": "Bollard & Waterfront Railing 8",
+      "subcategory": "safety_barriers",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 16
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "safety",
+        "bollard",
+        "railing"
+      ],
+      "variants": [
+        {
+          "name": "Nautical Cast Iron Marine",
+          "color_hex": "#1E293B",
+          "material": "marine_cast_iron"
+        },
+        {
+          "name": "Stainless Cable Guard",
+          "color_hex": "#CBD5E1",
+          "material": "tensile_cable"
+        },
+        {
+          "name": "Illuminated LED Bollard",
+          "color_hex": "#FCD34D",
+          "material": "acrylic_steel"
+        }
+      ]
+    },
+    {
+      "id": "SF_BARRIER_009",
+      "name": "Bollard & Waterfront Railing 9",
+      "subcategory": "safety_barriers",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 16
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "safety",
+        "bollard",
+        "railing"
+      ],
+      "variants": [
+        {
+          "name": "Nautical Cast Iron Marine",
+          "color_hex": "#1E293B",
+          "material": "marine_cast_iron"
+        },
+        {
+          "name": "Stainless Cable Guard",
+          "color_hex": "#CBD5E1",
+          "material": "tensile_cable"
+        },
+        {
+          "name": "Illuminated LED Bollard",
+          "color_hex": "#FCD34D",
+          "material": "acrylic_steel"
+        }
+      ]
+    },
+    {
+      "id": "SF_BARRIER_010",
+      "name": "Bollard & Waterfront Railing 10",
+      "subcategory": "safety_barriers",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 16
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "safety",
+        "bollard",
+        "railing"
+      ],
+      "variants": [
+        {
+          "name": "Nautical Cast Iron Marine",
+          "color_hex": "#1E293B",
+          "material": "marine_cast_iron"
+        },
+        {
+          "name": "Stainless Cable Guard",
+          "color_hex": "#CBD5E1",
+          "material": "tensile_cable"
+        },
+        {
+          "name": "Illuminated LED Bollard",
+          "color_hex": "#FCD34D",
+          "material": "acrylic_steel"
+        }
+      ]
+    },
+    {
+      "id": "SF_BARRIER_011",
+      "name": "Bollard & Waterfront Railing 11",
+      "subcategory": "safety_barriers",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 16
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "safety",
+        "bollard",
+        "railing"
+      ],
+      "variants": [
+        {
+          "name": "Nautical Cast Iron Marine",
+          "color_hex": "#1E293B",
+          "material": "marine_cast_iron"
+        },
+        {
+          "name": "Stainless Cable Guard",
+          "color_hex": "#CBD5E1",
+          "material": "tensile_cable"
+        },
+        {
+          "name": "Illuminated LED Bollard",
+          "color_hex": "#FCD34D",
+          "material": "acrylic_steel"
+        }
+      ]
+    },
+    {
+      "id": "SF_BARRIER_012",
+      "name": "Bollard & Waterfront Railing 12",
+      "subcategory": "safety_barriers",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 16
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "safety",
+        "bollard",
+        "railing"
+      ],
+      "variants": [
+        {
+          "name": "Nautical Cast Iron Marine",
+          "color_hex": "#1E293B",
+          "material": "marine_cast_iron"
+        },
+        {
+          "name": "Stainless Cable Guard",
+          "color_hex": "#CBD5E1",
+          "material": "tensile_cable"
+        },
+        {
+          "name": "Illuminated LED Bollard",
+          "color_hex": "#FCD34D",
+          "material": "acrylic_steel"
+        }
+      ]
+    },
+    {
+      "id": "SF_BARRIER_013",
+      "name": "Bollard & Waterfront Railing 13",
+      "subcategory": "safety_barriers",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 16
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "safety",
+        "bollard",
+        "railing"
+      ],
+      "variants": [
+        {
+          "name": "Nautical Cast Iron Marine",
+          "color_hex": "#1E293B",
+          "material": "marine_cast_iron"
+        },
+        {
+          "name": "Stainless Cable Guard",
+          "color_hex": "#CBD5E1",
+          "material": "tensile_cable"
+        },
+        {
+          "name": "Illuminated LED Bollard",
+          "color_hex": "#FCD34D",
+          "material": "acrylic_steel"
+        }
+      ]
+    },
+    {
+      "id": "SF_BARRIER_014",
+      "name": "Bollard & Waterfront Railing 14",
+      "subcategory": "safety_barriers",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 16
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "safety",
+        "bollard",
+        "railing"
+      ],
+      "variants": [
+        {
+          "name": "Nautical Cast Iron Marine",
+          "color_hex": "#1E293B",
+          "material": "marine_cast_iron"
+        },
+        {
+          "name": "Stainless Cable Guard",
+          "color_hex": "#CBD5E1",
+          "material": "tensile_cable"
+        },
+        {
+          "name": "Illuminated LED Bollard",
+          "color_hex": "#FCD34D",
+          "material": "acrylic_steel"
+        }
+      ]
+    },
+    {
+      "id": "SF_BARRIER_015",
+      "name": "Bollard & Waterfront Railing 15",
+      "subcategory": "safety_barriers",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 16
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "safety",
+        "bollard",
+        "railing"
+      ],
+      "variants": [
+        {
+          "name": "Nautical Cast Iron Marine",
+          "color_hex": "#1E293B",
+          "material": "marine_cast_iron"
+        },
+        {
+          "name": "Stainless Cable Guard",
+          "color_hex": "#CBD5E1",
+          "material": "tensile_cable"
+        },
+        {
+          "name": "Illuminated LED Bollard",
+          "color_hex": "#FCD34D",
+          "material": "acrylic_steel"
+        }
+      ]
+    },
+    {
+      "id": "SF_BARRIER_016",
+      "name": "Bollard & Waterfront Railing 16",
+      "subcategory": "safety_barriers",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 16
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "safety",
+        "bollard",
+        "railing"
+      ],
+      "variants": [
+        {
+          "name": "Nautical Cast Iron Marine",
+          "color_hex": "#1E293B",
+          "material": "marine_cast_iron"
+        },
+        {
+          "name": "Stainless Cable Guard",
+          "color_hex": "#CBD5E1",
+          "material": "tensile_cable"
+        },
+        {
+          "name": "Illuminated LED Bollard",
+          "color_hex": "#FCD34D",
+          "material": "acrylic_steel"
+        }
+      ]
+    },
+    {
+      "id": "SF_BARRIER_017",
+      "name": "Bollard & Waterfront Railing 17",
+      "subcategory": "safety_barriers",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 16
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "safety",
+        "bollard",
+        "railing"
+      ],
+      "variants": [
+        {
+          "name": "Nautical Cast Iron Marine",
+          "color_hex": "#1E293B",
+          "material": "marine_cast_iron"
+        },
+        {
+          "name": "Stainless Cable Guard",
+          "color_hex": "#CBD5E1",
+          "material": "tensile_cable"
+        },
+        {
+          "name": "Illuminated LED Bollard",
+          "color_hex": "#FCD34D",
+          "material": "acrylic_steel"
+        }
+      ]
+    },
+    {
+      "id": "SF_BARRIER_018",
+      "name": "Bollard & Waterfront Railing 18",
+      "subcategory": "safety_barriers",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 16
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "safety",
+        "bollard",
+        "railing"
+      ],
+      "variants": [
+        {
+          "name": "Nautical Cast Iron Marine",
+          "color_hex": "#1E293B",
+          "material": "marine_cast_iron"
+        },
+        {
+          "name": "Stainless Cable Guard",
+          "color_hex": "#CBD5E1",
+          "material": "tensile_cable"
+        },
+        {
+          "name": "Illuminated LED Bollard",
+          "color_hex": "#FCD34D",
+          "material": "acrylic_steel"
+        }
+      ]
+    },
+    {
+      "id": "SF_BARRIER_019",
+      "name": "Bollard & Waterfront Railing 19",
+      "subcategory": "safety_barriers",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 16
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "safety",
+        "bollard",
+        "railing"
+      ],
+      "variants": [
+        {
+          "name": "Nautical Cast Iron Marine",
+          "color_hex": "#1E293B",
+          "material": "marine_cast_iron"
+        },
+        {
+          "name": "Stainless Cable Guard",
+          "color_hex": "#CBD5E1",
+          "material": "tensile_cable"
+        },
+        {
+          "name": "Illuminated LED Bollard",
+          "color_hex": "#FCD34D",
+          "material": "acrylic_steel"
+        }
+      ]
+    },
+    {
+      "id": "SF_BARRIER_020",
+      "name": "Bollard & Waterfront Railing 20",
+      "subcategory": "safety_barriers",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 16
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "safety",
+        "bollard",
+        "railing"
+      ],
+      "variants": [
+        {
+          "name": "Nautical Cast Iron Marine",
+          "color_hex": "#1E293B",
+          "material": "marine_cast_iron"
+        },
+        {
+          "name": "Stainless Cable Guard",
+          "color_hex": "#CBD5E1",
+          "material": "tensile_cable"
+        },
+        {
+          "name": "Illuminated LED Bollard",
+          "color_hex": "#FCD34D",
+          "material": "acrylic_steel"
+        }
+      ]
+    },
+    {
+      "id": "SF_BARRIER_021",
+      "name": "Bollard & Waterfront Railing 21",
+      "subcategory": "safety_barriers",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 16
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "safety",
+        "bollard",
+        "railing"
+      ],
+      "variants": [
+        {
+          "name": "Nautical Cast Iron Marine",
+          "color_hex": "#1E293B",
+          "material": "marine_cast_iron"
+        },
+        {
+          "name": "Stainless Cable Guard",
+          "color_hex": "#CBD5E1",
+          "material": "tensile_cable"
+        },
+        {
+          "name": "Illuminated LED Bollard",
+          "color_hex": "#FCD34D",
+          "material": "acrylic_steel"
+        }
+      ]
+    },
+    {
+      "id": "SF_BARRIER_022",
+      "name": "Bollard & Waterfront Railing 22",
+      "subcategory": "safety_barriers",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 16
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "safety",
+        "bollard",
+        "railing"
+      ],
+      "variants": [
+        {
+          "name": "Nautical Cast Iron Marine",
+          "color_hex": "#1E293B",
+          "material": "marine_cast_iron"
+        },
+        {
+          "name": "Stainless Cable Guard",
+          "color_hex": "#CBD5E1",
+          "material": "tensile_cable"
+        },
+        {
+          "name": "Illuminated LED Bollard",
+          "color_hex": "#FCD34D",
+          "material": "acrylic_steel"
+        }
+      ]
+    },
+    {
+      "id": "SF_BARRIER_023",
+      "name": "Bollard & Waterfront Railing 23",
+      "subcategory": "safety_barriers",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 16
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "safety",
+        "bollard",
+        "railing"
+      ],
+      "variants": [
+        {
+          "name": "Nautical Cast Iron Marine",
+          "color_hex": "#1E293B",
+          "material": "marine_cast_iron"
+        },
+        {
+          "name": "Stainless Cable Guard",
+          "color_hex": "#CBD5E1",
+          "material": "tensile_cable"
+        },
+        {
+          "name": "Illuminated LED Bollard",
+          "color_hex": "#FCD34D",
+          "material": "acrylic_steel"
+        }
+      ]
+    },
+    {
+      "id": "SF_BARRIER_024",
+      "name": "Bollard & Waterfront Railing 24",
+      "subcategory": "safety_barriers",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 16
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "safety",
+        "bollard",
+        "railing"
+      ],
+      "variants": [
+        {
+          "name": "Nautical Cast Iron Marine",
+          "color_hex": "#1E293B",
+          "material": "marine_cast_iron"
+        },
+        {
+          "name": "Stainless Cable Guard",
+          "color_hex": "#CBD5E1",
+          "material": "tensile_cable"
+        },
+        {
+          "name": "Illuminated LED Bollard",
+          "color_hex": "#FCD34D",
+          "material": "acrylic_steel"
+        }
+      ]
+    },
+    {
+      "id": "SF_BARRIER_025",
+      "name": "Bollard & Waterfront Railing 25",
+      "subcategory": "safety_barriers",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 16
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "safety",
+        "bollard",
+        "railing"
+      ],
+      "variants": [
+        {
+          "name": "Nautical Cast Iron Marine",
+          "color_hex": "#1E293B",
+          "material": "marine_cast_iron"
+        },
+        {
+          "name": "Stainless Cable Guard",
+          "color_hex": "#CBD5E1",
+          "material": "tensile_cable"
+        },
+        {
+          "name": "Illuminated LED Bollard",
+          "color_hex": "#FCD34D",
+          "material": "acrylic_steel"
+        }
+      ]
+    },
+    {
+      "id": "SF_BARRIER_026",
+      "name": "Bollard & Waterfront Railing 26",
+      "subcategory": "safety_barriers",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 16
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "safety",
+        "bollard",
+        "railing"
+      ],
+      "variants": [
+        {
+          "name": "Nautical Cast Iron Marine",
+          "color_hex": "#1E293B",
+          "material": "marine_cast_iron"
+        },
+        {
+          "name": "Stainless Cable Guard",
+          "color_hex": "#CBD5E1",
+          "material": "tensile_cable"
+        },
+        {
+          "name": "Illuminated LED Bollard",
+          "color_hex": "#FCD34D",
+          "material": "acrylic_steel"
+        }
+      ]
+    },
+    {
+      "id": "SF_BARRIER_027",
+      "name": "Bollard & Waterfront Railing 27",
+      "subcategory": "safety_barriers",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 16
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "safety",
+        "bollard",
+        "railing"
+      ],
+      "variants": [
+        {
+          "name": "Nautical Cast Iron Marine",
+          "color_hex": "#1E293B",
+          "material": "marine_cast_iron"
+        },
+        {
+          "name": "Stainless Cable Guard",
+          "color_hex": "#CBD5E1",
+          "material": "tensile_cable"
+        },
+        {
+          "name": "Illuminated LED Bollard",
+          "color_hex": "#FCD34D",
+          "material": "acrylic_steel"
+        }
+      ]
+    },
+    {
+      "id": "SF_BARRIER_028",
+      "name": "Bollard & Waterfront Railing 28",
+      "subcategory": "safety_barriers",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 16
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "safety",
+        "bollard",
+        "railing"
+      ],
+      "variants": [
+        {
+          "name": "Nautical Cast Iron Marine",
+          "color_hex": "#1E293B",
+          "material": "marine_cast_iron"
+        },
+        {
+          "name": "Stainless Cable Guard",
+          "color_hex": "#CBD5E1",
+          "material": "tensile_cable"
+        },
+        {
+          "name": "Illuminated LED Bollard",
+          "color_hex": "#FCD34D",
+          "material": "acrylic_steel"
+        }
+      ]
+    },
+    {
+      "id": "SF_BARRIER_029",
+      "name": "Bollard & Waterfront Railing 29",
+      "subcategory": "safety_barriers",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 16
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "safety",
+        "bollard",
+        "railing"
+      ],
+      "variants": [
+        {
+          "name": "Nautical Cast Iron Marine",
+          "color_hex": "#1E293B",
+          "material": "marine_cast_iron"
+        },
+        {
+          "name": "Stainless Cable Guard",
+          "color_hex": "#CBD5E1",
+          "material": "tensile_cable"
+        },
+        {
+          "name": "Illuminated LED Bollard",
+          "color_hex": "#FCD34D",
+          "material": "acrylic_steel"
+        }
+      ]
+    },
+    {
+      "id": "SF_BARRIER_030",
+      "name": "Bollard & Waterfront Railing 30",
+      "subcategory": "safety_barriers",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 16
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "safety",
+        "bollard",
+        "railing"
+      ],
+      "variants": [
+        {
+          "name": "Nautical Cast Iron Marine",
+          "color_hex": "#1E293B",
+          "material": "marine_cast_iron"
+        },
+        {
+          "name": "Stainless Cable Guard",
+          "color_hex": "#CBD5E1",
+          "material": "tensile_cable"
+        },
+        {
+          "name": "Illuminated LED Bollard",
+          "color_hex": "#FCD34D",
+          "material": "acrylic_steel"
+        }
+      ]
+    },
+    {
+      "id": "SF_BARRIER_031",
+      "name": "Bollard & Waterfront Railing 31",
+      "subcategory": "safety_barriers",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 16
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "safety",
+        "bollard",
+        "railing"
+      ],
+      "variants": [
+        {
+          "name": "Nautical Cast Iron Marine",
+          "color_hex": "#1E293B",
+          "material": "marine_cast_iron"
+        },
+        {
+          "name": "Stainless Cable Guard",
+          "color_hex": "#CBD5E1",
+          "material": "tensile_cable"
+        },
+        {
+          "name": "Illuminated LED Bollard",
+          "color_hex": "#FCD34D",
+          "material": "acrylic_steel"
+        }
+      ]
+    },
+    {
+      "id": "SF_BARRIER_032",
+      "name": "Bollard & Waterfront Railing 32",
+      "subcategory": "safety_barriers",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 16
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "safety",
+        "bollard",
+        "railing"
+      ],
+      "variants": [
+        {
+          "name": "Nautical Cast Iron Marine",
+          "color_hex": "#1E293B",
+          "material": "marine_cast_iron"
+        },
+        {
+          "name": "Stainless Cable Guard",
+          "color_hex": "#CBD5E1",
+          "material": "tensile_cable"
+        },
+        {
+          "name": "Illuminated LED Bollard",
+          "color_hex": "#FCD34D",
+          "material": "acrylic_steel"
+        }
+      ]
+    },
+    {
+      "id": "SF_BARRIER_033",
+      "name": "Bollard & Waterfront Railing 33",
+      "subcategory": "safety_barriers",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 16
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "safety",
+        "bollard",
+        "railing"
+      ],
+      "variants": [
+        {
+          "name": "Nautical Cast Iron Marine",
+          "color_hex": "#1E293B",
+          "material": "marine_cast_iron"
+        },
+        {
+          "name": "Stainless Cable Guard",
+          "color_hex": "#CBD5E1",
+          "material": "tensile_cable"
+        },
+        {
+          "name": "Illuminated LED Bollard",
+          "color_hex": "#FCD34D",
+          "material": "acrylic_steel"
+        }
+      ]
+    },
+    {
+      "id": "SF_BARRIER_034",
+      "name": "Bollard & Waterfront Railing 34",
+      "subcategory": "safety_barriers",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 1.0
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 16
+      },
+      "cutaway_layer": "exterior_props",
+      "tags": [
+        "safety",
+        "bollard",
+        "railing"
+      ],
+      "variants": [
+        {
+          "name": "Nautical Cast Iron Marine",
+          "color_hex": "#1E293B",
+          "material": "marine_cast_iron"
+        },
+        {
+          "name": "Stainless Cable Guard",
+          "color_hex": "#CBD5E1",
+          "material": "tensile_cable"
+        },
+        {
+          "name": "Illuminated LED Bollard",
+          "color_hex": "#FCD34D",
+          "material": "acrylic_steel"
+        }
+      ]
+    }
+  ]
+}

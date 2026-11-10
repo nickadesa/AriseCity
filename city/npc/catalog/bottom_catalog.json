@@ -1,0 +1,1766 @@
+{
+  "category": "bottom",
+  "total_count": 110,
+  "items": [
+    {
+      "id": "BOT_001",
+      "name": "Raw Selvedge Denim Cut 1",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "raw_selvedge_denim"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_002",
+      "name": "Pleated Chinos Cut 1",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "pleated_chinos"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_003",
+      "name": "Cargo Joggers Techwear Cut 1",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "cargo_joggers_techwear"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_004",
+      "name": "Linen Coastal Trousers Cut 1",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "linen_coastal_trousers"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_005",
+      "name": "Bermuda Shorts Casual Cut 1",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "bermuda_shorts_casual"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_006",
+      "name": "A Line Midi Skirt Cut 1",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "a_line_midi_skirt"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_007",
+      "name": "Tailored Suit Slacks Cut 1",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "tailored_suit_slacks"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_008",
+      "name": "Athletic Running Shorts Cut 1",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "athletic_running_shorts"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_009",
+      "name": "Overalls Dungarees Cut 1",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "overalls_dungarees"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_010",
+      "name": "Pencil Skirt Office Cut 1",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "pencil_skirt_office"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_011",
+      "name": "Sweatpants Fleece Cut 1",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "sweatpants_fleece"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_012",
+      "name": "Cycling Bib Shorts Cut 1",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "cycling_bib_shorts"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_013",
+      "name": "Pleated Tennis Skirt Cut 1",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "pleated_tennis_skirt"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_014",
+      "name": "Wide Leg Palazzo Pants Cut 1",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "wide_leg_palazzo_pants"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_015",
+      "name": "Carpenter Corduroy Pants Cut 1",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "carpenter_corduroy_pants"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_016",
+      "name": "Boardshorts Surf Cut 1",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "boardshorts_surf"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_017",
+      "name": "Raw Selvedge Denim Cut 2",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "raw_selvedge_denim"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_018",
+      "name": "Pleated Chinos Cut 2",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "pleated_chinos"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_019",
+      "name": "Cargo Joggers Techwear Cut 2",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "cargo_joggers_techwear"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_020",
+      "name": "Linen Coastal Trousers Cut 2",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "linen_coastal_trousers"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_021",
+      "name": "Bermuda Shorts Casual Cut 2",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "bermuda_shorts_casual"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_022",
+      "name": "A Line Midi Skirt Cut 2",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "a_line_midi_skirt"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_023",
+      "name": "Tailored Suit Slacks Cut 2",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "tailored_suit_slacks"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_024",
+      "name": "Athletic Running Shorts Cut 2",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "athletic_running_shorts"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_025",
+      "name": "Overalls Dungarees Cut 2",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "overalls_dungarees"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_026",
+      "name": "Pencil Skirt Office Cut 2",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "pencil_skirt_office"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_027",
+      "name": "Sweatpants Fleece Cut 2",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "sweatpants_fleece"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_028",
+      "name": "Cycling Bib Shorts Cut 2",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "cycling_bib_shorts"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_029",
+      "name": "Pleated Tennis Skirt Cut 2",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "pleated_tennis_skirt"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_030",
+      "name": "Wide Leg Palazzo Pants Cut 2",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "wide_leg_palazzo_pants"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_031",
+      "name": "Carpenter Corduroy Pants Cut 2",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "carpenter_corduroy_pants"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_032",
+      "name": "Boardshorts Surf Cut 2",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "boardshorts_surf"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_033",
+      "name": "Raw Selvedge Denim Cut 3",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "raw_selvedge_denim"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_034",
+      "name": "Pleated Chinos Cut 3",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "pleated_chinos"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_035",
+      "name": "Cargo Joggers Techwear Cut 3",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "cargo_joggers_techwear"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_036",
+      "name": "Linen Coastal Trousers Cut 3",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "linen_coastal_trousers"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_037",
+      "name": "Bermuda Shorts Casual Cut 3",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "bermuda_shorts_casual"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_038",
+      "name": "A Line Midi Skirt Cut 3",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "a_line_midi_skirt"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_039",
+      "name": "Tailored Suit Slacks Cut 3",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "tailored_suit_slacks"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_040",
+      "name": "Athletic Running Shorts Cut 3",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "athletic_running_shorts"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_041",
+      "name": "Overalls Dungarees Cut 3",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "overalls_dungarees"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_042",
+      "name": "Pencil Skirt Office Cut 3",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "pencil_skirt_office"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_043",
+      "name": "Sweatpants Fleece Cut 3",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "sweatpants_fleece"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_044",
+      "name": "Cycling Bib Shorts Cut 3",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "cycling_bib_shorts"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_045",
+      "name": "Pleated Tennis Skirt Cut 3",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "pleated_tennis_skirt"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_046",
+      "name": "Wide Leg Palazzo Pants Cut 3",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "wide_leg_palazzo_pants"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_047",
+      "name": "Carpenter Corduroy Pants Cut 3",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "carpenter_corduroy_pants"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_048",
+      "name": "Boardshorts Surf Cut 3",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "boardshorts_surf"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_049",
+      "name": "Raw Selvedge Denim Cut 4",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "raw_selvedge_denim"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_050",
+      "name": "Pleated Chinos Cut 4",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "pleated_chinos"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_051",
+      "name": "Cargo Joggers Techwear Cut 4",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "cargo_joggers_techwear"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_052",
+      "name": "Linen Coastal Trousers Cut 4",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "linen_coastal_trousers"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_053",
+      "name": "Bermuda Shorts Casual Cut 4",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "bermuda_shorts_casual"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_054",
+      "name": "A Line Midi Skirt Cut 4",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "a_line_midi_skirt"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_055",
+      "name": "Tailored Suit Slacks Cut 4",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "tailored_suit_slacks"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_056",
+      "name": "Athletic Running Shorts Cut 4",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "athletic_running_shorts"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_057",
+      "name": "Overalls Dungarees Cut 4",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "overalls_dungarees"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_058",
+      "name": "Pencil Skirt Office Cut 4",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "pencil_skirt_office"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_059",
+      "name": "Sweatpants Fleece Cut 4",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "sweatpants_fleece"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_060",
+      "name": "Cycling Bib Shorts Cut 4",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "cycling_bib_shorts"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_061",
+      "name": "Pleated Tennis Skirt Cut 4",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "pleated_tennis_skirt"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_062",
+      "name": "Wide Leg Palazzo Pants Cut 4",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "wide_leg_palazzo_pants"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_063",
+      "name": "Carpenter Corduroy Pants Cut 4",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "carpenter_corduroy_pants"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_064",
+      "name": "Boardshorts Surf Cut 4",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "boardshorts_surf"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_065",
+      "name": "Raw Selvedge Denim Cut 5",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "raw_selvedge_denim"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_066",
+      "name": "Pleated Chinos Cut 5",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "pleated_chinos"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_067",
+      "name": "Cargo Joggers Techwear Cut 5",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "cargo_joggers_techwear"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_068",
+      "name": "Linen Coastal Trousers Cut 5",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "linen_coastal_trousers"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_069",
+      "name": "Bermuda Shorts Casual Cut 5",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "bermuda_shorts_casual"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_070",
+      "name": "A Line Midi Skirt Cut 5",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "a_line_midi_skirt"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_071",
+      "name": "Tailored Suit Slacks Cut 5",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "tailored_suit_slacks"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_072",
+      "name": "Athletic Running Shorts Cut 5",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "athletic_running_shorts"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_073",
+      "name": "Overalls Dungarees Cut 5",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "overalls_dungarees"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_074",
+      "name": "Pencil Skirt Office Cut 5",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "pencil_skirt_office"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_075",
+      "name": "Sweatpants Fleece Cut 5",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "sweatpants_fleece"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_076",
+      "name": "Cycling Bib Shorts Cut 5",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "cycling_bib_shorts"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_077",
+      "name": "Pleated Tennis Skirt Cut 5",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "pleated_tennis_skirt"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_078",
+      "name": "Wide Leg Palazzo Pants Cut 5",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "wide_leg_palazzo_pants"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_079",
+      "name": "Carpenter Corduroy Pants Cut 5",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "carpenter_corduroy_pants"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_080",
+      "name": "Boardshorts Surf Cut 5",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "boardshorts_surf"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_081",
+      "name": "Raw Selvedge Denim Cut 6",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "raw_selvedge_denim"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_082",
+      "name": "Pleated Chinos Cut 6",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "pleated_chinos"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_083",
+      "name": "Cargo Joggers Techwear Cut 6",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "cargo_joggers_techwear"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_084",
+      "name": "Linen Coastal Trousers Cut 6",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "linen_coastal_trousers"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_085",
+      "name": "Bermuda Shorts Casual Cut 6",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "bermuda_shorts_casual"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_086",
+      "name": "A Line Midi Skirt Cut 6",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "a_line_midi_skirt"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_087",
+      "name": "Tailored Suit Slacks Cut 6",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "tailored_suit_slacks"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_088",
+      "name": "Athletic Running Shorts Cut 6",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "athletic_running_shorts"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_089",
+      "name": "Overalls Dungarees Cut 6",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "overalls_dungarees"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_090",
+      "name": "Pencil Skirt Office Cut 6",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "pencil_skirt_office"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_091",
+      "name": "Sweatpants Fleece Cut 6",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "sweatpants_fleece"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_092",
+      "name": "Cycling Bib Shorts Cut 6",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "cycling_bib_shorts"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_093",
+      "name": "Pleated Tennis Skirt Cut 6",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "pleated_tennis_skirt"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_094",
+      "name": "Wide Leg Palazzo Pants Cut 6",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "wide_leg_palazzo_pants"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_095",
+      "name": "Carpenter Corduroy Pants Cut 6",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "carpenter_corduroy_pants"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_096",
+      "name": "Boardshorts Surf Cut 6",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "boardshorts_surf"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_097",
+      "name": "Raw Selvedge Denim Cut 7",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "raw_selvedge_denim"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_098",
+      "name": "Pleated Chinos Cut 7",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "pleated_chinos"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_099",
+      "name": "Cargo Joggers Techwear Cut 7",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "cargo_joggers_techwear"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_100",
+      "name": "Linen Coastal Trousers Cut 7",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "linen_coastal_trousers"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_101",
+      "name": "Bermuda Shorts Casual Cut 7",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "bermuda_shorts_casual"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_102",
+      "name": "A Line Midi Skirt Cut 7",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "a_line_midi_skirt"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_103",
+      "name": "Tailored Suit Slacks Cut 7",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "tailored_suit_slacks"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_104",
+      "name": "Athletic Running Shorts Cut 7",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "athletic_running_shorts"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_105",
+      "name": "Overalls Dungarees Cut 7",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "overalls_dungarees"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_106",
+      "name": "Pencil Skirt Office Cut 7",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "pencil_skirt_office"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_107",
+      "name": "Sweatpants Fleece Cut 7",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "sweatpants_fleece"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_108",
+      "name": "Cycling Bib Shorts Cut 7",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "cycling_bib_shorts"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_109",
+      "name": "Pleated Tennis Skirt Cut 7",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "pleated_tennis_skirt"
+      ],
+      "palette_slot": "bottom_ramp"
+    },
+    {
+      "id": "BOT_110",
+      "name": "Wide Leg Palazzo Pants Cut 7",
+      "subcategory": "bottoms",
+      "layer_z": 5,
+      "anchor_offset": {
+        "x": 24,
+        "y": 32
+      },
+      "tags": [
+        "clothing",
+        "bottom",
+        "wide_leg_palazzo_pants"
+      ],
+      "palette_slot": "bottom_ramp"
+    }
+  ]
+}

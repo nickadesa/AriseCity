@@ -1,0 +1,956 @@
+{
+  "category": "internal_signage",
+  "total_count": 25,
+  "items": [
+    {
+      "id": "SIG_INTERNAL_001",
+      "name": "Floor Indicator 01 Catch 1",
+      "subcategory": "internal_wayfinding",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 0.8
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 16
+      },
+      "cutaway_layer": "interior_wall_signage",
+      "tags": [
+        "interior",
+        "signage",
+        "wayfinding",
+        "floor_indicator_01_catch"
+      ],
+      "variants": [
+        {
+          "name": "Catch Yellow & Black Capsule",
+          "color_hex": "#F5BA31",
+          "material": "acrylic_capsule"
+        },
+        {
+          "name": "Slate Grey & White Minimal",
+          "color_hex": "#334155",
+          "material": "brushed_aluminum"
+        },
+        {
+          "name": "Digital OLED Status Indicator",
+          "color_hex": "#10B981",
+          "material": "oled_display"
+        }
+      ]
+    },
+    {
+      "id": "SIG_INTERNAL_002",
+      "name": "Restroom Pictogram Capsule 1",
+      "subcategory": "internal_wayfinding",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 0.8
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 16
+      },
+      "cutaway_layer": "interior_wall_signage",
+      "tags": [
+        "interior",
+        "signage",
+        "wayfinding",
+        "restroom_pictogram_capsule"
+      ],
+      "variants": [
+        {
+          "name": "Catch Yellow & Black Capsule",
+          "color_hex": "#F5BA31",
+          "material": "acrylic_capsule"
+        },
+        {
+          "name": "Slate Grey & White Minimal",
+          "color_hex": "#334155",
+          "material": "brushed_aluminum"
+        },
+        {
+          "name": "Digital OLED Status Indicator",
+          "color_hex": "#10B981",
+          "material": "oled_display"
+        }
+      ]
+    },
+    {
+      "id": "SIG_INTERNAL_003",
+      "name": "Chill Out Room Capsule 1",
+      "subcategory": "internal_wayfinding",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 0.8
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 16
+      },
+      "cutaway_layer": "interior_wall_signage",
+      "tags": [
+        "interior",
+        "signage",
+        "wayfinding",
+        "chill_out_room_capsule"
+      ],
+      "variants": [
+        {
+          "name": "Catch Yellow & Black Capsule",
+          "color_hex": "#F5BA31",
+          "material": "acrylic_capsule"
+        },
+        {
+          "name": "Slate Grey & White Minimal",
+          "color_hex": "#334155",
+          "material": "brushed_aluminum"
+        },
+        {
+          "name": "Digital OLED Status Indicator",
+          "color_hex": "#10B981",
+          "material": "oled_display"
+        }
+      ]
+    },
+    {
+      "id": "SIG_INTERNAL_004",
+      "name": "Game Room Capsule 1",
+      "subcategory": "internal_wayfinding",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 0.8
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 16
+      },
+      "cutaway_layer": "interior_wall_signage",
+      "tags": [
+        "interior",
+        "signage",
+        "wayfinding",
+        "game_room_capsule"
+      ],
+      "variants": [
+        {
+          "name": "Catch Yellow & Black Capsule",
+          "color_hex": "#F5BA31",
+          "material": "acrylic_capsule"
+        },
+        {
+          "name": "Slate Grey & White Minimal",
+          "color_hex": "#334155",
+          "material": "brushed_aluminum"
+        },
+        {
+          "name": "Digital OLED Status Indicator",
+          "color_hex": "#10B981",
+          "material": "oled_display"
+        }
+      ]
+    },
+    {
+      "id": "SIG_INTERNAL_005",
+      "name": "Ai Studio Restricted Glow 1",
+      "subcategory": "internal_wayfinding",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 0.8
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 16
+      },
+      "cutaway_layer": "interior_wall_signage",
+      "tags": [
+        "interior",
+        "signage",
+        "wayfinding",
+        "ai_studio_restricted_glow"
+      ],
+      "variants": [
+        {
+          "name": "Catch Yellow & Black Capsule",
+          "color_hex": "#F5BA31",
+          "material": "acrylic_capsule"
+        },
+        {
+          "name": "Slate Grey & White Minimal",
+          "color_hex": "#334155",
+          "material": "brushed_aluminum"
+        },
+        {
+          "name": "Digital OLED Status Indicator",
+          "color_hex": "#10B981",
+          "material": "oled_display"
+        }
+      ]
+    },
+    {
+      "id": "SIG_INTERNAL_006",
+      "name": "Emergency Exit Running Man 1",
+      "subcategory": "internal_wayfinding",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 0.8
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 16
+      },
+      "cutaway_layer": "interior_wall_signage",
+      "tags": [
+        "interior",
+        "signage",
+        "wayfinding",
+        "emergency_exit_running_man"
+      ],
+      "variants": [
+        {
+          "name": "Catch Yellow & Black Capsule",
+          "color_hex": "#F5BA31",
+          "material": "acrylic_capsule"
+        },
+        {
+          "name": "Slate Grey & White Minimal",
+          "color_hex": "#334155",
+          "material": "brushed_aluminum"
+        },
+        {
+          "name": "Digital OLED Status Indicator",
+          "color_hex": "#10B981",
+          "material": "oled_display"
+        }
+      ]
+    },
+    {
+      "id": "SIG_INTERNAL_007",
+      "name": "Conference Room Status Display 1",
+      "subcategory": "internal_wayfinding",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 0.8
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 16
+      },
+      "cutaway_layer": "interior_wall_signage",
+      "tags": [
+        "interior",
+        "signage",
+        "wayfinding",
+        "conference_room_status_display"
+      ],
+      "variants": [
+        {
+          "name": "Catch Yellow & Black Capsule",
+          "color_hex": "#F5BA31",
+          "material": "acrylic_capsule"
+        },
+        {
+          "name": "Slate Grey & White Minimal",
+          "color_hex": "#334155",
+          "material": "brushed_aluminum"
+        },
+        {
+          "name": "Digital OLED Status Indicator",
+          "color_hex": "#10B981",
+          "material": "oled_display"
+        }
+      ]
+    },
+    {
+      "id": "SIG_INTERNAL_008",
+      "name": "Quiet Focus Zone Plaque 1",
+      "subcategory": "internal_wayfinding",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 0.8
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 16
+      },
+      "cutaway_layer": "interior_wall_signage",
+      "tags": [
+        "interior",
+        "signage",
+        "wayfinding",
+        "quiet_focus_zone_plaque"
+      ],
+      "variants": [
+        {
+          "name": "Catch Yellow & Black Capsule",
+          "color_hex": "#F5BA31",
+          "material": "acrylic_capsule"
+        },
+        {
+          "name": "Slate Grey & White Minimal",
+          "color_hex": "#334155",
+          "material": "brushed_aluminum"
+        },
+        {
+          "name": "Digital OLED Status Indicator",
+          "color_hex": "#10B981",
+          "material": "oled_display"
+        }
+      ]
+    },
+    {
+      "id": "SIG_INTERNAL_009",
+      "name": "Floor Indicator 01 Catch 2",
+      "subcategory": "internal_wayfinding",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 0.8
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 16
+      },
+      "cutaway_layer": "interior_wall_signage",
+      "tags": [
+        "interior",
+        "signage",
+        "wayfinding",
+        "floor_indicator_01_catch"
+      ],
+      "variants": [
+        {
+          "name": "Catch Yellow & Black Capsule",
+          "color_hex": "#F5BA31",
+          "material": "acrylic_capsule"
+        },
+        {
+          "name": "Slate Grey & White Minimal",
+          "color_hex": "#334155",
+          "material": "brushed_aluminum"
+        },
+        {
+          "name": "Digital OLED Status Indicator",
+          "color_hex": "#10B981",
+          "material": "oled_display"
+        }
+      ]
+    },
+    {
+      "id": "SIG_INTERNAL_010",
+      "name": "Restroom Pictogram Capsule 2",
+      "subcategory": "internal_wayfinding",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 0.8
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 16
+      },
+      "cutaway_layer": "interior_wall_signage",
+      "tags": [
+        "interior",
+        "signage",
+        "wayfinding",
+        "restroom_pictogram_capsule"
+      ],
+      "variants": [
+        {
+          "name": "Catch Yellow & Black Capsule",
+          "color_hex": "#F5BA31",
+          "material": "acrylic_capsule"
+        },
+        {
+          "name": "Slate Grey & White Minimal",
+          "color_hex": "#334155",
+          "material": "brushed_aluminum"
+        },
+        {
+          "name": "Digital OLED Status Indicator",
+          "color_hex": "#10B981",
+          "material": "oled_display"
+        }
+      ]
+    },
+    {
+      "id": "SIG_INTERNAL_011",
+      "name": "Chill Out Room Capsule 2",
+      "subcategory": "internal_wayfinding",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 0.8
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 16
+      },
+      "cutaway_layer": "interior_wall_signage",
+      "tags": [
+        "interior",
+        "signage",
+        "wayfinding",
+        "chill_out_room_capsule"
+      ],
+      "variants": [
+        {
+          "name": "Catch Yellow & Black Capsule",
+          "color_hex": "#F5BA31",
+          "material": "acrylic_capsule"
+        },
+        {
+          "name": "Slate Grey & White Minimal",
+          "color_hex": "#334155",
+          "material": "brushed_aluminum"
+        },
+        {
+          "name": "Digital OLED Status Indicator",
+          "color_hex": "#10B981",
+          "material": "oled_display"
+        }
+      ]
+    },
+    {
+      "id": "SIG_INTERNAL_012",
+      "name": "Game Room Capsule 2",
+      "subcategory": "internal_wayfinding",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 0.8
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 16
+      },
+      "cutaway_layer": "interior_wall_signage",
+      "tags": [
+        "interior",
+        "signage",
+        "wayfinding",
+        "game_room_capsule"
+      ],
+      "variants": [
+        {
+          "name": "Catch Yellow & Black Capsule",
+          "color_hex": "#F5BA31",
+          "material": "acrylic_capsule"
+        },
+        {
+          "name": "Slate Grey & White Minimal",
+          "color_hex": "#334155",
+          "material": "brushed_aluminum"
+        },
+        {
+          "name": "Digital OLED Status Indicator",
+          "color_hex": "#10B981",
+          "material": "oled_display"
+        }
+      ]
+    },
+    {
+      "id": "SIG_INTERNAL_013",
+      "name": "Ai Studio Restricted Glow 2",
+      "subcategory": "internal_wayfinding",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 0.8
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 16
+      },
+      "cutaway_layer": "interior_wall_signage",
+      "tags": [
+        "interior",
+        "signage",
+        "wayfinding",
+        "ai_studio_restricted_glow"
+      ],
+      "variants": [
+        {
+          "name": "Catch Yellow & Black Capsule",
+          "color_hex": "#F5BA31",
+          "material": "acrylic_capsule"
+        },
+        {
+          "name": "Slate Grey & White Minimal",
+          "color_hex": "#334155",
+          "material": "brushed_aluminum"
+        },
+        {
+          "name": "Digital OLED Status Indicator",
+          "color_hex": "#10B981",
+          "material": "oled_display"
+        }
+      ]
+    },
+    {
+      "id": "SIG_INTERNAL_014",
+      "name": "Emergency Exit Running Man 2",
+      "subcategory": "internal_wayfinding",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 0.8
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 16
+      },
+      "cutaway_layer": "interior_wall_signage",
+      "tags": [
+        "interior",
+        "signage",
+        "wayfinding",
+        "emergency_exit_running_man"
+      ],
+      "variants": [
+        {
+          "name": "Catch Yellow & Black Capsule",
+          "color_hex": "#F5BA31",
+          "material": "acrylic_capsule"
+        },
+        {
+          "name": "Slate Grey & White Minimal",
+          "color_hex": "#334155",
+          "material": "brushed_aluminum"
+        },
+        {
+          "name": "Digital OLED Status Indicator",
+          "color_hex": "#10B981",
+          "material": "oled_display"
+        }
+      ]
+    },
+    {
+      "id": "SIG_INTERNAL_015",
+      "name": "Conference Room Status Display 2",
+      "subcategory": "internal_wayfinding",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 0.8
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 16
+      },
+      "cutaway_layer": "interior_wall_signage",
+      "tags": [
+        "interior",
+        "signage",
+        "wayfinding",
+        "conference_room_status_display"
+      ],
+      "variants": [
+        {
+          "name": "Catch Yellow & Black Capsule",
+          "color_hex": "#F5BA31",
+          "material": "acrylic_capsule"
+        },
+        {
+          "name": "Slate Grey & White Minimal",
+          "color_hex": "#334155",
+          "material": "brushed_aluminum"
+        },
+        {
+          "name": "Digital OLED Status Indicator",
+          "color_hex": "#10B981",
+          "material": "oled_display"
+        }
+      ]
+    },
+    {
+      "id": "SIG_INTERNAL_016",
+      "name": "Quiet Focus Zone Plaque 2",
+      "subcategory": "internal_wayfinding",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 0.8
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 16
+      },
+      "cutaway_layer": "interior_wall_signage",
+      "tags": [
+        "interior",
+        "signage",
+        "wayfinding",
+        "quiet_focus_zone_plaque"
+      ],
+      "variants": [
+        {
+          "name": "Catch Yellow & Black Capsule",
+          "color_hex": "#F5BA31",
+          "material": "acrylic_capsule"
+        },
+        {
+          "name": "Slate Grey & White Minimal",
+          "color_hex": "#334155",
+          "material": "brushed_aluminum"
+        },
+        {
+          "name": "Digital OLED Status Indicator",
+          "color_hex": "#10B981",
+          "material": "oled_display"
+        }
+      ]
+    },
+    {
+      "id": "SIG_INTERNAL_017",
+      "name": "Floor Indicator 01 Catch 3",
+      "subcategory": "internal_wayfinding",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 0.8
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 16
+      },
+      "cutaway_layer": "interior_wall_signage",
+      "tags": [
+        "interior",
+        "signage",
+        "wayfinding",
+        "floor_indicator_01_catch"
+      ],
+      "variants": [
+        {
+          "name": "Catch Yellow & Black Capsule",
+          "color_hex": "#F5BA31",
+          "material": "acrylic_capsule"
+        },
+        {
+          "name": "Slate Grey & White Minimal",
+          "color_hex": "#334155",
+          "material": "brushed_aluminum"
+        },
+        {
+          "name": "Digital OLED Status Indicator",
+          "color_hex": "#10B981",
+          "material": "oled_display"
+        }
+      ]
+    },
+    {
+      "id": "SIG_INTERNAL_018",
+      "name": "Restroom Pictogram Capsule 3",
+      "subcategory": "internal_wayfinding",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 0.8
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 16
+      },
+      "cutaway_layer": "interior_wall_signage",
+      "tags": [
+        "interior",
+        "signage",
+        "wayfinding",
+        "restroom_pictogram_capsule"
+      ],
+      "variants": [
+        {
+          "name": "Catch Yellow & Black Capsule",
+          "color_hex": "#F5BA31",
+          "material": "acrylic_capsule"
+        },
+        {
+          "name": "Slate Grey & White Minimal",
+          "color_hex": "#334155",
+          "material": "brushed_aluminum"
+        },
+        {
+          "name": "Digital OLED Status Indicator",
+          "color_hex": "#10B981",
+          "material": "oled_display"
+        }
+      ]
+    },
+    {
+      "id": "SIG_INTERNAL_019",
+      "name": "Chill Out Room Capsule 3",
+      "subcategory": "internal_wayfinding",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 0.8
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 16
+      },
+      "cutaway_layer": "interior_wall_signage",
+      "tags": [
+        "interior",
+        "signage",
+        "wayfinding",
+        "chill_out_room_capsule"
+      ],
+      "variants": [
+        {
+          "name": "Catch Yellow & Black Capsule",
+          "color_hex": "#F5BA31",
+          "material": "acrylic_capsule"
+        },
+        {
+          "name": "Slate Grey & White Minimal",
+          "color_hex": "#334155",
+          "material": "brushed_aluminum"
+        },
+        {
+          "name": "Digital OLED Status Indicator",
+          "color_hex": "#10B981",
+          "material": "oled_display"
+        }
+      ]
+    },
+    {
+      "id": "SIG_INTERNAL_020",
+      "name": "Game Room Capsule 3",
+      "subcategory": "internal_wayfinding",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 0.8
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 16
+      },
+      "cutaway_layer": "interior_wall_signage",
+      "tags": [
+        "interior",
+        "signage",
+        "wayfinding",
+        "game_room_capsule"
+      ],
+      "variants": [
+        {
+          "name": "Catch Yellow & Black Capsule",
+          "color_hex": "#F5BA31",
+          "material": "acrylic_capsule"
+        },
+        {
+          "name": "Slate Grey & White Minimal",
+          "color_hex": "#334155",
+          "material": "brushed_aluminum"
+        },
+        {
+          "name": "Digital OLED Status Indicator",
+          "color_hex": "#10B981",
+          "material": "oled_display"
+        }
+      ]
+    },
+    {
+      "id": "SIG_INTERNAL_021",
+      "name": "Ai Studio Restricted Glow 3",
+      "subcategory": "internal_wayfinding",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 0.8
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 16
+      },
+      "cutaway_layer": "interior_wall_signage",
+      "tags": [
+        "interior",
+        "signage",
+        "wayfinding",
+        "ai_studio_restricted_glow"
+      ],
+      "variants": [
+        {
+          "name": "Catch Yellow & Black Capsule",
+          "color_hex": "#F5BA31",
+          "material": "acrylic_capsule"
+        },
+        {
+          "name": "Slate Grey & White Minimal",
+          "color_hex": "#334155",
+          "material": "brushed_aluminum"
+        },
+        {
+          "name": "Digital OLED Status Indicator",
+          "color_hex": "#10B981",
+          "material": "oled_display"
+        }
+      ]
+    },
+    {
+      "id": "SIG_INTERNAL_022",
+      "name": "Emergency Exit Running Man 3",
+      "subcategory": "internal_wayfinding",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 0.8
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 16
+      },
+      "cutaway_layer": "interior_wall_signage",
+      "tags": [
+        "interior",
+        "signage",
+        "wayfinding",
+        "emergency_exit_running_man"
+      ],
+      "variants": [
+        {
+          "name": "Catch Yellow & Black Capsule",
+          "color_hex": "#F5BA31",
+          "material": "acrylic_capsule"
+        },
+        {
+          "name": "Slate Grey & White Minimal",
+          "color_hex": "#334155",
+          "material": "brushed_aluminum"
+        },
+        {
+          "name": "Digital OLED Status Indicator",
+          "color_hex": "#10B981",
+          "material": "oled_display"
+        }
+      ]
+    },
+    {
+      "id": "SIG_INTERNAL_023",
+      "name": "Conference Room Status Display 3",
+      "subcategory": "internal_wayfinding",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 0.8
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 16
+      },
+      "cutaway_layer": "interior_wall_signage",
+      "tags": [
+        "interior",
+        "signage",
+        "wayfinding",
+        "conference_room_status_display"
+      ],
+      "variants": [
+        {
+          "name": "Catch Yellow & Black Capsule",
+          "color_hex": "#F5BA31",
+          "material": "acrylic_capsule"
+        },
+        {
+          "name": "Slate Grey & White Minimal",
+          "color_hex": "#334155",
+          "material": "brushed_aluminum"
+        },
+        {
+          "name": "Digital OLED Status Indicator",
+          "color_hex": "#10B981",
+          "material": "oled_display"
+        }
+      ]
+    },
+    {
+      "id": "SIG_INTERNAL_024",
+      "name": "Quiet Focus Zone Plaque 3",
+      "subcategory": "internal_wayfinding",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 0.8
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 16
+      },
+      "cutaway_layer": "interior_wall_signage",
+      "tags": [
+        "interior",
+        "signage",
+        "wayfinding",
+        "quiet_focus_zone_plaque"
+      ],
+      "variants": [
+        {
+          "name": "Catch Yellow & Black Capsule",
+          "color_hex": "#F5BA31",
+          "material": "acrylic_capsule"
+        },
+        {
+          "name": "Slate Grey & White Minimal",
+          "color_hex": "#334155",
+          "material": "brushed_aluminum"
+        },
+        {
+          "name": "Digital OLED Status Indicator",
+          "color_hex": "#10B981",
+          "material": "oled_display"
+        }
+      ]
+    },
+    {
+      "id": "SIG_INTERNAL_025",
+      "name": "Floor Indicator 01 Catch 4",
+      "subcategory": "internal_wayfinding",
+      "tile_footprint": {
+        "width": 1,
+        "depth": 1,
+        "height_tiles": 0.8
+      },
+      "anchor_point": {
+        "x": 16,
+        "y": 16
+      },
+      "cutaway_layer": "interior_wall_signage",
+      "tags": [
+        "interior",
+        "signage",
+        "wayfinding",
+        "floor_indicator_01_catch"
+      ],
+      "variants": [
+        {
+          "name": "Catch Yellow & Black Capsule",
+          "color_hex": "#F5BA31",
+          "material": "acrylic_capsule"
+        },
+        {
+          "name": "Slate Grey & White Minimal",
+          "color_hex": "#334155",
+          "material": "brushed_aluminum"
+        },
+        {
+          "name": "Digital OLED Status Indicator",
+          "color_hex": "#10B981",
+          "material": "oled_display"
+        }
+      ]
+    }
+  ]
+}

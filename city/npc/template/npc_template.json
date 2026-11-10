@@ -1,0 +1,72 @@
+{
+  "templates": [
+    {
+      "template_id": "TPL_TECH_FOUNDER",
+      "title": "AI Startup Engineer / Tech Founder",
+      "default_role": "office_ai_agent",
+      "preferred_district": "DST_DOWNTOWN_WATERFRONT",
+      "workplace_category": "commercial_office",
+      "income_bracket": "high",
+      "inventory_defaults": ["ACC_HELD_002", "ACC_HELD_001"],
+      "default_personality": {
+        "openness": 0.95,
+        "conscientiousness": 0.88,
+        "extraversion": 0.65,
+        "agreeableness": 0.72,
+        "neuroticism": 0.25
+      },
+      "schedule_profile": "SCHED_TECH_DEV_24H"
+    },
+    {
+      "template_id": "TPL_COASTAL_HARBORMASTER",
+      "title": "Harbor Master & Port Pilot",
+      "default_role": "key_citizen",
+      "preferred_district": "DST_PORT_MARITIME",
+      "workplace_category": "maritime_harbor",
+      "income_bracket": "middle",
+      "inventory_defaults": ["ACC_HAT_005", "ACC_HELD_004"],
+      "default_personality": {
+        "openness": 0.70,
+        "conscientiousness": 0.95,
+        "extraversion": 0.55,
+        "agreeableness": 0.80,
+        "neuroticism": 0.15
+      },
+      "schedule_profile": "SCHED_HARBOR_EARLY_24H"
+    },
+    {
+      "template_id": "TPL_BARISTA_CAFE",
+      "title": "Specialty Coffee Roaster & Barista",
+      "default_role": "procedural_resident",
+      "preferred_district": "DST_CIVIC_PROMENADE",
+      "workplace_category": "commercial_retail",
+      "income_bracket": "middle",
+      "inventory_defaults": ["ACC_HELD_001"],
+      "default_personality": {
+        "openness": 0.85,
+        "conscientiousness": 0.80,
+        "extraversion": 0.90,
+        "agreeableness": 0.92,
+        "neuroticism": 0.20
+      },
+      "schedule_profile": "SCHED_RETAIL_SHIFT_24H"
+    },
+    {
+      "template_id": "TPL_PADEL_ATHLETE",
+      "title": "Waterfront Sports Coach & Athlete",
+      "default_role": "procedural_resident",
+      "preferred_district": "DST_SPORTS_WELLNESS",
+      "workplace_category": "sports_wellness",
+      "income_bracket": "middle",
+      "inventory_defaults": ["ACC_HELD_006"],
+      "default_personality": {
+        "openness": 0.75,
+        "conscientiousness": 0.85,
+        "extraversion": 0.88,
+        "agreeableness": 0.85,
+        "neuroticism": 0.18
+      },
+      "schedule_profile": "SCHED_FITNESS_ACTIVE_24H"
+    }
+  ]
+}

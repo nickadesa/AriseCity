@@ -1,0 +1,83 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "AriseCity Simulation NPC Schema",
+  "description": "Defines agent simulation properties, personality traits, economic role, social relations, and circadian daily schedules.",
+  "type": "object",
+  "required": [
+    "id",
+    "name",
+    "character_visual_id",
+    "occupation",
+    "social_tier",
+    "home_building_id",
+    "work_building_id",
+    "schedule_id",
+    "personality"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^NPC_[A-Z0-9_]+$",
+      "description": "Unique simulation agent identifier"
+    },
+    "name": {
+      "type": "string",
+      "description": "Full name of the NPC"
+    },
+    "role_type": {
+      "type": "string",
+      "enum": ["office_ai_agent", "key_citizen", "procedural_resident", "coastal_visitor"],
+      "default": "procedural_resident"
+    },
+    "character_visual_id": {
+      "type": "string",
+      "description": "References Character Paper-Doll ID (CHR_xxx)"
+    },
+    "occupation": {
+      "type": "string",
+      "description": "Job title, e.g. 'Lead AI Architect', 'Harbor Master', 'Ferry Captain', 'Barista'"
+    },
+    "social_tier": {
+      "type": "string",
+      "enum": ["low_income", "working_class", "tech_middle", "executive_elite"]
+    },
+    "home_building_id": {
+      "type": "string",
+      "description": "Residential building ID"
+    },
+    "work_building_id": {
+      "type": "string",
+      "description": "Workplace building ID"
+    },
+    "schedule_id": {
+      "type": "string",
+      "description": "Daily 24h schedule profile ID"
+    },
+    "personality": {
+      "type": "object",
+      "properties": {
+        "openness": { "type": "number", "minimum": 0, "maximum": 1 },
+        "conscientiousness": { "type": "number", "minimum": 0, "maximum": 1 },
+        "extraversion": { "type": "number", "minimum": 0, "maximum": 1 },
+        "agreeableness": { "type": "number", "minimum": 0, "maximum": 1 },
+        "neuroticism": { "type": "number", "minimum": 0, "maximum": 1 }
+      }
+    },
+    "current_status": {
+      "type": "object",
+      "properties": {
+        "current_tile_position": {
+          "type": "object",
+          "properties": {
+            "x": { "type": "number" },
+            "y": { "type": "number" },
+            "floor_id": { "type": "string" }
+          }
+        },
+        "current_action": { "type": "string" },
+        "energy_level": { "type": "number", "minimum": 0, "maximum": 100 },
+        "speech_bubble_text": { "type": "string" }
+      }
+    }
+  }
+}

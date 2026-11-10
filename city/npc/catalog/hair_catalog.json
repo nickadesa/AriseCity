@@ -1,0 +1,2316 @@
+{
+  "category": "hair",
+  "total_count": 110,
+  "items": [
+    {
+      "id": "HAIR_001",
+      "name": "Short Side Part Variation 1",
+      "subcategory": "hair",
+      "gender_affinity": "unisex",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": false,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "short_side_part",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_002",
+      "name": "Classic Pompadour Variation 1",
+      "subcategory": "hair",
+      "gender_affinity": "masculine",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": true,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "classic_pompadour",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_003",
+      "name": "Curly Afro Fade Variation 1",
+      "subcategory": "hair",
+      "gender_affinity": "feminine",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": false,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "curly_afro_fade",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_004",
+      "name": "Long Wavy Flow Variation 1",
+      "subcategory": "hair",
+      "gender_affinity": "unisex",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": true,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "long_wavy_flow",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_005",
+      "name": "Straight Bob Cut Variation 1",
+      "subcategory": "hair",
+      "gender_affinity": "masculine",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": false,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "straight_bob_cut",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_006",
+      "name": "Pixie Undercut Variation 1",
+      "subcategory": "hair",
+      "gender_affinity": "feminine",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": true,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "pixie_undercut",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_007",
+      "name": "High Ponytail Variation 1",
+      "subcategory": "hair",
+      "gender_affinity": "unisex",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": false,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "high_ponytail",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_008",
+      "name": "Twin Braids Variation 1",
+      "subcategory": "hair",
+      "gender_affinity": "masculine",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": true,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "twin_braids",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_009",
+      "name": "Messy Tech Bedhead Variation 1",
+      "subcategory": "hair",
+      "gender_affinity": "feminine",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": false,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "messy_tech_bedhead",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_010",
+      "name": "Dreadlocks Bun Variation 1",
+      "subcategory": "hair",
+      "gender_affinity": "unisex",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": true,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "dreadlocks_bun",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_011",
+      "name": "Spiky Anime Indie Variation 1",
+      "subcategory": "hair",
+      "gender_affinity": "masculine",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": false,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "spiky_anime_indie",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_012",
+      "name": "Slicked Back Executive Variation 1",
+      "subcategory": "hair",
+      "gender_affinity": "feminine",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": true,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "slicked_back_executive",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_013",
+      "name": "Middle Part Curtains Variation 1",
+      "subcategory": "hair",
+      "gender_affinity": "unisex",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": false,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "middle_part_curtains",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_014",
+      "name": "Side Swept Fringe Variation 1",
+      "subcategory": "hair",
+      "gender_affinity": "masculine",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": true,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "side_swept_fringe",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_015",
+      "name": "Bald Clean Shave Variation 1",
+      "subcategory": "hair",
+      "gender_affinity": "feminine",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": false,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "bald_clean_shave",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_016",
+      "name": "Crew Cut Military Variation 1",
+      "subcategory": "hair",
+      "gender_affinity": "unisex",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": true,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "crew_cut_military",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_017",
+      "name": "Top Knot Samurai Variation 1",
+      "subcategory": "hair",
+      "gender_affinity": "masculine",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": false,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "top_knot_samurai",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_018",
+      "name": "French Crop Variation 1",
+      "subcategory": "hair",
+      "gender_affinity": "feminine",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": true,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "french_crop",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_019",
+      "name": "Natural Coils Variation 1",
+      "subcategory": "hair",
+      "gender_affinity": "unisex",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": false,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "natural_coils",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_020",
+      "name": "Feathered Shag Variation 1",
+      "subcategory": "hair",
+      "gender_affinity": "masculine",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": true,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "feathered_shag",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_021",
+      "name": "Asymmetrical Fringe Variation 1",
+      "subcategory": "hair",
+      "gender_affinity": "feminine",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": false,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "asymmetrical_fringe",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_022",
+      "name": "Layered Medium Lob Variation 1",
+      "subcategory": "hair",
+      "gender_affinity": "unisex",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": true,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "layered_medium_lob",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_023",
+      "name": "Short Side Part Variation 2",
+      "subcategory": "hair",
+      "gender_affinity": "masculine",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": false,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "short_side_part",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_024",
+      "name": "Classic Pompadour Variation 2",
+      "subcategory": "hair",
+      "gender_affinity": "feminine",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": true,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "classic_pompadour",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_025",
+      "name": "Curly Afro Fade Variation 2",
+      "subcategory": "hair",
+      "gender_affinity": "unisex",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": false,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "curly_afro_fade",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_026",
+      "name": "Long Wavy Flow Variation 2",
+      "subcategory": "hair",
+      "gender_affinity": "masculine",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": true,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "long_wavy_flow",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_027",
+      "name": "Straight Bob Cut Variation 2",
+      "subcategory": "hair",
+      "gender_affinity": "feminine",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": false,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "straight_bob_cut",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_028",
+      "name": "Pixie Undercut Variation 2",
+      "subcategory": "hair",
+      "gender_affinity": "unisex",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": true,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "pixie_undercut",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_029",
+      "name": "High Ponytail Variation 2",
+      "subcategory": "hair",
+      "gender_affinity": "masculine",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": false,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "high_ponytail",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_030",
+      "name": "Twin Braids Variation 2",
+      "subcategory": "hair",
+      "gender_affinity": "feminine",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": true,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "twin_braids",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_031",
+      "name": "Messy Tech Bedhead Variation 2",
+      "subcategory": "hair",
+      "gender_affinity": "unisex",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": false,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "messy_tech_bedhead",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_032",
+      "name": "Dreadlocks Bun Variation 2",
+      "subcategory": "hair",
+      "gender_affinity": "masculine",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": true,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "dreadlocks_bun",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_033",
+      "name": "Spiky Anime Indie Variation 2",
+      "subcategory": "hair",
+      "gender_affinity": "feminine",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": false,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "spiky_anime_indie",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_034",
+      "name": "Slicked Back Executive Variation 2",
+      "subcategory": "hair",
+      "gender_affinity": "unisex",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": true,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "slicked_back_executive",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_035",
+      "name": "Middle Part Curtains Variation 2",
+      "subcategory": "hair",
+      "gender_affinity": "masculine",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": false,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "middle_part_curtains",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_036",
+      "name": "Side Swept Fringe Variation 2",
+      "subcategory": "hair",
+      "gender_affinity": "feminine",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": true,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "side_swept_fringe",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_037",
+      "name": "Bald Clean Shave Variation 2",
+      "subcategory": "hair",
+      "gender_affinity": "unisex",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": false,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "bald_clean_shave",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_038",
+      "name": "Crew Cut Military Variation 2",
+      "subcategory": "hair",
+      "gender_affinity": "masculine",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": true,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "crew_cut_military",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_039",
+      "name": "Top Knot Samurai Variation 2",
+      "subcategory": "hair",
+      "gender_affinity": "feminine",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": false,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "top_knot_samurai",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_040",
+      "name": "French Crop Variation 2",
+      "subcategory": "hair",
+      "gender_affinity": "unisex",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": true,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "french_crop",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_041",
+      "name": "Natural Coils Variation 2",
+      "subcategory": "hair",
+      "gender_affinity": "masculine",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": false,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "natural_coils",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_042",
+      "name": "Feathered Shag Variation 2",
+      "subcategory": "hair",
+      "gender_affinity": "feminine",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": true,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "feathered_shag",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_043",
+      "name": "Asymmetrical Fringe Variation 2",
+      "subcategory": "hair",
+      "gender_affinity": "unisex",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": false,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "asymmetrical_fringe",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_044",
+      "name": "Layered Medium Lob Variation 2",
+      "subcategory": "hair",
+      "gender_affinity": "masculine",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": true,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "layered_medium_lob",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_045",
+      "name": "Short Side Part Variation 3",
+      "subcategory": "hair",
+      "gender_affinity": "feminine",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": false,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "short_side_part",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_046",
+      "name": "Classic Pompadour Variation 3",
+      "subcategory": "hair",
+      "gender_affinity": "unisex",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": true,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "classic_pompadour",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_047",
+      "name": "Curly Afro Fade Variation 3",
+      "subcategory": "hair",
+      "gender_affinity": "masculine",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": false,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "curly_afro_fade",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_048",
+      "name": "Long Wavy Flow Variation 3",
+      "subcategory": "hair",
+      "gender_affinity": "feminine",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": true,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "long_wavy_flow",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_049",
+      "name": "Straight Bob Cut Variation 3",
+      "subcategory": "hair",
+      "gender_affinity": "unisex",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": false,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "straight_bob_cut",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_050",
+      "name": "Pixie Undercut Variation 3",
+      "subcategory": "hair",
+      "gender_affinity": "masculine",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": true,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "pixie_undercut",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_051",
+      "name": "High Ponytail Variation 3",
+      "subcategory": "hair",
+      "gender_affinity": "feminine",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": false,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "high_ponytail",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_052",
+      "name": "Twin Braids Variation 3",
+      "subcategory": "hair",
+      "gender_affinity": "unisex",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": true,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "twin_braids",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_053",
+      "name": "Messy Tech Bedhead Variation 3",
+      "subcategory": "hair",
+      "gender_affinity": "masculine",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": false,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "messy_tech_bedhead",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_054",
+      "name": "Dreadlocks Bun Variation 3",
+      "subcategory": "hair",
+      "gender_affinity": "feminine",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": true,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "dreadlocks_bun",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_055",
+      "name": "Spiky Anime Indie Variation 3",
+      "subcategory": "hair",
+      "gender_affinity": "unisex",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": false,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "spiky_anime_indie",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_056",
+      "name": "Slicked Back Executive Variation 3",
+      "subcategory": "hair",
+      "gender_affinity": "masculine",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": true,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "slicked_back_executive",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_057",
+      "name": "Middle Part Curtains Variation 3",
+      "subcategory": "hair",
+      "gender_affinity": "feminine",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": false,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "middle_part_curtains",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_058",
+      "name": "Side Swept Fringe Variation 3",
+      "subcategory": "hair",
+      "gender_affinity": "unisex",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": true,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "side_swept_fringe",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_059",
+      "name": "Bald Clean Shave Variation 3",
+      "subcategory": "hair",
+      "gender_affinity": "masculine",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": false,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "bald_clean_shave",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_060",
+      "name": "Crew Cut Military Variation 3",
+      "subcategory": "hair",
+      "gender_affinity": "feminine",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": true,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "crew_cut_military",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_061",
+      "name": "Top Knot Samurai Variation 3",
+      "subcategory": "hair",
+      "gender_affinity": "unisex",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": false,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "top_knot_samurai",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_062",
+      "name": "French Crop Variation 3",
+      "subcategory": "hair",
+      "gender_affinity": "masculine",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": true,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "french_crop",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_063",
+      "name": "Natural Coils Variation 3",
+      "subcategory": "hair",
+      "gender_affinity": "feminine",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": false,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "natural_coils",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_064",
+      "name": "Feathered Shag Variation 3",
+      "subcategory": "hair",
+      "gender_affinity": "unisex",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": true,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "feathered_shag",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_065",
+      "name": "Asymmetrical Fringe Variation 3",
+      "subcategory": "hair",
+      "gender_affinity": "masculine",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": false,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "asymmetrical_fringe",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_066",
+      "name": "Layered Medium Lob Variation 3",
+      "subcategory": "hair",
+      "gender_affinity": "feminine",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": true,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "layered_medium_lob",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_067",
+      "name": "Short Side Part Variation 4",
+      "subcategory": "hair",
+      "gender_affinity": "unisex",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": false,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "short_side_part",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_068",
+      "name": "Classic Pompadour Variation 4",
+      "subcategory": "hair",
+      "gender_affinity": "masculine",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": true,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "classic_pompadour",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_069",
+      "name": "Curly Afro Fade Variation 4",
+      "subcategory": "hair",
+      "gender_affinity": "feminine",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": false,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "curly_afro_fade",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_070",
+      "name": "Long Wavy Flow Variation 4",
+      "subcategory": "hair",
+      "gender_affinity": "unisex",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": true,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "long_wavy_flow",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_071",
+      "name": "Straight Bob Cut Variation 4",
+      "subcategory": "hair",
+      "gender_affinity": "masculine",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": false,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "straight_bob_cut",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_072",
+      "name": "Pixie Undercut Variation 4",
+      "subcategory": "hair",
+      "gender_affinity": "feminine",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": true,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "pixie_undercut",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_073",
+      "name": "High Ponytail Variation 4",
+      "subcategory": "hair",
+      "gender_affinity": "unisex",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": false,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "high_ponytail",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_074",
+      "name": "Twin Braids Variation 4",
+      "subcategory": "hair",
+      "gender_affinity": "masculine",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": true,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "twin_braids",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_075",
+      "name": "Messy Tech Bedhead Variation 4",
+      "subcategory": "hair",
+      "gender_affinity": "feminine",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": false,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "messy_tech_bedhead",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_076",
+      "name": "Dreadlocks Bun Variation 4",
+      "subcategory": "hair",
+      "gender_affinity": "unisex",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": true,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "dreadlocks_bun",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_077",
+      "name": "Spiky Anime Indie Variation 4",
+      "subcategory": "hair",
+      "gender_affinity": "masculine",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": false,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "spiky_anime_indie",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_078",
+      "name": "Slicked Back Executive Variation 4",
+      "subcategory": "hair",
+      "gender_affinity": "feminine",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": true,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "slicked_back_executive",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_079",
+      "name": "Middle Part Curtains Variation 4",
+      "subcategory": "hair",
+      "gender_affinity": "unisex",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": false,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "middle_part_curtains",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_080",
+      "name": "Side Swept Fringe Variation 4",
+      "subcategory": "hair",
+      "gender_affinity": "masculine",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": true,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "side_swept_fringe",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_081",
+      "name": "Bald Clean Shave Variation 4",
+      "subcategory": "hair",
+      "gender_affinity": "feminine",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": false,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "bald_clean_shave",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_082",
+      "name": "Crew Cut Military Variation 4",
+      "subcategory": "hair",
+      "gender_affinity": "unisex",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": true,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "crew_cut_military",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_083",
+      "name": "Top Knot Samurai Variation 4",
+      "subcategory": "hair",
+      "gender_affinity": "masculine",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": false,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "top_knot_samurai",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_084",
+      "name": "French Crop Variation 4",
+      "subcategory": "hair",
+      "gender_affinity": "feminine",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": true,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "french_crop",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_085",
+      "name": "Natural Coils Variation 4",
+      "subcategory": "hair",
+      "gender_affinity": "unisex",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": false,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "natural_coils",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_086",
+      "name": "Feathered Shag Variation 4",
+      "subcategory": "hair",
+      "gender_affinity": "masculine",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": true,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "feathered_shag",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_087",
+      "name": "Asymmetrical Fringe Variation 4",
+      "subcategory": "hair",
+      "gender_affinity": "feminine",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": false,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "asymmetrical_fringe",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_088",
+      "name": "Layered Medium Lob Variation 4",
+      "subcategory": "hair",
+      "gender_affinity": "unisex",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": true,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "layered_medium_lob",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_089",
+      "name": "Short Side Part Variation 5",
+      "subcategory": "hair",
+      "gender_affinity": "masculine",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": false,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "short_side_part",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_090",
+      "name": "Classic Pompadour Variation 5",
+      "subcategory": "hair",
+      "gender_affinity": "feminine",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": true,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "classic_pompadour",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_091",
+      "name": "Curly Afro Fade Variation 5",
+      "subcategory": "hair",
+      "gender_affinity": "unisex",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": false,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "curly_afro_fade",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_092",
+      "name": "Long Wavy Flow Variation 5",
+      "subcategory": "hair",
+      "gender_affinity": "masculine",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": true,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "long_wavy_flow",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_093",
+      "name": "Straight Bob Cut Variation 5",
+      "subcategory": "hair",
+      "gender_affinity": "feminine",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": false,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "straight_bob_cut",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_094",
+      "name": "Pixie Undercut Variation 5",
+      "subcategory": "hair",
+      "gender_affinity": "unisex",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": true,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "pixie_undercut",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_095",
+      "name": "High Ponytail Variation 5",
+      "subcategory": "hair",
+      "gender_affinity": "masculine",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": false,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "high_ponytail",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_096",
+      "name": "Twin Braids Variation 5",
+      "subcategory": "hair",
+      "gender_affinity": "feminine",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": true,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "twin_braids",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_097",
+      "name": "Messy Tech Bedhead Variation 5",
+      "subcategory": "hair",
+      "gender_affinity": "unisex",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": false,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "messy_tech_bedhead",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_098",
+      "name": "Dreadlocks Bun Variation 5",
+      "subcategory": "hair",
+      "gender_affinity": "masculine",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": true,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "dreadlocks_bun",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_099",
+      "name": "Spiky Anime Indie Variation 5",
+      "subcategory": "hair",
+      "gender_affinity": "feminine",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": false,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "spiky_anime_indie",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_100",
+      "name": "Slicked Back Executive Variation 5",
+      "subcategory": "hair",
+      "gender_affinity": "unisex",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": true,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "slicked_back_executive",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_101",
+      "name": "Middle Part Curtains Variation 5",
+      "subcategory": "hair",
+      "gender_affinity": "masculine",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": false,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "middle_part_curtains",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_102",
+      "name": "Side Swept Fringe Variation 5",
+      "subcategory": "hair",
+      "gender_affinity": "feminine",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": true,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "side_swept_fringe",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_103",
+      "name": "Bald Clean Shave Variation 5",
+      "subcategory": "hair",
+      "gender_affinity": "unisex",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": false,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "bald_clean_shave",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_104",
+      "name": "Crew Cut Military Variation 5",
+      "subcategory": "hair",
+      "gender_affinity": "masculine",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": true,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "crew_cut_military",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_105",
+      "name": "Top Knot Samurai Variation 5",
+      "subcategory": "hair",
+      "gender_affinity": "feminine",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": false,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "top_knot_samurai",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_106",
+      "name": "French Crop Variation 5",
+      "subcategory": "hair",
+      "gender_affinity": "unisex",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": true,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "french_crop",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_107",
+      "name": "Natural Coils Variation 5",
+      "subcategory": "hair",
+      "gender_affinity": "masculine",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": false,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "natural_coils",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_108",
+      "name": "Feathered Shag Variation 5",
+      "subcategory": "hair",
+      "gender_affinity": "feminine",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": true,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "feathered_shag",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_109",
+      "name": "Asymmetrical Fringe Variation 5",
+      "subcategory": "hair",
+      "gender_affinity": "unisex",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": false,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "asymmetrical_fringe",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    },
+    {
+      "id": "HAIR_110",
+      "name": "Layered Medium Lob Variation 5",
+      "subcategory": "hair",
+      "gender_affinity": "masculine",
+      "age_support": [
+        "all"
+      ],
+      "layer_z": 10,
+      "has_back_layer": true,
+      "anchor_offset": {
+        "x": 24,
+        "y": 14
+      },
+      "tags": [
+        "hair",
+        "layered_medium_lob",
+        "procedural"
+      ],
+      "palette_slot": "hair_ramp"
+    }
+  ]
+}
