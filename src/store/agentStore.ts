@@ -7,6 +7,7 @@ import {
   Decision, 
   TimeState 
 } from '../types/agent';
+import { dispatchStudioAI } from '../engine/AIBrain';
 
 export const LOCATIONS = {
   DESK_1: { x: 80, y: 120, z: 0 },
@@ -383,33 +384,79 @@ interface StudioState {
   totalSpend: number;
 }
 
-let globalState: StudioState = {
-  agents: INITIAL_AGENTS,
-  npcs: INITIAL_NPCS,
-  tasks: INITIAL_TASKS,
-  decision: INITIAL_DECISION,
-  timeState: {
-    gameHours: 10.5, // 10:30 AM (crisp morning)
-    dayCount: 1,
-    timeScale: 1, // normal speed
-    phase: 'day',
-    isNight: false,
-    sunAngle: 45,
-  },
-  selectedAgentId: null,
-  selectedNpcId: null,
-  isTaskBoardOpen: false,
-  isDiffReviewOpen: false,
-  isRosterOpen: false,
-  activeGoalPrompt: '',
-  totalTokens: 151200,
-  totalSpend: 0.45,
-};
+const PERSISTENCE_KEY = 'arisecity_saved_state_v1';
+
+function loadPersistedState(): StudioState {
+  try {
+    const raw = localStorage.getItem(PERSISTENCE_KEY);
+    if (raw) {
+      const parsed = JSON.parse(raw);
+      if (parsed.agents && parsed.tasks && parsed.timeState) {
+        return {
+          ...parsed,
+          selectedAgentId: null,
+          selectedNpcId: null,
+          isTaskBoardOpen: false,
+          isDiffReviewOpen: false,
+          isRosterOpen: false,
+        };
+      }
+    }
+  } catch (e) {
+    console.warn('Failed to load persisted state', e);
+  }
+
+  return {
+    agents: INITIAL_AGENTS,
+    npcs: INITIAL_NPCS,
+    tasks: INITIAL_TASKS,
+    decision: INITIAL_DECISION,
+    timeState: {
+      gameHours: 10.5, // 10:30 AM (crisp morning)
+      dayCount: 1,
+      timeScale: 1, // normal speed
+      phase: 'day',
+      isNight: false,
+      sunAngle: 45,
+    },
+    selectedAgentId: null,
+    selectedNpcId: null,
+    isTaskBoardOpen: false,
+    isDiffReviewOpen: false,
+    isRosterOpen: false,
+    activeGoalPrompt: '',
+    totalTokens: 151200,
+    totalSpend: 0.45,
+  };
+}
+
+let globalState: StudioState = loadPersistedState();
+
+// Save state throttle
+let saveTimeout: any = null;
+function saveStateDebounced() {
+  if (saveTimeout) clearTimeout(saveTimeout);
+  saveTimeout = setTimeout(() => {
+    try {
+      localStorage.setItem(PERSISTENCE_KEY, JSON.stringify({
+        agents: globalState.agents,
+        tasks: globalState.tasks,
+        decision: globalState.decision,
+        timeState: globalState.timeState,
+        totalTokens: globalState.totalTokens,
+        totalSpend: globalState.totalSpend,
+      }));
+    } catch (e) {
+      // storage full or unavailable
+    }
+  }, 1000);
+}
 
 // Listeners
 const listeners = new Set<() => void>();
 function notify() {
   listeners.forEach(l => l());
+  saveStateDebounced();
 }
 
 export function useAgentStore() {
@@ -507,48 +554,74 @@ export function useAgentStore() {
       const antigravity = globalState.agents.find(a => a.id === 'antigravity');
       if (antigravity) {
         antigravity.status = 'typing';
-        antigravity.cpuUsage = 88;
-        antigravity.speechBubble = { text: 'Goal Dispatched!', icon: 'zap', expiresAt: Date.now() + 5000 };
+        antigravity.cpuUsage = 95;
+        antigravity.speechBubble = { text: 'Thinking with Gemini...', icon: 'brain', expiresAt: Date.now() + 6000 };
         antigravity.terminalLogs.push(`[Goal Received] "${promptText}"`);
-        antigravity.terminalLogs.push('[Antigravity] Synthesizing architectural plan and dispatching team...');
+        antigravity.terminalLogs.push('[Antigravity Core] Contacting Google Gemini 3.5 & Cloudflare AI...');
       }
 
-      // Dispatch Orion to lead
       const orion = globalState.agents.find(a => a.id === 'orion');
       if (orion) {
         orion.status = 'typing';
-        orion.cpuUsage = 92;
-        orion.speechBubble = { text: 'Executing Tasks...', icon: 'code', expiresAt: Date.now() + 5000 };
-        orion.terminalLogs.push(`[Orion] Received blueprint from Antigravity: "${promptText}"`);
-        orion.terminalLogs.push('[Orion] Generating sub-tasks across Frontend, Backend, and DevOps...');
-      }
-
-      // Add a dynamic task
-      const newTask: Task = {
-        id: `task-${Date.now()}`,
-        title: promptText.length > 35 ? promptText.slice(0, 32) + '...' : promptText,
-        description: `Autonomous task dispatched from goal prompt: ${promptText}`,
-        status: 'in_progress',
-        assigneeId: 'nova',
-        priority: 'high',
-        diff: {
-          file: 'src/features/newGoalFeature.ts',
-          additions: 140,
-          deletions: 12,
-          diffContent: `+ // Goal: ${promptText}\n+ export function executeFeature() { return true; }`
-        }
-      };
-      globalState.tasks.unshift(newTask);
-
-      const nova = globalState.agents.find(a => a.id === 'nova');
-      if (nova) {
-        nova.status = 'typing';
-        nova.currentTaskId = newTask.id;
-        nova.speechBubble = { text: 'Coding feature...', icon: 'code', expiresAt: Date.now() + 4000 };
-        nova.terminalLogs.push(`[Nova] Started working on task: ${newTask.title}`);
+        orion.speechBubble = { text: 'Awaiting AI Plan...', icon: 'clock', expiresAt: Date.now() + 4000 };
       }
 
       notify();
+
+      // Fire real AI request in background
+      dispatchStudioAI('Antigravity', 'Chief AI Co-Pilot', promptText)
+        .then(res => {
+          if (antigravity) {
+            antigravity.status = 'idle';
+            antigravity.speechBubble = { text: 'Blueprint ready!', icon: 'check', expiresAt: Date.now() + 5000 };
+            antigravity.terminalLogs.push(`[Gemini AI Plan] ${res.explanation}`);
+          }
+
+          if (orion) {
+            orion.status = 'typing';
+            orion.speechBubble = { text: 'Tasks Dispatched!', icon: 'zap', expiresAt: Date.now() + 4000 };
+            orion.terminalLogs.push(`[Orion] Decomposed ${res.subtasks.length} tasks from Gemini plan.`);
+          }
+
+          // Create real subtasks from AI plan
+          res.subtasks.forEach((sub, idx) => {
+            const assignees = ['nova', 'cipher', 'vortex'];
+            const assigneeId = assignees[idx % assignees.length];
+            const newTask: Task = {
+              id: `task-${Date.now()}-${idx}`,
+              title: sub,
+              description: `Generated by Gemini: ${res.explanation}`,
+              status: idx === 0 ? 'in_progress' : 'todo',
+              assigneeId,
+              priority: idx === 0 ? 'high' : 'medium',
+              diff: {
+                file: `src/features/${promptText.toLowerCase().replace(/[^a-z0-9]/g, '_')}_${idx}.ts`,
+                additions: Math.floor(Math.random() * 80 + 30),
+                deletions: Math.floor(Math.random() * 10 + 2),
+                diffContent: res.codeSnippet,
+              }
+            };
+            globalState.tasks.unshift(newTask);
+
+            const worker = globalState.agents.find(a => a.id === assigneeId);
+            if (worker && idx === 0) {
+              worker.status = 'typing';
+              worker.currentTaskId = newTask.id;
+              worker.speechBubble = { text: 'Coding subtask...', icon: 'code', expiresAt: Date.now() + 5000 };
+              worker.terminalLogs.push(`[Worker] Started: ${sub}`);
+            }
+          });
+
+          notify();
+        })
+        .catch(err => {
+          console.error('AI Dispatch Error:', err);
+          if (antigravity) {
+            antigravity.status = 'idle';
+            antigravity.terminalLogs.push(`[AI Fallback] ${err.message || 'Error running model'}`);
+          }
+          notify();
+        });
     },
     addCustomAgent: (name: string, role: AgentRole, modelTier: 'flash' | 'pro') => {
       const deskNum = (globalState.agents.length % 5) + 1;
