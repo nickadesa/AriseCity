@@ -1,19 +1,11 @@
-// Hi-Bit Pixel Art Specifications:
-// - 16x16: Base Tiles (Grass, Dirt, Water, Path)
-// - 16x32: Characters & NPCs (Player, Sailors)
-// - 16x48 / 16x64: Tall vertical props (Lamp posts, pier posts, banners)
-// - 32x32: 2x2 tile objects (Chests, crates, small boats, standard fish)
-// - 32x48, 48x64+: Large props (Trees, buildings, mega aquarium, boss leviathans)
-// - Native Virtual Buffer: 320x180 or 640x360
-// - Scaled Output: 1280x720 / 1920x1080 (Integer 4x/2x scale)
-
+// Hi-Bit Pixel Art Engine: 16x16, 16x32, 16x48, 32x32, 64x64
 import { FishDefinition } from '../types/game';
 
 export class PixelRenderer {
   private static spriteCache: Map<string, HTMLCanvasElement> = new Map();
 
   /**
-   * Universal Fish Sprite getter (routes to 32x32 or 48x64 based on resolution)
+   * Universal Fish Sprite getter (routes to 32x32 or 64x64 based on resolution)
    */
   public static getFishSprite(fish: FishDefinition): HTMLCanvasElement {
     if (fish.spriteResolution === '64x64') {
@@ -23,9 +15,9 @@ export class PixelRenderer {
   }
 
   /**
-   * Generates a 16x16 Base Tile (Water, Grass, Sand, Wood Plank)
+   * Generates a 16x16 Base Tile (Water, Grass, Sand, Wood Plank, Reeds)
    */
-  public static getTileSprite(type: 'water' | 'grass' | 'sand' | 'wood', variant: number = 0): HTMLCanvasElement {
+  public static getTileSprite(type: 'water' | 'grass' | 'sand' | 'wood' | 'reeds', variant: number = 0): HTMLCanvasElement {
     const key = `tile_${type}_${variant}`;
     if (this.spriteCache.has(key)) return this.spriteCache.get(key)!;
 
@@ -36,34 +28,89 @@ export class PixelRenderer {
     ctx.imageSmoothingEnabled = false;
 
     if (type === 'water') {
-      ctx.fillStyle = variant === 0 ? '#103965' : '#0d2d52';
+      // Deep sea navy gradient
+      ctx.fillStyle = variant === 0 ? '#0c2340' : '#091c33';
       ctx.fillRect(0, 0, 16, 16);
-      ctx.fillStyle = '#1e5da6';
-      ctx.fillRect(2, 4, 6, 1);
-      ctx.fillRect(9, 11, 5, 1);
-      ctx.fillStyle = '#4da0f0'; // Sparkle
-      ctx.fillRect(4, 5, 2, 1);
+      
+      // Secondary wave currents
+      ctx.fillStyle = variant === 0 ? '#133966' : '#0f2f54';
+      ctx.fillRect(1, 3, 7, 2);
+      ctx.fillRect(9, 10, 6, 2);
+      ctx.fillRect(3, 12, 4, 1);
+
+      // Bright foam crests & specular glints
+      ctx.fillStyle = '#38bdf8';
+      ctx.fillRect(3, 4, 3, 1);
+      ctx.fillRect(11, 11, 2, 1);
+      ctx.fillStyle = '#e0f2fe';
+      ctx.fillRect(4, 4, 1, 1);
     } else if (type === 'grass') {
-      ctx.fillStyle = '#3e8948';
+      // Lush coastal emerald grass
+      ctx.fillStyle = '#166534';
       ctx.fillRect(0, 0, 16, 16);
-      ctx.fillStyle = '#265c42';
-      ctx.fillRect(3, 4, 2, 3);
-      ctx.fillRect(10, 8, 2, 4);
-      ctx.fillStyle = '#63c74d';
-      ctx.fillRect(3, 3, 2, 1);
+      
+      // Grass blade highlights
+      ctx.fillStyle = '#22c55e';
+      ctx.fillRect(3, 3, 1, 3);
+      ctx.fillRect(4, 2, 1, 2);
+      ctx.fillRect(10, 7, 1, 4);
+      ctx.fillRect(11, 6, 1, 3);
+      ctx.fillRect(7, 12, 1, 3);
+
+      // Deep shadow blades
+      ctx.fillStyle = '#14532d';
+      ctx.fillRect(3, 6, 2, 2);
+      ctx.fillRect(10, 11, 2, 2);
+
+      // Wildflower specks
+      if (variant === 1) {
+        ctx.fillStyle = '#fbbf24'; // Yellow buttercup
+        ctx.fillRect(6, 5, 2, 2);
+        ctx.fillStyle = '#ffffff';
+        ctx.fillRect(7, 5, 1, 1);
+      } else if (variant === 2) {
+        ctx.fillStyle = '#f43f5e'; // Pink clover
+        ctx.fillRect(12, 4, 2, 2);
+      }
     } else if (type === 'sand') {
-      ctx.fillStyle = '#e4a672';
+      // Golden coastal sand
+      ctx.fillStyle = '#d97706';
       ctx.fillRect(0, 0, 16, 16);
-      ctx.fillStyle = '#b86f50';
-      ctx.fillRect(4, 5, 2, 1);
-      ctx.fillRect(11, 10, 2, 1);
+      ctx.fillStyle = '#f59e0b';
+      ctx.fillRect(0, 0, 16, 15);
+      ctx.fillStyle = '#fbbf24';
+      ctx.fillRect(1, 1, 14, 13);
+
+      // Sand granules & shell fragments
+      ctx.fillStyle = '#b45309';
+      ctx.fillRect(4, 4, 1, 1);
+      ctx.fillRect(11, 8, 1, 1);
+      ctx.fillRect(6, 12, 1, 1);
+      ctx.fillStyle = '#fef3c7'; // Shell glint
+      ctx.fillRect(12, 5, 2, 1);
     } else if (type === 'wood') {
-      ctx.fillStyle = '#63381a';
+      // Weathered harbor timber
+      ctx.fillStyle = '#451a03'; // Gap shadow
       ctx.fillRect(0, 0, 16, 16);
-      ctx.fillStyle = '#522d14';
-      ctx.fillRect(0, 14, 16, 2);
-      ctx.fillStyle = '#8f563b';
+      
+      // Planks
+      ctx.fillStyle = '#78350f';
+      ctx.fillRect(0, 1, 16, 6);
+      ctx.fillRect(0, 8, 16, 7);
+
+      // Wood grain highlights
+      ctx.fillStyle = '#92400e';
       ctx.fillRect(2, 2, 12, 1);
+      ctx.fillRect(4, 9, 10, 1);
+      ctx.fillStyle = '#b45309';
+      ctx.fillRect(3, 3, 8, 1);
+
+      // Iron nails
+      ctx.fillStyle = '#1e293b';
+      ctx.fillRect(2, 4, 1, 1);
+      ctx.fillRect(13, 4, 1, 1);
+      ctx.fillRect(2, 11, 1, 1);
+      ctx.fillRect(13, 11, 1, 1);
     }
 
     this.spriteCache.set(key, canvas);
@@ -71,7 +118,7 @@ export class PixelRenderer {
   }
 
   /**
-   * Generates a 16x32 Character Sprite (Player / NPCs)
+   * Generates a 16x32 Character Sprite (Fisherman with detailed shading)
    */
   public static getCharacter16x32(isCasting: boolean): HTMLCanvasElement {
     const key = `char_16x32_${isCasting ? 'casting' : 'idle'}`;
@@ -83,46 +130,76 @@ export class PixelRenderer {
     const ctx = canvas.getContext('2d')!;
     ctx.imageSmoothingEnabled = false;
 
-    // Fisherman Straw/Beanie Hat
-    ctx.fillStyle = '#fbb954';
-    ctx.fillRect(4, 4, 8, 3);
+    // Fisherman Cap (Gold/Ochre Beanie)
+    ctx.fillStyle = '#d97706';
+    ctx.fillRect(4, 3, 8, 4);
+    ctx.fillStyle = '#fbbf24';
     ctx.fillRect(3, 6, 10, 2);
+    ctx.fillStyle = '#fef3c7';
+    ctx.fillRect(5, 4, 4, 1); // Cap highlight
 
-    // Hair
-    ctx.fillStyle = '#5a3d28';
+    // Auburn Hair
+    ctx.fillStyle = '#451a03';
     ctx.fillRect(4, 8, 8, 2);
 
-    // Head / Face (6x5)
-    ctx.fillStyle = '#ffd199';
+    // Face / Skin Tone
+    ctx.fillStyle = '#fed7aa';
     ctx.fillRect(5, 9, 6, 5);
-    // Eye
-    ctx.fillStyle = '#181425';
+    ctx.fillStyle = '#f97316'; // Rosy cheek
+    ctx.fillRect(5, 12, 1, 1);
+    // Expressive Eye
+    ctx.fillStyle = '#0f172a';
     ctx.fillRect(8, 11, 2, 2);
+    ctx.fillStyle = '#ffffff';
+    ctx.fillRect(8, 11, 1, 1);
 
-    // Body / Sailor Jacket (8x9)
-    ctx.fillStyle = '#1e5da6';
-    ctx.fillRect(4, 14, 8, 9);
-    // Scarf / Collar
-    ctx.fillStyle = '#e74c3c';
+    // Warm Knitted Scarf (Crimson Red)
+    ctx.fillStyle = '#dc2626';
     ctx.fillRect(5, 14, 6, 2);
+    ctx.fillStyle = '#ef4444';
+    ctx.fillRect(6, 14, 4, 1);
+    ctx.fillStyle = '#991b1b';
+    ctx.fillRect(9, 15, 2, 3); // Scarf tail
 
-    // Legs / Trousers
-    ctx.fillStyle = '#262b44';
-    ctx.fillRect(5, 23, 3, 5);
-    ctx.fillRect(9, 23, 3, 5);
+    // Sailor Wool Peacoat (Navy Blue)
+    ctx.fillStyle = '#1e3a8a';
+    ctx.fillRect(4, 16, 8, 8);
+    ctx.fillStyle = '#2563eb';
+    ctx.fillRect(4, 16, 2, 7); // Jacket highlight
+    ctx.fillStyle = '#fbbf24'; // Brass buttons
+    ctx.fillRect(7, 18, 1, 1);
+    ctx.fillRect(7, 21, 1, 1);
 
-    // Boots
-    ctx.fillStyle = '#3a200e';
-    ctx.fillRect(4, 28, 4, 3);
-    ctx.fillRect(9, 28, 4, 3);
+    // Trousers (Charcoal Slate)
+    ctx.fillStyle = '#1e293b';
+    ctx.fillRect(5, 24, 3, 5);
+    ctx.fillRect(9, 24, 3, 5);
 
-    // Fishing Rod in 16x32 frame
-    ctx.fillStyle = '#8f563b';
+    // Rubber Wading Boots (Dark Brown)
+    ctx.fillStyle = '#291809';
+    ctx.fillRect(4, 28, 4, 4);
+    ctx.fillRect(9, 28, 4, 4);
+    ctx.fillStyle = '#5c3317';
+    ctx.fillRect(4, 28, 3, 1);
+    ctx.fillRect(9, 28, 3, 1);
+
+    // Bamboo Fishing Rod
+    ctx.fillStyle = '#b45309';
     if (isCasting) {
-      ctx.fillRect(10, 15, 5, 2);
-      ctx.fillRect(14, 8, 2, 8);
+      // Cast forward gesture
+      ctx.fillRect(10, 16, 5, 2);
+      ctx.fillRect(14, 8, 2, 9);
+      ctx.fillStyle = '#fef3c7'; // Bamboo nodes
+      ctx.fillRect(11, 16, 1, 2);
+      ctx.fillRect(14, 12, 2, 1);
     } else {
-      ctx.fillRect(3, 7, 2, 14);
+      // Resting on shoulder
+      ctx.fillRect(2, 6, 2, 18);
+      ctx.fillStyle = '#fef3c7';
+      ctx.fillRect(2, 10, 2, 1);
+      ctx.fillRect(2, 15, 2, 1);
+      ctx.fillStyle = '#94a3b8'; // Metal reel
+      ctx.fillRect(1, 18, 4, 3);
     }
 
     this.spriteCache.set(key, canvas);
@@ -130,7 +207,7 @@ export class PixelRenderer {
   }
 
   /**
-   * Generates a 16x48 Vertical Pier Post with Lamp
+   * Generates a 16x48 Pier Post with Glowing Lantern
    */
   public static getPierPost16x48(): HTMLCanvasElement {
     const key = 'pier_post_16x48';
@@ -142,26 +219,42 @@ export class PixelRenderer {
     const ctx = canvas.getContext('2d')!;
     ctx.imageSmoothingEnabled = false;
 
-    // Wooden post column
-    ctx.fillStyle = '#3a200e';
+    // Timber post with grain
+    ctx.fillStyle = '#451a03';
     ctx.fillRect(5, 12, 6, 36);
-    ctx.fillStyle = '#26140b';
-    ctx.fillRect(5, 42, 6, 6);
+    ctx.fillStyle = '#78350f';
+    ctx.fillRect(6, 12, 4, 36);
+    ctx.fillStyle = '#92400e';
+    ctx.fillRect(6, 14, 2, 32);
 
-    // Lantern fixture at top
-    ctx.fillStyle = '#181425';
-    ctx.fillRect(3, 3, 10, 3);
-    ctx.fillRect(4, 6, 8, 6);
-    // Lantern light
-    ctx.fillStyle = '#fbb954';
+    // Green seaweed/barnacles near water base
+    ctx.fillStyle = '#15803d';
+    ctx.fillRect(4, 40, 8, 3);
+    ctx.fillStyle = '#166534';
+    ctx.fillRect(5, 43, 6, 5);
+
+    // Black forged iron lamp hanger
+    ctx.fillStyle = '#0f172a';
+    ctx.fillRect(4, 2, 8, 3);
+    ctx.fillRect(3, 5, 10, 2);
+    ctx.fillRect(3, 11, 10, 2);
+    ctx.fillRect(3, 7, 2, 4);
+    ctx.fillRect(11, 7, 2, 4);
+
+    // Glowing warm amber lantern interior
+    ctx.fillStyle = '#f59e0b';
     ctx.fillRect(5, 7, 6, 4);
+    ctx.fillStyle = '#fef08a';
+    ctx.fillRect(6, 8, 4, 2);
+    ctx.fillStyle = '#ffffff';
+    ctx.fillRect(7, 8, 2, 1);
 
     this.spriteCache.set(key, canvas);
     return canvas;
   }
 
   /**
-   * Generates 32x32 Object (Fish / Chest / Small Boat)
+   * Generates 32x32 Fish Sprite with Rich Highlights & Shading
    */
   public static getFish32x32(fish: FishDefinition): HTMLCanvasElement {
     const key = `fish_32x32_${fish.id}`;
@@ -175,43 +268,58 @@ export class PixelRenderer {
 
     const [p, s, eye, belly, acc] = fish.palette;
 
-    // 32x32 Base Fish Model
-    ctx.fillStyle = '#181425'; // Outline
-    ctx.fillRect(5, 11, 22, 10);
-    ctx.fillRect(7, 9, 18, 14);
-    ctx.fillRect(23, 7, 5, 18); // Tail
+    // Crisp dark shadow outline
+    ctx.fillStyle = '#090d16';
+    ctx.fillRect(5, 10, 22, 12);
+    ctx.fillRect(7, 8, 18, 16);
+    ctx.fillRect(23, 6, 6, 20); // Tail fin
 
-    // Primary Body
+    // Primary Torpedo Body
     ctx.fillStyle = p;
-    ctx.fillRect(7, 11, 16, 9);
-    ctx.fillRect(9, 10, 13, 11);
+    ctx.fillRect(7, 10, 16, 11);
+    ctx.fillRect(9, 9, 13, 13);
 
-    // Belly
+    // Belly Shading
     ctx.fillStyle = belly;
-    ctx.fillRect(8, 15, 13, 4);
+    ctx.fillRect(8, 15, 13, 5);
+    ctx.fillRect(10, 17, 9, 2);
 
-    // Fins
+    // Dorsal & Pectoral Fins
     ctx.fillStyle = s;
-    ctx.fillRect(11, 7, 6, 3);
-    ctx.fillRect(24, 8, 3, 16);
+    ctx.fillRect(11, 6, 7, 3);
+    ctx.fillRect(12, 5, 5, 2);
+    ctx.fillRect(24, 7, 3, 18);
+    ctx.fillRect(26, 5, 2, 22);
 
-    // Accent pattern
+    // Lateral scales & Accent pattern
     ctx.fillStyle = acc;
     ctx.fillRect(12, 11, 2, 2);
     ctx.fillRect(16, 12, 2, 2);
+    ctx.fillRect(14, 14, 2, 2);
+    ctx.fillRect(18, 15, 2, 2);
 
-    // Eye
+    // Eye (White glint + expressive pupil)
     ctx.fillStyle = '#ffffff';
-    ctx.fillRect(8, 11, 3, 3);
+    ctx.fillRect(7, 10, 4, 4);
     ctx.fillStyle = eye;
-    ctx.fillRect(9, 12, 2, 2);
+    ctx.fillRect(8, 11, 2, 2);
+    ctx.fillStyle = '#ffffff';
+    ctx.fillRect(8, 11, 1, 1);
+
+    // Bioluminescent glow for Abyssal / Cosmic
+    if (fish.category === 'abyssal' || fish.category === 'cosmic') {
+      ctx.fillStyle = '#38bdf8';
+      ctx.fillRect(4, 6, 3, 3);
+      ctx.fillStyle = '#ffffff';
+      ctx.fillRect(5, 7, 1, 1);
+    }
 
     this.spriteCache.set(key, canvas);
     return canvas;
   }
 
   /**
-   * Generates 48x64+ Large Prop (Boss / Whale / Coral Shrine)
+   * Generates 48x64+ Large Prop (Boss Leviathans / Mythics)
    */
   public static getLargeBoss48x64(fish: FishDefinition): HTMLCanvasElement {
     const key = `boss_48x64_${fish.id}`;
@@ -225,47 +333,49 @@ export class PixelRenderer {
 
     const [p, s, eye, belly, acc] = fish.palette;
 
-    // Heavy outline
-    ctx.fillStyle = '#060913';
+    // Heavy dark outline
+    ctx.fillStyle = '#030712';
     ctx.beginPath();
     ctx.ellipse(32, 24, 28, 18, 0, 0, Math.PI * 2);
     ctx.fill();
 
-    // Body
+    // Body Mass
     ctx.fillStyle = p;
     ctx.beginPath();
     ctx.ellipse(30, 24, 25, 15, 0, 0, Math.PI * 2);
     ctx.fill();
 
-    // Underbelly
+    // Luminous Underbelly
     ctx.fillStyle = belly;
     ctx.beginPath();
     ctx.ellipse(28, 30, 20, 7, 0, 0, Math.PI * 2);
     ctx.fill();
 
-    // Massive Tail
+    // Giant Dynamic Tail Fin
     ctx.fillStyle = s;
     ctx.beginPath();
     ctx.moveTo(50, 24);
-    ctx.lineTo(62, 8);
+    ctx.lineTo(63, 6);
     ctx.lineTo(57, 24);
-    ctx.lineTo(62, 40);
+    ctx.lineTo(63, 42);
     ctx.closePath();
     ctx.fill();
 
-    // Scales
+    // Glowing Armor Scales
     ctx.fillStyle = acc;
-    for (let x = 18; x <= 42; x += 6) {
-      for (let y = 18; y <= 30; y += 5) {
+    for (let x = 16; x <= 44; x += 6) {
+      for (let y = 16; y <= 32; y += 5) {
         ctx.fillRect(x, y, 3, 2);
       }
     }
 
-    // Piercing Eye
+    // Piercing Leviathan Eye
     ctx.fillStyle = '#ffffff';
-    ctx.fillRect(12, 18, 6, 6);
+    ctx.fillRect(11, 17, 6, 6);
     ctx.fillStyle = eye;
-    ctx.fillRect(14, 20, 4, 4);
+    ctx.fillRect(13, 19, 4, 4);
+    ctx.fillStyle = '#ffffff';
+    ctx.fillRect(13, 19, 2, 2);
 
     this.spriteCache.set(key, canvas);
     return canvas;
