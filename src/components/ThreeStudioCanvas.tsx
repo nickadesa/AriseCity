@@ -25,7 +25,7 @@ export const ThreeStudioCanvas: React.FC<ThreeStudioCanvasProps> = ({
   const engineRef = useRef<ThreeCityEngine | null>(null);
 
   const [isInspectingBuilding, setIsInspectingBuilding] = useState<boolean>(false);
-  const [activeFloor, setActiveFloor] = useState<1 | 2>(1);
+  const [activeFloor, setActiveFloor] = useState<1 | 2 | 3 | 4>(1);
 
   // Gesture state
   const isDraggingRef = useRef(false);
@@ -170,7 +170,7 @@ export const ThreeStudioCanvas: React.FC<ThreeStudioCanvasProps> = ({
   };
 
   // Floor switcher
-  const selectFloor = (floor: 1 | 2) => {
+  const selectFloor = (floor: 1 | 2 | 3 | 4) => {
     setActiveFloor(floor);
     engineRef.current?.setFloor(floor);
   };
@@ -207,29 +207,29 @@ export const ThreeStudioCanvas: React.FC<ThreeStudioCanvasProps> = ({
 
       {/* Floating Bottom Left Controls: 90° Stepped Rotation & Floor Switcher */}
       <div className="absolute bottom-14 left-4 z-30 flex flex-col space-y-2 pointer-events-auto">
-        {/* Floor Selection (1F Ground / 2F Mezzanine) */}
+        {/* Floor Selection (1F Ground / 2F Executive / 3F AI Dev Lab / Rooftop) */}
         {isInspectingBuilding && (
-          <div className="flex items-center space-x-1.5 p-1 rounded-xl bg-studio-dark/95 border border-studio-border backdrop-blur-md shadow-lg">
-            <button
-              onClick={() => selectFloor(1)}
-              className={`px-3 py-1.5 rounded-lg text-xs font-bold transition-all ${
-                activeFloor === 1
-                  ? 'bg-catch-yellow text-slate-950 shadow-sm'
-                  : 'text-slate-300 hover:bg-slate-800'
-              }`}
-            >
-              1F Ground
-            </button>
-            <button
-              onClick={() => selectFloor(2)}
-              className={`px-3 py-1.5 rounded-lg text-xs font-bold transition-all ${
-                activeFloor === 2
-                  ? 'bg-catch-yellow text-slate-950 shadow-sm'
-                  : 'text-slate-300 hover:bg-slate-800'
-              }`}
-            >
-              2F Mezzanine
-            </button>
+          <div className="flex items-center space-x-1 p-1 rounded-xl bg-studio-dark/95 border border-studio-border backdrop-blur-md shadow-lg">
+            {(
+              [
+                { floor: 1, label: '1F Ground' },
+                { floor: 2, label: '2F Executive' },
+                { floor: 3, label: '3F AI Dev Lab' },
+                { floor: 4, label: 'Rooftop' },
+              ] as const
+            ).map(({ floor, label }) => (
+              <button
+                key={floor}
+                onClick={() => selectFloor(floor)}
+                className={`px-2.5 py-1.5 rounded-lg text-xs font-bold transition-all ${
+                  activeFloor === floor
+                    ? 'bg-catch-yellow text-slate-950 shadow-sm'
+                    : 'text-slate-300 hover:bg-slate-800'
+                }`}
+              >
+                {label}
+              </button>
+            ))}
           </div>
         )}
 

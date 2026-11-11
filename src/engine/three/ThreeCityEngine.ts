@@ -114,8 +114,10 @@ export class ThreeCityEngine {
     const nextState = inspect !== undefined ? inspect : !this.buildings.isInspected;
     this.buildings.isInspected = nextState;
     if (nextState) {
-      // Focus camera on center of Arise HQ interior
-      this.cameraRig.flyTo(12, 8, 1.5, 2.8);
+      // Focus camera on center of Arise HQ interior at appropriate altitude
+      const floor = this.buildings.activeFloor;
+      const targetY = floor === 1 ? 1.5 : floor === 2 ? 4.5 : floor === 3 ? 7.8 : 10.8;
+      this.cameraRig.flyTo(12, 8, targetY, 2.8);
     } else {
       // Zoom back out to street view
       this.cameraRig.flyTo(12, 10, 1.5, 1.2);
@@ -123,8 +125,12 @@ export class ThreeCityEngine {
     this.callbacks.onBuildingInspectChange?.(nextState);
   }
 
-  public setFloor(floor: 1 | 2) {
+  public setFloor(floor: 1 | 2 | 3 | 4) {
     this.buildings.activeFloor = floor;
+    if (this.buildings.isInspected) {
+      const targetY = floor === 1 ? 1.5 : floor === 2 ? 4.5 : floor === 3 ? 7.8 : 10.8;
+      this.cameraRig.flyTo(12, 8, targetY, 2.8);
+    }
   }
 
   public render(deltaTime: number, timeState: TimeState, agentList: Agent[]) {
@@ -143,7 +149,7 @@ export class ThreeCityEngine {
     this.buildings.updateCutaway(this.cameraRig.az);
 
     // 5. Update AI Agents
-    this.agents.syncAgents(agentList, this.scene);
+    this.agents.syncAgents(agentList, this.scene, this.buildings.activeFloor, this.buildings.isInspected);
     this.agents.update(deltaTime);
 
     // 6. WebGL Render Call

@@ -16,7 +16,24 @@ export class ThreeAgentController {
 
   constructor() {}
 
-  public syncAgents(agents: Agent[], _scene: THREE.Scene) {
+  public syncAgents(
+    agents: Agent[],
+    _scene: THREE.Scene,
+    activeFloor: 1 | 2 | 3 | 4 = 1,
+    isInspected: boolean = false
+  ) {
+    // 3D Workstation Coordinates matching ThreeBuildingManager layout
+    const WORKSTATION_COORDS: Record<string, { x: number; z: number; y: number }> = {
+      // Level 3 (AI Dev Lab: y = 7.48m)
+      antigravity_dev: { x: 3.0, z: 4.4, y: 7.48 },
+      orion: { x: 3.0, z: 10.4, y: 7.48 },
+      nova: { x: 10.0, z: 4.4, y: 7.48 },
+      cipher: { x: 10.0, z: 10.4, y: 7.48 },
+      vortex: { x: 16.0, z: 7.4, y: 7.48 },
+      // Level 2 (Executive Boss Suite: y = 4.28m)
+      antigravity_boss: { x: 4.5, z: 10.0, y: 4.28 },
+    };
+
     agents.forEach((agent) => {
       let inst = this.agentInstances.get(agent.id);
       if (!inst) {
@@ -47,14 +64,48 @@ export class ThreeAgentController {
         this.group.add(sprite, shadow);
       }
 
-      // Update position based on floor & desk location
-      const worldY = agent.position.z > 20 ? 4.1 : 0.88; // 2F mezzanine vs 1F ground floor
-      // Map 2D world coords to Three.js coordinates
-      const mappedX = agent.position.x * 0.08 + 2;
-      const mappedZ = agent.position.y * 0.08 + 4;
+      // Determine 3D Coordinates: Map to Floor 3 workstations or Floor 2 Executive Suite
+      let posX: number;
+      let posZ: number;
+      let worldY: number;
 
-      inst.sprite.position.set(mappedX, worldY, mappedZ);
-      inst.shadow.position.set(mappedX, worldY - 0.86, mappedZ);
+      if (!agent.targetPosition) {
+        // At Home Station
+        if (agent.id === 'antigravity') {
+          const target = agent.position.z >= 40 ? WORKSTATION_COORDS.antigravity_boss : WORKSTATION_COORDS.antigravity_dev;
+          posX = target.x;
+          posZ = target.z;
+          worldY = target.y;
+        } else if (WORKSTATION_COORDS[agent.id]) {
+          const target = WORKSTATION_COORDS[agent.id];
+          posX = target.x;
+          posZ = target.z;
+          worldY = target.y;
+        } else {
+          worldY = agent.position.z >= 40 ? 4.28 : agent.position.z >= 15 ? 7.48 : 1.06;
+          posX = agent.position.x * 0.08 + 2;
+          posZ = agent.position.y * 0.08 + 4;
+        }
+      } else {
+        // Walking / navigating
+        worldY = agent.position.z >= 40 ? 4.28 : agent.position.z >= 15 ? 7.48 : 1.06;
+        posX = agent.position.x * 0.08 + 2;
+        posZ = agent.position.y * 0.08 + 4;
+      }
+
+      inst.sprite.position.set(posX, worldY, posZ);
+      inst.shadow.position.set(posX, worldY - 0.86, posZ);
+
+      // Sims-like Cutaway Visibility: Hide agents on cut-off upper floors
+      if (isInspected) {
+        const agentFloor = worldY > 9.6 ? 4 : worldY > 6.4 ? 3 : worldY > 3.2 ? 2 : 1;
+        const isVisible = activeFloor >= agentFloor;
+        inst.sprite.visible = isVisible;
+        inst.shadow.visible = isVisible;
+      } else {
+        inst.sprite.visible = true;
+        inst.shadow.visible = true;
+      }
 
       // Speech bubble sprite if speaking
       if (agent.speechBubble && agent.speechBubble.expiresAt > Date.now()) {
