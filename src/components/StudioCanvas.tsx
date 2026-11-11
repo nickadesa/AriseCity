@@ -2,6 +2,7 @@ import React, { useRef, useEffect, useState, useCallback } from 'react';
 import { useAgentStore, updateStudioSimulation, LOCATIONS } from '../store/agentStore';
 import { IsometricRenderer } from '../engine/IsometricRenderer';
 import { IsometricEngine } from '../engine/IsometricEngine';
+import { CityWorldRenderer } from '../engine/CityWorldRenderer';
 import { CITY_DISTRICTS } from '../engine/CityData';
 import { DistrictId } from '../types/agent';
 import { CityZoomControls } from './CityZoomControls';
@@ -171,18 +172,17 @@ export const StudioCanvas: React.FC<StudioCanvasProps> = ({
       const worldGround = IsometricEngine.screenToWorld(clickX, clickY, pan.x, pan.y, zoom, 0);
       const worldMezzanine = IsometricEngine.screenToWorld(clickX, clickY, pan.x, pan.y, zoom, 48);
 
-      // Z0 City View: Check clicks on Landmark Pins to fly into them
-      if (zoom < 0.4) {
-        for (const district of CITY_DISTRICTS) {
-          for (const lm of district.landmarks) {
-            const pinIso = IsometricEngine.worldToIso(lm.worldPos.x, lm.worldPos.y, 0);
-            const screenPinX = pinIso.x * zoom + pan.x;
-            const screenPinY = pinIso.y * zoom + pan.y;
-            if (Math.hypot(clickX - screenPinX, clickY - screenPinY) < 35) {
-              flyToDistrict(district.id);
-              return;
-            }
-          }
+      // Z0 City View: Check clicks on District Cards to fly into them
+      if (zoom < 0.35) {
+        const hitDistrict = CityWorldRenderer.getZ0DistrictAtScreen(
+          clickX,
+          clickY,
+          window.innerWidth,
+          window.innerHeight
+        );
+        if (hitDistrict) {
+          flyToDistrict(hitDistrict as DistrictId);
+          return;
         }
       }
 

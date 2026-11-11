@@ -28,39 +28,41 @@ export class IsometricRenderer {
     ctx.scale(zoom, zoom);
 
     // -------------------------------------------------------------
-    // Z0: MACRO CITY VECTOR MAP (Zoom < 0.35)
+    // Z0: FULLSCREEN MASTERPLAN VECTOR MAP (Zoom < 0.35)
     // -------------------------------------------------------------
     if (zoom < 0.35) {
-      CityWorldRenderer.renderZ0CityMap(
+      ctx.restore(); // Return to 1:1 screen pixel coordinates!
+      CityWorldRenderer.renderZ0CityMapScreen(
         ctx,
         width,
         height,
         timeState,
         hoveredDistrictId || null
       );
-      ctx.restore();
       this.renderAtmosphericOverlay(ctx, width, height, timeState);
       return;
     }
 
     // -------------------------------------------------------------
-    // Z1 & Z2: DISTRICT MASSING & COASTAL WATERFRONT (Zoom 0.35 to 0.85)
+    // Z1 to Z4: CONTINUOUS REGIONAL TERRAIN & CITY DISTRICTS
     // -------------------------------------------------------------
-    if (zoom < 0.95) {
-      CityWorldRenderer.renderZ1DistrictMassing(ctx, timeState);
-    }
+    // 1. Vast Coastal Ocean, Sand Beach, Highway Boulevard, and Greenway
+    CityWorldRenderer.renderRegionalTerrain(ctx, timeState);
 
-    // Zoom transition between Exterior Container and Interior Cutaway:
-    // Z2 (zoom 0.7 - 1.1): Exterior Container Building fully visible (#BOXSPACES, Image 1 & 5)
-    // Z3 (zoom 1.1 - 1.7): Cutaway transition (Roofs peel back, revealing levels 1 & 2)
-    // Z4 (zoom >= 1.7): Full high-detail interior (Desks, Bleachers, Catch Coworking 01)
-    const exteriorAlpha = Math.max(0, Math.min(1, (1.25 - zoom) / 0.45));
-    const interiorAlpha = Math.max(0, Math.min(1, (zoom - 0.75) / 0.45));
+    // 2. Coastal District Massing (Ports, Wharves, Padel Courts, Villas, Fountain)
+    CityWorldRenderer.renderZ1DistrictMassing(ctx, timeState);
 
-    // 2. Render Ground Plane & Concrete Plaza (Image 1)
+    // 3. Arise HQ Paved Plaza Base
     this.renderGroundPlaza(ctx, timeState);
 
-    // 3. Render Architectural Structure (Interior Cutaway + Mezzanine)
+    // Zoom cutaway transitions:
+    // Z1 / Z2 (zoom < 1.1): Exterior Container Building fully visible (#BOXSPACES)
+    // Z3 (zoom 1.1 - 1.5): Smooth architectural cutaway peeling
+    // Z4 (zoom >= 1.5): Full high-detail interior (Desks, Bleachers, Catch Coworking 01)
+    const exteriorAlpha = Math.max(0, Math.min(1, (1.35 - zoom) / 0.35));
+    const interiorAlpha = zoom < 0.65 ? 0 : Math.min(1, (zoom - 0.65) / 0.35);
+
+    // 4. Render Architectural Structure (Interior Cutaway + Mezzanine)
     if (interiorAlpha > 0.05) {
       ctx.save();
       ctx.globalAlpha = interiorAlpha;
@@ -68,7 +70,7 @@ export class IsometricRenderer {
       ctx.restore();
     }
 
-    // 4. Render Exterior Container Shell if in Z1/Z2 or transitioning Z3
+    // 5. Render Exterior Container Shell in Z1/Z2 or transitioning Z3
     if (exteriorAlpha > 0.05) {
       ctx.save();
       ctx.globalAlpha = exteriorAlpha;

@@ -8,6 +8,7 @@ import { DecisionModal } from './components/modals/DecisionModal';
 import { DiffReviewModal } from './components/modals/DiffReviewModal';
 import { AgentRosterModal } from './components/modals/AgentRosterModal';
 import { NPCDialogueModal } from './components/modals/NPCDialogueModal';
+import { CityCatalogModal } from './components/modals/CityCatalogModal';
 import { LiveStudioFeed } from './components/LiveStudioFeed';
 import { Zap, HelpCircle } from 'lucide-react';
 
@@ -21,6 +22,7 @@ export const App: React.FC = () => {
   const [activeDiffTaskId, setActiveDiffTaskId] = useState<string | null>(null);
   const [isRosterModalOpen, setIsRosterModalOpen] = useState(false);
   const [activeNpcId, setActiveNpcId] = useState<string | null>(null);
+  const [isCatalogModalOpen, setIsCatalogModalOpen] = useState(false);
 
   // Active items
   const deskAgent = store.agents.find(a => a.id === activeDeskAgentId);
@@ -35,6 +37,7 @@ export const App: React.FC = () => {
         onOpenRoster={() => setIsRosterModalOpen(true)}
         onOpenDecision={() => setIsDecisionModalOpen(true)}
         onOpenFeed={() => store.setFeedOpen(true)}
+        onOpenCatalog={() => setIsCatalogModalOpen(true)}
       />
 
       {/* Main 2.5D Isometric Canvas */}
@@ -126,6 +129,13 @@ export const App: React.FC = () => {
           onClose={() => setActiveNpcId(null)}
           onPet={(npcId) => store.petPet(npcId)}
           onTalk={(npcId) => store.interactNpc(npcId)}
+        />
+      )}
+
+      {/* City Masterplan Catalog & Asset Library Modal */}
+      {isCatalogModalOpen && (
+        <CityCatalogModal
+          onClose={() => setIsCatalogModalOpen(false)}
         />
       )}
 

@@ -46,7 +46,7 @@ export const CityZoomControls: React.FC<CityZoomControlsProps> = ({
   const activeDistrict = CITY_DISTRICTS.find(d => d.id === activeDistrictId) || CITY_DISTRICTS[0];
 
   return (
-    <div className="absolute top-16 left-4 z-30 flex flex-col space-y-2 pointer-events-none select-none">
+    <div className="absolute top-14 sm:top-16 left-2 sm:left-4 z-30 flex flex-col space-y-2 pointer-events-none select-none">
       {/* 1. Breadcrumb Trail & Quick District Switcher */}
       <div className="pointer-events-auto flex items-center space-x-1.5 px-3 py-1.5 rounded-xl bg-studio-dark/90 border border-studio-border backdrop-blur-md shadow-lg text-xs font-medium">
         <button 

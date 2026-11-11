@@ -1,15 +1,66 @@
-import { DayNightPhase, TimeState } from '../types/agent';
+import { TimeState, DayNightPhase } from '../types/agent';
+
+export type TimeMode = 'live' | 'day' | 'sunset' | 'night';
 
 export class TimeSyncEngine {
   private static readonly TIMEZONE = 'America/New_York';
+  private static activeTimeMode: TimeMode = 'live';
+
+  static setTimeMode(mode: TimeMode) {
+    this.activeTimeMode = mode;
+  }
+
+  static getTimeMode(): TimeMode {
+    return this.activeTimeMode;
+  }
 
   /**
-   * Retrieves high-precision New York time state matching 1:1 real-world wall clock
+   * Retrieves high-precision New York time state or overridden daylight mode
    */
   static getNewYorkTimeState(currentTimeMs: number = Date.now()): TimeState {
     const now = new Date(currentTimeMs);
 
-    // Format components in New York timezone
+    // If manual override is active
+    if (this.activeTimeMode === 'day') {
+      return {
+        gameHours: 13.5,
+        dayCount: 1,
+        timeScale: 1,
+        phase: 'day',
+        isNight: false,
+        sunAngle: Math.PI / 2,
+        formattedTime: '01:30 PM ☀️ Sunlit',
+        timeZoneName: 'Day Mode (Bright)',
+      };
+    }
+
+    if (this.activeTimeMode === 'sunset') {
+      return {
+        gameHours: 18.5,
+        dayCount: 1,
+        timeScale: 1,
+        phase: 'dusk',
+        isNight: false,
+        sunAngle: Math.PI * 0.85,
+        formattedTime: '06:30 PM 🌆 Golden',
+        timeZoneName: 'Dusk Mode',
+      };
+    }
+
+    if (this.activeTimeMode === 'night') {
+      return {
+        gameHours: 21.0,
+        dayCount: 1,
+        timeScale: 1,
+        phase: 'night',
+        isNight: true,
+        sunAngle: Math.PI,
+        formattedTime: '09:00 PM 🌙 Night',
+        timeZoneName: 'Night Mode',
+      };
+    }
+
+    // Default: 'live' New York Wall Clock
     const formatter = new Intl.DateTimeFormat('en-US', {
       timeZone: this.TIMEZONE,
       hour12: false,
@@ -34,10 +85,8 @@ export class TimeSyncEngine {
       else if (part.type === 'day') day = parseInt(part.value, 10);
     }
 
-    // Decimal hour from 0.000 to 23.999
     const decimalHours = hour + minute / 60 + second / 3600;
 
-    // Atmospheric phase based on actual New York seasonal sunrise/sunset
     let phase: DayNightPhase = 'day';
     let isNight = false;
 
@@ -55,11 +104,9 @@ export class TimeSyncEngine {
       isNight = true;
     }
 
-    // Sun angle calculation: 0 rad at 6:00 AM, PI/2 at 12:00 PM, PI at 6:00 PM
     const clampedDayProgress = Math.max(0, Math.min(1, (decimalHours - 6.0) / 13.0));
     const sunAngle = clampedDayProgress * Math.PI;
 
-    // 12-hour formatted time display: e.g. "01:05:22 PM"
     const displayFormatter = new Intl.DateTimeFormat('en-US', {
       timeZone: this.TIMEZONE,
       hour: '2-digit',
