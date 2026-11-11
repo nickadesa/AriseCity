@@ -10,7 +10,8 @@ export class ThreeTerrainRoads {
     this.createLandAndBoulevard();
     this.createParkAndTrees();
     this.createStreetFurniture();
-    this.createVehicles();
+    // Vehicles disabled per user request (pass true to re-enable)
+    this.createVehicles(false);
   }
 
   private createOceanWater() {
@@ -162,7 +163,9 @@ export class ThreeTerrainRoads {
     });
   }
 
-  private createVehicles() {
+  private createVehicles(enabled: boolean = false) {
+    if (!enabled) return;
+
     // Yellow EV Sedan (lane 1: z = 23.8m, speed = 12m/s)
     const sedan = this.buildCarMesh(0xf5ba31, 4.4, 1.8, 1.4);
     sedan.position.set(-15, 0.05, 23.8);
