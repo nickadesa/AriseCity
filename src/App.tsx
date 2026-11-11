@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { useAgentStore } from './store/agentStore';
-import { StudioCanvas } from './components/StudioCanvas';
+import { ThreeStudioCanvas } from './components/ThreeStudioCanvas';
 import { StudioHeader } from './components/StudioHeader';
 import { AgentDeskModal } from './components/modals/AgentDeskModal';
 import { TaskBoardModal } from './components/modals/TaskBoardModal';
@@ -42,15 +42,10 @@ export const App: React.FC = () => {
 
       {/* Main 2.5D Isometric Canvas */}
       <main className="w-full h-full">
-        <StudioCanvas
+        <ThreeStudioCanvas
           onOpenDeskModal={(agentId) => setActiveDeskAgentId(agentId)}
           onOpenTaskBoard={() => setIsTaskBoardOpen(true)}
           onOpenDecisionModal={() => setIsDecisionModalOpen(true)}
-          onOpenDiffReview={() => {
-            const reviewTask = store.tasks.find(t => t.status === 'review' || t.diff);
-            if (reviewTask) setActiveDiffTaskId(reviewTask.id);
-          }}
-          onOpenNpcModal={(npcId) => setActiveNpcId(npcId)}
         />
       </main>
 
