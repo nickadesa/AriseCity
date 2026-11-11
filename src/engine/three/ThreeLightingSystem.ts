@@ -17,7 +17,7 @@ export class ThreeLightingSystem {
     this.sun.position.set(-15, 45, 30);
     this.sun.target.position.set(12, 0, 8);
     this.sun.castShadow = true;
-    this.sun.shadow.mapSize.set(2048, 2048);
+    this.sun.shadow.mapSize.set(1024, 1024);
     this.sun.shadow.bias = -0.0005;
 
     // Shadow Camera Volume covering the city district

@@ -1,5 +1,5 @@
 import React, { useRef, useEffect, useState } from 'react';
-import { useAgentStore, updateStudioSimulation } from '../store/agentStore';
+import { getStudioState, updateStudioSimulation } from '../store/agentStore';
 import { ThreeCityEngine } from '../engine/three/ThreeCityEngine';
 import { 
   RotateCcw, 
@@ -23,7 +23,6 @@ export const ThreeStudioCanvas: React.FC<ThreeStudioCanvasProps> = ({
 }) => {
   const containerRef = useRef<HTMLDivElement>(null);
   const engineRef = useRef<ThreeCityEngine | null>(null);
-  const store = useAgentStore();
 
   const [isInspectingBuilding, setIsInspectingBuilding] = useState<boolean>(false);
   const [activeFloor, setActiveFloor] = useState<1 | 2>(1);
@@ -34,15 +33,29 @@ export const ThreeStudioCanvas: React.FC<ThreeStudioCanvasProps> = ({
   const pointerMap = useRef<Map<number, [number, number]>>(new Map());
   const lastPinchDist = useRef<number | null>(null);
 
-  // Initialize Three.js Engine
+  const callbacksRef = useRef({
+    onOpenDeskModal,
+    onOpenTaskBoard,
+    onOpenDecisionModal,
+  });
+  callbacksRef.current = {
+    onOpenDeskModal,
+    onOpenTaskBoard,
+    onOpenDecisionModal,
+  };
+
+  // Initialize Three.js Engine ONCE on mount
   useEffect(() => {
     const container = containerRef.current;
     if (!container) return;
 
+    // Clear any previous elements in container
+    container.innerHTML = '';
+
     const engine = new ThreeCityEngine(container, {
-      onOpenDeskModal,
-      onOpenTaskBoard,
-      onOpenDecisionModal,
+      onOpenDeskModal: (id) => callbacksRef.current.onOpenDeskModal(id),
+      onOpenTaskBoard: () => callbacksRef.current.onOpenTaskBoard(),
+      onOpenDecisionModal: () => callbacksRef.current.onOpenDecisionModal(),
       onBuildingInspectChange: (inspecting) => setIsInspectingBuilding(inspecting),
     });
     engineRef.current = engine;
@@ -72,8 +85,9 @@ export const ThreeStudioCanvas: React.FC<ThreeStudioCanvasProps> = ({
       // Update AI agents simulation
       updateStudioSimulation(deltaTime * 1000);
 
-      // Render Three.js 2.5D World
-      engine.render(deltaTime, store.timeState, store.agents);
+      // Access latest state directly without triggering React re-renders!
+      const state = getStudioState();
+      engine.render(deltaTime, state.timeState, state.agents);
 
       animId = requestAnimationFrame(loop);
     };
@@ -86,7 +100,7 @@ export const ThreeStudioCanvas: React.FC<ThreeStudioCanvasProps> = ({
       engine.destroy();
       engineRef.current = null;
     };
-  }, [onOpenDeskModal, onOpenTaskBoard, onOpenDecisionModal, store.timeState, store.agents]);
+  }, []); // Run ONCE on mount!
 
   // Pointer & Touch Controls
   const handlePointerDown = (e: React.PointerEvent<HTMLDivElement>) => {

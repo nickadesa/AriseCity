@@ -38,6 +38,10 @@ export class ThreeCityEngine {
     this.renderer.setSize(container.clientWidth, container.clientHeight);
     this.renderer.shadowMap.enabled = true;
     this.renderer.shadowMap.type = THREE.PCFSoftShadowMap;
+    this.renderer.domElement.addEventListener('webglcontextlost', (e) => {
+      e.preventDefault();
+      console.warn('[ThreeCityEngine] WebGL context lost.');
+    });
     container.appendChild(this.renderer.domElement);
 
     // 3. Camera Rig
@@ -149,5 +153,8 @@ export class ThreeCityEngine {
   public destroy() {
     this.isDestroyed = true;
     this.renderer.dispose();
+    if (this.renderer.domElement.parentElement) {
+      this.renderer.domElement.parentElement.removeChild(this.renderer.domElement);
+    }
   }
 }

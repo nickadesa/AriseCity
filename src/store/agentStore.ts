@@ -506,6 +506,10 @@ function notify() {
   saveStateDebounced();
 }
 
+export function getStudioState(): StudioState {
+  return globalState;
+}
+
 export function useAgentStore() {
   const [state, setState] = useState<StudioState>(globalState);
 
